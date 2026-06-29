@@ -3163,7 +3163,7 @@ s8h9l8tad1dn129e	Dialogue Text	SEAFORT / INSULINDIAN PHASMID	Esprit de Corps	Mea
 0x01000089000034AE	tooltip7	SEAFORT / THE DESERTER	You	Dresscode: Winter revolutionary.	着装要求：冬日革命。
 0x01000089000034D0	Dialogue Text	SEAFORT / THE DESERTER	You	"What have you been using this gun for?"	“你用这支枪做了什么？”
 0x01000089000034F1	Dialogue Text	SEAFORT / THE DESERTER	You	"One more time: what have you used this gun for?"	“再问你一次：你用这支枪做什么了？”
-0x0100008900003506	Dialogue Text	SEAFORT / THE DESERTER	You	"One more time, Mr. Dros -- the Colonel. We need to talk about you *killing* him."	“再问你一次，德罗斯先生——上校。我们需要聊聊你*杀害*他的事。”
+0x0100008900003506	Dialogue Text	SEAFORT / THE DESERTER	You	"One more time, Mr. Dros -- the Colonel. We need to talk about you *killing* him."	“再问一次，德罗斯先生——上校。我们要聊聊你*杀害*他的事。”
 0x010000890000352E	Dialogue Text	SEAFORT / THE DESERTER	You	"When did you first see the deceased?"	“你第一次看见死者是什么时候？”
 0x0100008900003540	Dialogue Text	SEAFORT / THE DESERTER	You	"What, specifically, did you not *like* about what you saw the night of the murder?"	“具体一些，凶杀案当晚，你看到了什么不*喜欢*的东西？”
 0x0100008900003551	Dialogue Text	SEAFORT / THE DESERTER	You	"Been looking at anything else you haven't *liked*?"	“还有没有看见其他你*不喜欢*的东西？”
