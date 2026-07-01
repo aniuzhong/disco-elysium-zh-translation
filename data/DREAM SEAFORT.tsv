@@ -1,0 +1,637 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060000EA3F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Physical Instrument	As you talk it feels like chewing on gravel, granite, steel bars...	当你说话的时候，感觉就像是在咀嚼砂砾、花岗岩和铁栏杆……
+0x010000060000EA74	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Rhetoric	You told her you loved her. She has to feel *something*.	你告诉她你爱她。她肯定会感觉到*什么*的。
+0x010000060000EA7C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Volition	More questions. Ask more.	更多问题。再多一点。
+0x010000060000EA97	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"You know what I meant. We're talking about it again. It came up again. This conversation is about *that* again."	“你知道我的意思。我们又说回这个了。它又出现了。这段对话又要扯到*那上面*去了。”
+0x010000060000EAA5	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No, you don't. You're just being a martyr. And I'm really going now. The time is up. I must be on the 10:20 flight..." She turns.	“不，你不明白。你只是个殉道者。我必须赶上10：20的飞机……”她转过身去。
+0x010000060000EAAF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Will we ever see each other again?"	“我们还会再见面吗？”
+0x010000060000EAB5	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I won't see you but you will see me."	“我不会再见你了，但是你会见到我。”
+0x010000060000EABB	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"How can that be?"	“那怎么可能？”
+0x010000060000EAC1	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Oh, Harry, this is a dream, can't you see? I'm already in Mirova by now. Who knows how long ago this happened?" She looks around. "A year, two, *five* years ago?"	“哦，哈里，这是个梦境，你没看见吗？现在我人已经在米诺瓦了。谁知道已经过去多久了？”她看看周围。“一年，两年，还是*五年*？”
+0x010000060000EAC7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"How will I see you *again* then?"	“那我怎样才能*再次*见到你呢？”
+0x010000060000EACD	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Right here. Tomorrow night. Once this dream starts happening it keeps happening -- three times a week. At least. And Harry, it really, really looks like it's started *happening* again. There's the video rental..."	“就在这里。明天晚上。一旦你进入梦境，它就会一直发生——每周至少三次。还有，哈里，看起来那件事真的又要*发生*了。录像带租赁店出现了……”
+0x010000060000EAD3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I'm suffocatingly beautiful. And young. And I smell of tutti frutti chewing gum -- like I did that time when I asked you for forgiveness. After leaving you the first time, so long ago..."	“我是那么的灿烂华丽，让人窒息。青春洋溢。而且我闻起来有一股水果口香糖的味道——就像我第一次离开你之后，回来祈求你原谅的时候一样。那是很久之前的事了……”
+0x010000060000EAD9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"But this is intolerably bad."	“但是这真是糟糕的让人难以忍受。”
+0x010000060000EADF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Oh, yes. This is real darkness. It's not death, or war, or child molestation. Real darkness has love for a face. The first death is in the heart, Harry."	“哦，是的。这是真正的黑暗。这不是死亡，或者战争，或者猥亵儿童。真正的黑暗长着一张爱情的脸庞。第一次死亡是在心里的，哈里。”
+0x010000060000EAFA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"No..."	“不要……”
+0x010000060000EB01	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Yes."	“要的。”
+0x010000060000EB0C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I like this."	“我喜欢这样。”
+0x010000060001F26E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Conceptualization	Silence. A distant wind blows. You can't think of anything pretty to say.	沉默。远处的风在呼啸。你想不出任何好听的话。
+0x010000060001F27A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Logic	Why? That's what *dolor* means.	为什么？那就是*伤心*的含义。
+0x010000060001F2DC	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Rhetoric	You're a better man now. More level-headed. More *normal*.	你现在变好了。更清醒。更*正常*。
+0x010000060001F30A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Composure	The you she saw is gone, too. A small stack of sticks stands in its place. Begging.	她看见的你也不见了。一小堆棍子立在原地。祈求着。
+0x0100000F000082EC	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I've been reading books. I've got lots of new ideas about ideology and capital."	“我最近读了一些书，对意识形态和资本有了新的认识。”
+0x0100000F000082F3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"That sounds nice, Harry, but I really don't want to argue about *ideology* with you right now..."	“听起来不错，哈里。但我现在真的不想和你谈论*意识形态*的话题……”
+0x0100000F000140B1	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"By the way, I’m making *mad paper* now. My net worth is insane."	“对了，我现在可以做*疯纸*了，我的网络价值超级高。”
+0x010000450001E068	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I know you still love me." (Kiss her.)	“我知道你还爱我。”（亲吻她。）
+0x010000450001E068	tooltip1	DREAM SEAFORT / DOLORES DEI	You	Not a war criminal.	不是个战犯。
+0x010000450001E068	tooltip2	DREAM SEAFORT / DOLORES DEI	You	Not a mass murderer.	不是杀人凶手。
+0x010000450001E068	tooltip3	DREAM SEAFORT / DOLORES DEI	You	Dresscode: Man of charms.	着装要求：万人迷。
+0x010000450001E0B4	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Suggestion	With your feet trembling from the steps you took -- tepid and fearful -- you stand against her; her body close to you, radiating warmth. With your eyes closed you move your lips on her mouth.	你迈出蹒跚的步子——不瘟不火，又担惊受怕——站到她身旁；她的身体紧贴着你，散发着暖人的温度。你闭上双眼，嘴唇朝她的嘴唇贴了过去。
+0x010000450001E0D7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Suggestion	Your feet still tremble from the steps you took -- as if over an enormous distance -- standing against her; her body close to you, radiating warmth. With your eyes closed you move your lips on her mouth.	你迈出蹒跚的步子——仿佛彼此之间隔着巨大的距离——站到她身旁；她的身体紧贴着你，散发着暖人的温度。你闭上双眼，嘴唇朝她的嘴唇贴了过去。
+0x0100005100007CA8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I have become an unbreakable kingsman."	“我已经成为了一个无坚不摧的王下骑士。”
+0x0100005300005182	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I've taken responsibility for my actions now. I'm a new man. Weighty and normal."	“现在我能为自己的行为负责了。我是一个全新的人了，既重要又普通。”
+0x010000580001FDF7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Good. That’s... very nice." She doesn’t sound appropriately impressed.	“很好。这……非常好。”听起来她并没有被你打动。
+0x010000580001FDFE	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're not impressed?"	“你觉得这没什么大不了的，是吗？”
+0x010000580001FE04	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You broke me. But I rebuilt myself. With fascism."	“你伤害了我，而我重塑了自我。靠法西斯主义。”
+0x010000580001FE0A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Look at my face. Can you not see how *hard* I am?" (Point to your diamond hard fascist face.)	“看着我的脸。你看不出我有多*硬*吗？（指着自己如钻石般坚硬的法西斯的脸）
+0x010000580001FE11	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I don’t... I don’t know what to say. I’m tired."	”我不……我不知道说什么。我试过了。”
+0x010000580001FE1A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"But Harry, it doesn’t look like you rebuilt yourself, it looks like you fell apart without me. I can’t bare to look at it any more, okay? I feel *guilty*. That’s what I feel when I look at you. Please let me go..."	“可是哈里，你看起来不像是重塑了自己，而像是在没有我的时候你崩溃了。我再也不想再看下去了，好吗？我感到*罪过*。我看到你的时候就是这个感觉。求你了，让我走吧……”
+0x010000580001FE21	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Harry, it doesn’t look like you’re *hard* at all, it looks like you fell apart without me. I can’t bare to look at it any more, okay? I feel *guilty*. That’s what I feel when I look at you. Please let me go..."	“可是哈里，你看起来一点也不*硬*，而像是在没有我的时候你崩溃了。我再也不想再看下去了，好吗？我感到*罪过*。我看到你的时候就是这个感觉。求你了，让我走吧……”
+0x010000580001FE28	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Endurance	It’s breaking. You feel fractures across you. Out the cracks comes nothing at all. No king, no man, and no king’s man. The cracks were all there ever was. We are a spiderweb of glass that’s painful to look at. And she’s turning her head.	崩溃。你感到身体正在炸裂。而裂开之后，什么也没有蹦出来。没有国王，没有骑士，也没有王下骑士。裂痕一直都是存在的。我们是一张玻璃制成的蜘蛛网，看起来就让人痛苦。
+0x010000580001FE33	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"There is a way back. To the kingdom of beauty. Of *us*. We need to go live in the pale, sweet love. Come, be trapped in amber with me! Forever!"	“有一条路可以回去，回到*我们*美丽的国度。亲爱的，我们得投身到灰域之中。来吧，和我一起永遁于琥珀之中吧。”
+0x010000580001FE39	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I’m so tired, Harry. I’m so tired of all this..." She sighs. "Can’t you see, I already *am* trapped in amber with you? We’re stuck here. I can’t do that any more. The aerodrome is the future. It is laughter and ease... I must go."	“我好累，哈里。这一切都让我觉得好累……”她叹了口气，“你看不出来吗？我*已经*和你困在琥珀中了？我们被困在这里了。我不能再这样下去了。飞机场才是未来。那里有欢乐和轻松……我必须走。”
+0x010000580001FE40	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Endurance	You’re breaking. You feel fractures run across you. Out the cracks comes anger, and then nothing at all. No king, no man, and no king’s man. The cracks were all there ever was.	你崩溃了。你感到身体正在炸裂。而裂开之后，什么也没有蹦出来。没有国王，没有骑士，也没有王下骑士。裂痕一直都是存在的。
+0x010000580001FE48	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Empathy	This won’t be an argument. It will be emotional and true.	这不是一场争论。这将是感性的、真实的。
+0x010000580001FE4F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You don't know what I found! There are these beautiful things that can happen. Mysterious -- below matter, even."	“你不知道我发现了什么！有许多美好的事情会发生。神秘的——甚至超越物质本身。”
+0x010000580001FE55	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Listen, please. It helped me realise I can’t let you go *because* loving you is impossible. You're like a star I should follow."	“听我说，求你了。这让我明白了一件事，我不能*因为*无法爱你让你走。你就像天上的星星，而我将追随你。”
+0x010000580001FE5B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"There was a time I would have loved to hear about them. I would have hung on every word. I would have made you feel smart, just, hopeful. But now is not that time. Now we are in hell and in hell there is only the aerodrome. And boring disagreement."	“曾几何时，我会喜欢听到这番话。我会对你说的每个字深信不疑。我会让你觉得自己聪明、正直、有希望。但那都已经过去了。现在我们身处地狱，这里只有两样东西：飞机场，以及与你无聊的争执而已。”
+0x010000580001FE64	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	A long sigh, one millennia in the making.	一声长长的叹息，似乎酝酿了一个世纪。
+0x010000580001FE6B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Perception (Smell)	Apricot scented chewing gum brushes your cheek.	杏子味的芬芳冲刷着你的脸颊。
+0x010000580001FE73	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I'm not a star. I'm a confused young woman, eating your mind. There are no stars. There is no light. There will be no future. There is only this intersection. And the aerodrome. Where I must go, incessantly, brutally -- utterly without redemption or hope."	“我不是星星。我只是一个迷失了的年轻女性，吞噬着你的思维。没有星星，也没有光。更没有未来。只有这个十字路口，以及飞机场。我必须走了，残酷而果决地离开 —— 没有任何救赎或希望。”
+0x010000580001FE7A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Rhetoric	The star has gone out. She can not rekindle it. You can not rekindle it. There is nothing within or below matter, just the dull *no* of a mind made up. Just like four billion others. I am so sorry.	星光消逝殆尽。她没法令它再次亮起，你也一样。没有什么能够跻身于物质之中或超越物质本身，只有一个枯燥的*否定*的决心。就像其他40亿个决心一样。非常抱歉。
+0x010000580001FE81	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Now that I think of it, it's actually all just pointless shit and I should kill myself."	“现在想想，这一切都没有任何意义。我应该杀了我自己。”
+0x010000580001FE87	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She doesn't say anything. It’s excruciating.	她什么也没说。这真是一种折磨。
+0x010000580001FE8D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Rhetoric	Hear that? That's the sound of meaninglessness. Meaning, ideas, theory -- all that has evaporated. Now there is only dry silence -- the sound of a mind made up. Just like four billion others. I am so sorry.	听见了吗？那听起来毫无意义。意义、想法、理论——所有这些都蒸发了。现在只有干瘪的沉默——下定决心的声音。就像其他40亿个决心一样。非常抱歉。
+0x010000580001FEA4	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It’s not about *paper*, Harry, or anything like that..." She sounds frustrated.	“重点不是*纸*，或者其他任何东西……”她听起来很沮丧。
+0x010000580001FEA9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It’s about taking care of yourself. Life is not a competition."	“重点是要照顾好你自己。人生并不是一场竞赛。”
+0x010000580001FEAE	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Wrong. It *is* a competition. And I’m going to win."	“错。就*是*一场竞赛。而我要赢。”
+0x010000580001FEB6	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Rhetoric	Like she’s heard it before. A million times.	好像她以前也听过，一百万次了。
+0x010000580001FEC0	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I can’t do this talk again..." She sounds like she’s going to cry -- but not in a good way.	“我不想再重复这样的对话了……”她听起来好像要哭了——但不是因为高兴。
+0x010000580001FEC7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"You're yelling, Harry." She stops. "I can't do this. I can't be *afraid* of your emotions anymore. I can't talk about *mad paper* or any of it. Please just let me go."	“你在咆哮，哈里。”她停了下来。“我不能再继续了。不能再*害怕*你的情绪了。我不能和你讨论*疯纸*或任何相关的话题了。请你让我走吧。”
+0x010000580001FECD	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You have a new guy, right? He's fucking *poor* compared to me. I'm gonna INCINERATE him. I have more money than any human being should have. It's SCARY how rich I am. I’m richer than GOD!"	“你找了个新对象，是吗？跟我比起来，他太*穷*了。我要*毁了*他。我比任何人都有钱。有钱得让人害怕。我比上帝还有钱！”
+0x010000580001FED4	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No, it’s not... I’m glad you’re finally taking care of yourself financially. I really am, but you need to do it for yourself. Not me. I don’t need it. I need to *run-run-run* to the aerodrome!"	“不，不是这样的……我很高兴你终于能在经济上照顾好自己了，真的。但你得为了你自己，而不是我。我不需要钱。我需要的是*跑-跑-跑*到飞机场去！”
+0x010000580001FEDA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're right. It's all fucking shit."	“你是对的。这一切都是狗屎。”
+0x010000580001FEE5	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Savoir Faire	You failed. This failed. The hostile takeover. The dawn raid. Paper made out of broken, twisted trees... You're just insane, insane and gone. Even six billion won't fix you if she’s not there.	你失败了。任务失败了。敌军占领了高地。黎明发动了突袭。纸张退变成了破碎、扭曲的树皮……你是个疯子，疯癫而迷茫。如果她不在了，即使60亿也拯救不了你。
+0x010000580001FEF2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She doesn't know what to say.	她不知道说什么。
+0x010000580001FF00	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I'm so fucking normal right now."	“我现在再正常不过了。”
+0x010000580001FF07	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Yes. Okay. I'm glad."	“是的，很好。我为你高兴。”
+0x010000580001FF0E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I mean: I'm a moralist. The other moralists almost took me away on their airship! I'm not a broken, insane man who can't live without you. I know I made mistakes. And I've taken *full responsibility* for all of them. So you can live with me again if you want to. I'm better now."	“我是说，我是一名道德家。其他道德家几乎把我带上他们的飞船了！我不是一个没有你就会崩溃到生活不能自理的疯子。我知道我犯过错。为此我已经付出了*惨痛的代价*。所以如果叫你愿意，我们可以重新来过。我现在是个好人了。”
+0x010000580001FF15	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're right. I'm not normal. I'm shit."	“你说的没错。我不是普通人，我是个垃圾。”
+0x010000580001FF1C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It doesn’t sound like you're better at all, Harry. It doesn’t even sound like you're a moralist, it just sounds like you want to..." She spreads her arms. "*Win me back* or something. I don't want you to try that any more, okay? It's too sad, I need to *go*..."	“你听起来一点也不好，哈里。听起来你并不是一名道德家，你只是想成为道德家而已……”她张开双臂。“我不想你再尝试要*赢回我*了，好吗？那样太悲惨了，我得*走*了……”
+0x010000580001FF23	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Empathy	Total annihilation. We got annihilated, Harry. It wasn’t about responsibility at all, it was always only about you having no power at all. Over her. Yourself. Anything. That's why they didn't take you on that airship: you're insane without her.	全灭。我们被全灭了，哈里。这不是关于责任，或者其他任何东西。这永远就只是关于你对任何事情都没有权威。对她，对你自己，或其他任何东西。所以他们才没把你带上那艘飞船：没有她，你只是个疯子而已。
+0x010000580001FF2A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Do you know how much it hurts me to hear you say that?" She sounds downright angry. "I'm shit, you made me shit... I can't do this any more. I can't make you *insane* and *shit* any more, I can't let you turn me into a bad person. I have to go..."	“你知道你这么说对我的伤害有多大吗？”她的声音带着显而易见的怒意。“我是垃圾，是你把我变成垃圾的……我不能再继续下去了。我不能再让你变成*疯子*和*垃圾*了，我不能让你把我变成一个坏人。我得走了……”
+0x010000580001FF31	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Empathy	Total annihilation. We got annihilated, Harry. You never had any power, you never were a moralist -- or anything. You can't even be insane or shit any more. You have to be *nothing*. Nothing without the light and grace of love.	全灭。我们被全灭了，哈里。你从来就没有任何权威，你也从来不是一名道德家。你甚至不再是*疯子*或者*垃圾*了。你只能*什么都不是*。没有光，也没有爱。
+0x010000580001FF4D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're right, it isn't nice. It's shit and I should kill myself."	“你是对的。这不好。这没有任何意义，我应该杀了我自己。”
+0x010000580001FF59	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She doesn’t say anything. It’s excruciating.	她什么也没说。这真是一种折磨。
+0x01000072000032A3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	Dolores Dei -- the innocence of humanism, internationalism, and the welfare state -- turns around to face you. She has an airship bag in her hand. She seems to be in a hurry.	德洛莉丝·黛——人道主义，国际主义和福利国家的无罪女王——转身面对你。她手上拖着一只旅行箱，似乎很着急。
+0x01000072000032B9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Where are you going?"	“你要去哪？”
+0x01000072000032BF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Your skin is holy and soft."	“你的皮肤圣洁又柔软。”
+0x01000072000032C5	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"What's in the bag?"	“箱子里是什么？”
+0x01000072000032CB	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"H-hey."	“嗨。”
+0x01000072000032ED	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Can you stay for a moment? We need to talk. We need to have one more massive, epic showdown."	“你能不能稍微等一下？我们需要谈谈，再来一次更大规模的、更史诗的对决。”
+0x01000072000032F4	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Go. Good bye." [Leave.]	“去吧，再见。”[离开。]
+0x01000072000032FB	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Hey."	“嗨。”
+0x0100007200003302	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Just my scepter, my *globe crucigère*, a spare silk gown. A toothbrush. Travel documents. The Crown of Immortality."	“只有我的权杖，*十字圣球*,一套备用的丝绸法衣。一只牙刷。旅游证件。还有不朽王冠。”
+0x0100007200003308	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"How are you doing?"	“你最近怎么样？”
+0x010000720000330E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I'm sorry. I shouldn't have bothered you."	“抱歉，我不应该打扰你的。”
+0x0100007200003314	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Say nothing.	什么也不说。
+0x010000720000331D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"'Hey'? That's all I get?" (Smile.)	“‘嗨’？就只有这些吗？”（微笑。）
+0x010000720000332A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Crown of Immortality? Aren't you already wearing one?"	“不朽王冠？你不是已经戴着一顶了吗？”
+0x0100007200003330	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Cool."	“厉害。”
+0x0100007200003337	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Oh, this?" She corrects the wreath on her forehead.	“哦，这个吗？”她调整了一下前额上的花冠。
+0x010000720000333D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"This is just a wreath. The Crown of Immortality is made of rarefied light, manna, and raw palladium. It was passed on to me by the rulers of late antiquity..."	“这只是个花冠。不朽王冠是用纯净之光、吗哪还有生钯金制成的。它是古典时代晚期的统治者传承给我的……”
+0x0100007200003352	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She looks at the suitcase, not knowing what more to say, then over her shoulder.	她看了看旅行箱，不知道还能说些什么，然后回头看了看。
+0x0100007200003363	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I'm doing really good, actually. Both professionally and romantically. I've come to a fulfilling and peaceful period in my life." She nods hastily. "How are you doing, Harry?"	“说实话，我挺好的。职业和恋爱关系方面都挺好的。我已经达到人生中一个圆满又平和的阶段。”她急匆匆地点点头。“你怎么样，哈里？”
+0x010000720000336F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I mean -- hey to you too?" she says apprehensively.	“我的意思是——回应你的一声嗨？”她担忧地回答着。
+0x010000720000337D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I discovered a new species."	“我发现了一些新物种。”
+0x0100007200003383	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I solved the entire case of the hanged man."	“我解决了吊人案。”
+0x0100007200003389	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I'm not doing very well."	“我不太好。”
+0x0100007200003392	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Wow -- see? A new species..." She smiles. It's another sad smile, with knitted brows.	“哇哦——看见了吗？一些新物种……”她笑了。这是个悲伤的笑容，眉毛都拧在一起了。
+0x0100007200003398	Alternate1	DREAM SEAFORT / DOLORES DEI	You	"I'm dying. In a ruined flak tower. Blood is dripping down my chest... I've had several heart attacks."	“我快死了。在一个废弃的高射炮塔里。鲜血从我的胸口滴落……我还犯了好几次心脏病。”
+0x0100007200003398	Alternate2	DREAM SEAFORT / DOLORES DEI	You	"I'm dying. In a ruined flak tower. Blood is dripping down my chest... I've had a heart attack."	“我快死了。在一个废弃的高射炮塔里。鲜血从我的胸口滴落……还犯了一次心脏病。”
+0x0100007200003398	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I'm dying. In a ruined flak tower. Blood is dripping down my chest..."	“我快死了。在一个废弃的高射炮塔里。鲜血从我的胸口流淌下来……”
+0x010000720000339F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I'm in my head. I miss you."	“我在我的脑海里。我想你。”
+0x01000072000033A5	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Yes." She looks over her shoulder again. "I mean no. But I *am* in a hurry."	“是的。”她又回头看了看。“我是说没关系。但我*确实*在赶时间。”
+0x01000072000033AB	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She breathes out, impatiently.	她不耐烦的呼了一口气。
+0x01000072000033C2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Wow, see? The entire case..." She smiles. It's another sad smile, with knitted brows.	“哇哦，看见了吗？整个案子……”她笑了。这是个悲伤的笑容，眉毛都拧在一起了。
+0x01000072000033D2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I guess, yeah."	“我猜，是的。”
+0x01000072000033D8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"It changes nothing."	“什么也改变不了。”
+0x01000072000033EF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Anyway."	“无所谓了。”
+0x01000072000033FA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Suggestion	Okay, don't say you need to 'talk' right away. Melt the ice first -- this way you're *already* talking.	好吧，不要马上说你需要*谈谈*！先破冰——这样你就*已经*在谈了！
+0x0100007200003407	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Volition	But you don't even *want* to talk to her! She would only be cold and mean. Let her go.	但是你根本就*不想*跟她说话啊！她只会冰冷又刻薄。让她走吧。
+0x010000720000340E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Encyclopedia	Let her *go?* This is the holy queen of the territories of Mundi and Insulinde! Think of the historic knowledge we could glean! This is a once-in-a-lifetime opportunity -- to win her back!	让她*走*？这可是蒙迪和伊苏林迪区域的圣后！想想我们能收集到的历史知识！这可是人生仅有一次的机会——为了把她赢回来！
+0x010000720000341C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Encyclopedia	Off to advise the queen of Shest, most likely. This is the holy suzerain of Mundi and Insulinde -- *definitely* not your wife -- you need to talk to her! Think of the historical knowledge you could glean!	很可能是去给西斯特女王提建议。这可是蒙迪和伊苏林迪区域的圣后——*绝对*不是你的妻子——你需要跟她谈谈！想想我们能收集到的历史知识！
+0x0100007200003429	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Logic	I don't know, man... what is the holy suzerain doing here? Something seems off...	我不知道，兄弟……神圣的封建主在这里做什么？感觉好像有点不太对劲……
+0x0100007200003436	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Electrochemistry	Silence, her nuptial gown flows in the wind, wraps around her holy body...	沉默，她的结婚礼服在风中飞舞，将她的圣洁躯体包裹其中……
+0x010000720000343C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Logic	Win her *back*? How does that fit in here? And what is the holy suzerain doing here anyway?	把她*赢回来*？在这里恐怕不合适吧？而且，圣主在这里做什么？
+0x010000720000344A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Volition	*Very* off. Just let her go. Listen to me for once...	*非常*不对劲。还是让她走吧。就听我这一次……
+0x0100007200003452	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Something is off."	“感觉好像有点不太对劲。”
+0x0100007200003458	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I'm sorry. I was heading to the aerodrome, I just don't have time to..." She stops mid sentence, glances to her right. Then looks at her bag.	“抱歉，我要去飞机场，真的没有时间……”她话没说完，飞速地瞥了一眼右边，然后又看看自己的旅行箱。
+0x010000720000345F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Endurance	You may not be able to take this. Not this time. Not anymore.	你可能没办法承受。这次不行。再也不要了。
+0x0100007200003474	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Empathy	She means she doesn't have time to tend to your emotions.	她的意思是她没时间照顾你的情绪。
+0x010000720000347C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I told you -- good things can still happen."	“我告诉过你——好事还是会发生的。”
+0x0100007200003482	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Drama	She is trying to muster enthusiasm.	她试着让自己热情一点。
+0x010000720000348C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Don't say that... I know this *positive* thing sounds stupid to you, Harry, but it works. We all have an obligation to be happy. You too. And you *will* be. Now..." She looks over her shoulder...	“别这么说……我知道这种*积极*的事在你听来很傻，哈里，但是真的有用。我们都有开心起来的义务。而且你*会变得*开心起来的。现在……”她回头看了看……
+0x0100007200003492	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Exactly, now..." She glances over her shoulder. You hear distant traffic. An airship passes overhead, dogs bark somewhere.	“就是这样，现在……”她回头看了一眼。你听见远处传来交通工具的声音。一架飞艇在头上飞过，某处传来了狗的吠叫。
+0x010000720000349C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I'm going to Mirova. To live there -- in Graad. It's one million kilometres away, Harry. Might as well be another lifetime."	“我要去米诺瓦。在那里住下——在格拉德。那里有100多万公里远，哈里。我们可能要来世再见了。”
+0x01000072000034A9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You don't have time to tend to my emotions?"	“你没时间照顾我的情绪吗？”
+0x01000072000034AF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She sighs and looks over her shoulder.	她叹了口气，回头望了望。
+0x01000072000034B6	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Suggestion	What are you *doing?* Stop saying things like that.	你在*做什么*？别再说那种话了。
+0x01000072000034C4	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Encyclopedia	Yes, if you scare her off you will never *glean* all the historic knowledge...	是的，如果你把她吓跑，就永远无法*收集*到那些历史知识了……
+0x01000072000034DD	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No, Harry." She shakes her head. "It's just regular skin. I'm not as beautiful as you always thought I was. Let's not get into..."	“不，哈里。”她摇摇头。“我的皮肤很普通。我不像你想象中那么漂亮。我们还是不要……”
+0x01000072000034F9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"God, Harry..." She shakes her head, her eyebrows knitting together with worry.	“天啦，哈里……”她摇摇头，眉毛因为担心都拧在了一起。
+0x0100007200003500	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"You have to take care of yourself. You're not a young man anymore. If you keep going like this you'll..." She falls silent.	“你必须照顾好自己。你已经不是个年轻人了。如果继续这么做，你就会……”她陷入了沉默。
+0x0100007200003506	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Well, I'm in my head too. We're all in our heads."	“呃，我也在自己的脑海中。我们全都是。”
+0x010000720000350D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Do you miss me there?"	“你会想念这里吗？”
+0x0100007200003513	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Okay. I'll go back into mine then."	“好吧。那我还是回到自己这里来吧。”
+0x010000720000351B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Sometimes... Not as often as I used to. So much time has passed. More than it seems here..." She stares at her feet -- the zebra stripes on the intersection. The lights of the video rental glow in her hair.	“有时候会……跟之前比没那么频繁了。已经过去这么久了。比看起来的要多……”她盯着自己的脚下——十字路口的斑马线。录像带租赁店的灯光在她的头发上闪闪发光。
+0x0100007200003522	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She doesn't reply. You're back in your head. There's silence.	她没有回复。你又回到了自己的脑海里。那里一片安静。
+0x0100007200003529	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Pain Threshold	Desperation is gearing up.	绝望正在增加。
+0x0100007200003530	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Inland Empire	This is everything I always warned you about.	我一直都想警告你这一点。
+0x0100007200003548	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You are. None of the others are as beautiful as you."	“你就是。没人像你一样漂亮。”
+0x010000720000354E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Yes. Let's not. I'm sorry I said that."	“是的。还是不要了。很抱歉，我不该说这些话。”
+0x0100007200003556	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She does not answer. There's that expression again.	她没有回答，又露出了那个表情。
+0x010000720000355C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Conceptualization	You have to say *something*.	你必须得说点*什么*。
+0x0100007200003564	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"All the stars burn in absolute silence. Have you ever realized?"	“所有星星都在绝对的寂静中燃烧。你有没有注意到这一点？”
+0x010000720000356A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	No. It's stupid. No, no, no. No, I don't want to say those STUPID THINGS!	不，这样太傻了。不行，不行，不行。我才不想再说那种蠢话了！
+0x0100007200003571	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"The poetry thing is not going to help. It's only going to make things worse. I *really* have to go... I don't even know how you got here."	“作诗之类的没帮助的。只会让情况变得更糟。我*真的*要走了……我甚至都不知道你是怎么过来的。”
+0x010000720000357A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Conceptualization	I'm sorry. I'm foam. All I can do is foam, it's meaningless.	我很抱歉。我吹牛了。我唯一会做的就是吹牛，这毫无意义。
+0x0100007200003582	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It's okay." She puts no effort into making it sound as if it's actually okay.	“没事的。”她没有努力让它听起来像没事一样。
+0x010000720000358F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No, Harry." She shakes her head sadly. "No. I don't want a *massive, epic showdown*. I want to go to the aerodrome. I have tickets for the 10:20 flight to Mirova..." She looks at you plaintively. "Really..."	“不，哈里。”她悲伤地摇摇头。“不，我不想来一场什么*规模更大的史诗对决*。我想去机场。我要搭10:20的航班去米诺瓦……”她哀怨地看着你。“真的……”
+0x0100007200003596	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"We don't have anything to talk about anymore. Every combination of words has been played out. The atoms don't form us anymore: us, our love, our unborn daughters..."	“我们已经没什么好说的了。所有词语的组合都已经用尽。原子不再把我们组合在一起：我们的爱，我们未出世的女儿……”
+0x010000720000359D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It's all gone. I have to go to the aerodrome. I have to leave Revachol and you. And you have to be alone -- in hell, forever. That's just the way it is."	“全都不在了。我必须去机场。我要离开瑞瓦肖，离开你。而且，你必须孤身一人——永远困在地狱里。事情就是这么回事。”
+0x01000072000035A4	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	...is what you want to say. But you don't. Hammers clang in the distance. Children laugh...	……这就是你想说的。但是你没有说出口。锤子在远处叮当作响。孩子们在欢笑……
+0x01000072000035AB	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	God damn it, everything was fine already...	真该死，一切已经很好了……
+0x01000072000035B1	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	I want to go!	我想走！
+0x01000072000035B9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	The light from the video rental casts shadows on the ground. She turns her face and it's illuminated by it. Red and cyan...	录像带租赁店的灯光在地面上投下阴影。她转过头，脸庞在被灯光照的透亮。红色，蓝绿色……
+0x01000072000035C0	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	Where? There's water all around. She turns her face and it's illuminated by the sign of the video rental... Red and cyan...	哪里？地上全是水。她转过脸，录像带租赁店的标志照亮了她……红色，蓝绿色……
+0x01000072000035C7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Volition	I can't help you. I am totally useless. Everything I've said is lies. I want the exact same bad things you want. To stand here, like a pillar of salt, saying...	我没办法帮你。我完全派不上用场。我所说的一切都是谎言。我想要的那些坏东西跟你一样。站在这里，像一根盐柱，诉说着……
+0x01000072000035DA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"But... that's not a very good way for things to be."	“但是……事情这样是不对的。”
+0x01000072000035E0	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I get the feeling you're not really Dolores Dei."	“我有种感觉，你不是真正的德洛莉丝·黛。”
+0x01000072000035EC	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I bought you this figurine of a Headless FALN Rider!" (Give it to her.)	“我给你带了个无头FALN骑士的雕像！”（交给她。）
+0x01000072000035F2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I've heard you before. You're the voice on the phone."	“我以前听过你的声音。电话里那个声音就是你。”
+0x01000072000035F8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"But you said I have a vast soul and you will always come back to it."	“但是你说我拥有广阔的灵魂，你永远都会回到我这里。”
+0x01000072000035FE	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're not even human."	“你甚至都不是人类。”
+0x0100007200003604	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Don't go..."	“不要走……”
+0x0100007200003631	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Savoir Faire	Oh god, whatever you do, don't try to kiss her yet -- not after that, you're still reeling... you'll fall over if you try it now...	天啦，不管你做什么，先别去尝试亲吻她——在那一切发生之后不行，你还有些眩晕……如果你现在尝试的话，你会绊倒的……
+0x0100007200003671	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It's not, but..." She looks at her feet. Little golden sandals cover her toes.	“是不对，但是……”她看着脚下。一双秀气的金色凉鞋盖住了她的脚趾。
+0x010000720000367E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I have some other questions for you."	“我还有其他问题要问你。”
+0x0100007200003686	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I can't answer your *other questions*, Harry. Not anymore... I have to go."	“我不能回答你的*其他问题*，哈里。再也不行了……我得走了。”
+0x0100007200003692	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"But what? Tell me there's *something* good..."	“但是什么？告诉我，还会有*好事*发生……”
+0x0100007200003698	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I don't know why I said *but*. There is no but."	“我不知道为什么自己会说*但是*。根本没有但是。”
+0x01000072000036E0	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I don't know what you mean, Dolores Dei?" She looks at you quizzically. It does not seem like a mystery she wants to get into.	“我不明白你的意思，德洛莉丝·黛？”她疑惑地看着你。这似乎是她不想深入的一个谜题。
+0x01000072000036ED	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're... the *ex-something*."	“你是……*旧日之物*。”
+0x01000072000036F3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're my wife."	“你是我的妻子。”
+0x01000072000036F9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're..." (Point to your head.) "The mourning."	“你是……”（指着自己的脑袋。）“哀伤。”
+0x01000072000036FF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"On second thought -- you're Dolores Dei, queen regnant of the territories of Mundi and Insulinde -- and nothing else." (Conclude.)	“我又仔细想了想——你是德洛莉丝·黛，统治蒙迪和伊苏林迪区域的女王——没别的了。”（总结。）
+0x010000720000370B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Move your mouth.	移动你的嘴。
+0x010000720000371F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"That's it, yes," she looks up from her toes. "We've talked about it a million times. You will get over it, just like I did. People do. Things will get good for you again..."	“就这样，是的。”她抬起头。“我们已经说过一百万次了。你会挺过去的，就像我一样。人们都会这样。一切都会变好的……”
+0x0100007200003725	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"That's it?"	“就这样？”
+0x0100007200003733	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I'm not getting over it *at all*!"	“我*根本*没有挺过来！”
+0x0100007200003739	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Good for me where? In FUCKING HELL?!"	“哪里对我好了？在该死的地狱里吗？！”
+0x010000720000373F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're right. I don't even remember who you are anymore! Ha-ha!"	“你说得对。我甚至都想不起来你是谁了！哈哈！”
+0x0100007200003745	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Maybe. I think I've reached the end of the investigation."	“也许吧。我想调查已经抵达了终点。”
+0x010000720000374B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Rhetoric	Where? In *HELL*?	哪里？在*地狱*里吗？
+0x0100007200003757	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Volition	Stop, you're only making it worse for him -- you never help with *anything*.	停下来，你只会让事情变得更糟糕——你从来都*帮不上忙*。
+0x0100007200003764	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Rhetoric	Oh yes! She'll come around now. I made her love you again, Harry.	哦，是啊！现在她清醒过来了。我会让她再次爱上你的，哈里。
+0x0100007200003771	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Volition	Are you *stupid*?	你*傻了*吗？
+0x0100007200003777	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Rhetoric	She's about to say something. Here it comes. She's starting to *love* him again.	她要开口了。来了，她又要再次*爱上*他了。
+0x010000720000377D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	Her innocence Dolores Dei fiddles with the handle of her airport bag. She has a *pained* expression on her face. It's agonizing.	无罪女王德洛莉丝·黛摆弄着旅行箱的把手，脸上露出*痛苦*的表情。实在是让人痛苦难耐。
+0x0100007200003783	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Volition	See?! She isn't saying anything!	看见了吗？！她什么也没说！
+0x010000720000378E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Rhetoric	I don't understand. It was... she herself said...	我不明白。这是……她自己说……
+0x0100007200003794	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"We were bad for each other, okay? I was bad for you. Can you not see, I'm *bad*? I had to stop, I couldn't just turn into a bad person... You *will* get better."	“我们一直在互相伤害，好吗？我对你不好。你没看见吗，我那么*坏*？我必须停下来，我不能变成一个坏人……你*会*变好的。”
+0x010000720000379F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"It doesn't have to be like this. Maybe we could try again?" (Proceed.)	“其实不应该这样的。也许我们再试一次？”（继续。）
+0x01000072000037AB	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Okay then. Super okay. I still have other things I need to know." (Withdraw.)	“那好吧。特别好。还有一件事我必须知道。”（收回。）
+0x01000072000037B4	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It just takes some time. For you, I think it will take something like... twenty years maybe? It was hard for me too, you know -- I used to think I couldn't live without you..." She looks you straight in the eye -- her irises are light blue, flecked with green.	“只是需要一点时间。对于你来说，我觉得大概也就是……可能20年吧？对我来说也很艰难，你知道的——我曾经以为自己离开你就不能活……”她直直地盯着你的双眼——她的虹膜是淡蓝色的，还夹杂着一点绿色。
+0x01000072000037BB	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"But -- I can."	“但是——我可以。”
+0x01000072000037C8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Empathy	She keeps her shoulders squared and her back straight but it's clear you're still making her sad.	她挺直了肩膀和后背，显然你还是让她伤感。
+0x01000072000037CF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Your Innocence Dolores Dei, I'm sorry I made you sad."	“无罪女王德洛莉丝·黛，让你伤心了，我很抱歉。”
+0x01000072000037D5	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It's okay."	“没事的。”
+0x01000072000037E6	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No, Harry, we can't."	“不，哈里，我们不行的。”
+0x01000072000037ED	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Why?"	“为什么？”
+0x01000072000037F4	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"We already tried again and it didn't work."	“我们已经尝试过了，但是没有成功。”
+0x01000072000037FB	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"What went wrong when we tried again? I can do it better." (Proceed.)	“我们重新开始的时候，到底是哪里出问题了？我可以做的更好的。”（继续。）
+0x0100007200003802	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I don't know. Please..." She shuffles from one golden-sandaled foot to the other. In the distance a street car screeches.	“我不知道。拜托……”她的重心从一只穿着金色凉鞋的脚转移到另一只。远方的街道传来汽車尖锐的呼啸声。
+0x0100007200003808	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"See?" Her eyes widen. "It just takes some time. For you, I think it will take something like... twenty years maybe? It was hard for me too. I used to think I couldn't *live* without you..." She looks you straight in the eye -- her irises are light blue, flecked with green.	“看见了吗？”她睁大双眼。“只是需要一点时间。对于你来说，我觉得大概也就是……差不多20年吧？对我来说也很艰难。我曾经以为自己离开你就不能*生活*下去……”她直直地盯着你的双眼——她的虹膜是淡蓝色的，还夹杂着一点绿色。
+0x0100007200003815	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"See?" Her eyes widen. "It just takes some time. For you, it will take something like... twenty years maybe? It was hard for me too. I used to think I couldn't *live* without you..." She looks you straight in the eye -- her irises are light blue, flecked with green.	“看见了吗？”她睁大双眼。“只是需要一点时间。对于你来说，我觉得大概也就是……差不多20年吧？对我来说也很艰难。我曾经以为自己离开你就不能*生活*下去……”她直直地盯着你的双眼——她的虹膜是淡蓝色的，还夹杂着一点绿色。
+0x010000720000381C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Physical Instrument	It's not. It's just not possible. It's like *eating rocks*. You just can't *do* it.	不行的。根本不可能。这种感觉像是在*啃石头*。你就是*做不到*。
+0x0100007200003823	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"With all my strength, I can't. It's like eating rocks."	“就算用尽我所有的力量，我也做不到。感觉像是在啃石头。”
+0x010000720000384A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	There is a silence. She looks at you, then over her shoulder. Then corrects the wreath on the dome of her forehead.	沉默。她看着你，回头望了望，然后摆弄了一下前额的花冠。
+0x010000720000385F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Why? Why can't we be together?"	“为什么？我们为什么不能在一起？”
+0x0100007200003865	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Harry, we can't be together because you're insane." Her eyes turn to sorrowful ovals.	“哈里，我们不能在一起，因为你疯了。”她的眼睛里流露出悲哀。
+0x010000720000386B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Okay. I have *other questions* for you now."	“好吧。我还有*其他问题*要问你。”
+0x0100007200003896	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Okay, I won't ask any more."	“好吧，我再也不会问了。”
+0x010000720000389D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She does not seem relieved at all. Glances over her shoulder, then at you... the neon sign of the video rental glows behind her...	她好像一点也没有放松。她回头望了望，然后转向了你……录像带租赁店的霓虹标志在她身后闪闪发光……
+0x01000072000038AA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"What *other things*?" She shakes her head. "We've been through *all* the things, Harry..."	“什么*其他事情*？”她摇摇头。“我们经历过*所有*事情了，哈里……”
+0x01000072000038BC	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Insane... how?"	“疯了……怎么疯了？”
+0x01000072000038C2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Insane -- like what? Like *cool* insane?	“疯了——比如说什么样？那种很*酷*的疯吗？”
+0x01000072000038C8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Like: 'Wow, that cop's crazy'?"	“就像是：哇哦，那个警察是疯了吧？”
+0x01000072000038CE	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I'm not insane. Don't say that."	“我没疯。别这么说。”
+0x01000072000038D6	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"So you felt that way once? That you cannot live without me?"	“这么说你曾经有过那种感觉？离开我不能活？”
+0x01000072000038DD	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Yes. But that time is gone now. So *very* gone."	“是的，但是那个时候已经过去了。*完全*过去了。”
+0x01000072000038E5	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Logic	Is that how it is now? We should just try all good things *twice* and then give up? By that logic...	现在就这样了吗？我们应该把所有好事都尝试*两遍*，然后放弃？按照那个逻辑……
+0x01000072000038F2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Volition	Not you too...	你也不行……
+0x01000072000038F9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Let's be the last sane people in the world -- but only twice. If it doesn't work, let's lose our minds and let it all sink into the pale!"	“让我们变成这个世界上最后的正常人吧——但是只有两次。如果那样不行，我们就发疯，让一切都陷入灰域！”
+0x01000072000038FF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Let's try to return Revachol to the likeness of the holy sun in the sky -- but only *twice*. The third time, let's abandon it to debauched homo-sexuals!"	“我们试着回到瑞瓦肖，回到那宛如太阳一般圣洁的地方——不过只用*两次*。如果有第三次，我们就堕落下去吧！”
+0x0100007200003905	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Let's try inventing the future *twice* and if it doesn't work -- abandon it and live on welfare? Is that how we should do *everything*?"	“让我们试着创造*两次*未来，如果那样不行——就抛弃它，然后依靠福利生活？难道*所有事*不应该都是这样的吗？”
+0x010000720000390B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Let's try building Communism *twice*. If it doesn't work, let's abandon it and be slaves forever instead?"	“让我们试着建设*两次*康米主义。如果那样不行，我们就抛弃它，然后永远做奴隶？”
+0x0100007200003911	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Yes. Of course. You've got everything under control and I'm hysterical because I don't want to keep hurting you..." She looks away from you.	“是的，当然。一切都在你的掌控之中，歇斯底里的是我，因为我不想继续伤害你……”她把目光从你身上移开。
+0x0100007200003917	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Yes. Of course. You're a kingsman and I'm a socialist traitor, because I don't want to keep hurting you..." She looks away from you.	“是的，当然。你是个骑士，而我是工人主义的叛徒，因为我不想继续伤害你……”她把目光从你身上移开。
+0x010000720000391D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Of course, you're a visionary entrepreneur, and I'm a *social democrat* -- because I don't want to keep hurting you..." She looks away from you.	“是的，当然。你是个有远见的企业家，而我只是个*工人主义者*——因为我不想继续伤害你……”她把目光从你身上移开。
+0x0100007200003923	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Yes. Of course. I'm *bourgeois* -- because I don't want to keep hurting you..." She looks away from you.	“是的，当然。我是个*资产阶级分子*——因为我不想继续伤害你……”她把目光从你身上移开。
+0x0100007200003937	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Empathy	She avoids turning them to you...	她在避免这一段……
+0x0100007200003943	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I'm the sanest person I know."	“我是我认识的心智最健全的那个人。”
+0x010000720000394A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	They're turning moist now, her eyes. She slowly shakes her head and tries to get a hold of herself, brushing her hands in her gown...	现在它们开始变得潮湿了，她的眼睛。她慢慢摇摇头，努力想要控制住自己，不断用手磨蹭着自己的礼服……
+0x0100007200003967	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Sometimes. You can be very safe, but..." They're turning moist now. She slowly shakes her head and tries to get a hold of herself, brushing her hands in her gown...	“有时候。你可能很安全，但是……”现在她的眼睛变得潮湿了。她慢慢摇摇头，努力想要控制住自己，不断用手磨蹭着自己的礼服……
+0x0100007200003983	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No, you *don't*. You've worked there for so long you can't even talk like a normal person anymore! It's always lists with you. *Questions*."	“不，你*没有*。你在那里工作了太久，甚至都没办法像正常人一样说话了！你总会列有一长串对话清单，问一大堆*问题*。”
+0x0100007200003989	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Reaction Speed	Questions? Did someone say questions?	问题？有人说问题了吗？
+0x0100007200003990	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I don't have lists." (Lie.)	“我没有清单。”（撒谎。）
+0x0100007200003996	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"They're not lists. They're *trees*."	“那不是清单，那是*对话树*。”
+0x010000720000399C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Let's talk about something else."	“我们聊聊别的吧。”
+0x01000072000039A3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"What do you mean by insane?"	“你说疯了是什么意思？”
+0x01000072000039B3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"This is another list, isn't it?"	“你又在说你清单里的话了，不是吗？”
+0x01000072000039BA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"This is another one, isn't it? We're in a *tree* right now!"	“你又说清单里的话了，不是吗？现在连*对话树*都冒出来了！”
+0x01000072000039C3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"See? *Let's talk about something else*..." She sighs.	“看见了吗？*我们聊聊别的吧*……”她叹了口气。
+0x01000072000039D2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"No" (Lie.)	“不是。”（撒谎）
+0x01000072000039D8	Alternate1	DREAM SEAFORT / DOLORES DEI	You	"Yes, but it's not possible to talk without trees."\n	“是的，但是对话不可能没有对话树的。”
+0x01000072000039D8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Yes, but it's not possible to talk without lists."	“是的，但是对话不可能没有清单的。”
+0x01000072000039DE	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Lists are absolutely normal. Everyone has them. You just list everything you want to ask."	“有对话清单很正常啊。每个人都有的。你只需要把所有想问的问题都列出来就好。”
+0x01000072000039EF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Logic	In descending order, usually... It's best to do them like that.	一般来说是降序……这样做最好。
+0x01000072000039F9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It's not just the lists..." She corrects the wreath on her head, with her hands trembling now. "You get sad, Harry. *Too* sad. People can't get that sad. It's impossible to watch..."	“不仅仅是清单……”她调整了一下头上的花冠，手已经有些微微颤抖。“你很悲伤，哈里。*太*过悲伤。人们不会变得那么悲伤。根本没法看……”
+0x0100007200003A06	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It's not just the lists, or trees, or whatever..." She corrects the wreath on her head, with her hands trembling now. "You get sad, Harry. *Too* sad. People can't get that sad. It's impossible to watch..."	“我说的不仅仅是清单，或者是对话树，或者随便你怎么叫吧……”她调整了一下头上的花冠，手已经有些微微颤抖。“你很悲伤，哈里。*太*过悲伤。正常人不会变得那么悲伤的，我根本没法看……”
+0x0100007200003A18	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"But I like my lists."	“但是我喜欢我的清单。”
+0x0100007200003A57	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Other people get sad too, but not like you. You stay down for years, and then you start beating things... You get violent."	“其他人也会悲伤，但不像你一样。你消沉了好多年，然后开始砸东西……你变得暴力了。”
+0x0100007200003A5E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Other people get sad too, but not like you, you stay down for too long. Until you start giving your thoughts *names* and talking to things..."	“其他人也会悲伤，但不像你一样。你消沉了太久。直到你开始给自己的想法*取名字*，然后开始自言自语……”
+0x0100007200003A64	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"In conclusion -- you're ill. You're an old, insane man. And you have to be in hell until the end of your life. And I have to go to Mirova."	“总而言之——你病了。你变成了一个老疯子。而且，直到你生命的最后一刻，你都会永远待在地狱里。而我，必须去米诺瓦。”
+0x0100007200003A7D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Other people get sad too, but not like you, you stay down for too long. You only communicated with *encyclopaedic trivia*... I was so alone."	“其他人也会悲伤，但不像你一样。你消沉了太久。你只会跟*百科琐事*交流……我很孤独。”
+0x0100007200003A85	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Other people get sad too, but not like you, you stay down for too long -- and if you're not down, you're up, running around asking questions. Millions of questions..."	“其他人也会悲伤，但不像你一样。你消沉了太久——如果你没有消沉，而是振奋的时候，就会到处跑去问问题。几百万个问题……”
+0x0100007200003AD1	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Twenty years? That's so much time..."	“20年？那也太久了吧……”
+0x0100007200003AD8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Yes. It only took me one year, maybe two." She smiles and wipes her brow in relief: "Whooh."	“是的。我只花了1年，也许是2年。”她笑了笑，放松地擦拭着额头。“呼。”
+0x0100007200003AE6	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"You know what I mean..."	“你知道我是什么意思……”
+0x0100007200003AF1	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Everyone gets a little down."	“每个人都会有一点消沉。”
+0x0100007200003AF7	Alternate1	DREAM SEAFORT / DOLORES DEI	You	"In case you haven't noticed, I'm a cop. It's not easy work, like some kind of Academy or something."	“以免你还没有注意到，我是个警察。这可不是份容易的工作，就像是某种学院啊，或者其他之类的东西。”
+0x0100007200003AF7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"In case you haven't noticed, I'm a cop. It's not easy work."	“以免你还没有注意到，我是个警察。这可不是份容易的工作。”
+0x0100007200003AFD	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	(Nod.) "Yes. I *may* know what you mean."	点点头。“是的，我*也许*明白你什么意思。”
+0x0100007200003B0E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"It was just a necktie. It's over anyway."	“它只是一条领带。再说这都已经过去了。”
+0x0100007200003B18	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Okay, I'll throw the necktie away! It's stopped saying things anyway."	“好吧，我会把领带丢掉！再说它已经不说话了。”
+0x0100007200003B24	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"A little down? You've worked there for so long you can't even talk like a normal person anymore! It's always lists with you. *Questions*."	“一点消沉？你在那儿工作了太久，甚至都没办法像正常人一样说话了！你总会列有一长串对话清单，问一大堆*问题*。”
+0x0100007200003B2C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"A cop... You've worked there for so long you can't even talk like a normal person anymore! It's always lists with you. *Questions*."	“一个警察……你在那儿工作了太久，甚至都没办法像正常人一样说话了！你总会列有一长串对话清单，问一大堆*问题*。”
+0x0100007200003B34	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It's not about some tie, Harry! You've worked there for so long you can't even talk like a normal person anymore! It's always lists with you. *Questions*."	“这跟领带没关系，哈里！你在那儿工作了太久，甚至都没办法像正常人一样说话了！对你来说一直都是清单。*问题*。”
+0x0100007200003B45	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"The morning? I don't understand."	“哀伤？我不明白。”
+0x0100007200003B4C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"No. I meant *mourning*. I'm grieving -- but you're not even dead."	“不。我的意思是*哀悼*。我在为你哀悼——但你根本都没死。”
+0x0100007200003B52	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"It's probably better that you don't."	“你不明白更好。”
+0x0100007200003B5A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Oh my god, Harry! Stop. I don't want to hear anything about *the mourning*, mourning someone who's still alive -- *any of that*!"	“我的天啦，哈里！停下来吧。我不想再听到任何跟*哀悼*有关的*事情*，为还活着的人哀悼——*什么都不想听*！”
+0x0100007200003B67	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I can't do that anymore. I'm not eighty years old, I'm thirty two. People my age are not supposed to mourn..." She breathes out, it sounds more angry than a sigh.	“我不会再这么做了。我不是8岁小孩，我已经32了。我这个年纪的人不应该哀悼……”她呼出一口气，比起叹息更像是生气。
+0x0100007200003B79	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Pain Threshold	This... is a bit *much* for me. It feels like your ribs are cracking around your heart.	这个……对我来说有点*太过*了。感觉你心脏周围的肋骨都裂开了。
+0x0100007200003B7F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Yes. It really, *really* is better that I don't."	“是的。我不明白*真的*更好。”
+0x0100007200003B8D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"That's so hurtful."	“真是太伤感情了。”
+0x0100007200003B93	Alternate1	DREAM SEAFORT / DOLORES DEI	You	"Good. I think I feel another heart attack coming."	“很好。我感觉好像又要犯心脏病了。”
+0x0100007200003B93	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Good. I think I feel a heart attack coming."	“很好。我感觉要犯心脏病了。”
+0x0100007200003B9C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Just rub your chest and moan.	摩擦自己的胸口，呻吟着。
+0x0100007200003BA3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	The advisor to the queen of Suresne sighs and looks down -- at the crumbling asphalt. There is nothing she can do about your chest pain.	苏雷恩女皇的导师叹了口气，随后低下头——看着剥落的沥青。关于你的胸痛，她什么也做不了。
+0x0100007200003BAD	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Then why are we doing it?" The advisor to the queen of Suresne sighs and looks down -- at the crumbling asphalt.	“我们为什么要这么做？”苏雷恩女皇的导师叹了口气，随后低下头——看着剥落的沥青。
+0x0100007200003BB3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Then why are we doing this?" The advisor to the queen of Suresne sighs and looks down -- at the crumbling asphalt.	“那我们为什么要这么做？”苏雷恩女皇的导师叹了口气，低下头——看着剥落的沥青。
+0x0100007200003BBD	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Wasn't I Dolores Dei just a second ago? Now I'm the *ex-thing*... You're confusing me. Look, I have to be at the Lausanne Aerodrome at 10:20 PM. I still have a light rail to catch..."	“一秒前我不还是德洛莉丝·黛吗？现在我又变成*前任之类的东西*了……你把我都搞混了。听着，我晚上10:20要到洛桑机场。而且我要赶一趟轻轨……”
+0x0100007200003BC8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"There is nothing else."	“没有别的了。”
+0x0100007200003BCE	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Inland Empire	We all told you. *Everyone* warned you.	我们都跟你说过。*所有人*都警告过你了。
+0x0100007200003BD5	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I'm glad too, but I have to go. My friends are waiting for me on the platform. I can't let them wait -- it's impolite."	“我也很高兴，但是我得走了。我的朋友还在站台等我。我可不能让他们等着——实在是太不礼貌了。”
+0x0100007200003BE1	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"The Ancient Reptilian Brain was right. It was foolish of me to resurface to the loss."	“古老的爬虫大脑是对的。重新面对失去的是我蠢。”
+0x0100007200003BE7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I should have stayed down."	“我应该坚持下去。”
+0x0100007200003C46	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I'm glad we're having this conversation. I'm getting so much closure."	“很高兴我们能有这次谈话。我感觉豁然开朗了。”
+0x0100007200003C4C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I should have gone even deeper, to a place where I never met you. Because it's impossible to meet people in the ABYSS OF THE VOID!"	“我应该再深入一点，去到一个从没遇见过你的地方。因为在虚无的深渊里，根本不可能见到任何人！”
+0x0100007200003C52	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She keeps glancing over her shoulder nervously. "I haven't even bought the tickets yet..."	她紧张地不断回头张望。“我甚至都还没买票……”
+0x0100007200003C5F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Who, everyone?	谁，所有人？
+0x0100007200003C66	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Ancient Reptilian Brain	Everyone.	所有人。
+0x0100007200003C6D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Limbic System	Literally all of you.	字面意义上的，所有的你。
+0x0100007200003C7D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Great," she nods. "It's the abyss of the void. Soon it will be 'the gloaming'; then it will be the 'world-ending'... My friends are waiting for me on the platform, Harry. It's impolite to..."	“太棒了，”她点点头。“那里是空虚的深渊。很快就会是‘黄昏’；然后是‘世界末日’……我的朋友在站台等我，哈里。这样太不礼貌了……”
+0x0100007200003C84	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She sighs with frustration: "My friends are waiting for me on the platform. I can't let them wait -- it's impolite."	她挫败地叹了一口气：“我的朋友还在站台等我。我不能让他们等着——这样太不礼貌了。”
+0x0100007200003C8B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I don't know what that *means*..." She sighs with frustration. "My friends are waiting for me on the platform. I can't let them wait -- it's impolite."	“我不知道那是什么*意思*……”她挫败地叹了一口气：“我的朋友还在站台等我。我不能让他们等着——这样太不礼貌了。”
+0x0100007200003C92	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Authority	WHAT?!	什么？！
+0x0100007200003C9C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You know what is *impolite?* Consigning a lieutenant detective of the Revachol Citizen's Militia to ETERNAL DAMNATION."	“你知道什么叫*不礼貌*吗？把一个瑞瓦肖公民武装的警督打入永恒的地狱。”
+0x0100007200003CA2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Cool. Your *friends*. Say hi to your friends for me then."	“很好。你的*朋友*。那就代我向你的朋友问好。”
+0x0100007200003CA8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Say nothing. Just look at her.	什么也不说，只是看着她。
+0x0100007200003CB3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She does not look back, instead eyes her fingernails. They're bitten, frayed. The evening wind blows in, the gown wraps around her like a white flag.	她没有回看你，而是低头看向自己的手指甲。它们被咬过，都磨损了。晚风吹来，她身上的礼服就像一面白色旗帜。
+0x0100007200003CC7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Electrochemistry	A thousand times, you beaten animal. A thousand times you've raised that fabric. What is underneath has always calmed you, centred you. Made you sane.	千万次了，你这头精疲力尽的野兽。你撩起过那块布料千万次。下面的东西总是能让你平静，让你集中精神，让你发疯。
+0x0100007200003CCE	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Conceptualization	In your mind you could still climb inside her bed. Still the only man...	在你的脑海里，你还能爬上她的床。还是她唯一的男人……
+0x0100007200003CE3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I will," she says. The evening wind blows in and the gown wraps around her like a white flag.	“我会的，”她说到。晚风吹来，她身上的礼服就像一面白色旗帜。
+0x0100007200003CEA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I am impolite with you, Harry, because you are the past. Me and those friends will have good times, together, in the future..." The evening wind blows in, the gown wraps around her like a white flag. She says:	“我对你有些无礼，哈里，因为你已经是过去了。未来，我和那些朋友一起会过的很开心……”晚风吹来，她身上的礼服就像一面白色旗帜。她说到：
+0x0100007200003CF1	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're just an evil ape. We're all just evil apes."	“你只是一只邪恶的人猿。我们都只是邪恶的人猿。”
+0x0100007200003CFA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"This is how human beings operate."	“这就是人类的运作方式。”
+0x0100007200003D01	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Authority	I was wrong. You don't have power over her anymore. You shouldn't have said that. I am wrong about everything. You should go on without me.	我错了。你再也无法掌控她了。你不应该那么说的。我把一切都搞错了。从此之后你应该自己走下去。
+0x0100007200003D12	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"You don't have to hate the world." She looks around her, at the evening light. "Can't you see how kind and beautiful everything is? I don't have time to deal with your pessimism -- there are so many people at the stop at this hour. They're all going to the aerodrome."	“你没必要痛恨这个世界。”她四下看了看，看着夜晚的灯光。“难道你看不见一切是多么的善良和美丽吗？我没时间处理你的悲观情绪了——这个点車站的人肯定很多。大家都要去机场。”
+0x0100007200003D1F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I don't want it..." She doesn't take it. "It looks expensive. I don't want it."	“我不想要……”她没有收下。“它看起来很贵，我不想要。”
+0x0100007200003D25	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No, Harry." She shakes her head.	“不，哈里。”她摇摇头。
+0x0100007200003D2C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"We were married. You wrote me the letter I threw away..."	“我们结过婚。你给我写信，被我扔到了一边……”
+0x0100007200003E1D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I thought you liked figurines. I thought the figurines were for getting you back."	“我以为你喜欢雕像。我以为这个雕像能让你回到我身边。”
+0x0100007200003E24	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"That's not what the figurines do, Harry."	“雕像可没这个作用，哈里。”
+0x0100007200003E2B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"But then the figurines don't do anything..."	“那雕像什么用也没有……”
+0x0100007200003E32	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She looks at the Headless FALN Rider between your fingers and doesn't know what to say.	她看着你指尖的无头FALN骑士雕像，不知道说什么好。
+0x0100007200003E38	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Reaction Speed	The figurines... don't do *anything*? Anything at all? But I thought... the historic figure... she had...	雕像……*什么*也做不了？一点都没用吗？但是我还以为……这个历史雕像……她……
+0x0100007200003E4A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	She liked war games and figurines?	她喜欢战争游戏和雕像？
+0x0100007200003E50	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Forget it.	忘了吧。
+0x0100007200003E58	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Okay."	“好吧。”
+0x0100007200003E5F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Please don't give me any gifts..." She looks at the airport bag, then at you.	“请不要给我任何礼物……”她看着自己的旅行箱，然后看着你。
+0x0100007200003E67	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Reaction Speed	Yes. I thought... it would be good.	是的。我以为……这样挺好的。
+0x0100007200003E6E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Suggestion	A form of communication where words have failed?	一种言语无法表达的交流形式？
+0x0100007200003E7B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Reaction Speed	Yes.	是的。
+0x0100007200003E87	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Suggestion	It was a good idea. But she felt obliged by the Headless FALN Rider -- to give you things in return. Things she no longer wants to give you. So she refused. That's how it goes -- your figurine rider idea was *naive*.	这是个好主意。不过这尊无头FALN骑士会让她感觉到一种义务——给你回礼。回给你她不想再给的东西。所以她拒绝了。就是这么回事——骑士雕像的主意实在是太*天真*了。
+0x0100007200003E9A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Reaction Speed	Okay. Sorry. I was naive. Stop listening to me. Forever.	好吧，抱歉。我太天真了。别听我的，永远不要了。
+0x0100007200003EB0	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Maybe this revolutionary figurine then?" (Show it to her.) "Maybe you can take this revolutionary figurine? It's got a little musket."	“那这个大革命雕像呢？”（给她看看。）“也许你可以拿走这个大革命雕像？上面还有一把小步枪呢。”
+0x0100007200003EB6	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"What about dice? I had some custom dice made in this place...  a Doomed Commercial Area..."	“那骰子呢？我有个定制骰子，就是在这里制作的……诅咒商业区……”
+0x0100007200003EBC	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Okay, I won't give you things then."	“好吧，那我就什么都不给你了。”
+0x0100007200003EC4	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No. Please. Please don't give me anything."	“不了，拜托。请不要给我任何东西。”
+0x0100007200003ED1	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Harry, I don't want things. I want to go to the aerodrome."	“哈里，我不想要什么。我只想去机场。”
+0x0100007200003ED9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I didn't *ask* for things. It's too late to give me anything. I would have liked these things, a long time ago -- the Headless FALN Rider especially..."	“我没有向你*要*什么东西。现在给我任何东西都太迟了。很久之前，我也许会喜欢这些东西——特别是无头FALN骑士……”
+0x0100007200003EE6	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"... but now, only boring hell remains." Her crown-of-hair is aglow with the red of the neon on the corner. Like this, she tramples her feet for warmth. It's getting *really* cold outside.	“……但是现在，只剩下无聊的地狱。”她盘起的头发随着转角霓虹灯的红光一起闪烁。她跺着脚想要暖和身体。外面已经变得*很冷*了。
+0x0100007200003EFD	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I didn't *ask* for things. It's too late to give me anything. I would have liked the Headless FALN Rider -- back then..."	“我没有向你*要*什么东西。现在给我任何东西都太迟了。如果是之前——我会很喜欢那个无头FALN骑士……”
+0x0100007200003F04	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	The air gets cold around you. She looks down on her stomach, then up at you. Her eyes are full of tremendous distance and mystery.	你周围的空气变得冰冷。她低头看着自己的肚子，然后抬头望向你，眼睛里满是极大的距离感和神秘。
+0x0100007200003F11	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Shut up, I'm talking to her.	闭嘴，我在跟她说话。
+0x0100007200003F18	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Inland Empire	That's the problem. Look at what's pouring out of you...	就是这个问题。看看你都说了些什么……
+0x0100007200003F36	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"This is so grotesque."	“这真是太诡异了。”
+0x0100007200003F3D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It is. Useless..." The evening wind blows in as she says the words, her gown wraps around her like a white flag.	“这样。没用的……”话音刚落，晚风拂起，她身上的礼服仿佛一面白色的旗帜。
+0x0100007200003F45	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Oh, Harry. You shouldn't have done that..." She shakes her head very slowly, her white hair brushing her shoulders.	“哦，哈里。你不应该这么做的……”她慢慢摇摇头，银白色的头发扫过她的肩膀。
+0x0100007200003F4C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Not married. We were *engaged* then, living in a little house on the outskirts of Central Jamrock, past the lake that formed when a mainline pipe burst in the early Twenties. At the end of a street called..."	“没有结婚。我们那会儿*订婚*了，住在加姆洛克城郊外的一栋小房子里，就在20年代早期主干管道破裂后形成的湖泊附近。在一个街尾，名叫……”
+0x0100007200003F57	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Voyager Road."	“远航路。”
+0x0100007200003F5D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"What?"	“什么？”
+0x0100007200003F63	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I don't wanna know! Stop."	“我不想知道！快住嘴。”
+0x0100007200003F71	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Shivers	It opens up in front of you, with cracked asphalt, and maple leaves brushing your feet. Halos of street lights hang above you, hunched shadows carry grocery bags home. The lights are on -- in the little match box on the corner.	它在你面前缓缓打开，还带着斑驳的沥青，还有枫叶从你脚下扫过。街灯的光晕悬挂在你头顶，蜷缩的阴影把杂货店的袋子带回了家。灯是亮的——就在转角的一个小火柴盒里。
+0x0100007200003F85	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Voyager Road 21A." She nods sadly. "It was so long ago. It was a million years ago, Harry. No -- a hundred million years ago. I loved you more than you will ever know. I loved you more than anyone has ever loved *anyone*."	“远航路21A号。”她悲伤地点点头。“那是很久以前的事了。是一百年前的事了，哈里。不——应该是一亿年前。你永远也不会知道我有多爱你。我对你的爱，超过了所有人曾经爱过的*任何人*。”
+0x0100007200003F8C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"A street called Voyager Road." She smiles, sadly. "It was a million years ago, Harry. No -- it was a *hundred million* years ago. We were so, so young then. I loved you more than you will ever know. I loved you more than anyone has ever loved *anyone*."	“一条名叫远航路的街道。”她悲伤地笑了。“那是很久以前的事了。是一百年前的事了，哈里。不——应该是一亿年前。你永远也不会知道我有多爱你。我对你的爱，超过了所有人曾经爱过的*任何人*。”
+0x0100007200003F94	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"But it is gone now. Nothing came of it. No children, nothing built. We live in the coldest of all possible worlds, Harry, orbiting the most distant star. It is agony, sheer agony..." She shakes her head slowly: "How *bad* I have to go to the aerodrome."	“但是现在都没了。毫无结果。没有孩子，什么也没有。我们可能住在这个世界上最冰冷的地方，哈里，围绕着最遥远的星辰运行。太痛苦了，纯粹的痛彻心扉……”她慢慢摇摇头：“真是*糟糕*，我得去机场了。”
+0x0100007200003FA6	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Would you fucking stop it with the aerodrome already!"	“你能不能别再提那个该死的机场了。”
+0x0100007200003FAC	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I get it. I get it, you have to go to the aerodrome!"	“我明白。我知道的，你一定要去机场！”
+0x0100007200003FB2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I'll let you go there once you answer *all* my questions."	“一旦你回答完我的*所有*问题，我就会放你走。”
+0x0100007200003FB9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No, Harry. No human being in the history of the world has ever had to go to the *aerodrome* as much as I have to go there now. You see..."	“不，哈里。在这个世界的历史上，从没有人像我一样需要现在就赶去机场。你看……”
+0x0100007200003FC0	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I have to go there even more than I used to love you. And *that's* saying something." She looks at her travel bag.	她看着自己的旅行箱。“我急着赶去那里的心情，甚至比之前爱你的还要多。*这*就说明了一些问题。”
+0x0100007200003FC7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I really, really, *really* have to go there. No human being in the history of the world has ever had to go to the *aerodrome* as much as I have to go there now. You see, Harry..."	“我真的，真的，*真的*要过去。在这个世界的历史上，从没有人像我一样需要现在就赶去*机场*。你明白的，哈里……”
+0x0100007200003FD0	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It was a hundred million years ago, Harry... No, make it a thousand million years ago. Practically on another planet." She looks at her travel bag, thoughtfully: "Have I told you how bad I need to go to the aerodrome?"	“那已经是一亿年前的事了，哈里……不，就当是十亿年前吧。几乎可以说是另一个星球的事了。”她若有所思地看着自己的旅行箱：“我有没有告诉过你，我真的要赶去机场了？”
+0x0100007200003FEE	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"The questions will not bring those times back, Harry." She shakes her head slowly.	“问题也不会把那些时光带回来的，哈里。”她慢慢摇摇头。
+0x0100007200003FFC	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Beautiful world. Beautiful aerodrome."	“美丽的世界。美丽的机场。”
+0x0100007200004002	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Evil aerodrome, taking everything away from me."	“邪恶的机场，把一切都从我身边带走了。”
+0x010000720000400F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"See?" She smiles -- as if a weight is lifted off her shoulders.	“明白了吗？”她笑了笑——就好像卸下了肩头沉重的负担。
+0x010000720000401B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Empathy	The weight is you and your hate.	这个负担是你，还有你的恨意。
+0x0100007200004026	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Don't think like that, Harry..." She smiles.	“别这么想，哈里……”她笑笑。
+0x0100007200004033	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Forget about the aerodrome for one second... I lost. And it was *you* who I lost to."	“暂时忘了机场吧……我输了。我失去的是*你*。”
+0x0100007200004039	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It wasn't a fight. I was never fighting you."	“不是打架。我永远不会跟你打架的。”
+0x0100007200004041	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"It's always a fight with these tiny apes. Someone always loses."	“总是跟这些小人猿打架。有人总是会输。”
+0x0100007200004047	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I didn't want to fight you. You're the tiny ape I loved."	“我不想跟你打架。你是我爱的小人猿。”
+0x010000720000404E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Empathy	She's really sorry she made you think like that about her beloved aerodrome.	让你想到她亲爱的机场，她真的感觉很抱歉。
+0x0100007200004055	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"In the aerodrome there are silver-rotored ships, and beautiful flying trains I will go away on. It's a nice, peaceful place."	“机场有些银旋翼船，还有即将带着我离去的漂亮飞行火車。那里是个美好又和平的地方。”
+0x0100007200004061	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're right, yes. So *paranoid* of me. There is no antagonism between us."	“你是对的，没错。我太*偏执*了。我们之间没有对抗。”
+0x0100007200004068	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She shakes her head. "Let's stop it with the apes, this isn't going anywhere."	她摇摇头。“别再说人猿的事了，这样没用的。”
+0x010000720000406F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"At first, yes. I *was* angry at you. But I truly am *not* anymore. My life is in a very good place..." She glances over her shoulder.	“一开始是的。我*曾经*很生你的气。但是我真的已经*不再*生气了。我现在的生活状态很好……”她回头望了望。
+0x0100007200004076	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"You're right. I *was* angry at you. But I truly am *not* anymore. My life is in a very good place..." She glances over her shoulder.	“你说得对。我*曾经*很生你的气。但是我真的已经*不再*生气了。我现在的生活状态很好……”她回头望了望。
+0x0100007200004084	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Yes, Harry. I am. Things have gotten *much* better for me -- now that I am the ruler of the known world..." She pulls up the silvery sleeve of her gown, to check the time. "Oh god, it's already so late, I have to *go*, Harry."	“是的，哈里，确实如此。对我来说，事情已经变得*好多了*——现在我是这个已知世界的统治者……”她拉起礼服的袖子，看看时间。“天啦，真的很晚了，我必须*走了*，哈里。”
+0x010000720000408F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Perception (Sight)	A tiny golden watch with red straps... around her bony little wrist.	一块嵌在红皮带上的小金表……环绕在她纤细的手腕上。
+0x01000072000040AF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Do what?"	“做什么？”
+0x01000072000040CA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Call me like that..."	“你那样称呼我……”
+0x01000072000040D7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Suggestion	You ruined it. There was still a chance. You should have waited longer -- she would have called *you* instead!	你毁掉了一切。本来还有机会的。你应该再等一会儿——她说不定反而会打给*你*！
+0x01000072000040E3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I know. You would have called me yourself, if I just let you. I was too impatient."	“我知道。如果我让你这么做的话，你可能会亲自打给我。是我太急躁了。”
+0x01000072000040E9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"It wasn't me. It was my hand." (Raise your right hand.) "My fingers called you."	“那不是我。是我的手。”（举起你的右手。）“我的手指打给你的。”
+0x01000072000040EF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Let's talk about SOMETHING ELSE."	“我们聊聊别的吧。”
+0x01000072000040F9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Oh, Harry? Do you really think so? We haven't talked in *years*... I don't want to call you. I don't want to hear from you. I think of you less and less every year, weeks go by without me remembering you..."	“哦，哈里？你真这么觉得吗？我们已经*好多年*没有说过话了……我不想打给你。我不想听到你的消息。一年年过去，我想你的次数越来越少。好几个星期过去了，我都不会记起你……”
+0x0100007200004100	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Months already. Soon it will be years. Every season that passes the lights get less clear. I sit there, in Mirova -- in the holy gratitude of my bliss -- I put my hand on my belly and *smile...*"	“已经几个月了。很快就会变成几年。每个季节过去，灯光都会变得越来越不清晰。我坐在那里，在米诺瓦——在欣喜若狂的感恩中——我会把手放在自己的肚子上，然后*微笑*……”
+0x0100007200004107	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"They shouldn't have. They really shouldn't. I was in Mirova already. Safe. In the warmth of the night. Wrapped in my future love. There, I think of you less and less, whole weeks go by without me remembering you..."	“不会的，真的不会。那时我已经在米诺瓦了。很安全。在温暖的夜晚。被未来的爱人环抱。在那里，我会越来越不想你，甚至整个星期都不会记起你……”
+0x010000720000410D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Shivers	Black-eyed dogs wander the alleys, apple trees hang their bony limbs low over the patchwork of roofs: red and black. Revachol West, the evening sun -- she's left and bloomed. Far away from us. Our vast soul.	黑眼睛的野狗在小巷中游荡，苹果树那干枯的树枝低垂在层层叠叠的屋顶：红黑相间。瑞瓦肖西部，黄昏的太阳——她走了，精神焕发。离我们远远的。远离我们广阔的灵魂。
+0x0100007200004116	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Hand/Eye Coordination	The DEATH BLOW is coming.	致命一击就要来了。
+0x010000720000411E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Months already. Soon it will be years without the hurt. I sit there in Mirova -- in the holy gratitude of my bliss -- I put my hand on my belly and *smile...*	“已经几个月了。很快就会变成几年。每个季节过去，灯光都会变得越来越不清晰。我会坐在米诺瓦——在欣喜若狂的感恩中——我会把手放在自己的肚子上，然后*微笑*……”
+0x010000720000412F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Your name..."	“你的名字……”
+0x010000720000413C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Logic	Is Dora. That's what the voice said on the phone.	是朵拉。就是你在电话里听到的声音。
+0x0100007200004142	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Logic	Means pain.	意味着痛苦。
+0x010000720000414A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	Nothing, just pillows against you. Unresponsive... but for the taste of apricots.	什么也没有，只有枕头靠着你。毫无反应……只有杏子的味道。
+0x010000720000415C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Dora is short for Dolores...	朵拉是德洛莉丝的简称……
+0x0100007200004162	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	No. It can't be that. She's Dolores Dei, the innocence of humanism.	不，不可能的。她是德洛莉丝·黛，人道主义的无罪女王。
+0x010000720000416A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Logic	You're right. I'm useless and boring. There is nothing I can add to you. You should get someone better to do this with...	你是对的。我一无是处，又无聊透顶。我已经没什么可以补充的了。你应该找个更好的人做这个……
+0x0100007200004178	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Logic	...Du Bois, yes. Dora Du Bois.	……杜博阿，是的。朵拉·杜博阿。
+0x010000720000417F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Are you Dora Du Bois?"	“你是朵拉·杜博阿吗？”
+0x010000720000418E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Dora, is that you?"	“朵拉，是你吗？”
+0x0100007200004198	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Oh no, no-no-no-no." She shakes her head. "We're not doing that again."	“哦不，不不不不。”她摇摇头。“我们不会再来一遍了。”
+0x010000720000419F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Yes, Harry, it's me." She sighs.	“是的，哈里，是我。”她叹了口气。
+0x01000072000041B7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"That's why I think of Dolores Dei..."	“难怪我一直想着德洛莉丝·黛……”
+0x01000072000041BE	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Why what?"	“什么为什么？”
+0x01000072000041CF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Hand/Eye Coordination	That was not the death blow yet. You saved yourself -- for now. Keep stumbling around and it *will* happen.	这还不是致命一击。你救了自己——暂时而已。继续四处嗑嗑绊绊，它*就会*发生。
+0x01000072000041E0	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	It's Dolores Dei. That's all.	就是德洛莉丝·黛。就是这样。
+0x01000072000041E7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	The mysterious smile on her lips keeps stretching wider, as if she's forgotten you're there. In some great and calming thought. Then she notices you -- and it's immediately gone.	她的嘴唇上挂着的神秘笑容咧得更宽了，就好像她已经忘记你还在那里。她陷入了某种浩瀚又平静的思绪中。然后她又注意到了你——它就立即不见了。
+0x01000072000041EE	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're the symbol of pain."	“你是痛苦的象征。”
+0x01000072000041F5	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	I don't want to say that.	我不想这么说。
+0x01000072000041FC	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Great. Now I'm the *symbol of pain*." The smile immediately disappears from her face. The air remains just as cold.	“很好。现在我是*痛苦的象征*了。”笑容瞬间从她脸上消失。空气还是那么的冰冷。
+0x0100007200004208	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"But-- I thought if I threw the damned letter away it would help."	“但是——如果我把那封该死的信扔掉，我想会有所帮助的。”
+0x010000720000420E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It doesn't look like it did, Harry. I'm sorry. I shouldn't have wrote you any letters. I was too young then..."	“看起来不太可能，哈里。我很抱歉。我不应该继续给你写信的。我那时太年轻了……”
+0x010000720000421B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"We both said a lot of things. We were very young."	“我们都说过很多话，我们都还很年轻。”
+0x0100007200004229	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Actually, you didn't *say* it. You *wrote* it in a letter, a handwritten letter. I kept it in my paperwork."	“事实上，你不仅仅是*说*了。你还*写在*一封信里，一封手写信里。我一直把它放在我的文件里。”
+0x010000720000422F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"It doesn't matter anymore."	“已经不重要了。”
+0x0100007200004237	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"As *queen regnant* I write a lot of letters." She brushes a strand of white hair out her eye.	“作为*当朝女王*，我写了很多封信。”她剥开眼睛里的一缕头发。
+0x0100007200006E91	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Rhetoric	You need to recite it to her. For effect. All of it. No summaries.	你需要背给她听。为了达到效果。所有一切。不要概括。
+0x0100007200006E9E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Interfacing	It was her. I can feel it. I can see it in her tender, long fingers. In her wrists... Her hand wrote it. Said those things.	是她。我能感觉到。我能在她温柔纤长的手指里看见，还有她的手腕……她亲手写的。说出那些话吧。
+0x0100007200006EB9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You know what I mean. You left me a letter saying you will always come back to me. That you can't believe how happy you are with me." (Summarize.)	“你知道我是什么意思。你给我留下一封信，说你总是会回到我身边。还说不敢相信跟我在一起有多开心。”（概括。）
+0x0100007200006EC1	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I have it right here -- let me refresh your memory. Let's take a..." (Pause bitterly.) "...trip down memory lane." (Start reciting.)	“它就在我这里——让我帮你恢复一下记忆。让我们……”（苦涩地暂停片刻。）“……深入往事的回忆。”（开始背诵。）
+0x0100007200006ED0	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Pain Threshold	Yeah. Put a stake through your heart. She'll get hurt too -- collateral damage.	是啊。把木桩插入你的心脏。她也会受伤——连带伤害。
+0x0100007200006EDD	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Savoir Faire	She won't get hurt, she'll bend out of the way.	她不会受伤的，她会躲开的。
+0x0100007200006EF5	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Please, Harry, I just don't have time for this."	“拜托，哈里，我真的没时间。”
+0x0100007200006EFB	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	(Take out the letter and read.) "Every morning, when I step out and you're asleep behind me, I find a LITTLE PIECE OF SADNESS in me. I carry it in my chest down Voyager road."	（拿出信，念了起来。）“每天清晨，当我走出去，身后的你还在沉睡，我感觉自己有一点点悲伤。我把它藏在心底，沿着远航路走下去。”
+0x0100007200006F01	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"..."	“……”
+0x0100007200006F07	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Every step I take, it grows. Until by the time I reach the fuel station it has filled me COMPLETELY. I step on the light rail and look back, something-something, bow collector. I know it will be like this -- until I WALK BACK TO YOU..."	“我每走一步，它都会生长。当我走到加油站的时候，它已经充斥了我的全身。我踏上轻轨，回头张望，那个东西，弓形集电器。我知道会是这样——直到我最终回到你身边……”
+0x0100007200006F0D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"..."	“……”
+0x0100007200006F13	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You, you. Every step I take will get LIGHTER. It almost makes me RUN. Sometimes I do. I can't believe I met you, I can't believe the happiness I feel with you. You have a vast, vast soul and I will always ALWAYS, ALWAYS come back to it."	“你啊你。我每走一步，脚步就越发轻盈。几乎让我想要开始奔跑。我有时会那样做。不敢相信我会遇见你，不敢相信跟你在一起的那些快乐。你拥有如此浩瀚又博大的灵魂，而我也将一直，永远回到它身边。”
+0x0100007200006F1A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Okay, stop. Yes," she surrenders. "Are you happy now?"	“好了，停住。是的，”她投降了。“现在你开心了吗？”
+0x0100007200006F20	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"There's more: kisses-kisses-kisses."	“还有更多呢：吻你-吻你-吻你。”
+0x0100007200006F26	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"It's a good thing I'm *already* passed out and bleeding this time. Otherwise I'd pass out *again*."	“好在这次我*已经*晕倒了，还在流血。不然的话，我可能*又会*晕过去。”
+0x0100007200006F2C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Being a police detective, I have performed a handwriting analysis on this, so I *know* it was you."	“作为一个警探，我对它进行了笔迹分析，所以我*知道*是你。”
+0x0100007200006F59	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"What do you mean stopped saying things?"	“你说*不再说话*是什么意思？”
+0x0100007200006F60	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"It doesn't say anything anymore. I think there was something I had to do with it. But I didn't. And now it's dead."	“它再也不会说什么了。我觉得自己必须做点什么。但我没有。所以现在它死了。”
+0x0100007200006F66	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Nothing."	“没什么。”
+0x0100007200006F70	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"No, I'm not happy."	“不，我不开心。”
+0x0100007200006F76	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She sighs in frustration. "Then why are you *doing* this?"	她挫败地叹了一口气：“那你为什么还要*这样做*？”
+0x0100007200006F9E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"... it was *a hundred million years ago*. I was someone else then -- filled to the brim with love for you. Hanging on your every word. Oh Harry, you were the *coolest*... But I am no longer that person. This..." She points to herself. "... has taken her place. It will devour you. Harry -- I will eat your mind."	“……那已经是*一亿年前的事了*。那时的我是另外一个样子——身心都充满了对你的爱。会记住你说出的每一个字。哦，哈里，曾经的你是*最酷的*……但我不再是那个她了。这个人……”她指了指自己。“……已经占据了她的位置。它会毁灭你。哈里——我会吞噬掉你的精神。”
+0x0100007200006FA7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Very well," she sighs. "I wrote it. It was morning, you slept. There was hoarfrost on the ground when I left. On Voyager Road. It was autumn, the first autumn. But Harry, please understand -- it was a million years ago. No..."	“很好，”她叹了口气。“是我写的。那是一个清晨，你还在睡觉。我离开的时候，地上起了白霜。在远航路上。那是一个秋天，第一个秋季。但是哈里，请理解——那已经是一百万年前的事了。不……”
+0x0100007200006FBA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Voyager Road -- I know that place. Where is it?"	“远航路——我知道那个地方。那是哪里？”
+0x0100007200006FC0	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Where is this Voyager Road?"	“远航路在哪里？”
+0x0100007200006FCC	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"What now? What happens now? What is the next thing we talk about?" (Conclude.)	“那现在呢？现在会怎么样？我们接下来要聊什么？”（总结。）
+0x0100007200006FD2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I was... cool?"	“我很……酷？”
+0x0100007200006FD7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Can't you turn back to the person you were? Can't you think I'm cool again?"	“不能变回你曾经的样子？难道你不觉得我又变酷了吗？”
+0x0100007200006FDF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"We will always have what was." She leans on her hand luggage and smiles faintly: "I will always be *influenced* by it. But it is over. Now only total, unrelenting hell remains."	“我们将永远拥有过去。”她靠在自己的行李上，勉强地笑了笑。“我一直会被它*影响*。但是一切都结束了。现在只剩下完全的，无情的地狱。”
+0x0100007200007005	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"There was a bow collector. A light rail. Street car number..."	“那里有个弓形集电器。一趟轻轨。电車号码……”
+0x010000720000700F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"The coolest..." She closes her eyes: "With your leather jacket and your boot cut pants. Smoking in the bus stop. I wanted you to be the rest of my life that day. And you were -- some of it, at least. You were my first. My first kiss, my first time to have sex."	“是最酷的……”她闭上双眼：“穿着你的皮夹克，还有喇叭裤。在公交車站抽烟。那一天，我觉得往后余生都是你。而你就是——至少其中一部分是。你是我的第一个男人。我的初吻，我的初夜。”
+0x0100007200007016	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Perception (Sight)	The light of the video rental shines through her dress now. A Dolorian figure, cut in black, moves below. It's still her. Her legs, her breasts, her hips...	录像带租赁店的灯光照耀在她的裙子上。一个黑色的德洛莉丝人形，在下面移动。她还是她。她的双腿，她的胸膛，她的臀……
+0x0100007200007020	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"The first -- and worst -- time I fell in love. I will always have that with me. It's a fact. But that is all it is. It's like a ticket stub, Harry. It doesn't *do* anything anymore."	“那是我第一次——也是最糟糕的一次——陷入爱情。我会一直背负着它。这是个事实。但是一切也就这样了。就像一张車票存根，哈里。它再也没有什么*用处*了。”
+0x0100007200007026	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"A ticket stub..."	“一张車票存根……”
+0x0100007200007033	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Yes. Let's talk about that too." She nods. "Let's bring it up -- the zoo. In Le Jardin. The day we went east of the river. To the aquarium first... I was sad about my mother. I don't even know why. The shimmer of the fish tank on my face, the octopuses..."	“是的。我们也说说那个吧。”她点点头。“我们谈一谈——那个动物园。在勒雅尔丹。就是我们去河流东岸那天。第一次去水族馆……我为自己的母亲感到难过。我甚至都不知道是为什么。鱼缸的微光照在我的脸上，那只章鱼……”
+0x0100007200007039	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It was just a day then, but to think! Were we there now, you could touch my hair, kiss me. Talk to me about anything; go..." She shakes her head. "...virtually *anywhere* in the world. Not like now -- now our interactions are limited to *pain and regret*."	“那只是一天而已。但是想想！如果我们现在在那里，你可以抚摸我的头发，亲吻我。跟我谈论任何事情；去……”她摇摇头，“……几乎可以说是世界上的*任何地方*。而不是像现在——现在我们的交流已经被限制在了*痛苦与后悔*之中。”
+0x0100007200007042	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Logic	That's sharp. And precise.	很尖锐，而且很精准。
+0x010000720000704F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're so sharp..."	“你真的很尖锐……”
+0x0100007200007055	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	No.	不。
+0x010000720000705C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No, it's all you. I always loved you for it -- but it could not save us. It could not make me stay. In the end your mind just told you precisely how *bad* things are, and who would want to stay around for that?"	“不，全都是你。我会一直因为它爱着你——但它不能拯救我们俩。它不能让我留下来。最后，你的脑袋只是精确地告诉你，事情到底有多*糟糕*，谁又愿意为此留下来呢？”
+0x0100007200007063	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Electrochemistry	You would be right to drown this shit in alcohol. Drown it... until your neurons depolarize. Until it's gone, melted.	你把这鬼东西浸泡在酒里是对的。淹死它……直到你的神经细胞退极。直到它消失，融化。
+0x010000720000706B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Logic	Why? There is still a way to win her back, you know. All you need to do is *analyze*.	为什么？还有办法能把她赢回来，你知道的。你唯一要做的就是*道歉*。
+0x0100007200007079	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Can't you turn back to the person you were? I can see her in you. Under the gown and that wreath.."	“难道你就不能变回曾经的那个你吗？我还能在你身上看到她的影子。就在礼服和花冠下面……”
+0x0100007200007082	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No. You scared it out of me. With your crying. Your hysteric..." She stops. "The awful time we wound up having. In the cheap rental flats you could afford..."	“不。你把她吓跑了。用你的哭泣，你的歇斯底里……”她停顿了一下。“我们最后过得很糟糕。在你能负担起的一个廉价出租公寓里……”
+0x0100007200007089	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Can't you see -- I can never think you're cool again. I can only think that way about *new* people."	“你没看见吗——我再也不会觉得你很酷了。我只会像那个*新的我*一样思考。”
+0x010000720000708F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"And my Crown of Immortality? No." She shakes her head. "You scared her out of me. With your crying, your..." She stops. "The awful time we wound up having. In the cheap rental flats you could afford..."	“还有我的不朽王冠吗？不。”她摇摇头。“你把她吓跑了。用你的哭泣，你的歇斯底里……”她停顿了一下。“我们最后过得很糟糕。在你能负担起的一个廉价出租公寓里……”
+0x01000072000070A3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"There." She points across the water, into the darkness. "You could not pay the electrical bill. It became a lightless tomb. The years you spent training for the militia, my parents' money... It was not good."	“那里。”她指着漆黑一片的对岸。“你没办法付清电费账单。它变成了一座黯淡的坟墓。你在公民武装训练了那么多年，我父母的钱……这并不好。”
+0x01000072000070A9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It's here." She looks around. "We are *on* Voyager Road. At the end of it -- three hundred metres from the stop. We used to come here to rent videos."	“就在这里。”她四下看了看。“我们*就在*远航路上。在它的尽头——离車站300多米。我们以前会来这里租录像带。”
+0x01000072000070C5	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Rhetoric	It wouldn't be a cheap rental this time...	这次不会是廉价公寓了……
+0x01000072000070CB	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Rhetoric	You're a better man now. With a rank, in a powerful, armed organization.	现在你已经变成一个更好的男人了。有了职称，还隶属于一个强大的武装组织。
+0x01000072000070D1	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Rhetoric	A cheap rental... with mold on the walls, and the tap dripping.	一个廉价公寓……墙上长满苔藓，水龙头在嘀嗒。
+0x01000072000070DA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	It won't help anyway.	反正也没什么用。
+0x01000072000070E0	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Cheap flats... So the rich man took you from me."	“廉价公寓……所以是有钱人把你从我身边夺走了。”
+0x01000072000070E6	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"We can get a nice place this time. I can provide for you. I was young and weak then."	“这次我们可以找个更好的地方。我可以提供给你的。那时候的我太年轻也太脆弱。”
+0x01000072000070EC	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I can afford a better place this time. We can try again -- this time with money. I can *win* now."	“这次我能负担起一个更好的地方。我们可以再试一次……这次我们有钱了。现在我可以*赢*了。”
+0x01000072000070F2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Yes. I have found someone. For whom I can feel the same -- a copy of my love for you, only this time he is careful and rich. He will not lose me. It will go somewhere. It will grow..."	“是的。我已经爱上别人了。在他身上我找到了相同的感觉——他是我对你的爱的复制品。但区别是，他很富有也很贴心。他不会失去我的。我们之间会有结果的。它会成长……”
+0x01000072000070F8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No. It's too late. I found someone for whom I feel the same love I did for you. Only this time -- he is more careful, he will not lose me. It will go somewhere. It will grow..."	“不。已经太迟了。我已经找到某个人了。我爱他就像曾经爱你一样。只是这一次——他更小心，不会失去我的。我们之间会有结果的。它会成长……”
+0x0100007200007107	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Rhetoric	Nothing will. I've been poisoned by newspaper and news. All I can do is scream at them and think of her, secretly.	什么都没用。我被报纸和新闻毒害了。我唯一能做的就是朝着他们尖叫，然后偷偷摸摸地想她。
+0x010000720000710D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Harry, do you notice how... none of this is very *funny*?"	“哈里，你注意到了吗……这一切并不*有趣*？”
+0x010000720000711D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"No, this is very funny. Ha-ha-ha."	“不，这很有趣。哈哈哈。”
+0x0100007200007123	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Yes. You are the least funny part about me."	“是的。你是我身上最无趣的那部分。”
+0x0100007200007129	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"What did you mean by *grow*?"	“你说*成长*是什么意思？”
+0x0100007200007132	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She smiles mysteriously, looking east. Then turns her gaze back to you. The smile is gone.	她看向东方，神秘地笑了。接着她回头看着你。笑容消失了。
+0x010000720000713A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Reaction Speed	Your heart burns. Through the blackness you feel the treacle of blood on the mattress below you...	你的心在烧。透过黑暗，你感到身下的床垫渗透出浓稠又甜蜜的血浆……
+0x0100007200007144	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Stop laughing like that, please. It's *scary*."	“别这样笑了，求你。有点*吓人*。”
+0x010000720000714B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I hate being that. I don't want to be anything for you. I hope the decades it takes for you to get over me have already passed."	“我讨厌那样。我不想为你做任何事。如果说你要花十年才能忘记我，那我希望它已经过去了。”
+0x010000720000715C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Forty-two," she nods sadly. "That is the light rail that took me to Couron, to school and work. Every morning... it's the same stop I met you at, Harry. A hundred thousand million years ago..."	“42，”她悲伤地点点头。“就是那个轻轨带着我去了科戎，去上学，去工作。每天清晨……我总会在同一个車站遇到你，哈里。就在十亿年以前……”
+0x0100007200007165	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No human being should still remember the position of atoms such... aeons ago. It must feel unnaturally sad -- a sadness so ancient, it is shared even by archaebacteria."	“没人应该记得它的位置，特别是……那么漫长的时间之前。那样肯定会感觉到不自然的悲伤——那么古老的悲伤，甚至太古细菌都与之共享。”
+0x0100007200007171	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"The house..."	“那栋房子……”
+0x0100007200007181	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It's here, Harry." She looks around. "We are *on* Voyager Road. At the end of it -- three hundred metres from the stop. We used to come here to rent videos."	“它就在这里，哈里。”她看了看周围。“我们*就在*远航路上。在它的尽头——离車站300米。我们以前会来这里租录像带。”
+0x0100007200007189	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Is there really anything left? If not, we can always repeat one of the things we have already talked about. Talk about it *again*..." She looks over her shoulder. "If you do not to feel like doing that, you should let me go the aerodrome."	“还有什么剩下的吗？如果没有，我们可以一直重复之前已经讨论过的话题。*再*讨论一次……”她回头看了看。“如果你不想这么做，那就应该放我去机场。”
+0x010000720000719A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Interfacing	Don't let her. Don't let her go there. You should re-do the topics. Go over *everything*, the things you didn't say before too. Make it go on and on...	别让她这么做。别让她去那里。你应该重新寻找话题。重温*一切*，想想你之前还没有说过的东西。让这一切不断的继续……
+0x01000072000071A2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She shakes her head. "I am actually very ordinary, Harry. Below this gown and wreath I have an ordinary soul and ordinary thoughts. The only thing inhuman about me is this..." She looks around.	她摇摇头。“我真的很普通，哈里。在这件礼服和花冠之下，我拥有的是普通的灵魂和普通的思想。我唯一不人道的就是……”她看了看周围。
+0x01000072000071A8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"This *thing* you've made me into. I'm sorry for saying so, but I just *hate* it. What is this? This is so far gone, Harry, I don't even..."	“就是你把我变成的这个*东西*。很抱歉我这么说，但我真的太*恨*它了。这是干什么？一切已经早就过去了，哈里，我甚至不能……”
+0x01000072000071BD	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"My lungs do not *glow*, Harry. I am just like all the others. None of us have glowing lungs -- stop making me into some kind of..."	“我的肺部不会*发光*，哈里。我只是跟其他人一样。所有人的肺都不会发光——别再让我变成某种……”
+0x01000072000071C3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"No, you're special. You had glowing lungs."	“不，你是特别的。你的肺会发光。”
+0x01000072000071C9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Inland Empire	Then it's you. *You* will make her lungs glow. Your pain is NOT meaningless.	那就是你。*你*会让她的肺发光。你的痛苦不是毫无意义的。
+0x01000072000071CF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Then *I* will make you different. I will make your lungs glow. I will make you last *forever*."	“那*我*会让你变得不同。我会让你的肺发光。我会让你变得*永恒*。”
+0x01000072000071D5	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Oh, Harry... There is only one way for humans to last forever -- and you did not do that to me..." She shakes her head.	“哦，哈里……人类只有一种方法才能变得永恒——-你一定不会想那样对我的……”她摇摇头。
+0x01000072000071DB	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I will build you a temple of light with my mind. A temple of unimaginable proportions. It will be something no one has ever done before. I will build it with computers."	“我会在脑子里为你建造一座光之神庙。一座大到难以想象的庙宇。这会是一件没人做过的壮举。我会用电脑把它构建起来。”
+0x01000072000071E1	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"An immortal temple of light? That sounds nice. I *do* want someone to do that for me -- who wouldn't? -- but not you. I don't want *anything* from you."	“一座永恒的光之神庙？听起来好像不错。我*确实*希望有人能为我这样做——谁不想呢？——但是你不行。我不想从你这里得到*任何东西*。”
+0x01000072000071E7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're right. You don't have glowing lungs. You don't deserve them."	“你是对的。你没有会发光的肺。你不配。”
+0x01000072000071F5	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Volition	Surely the alcohol didn't help either.	当然了，酒精也帮不上忙。
+0x0100007200007201	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She looks at her toenails sticking out from under the gown. "Everyone has a little glass of wine every now and then. I certainly do. It's a *queen regnant* thing. I don't think it was the alcohol -- it was *inevitability*."	她看着礼服下伸出的脚趾头。“每个人时不时都会来上一小杯酒。我也一样。就是*当朝女王*的感觉就是了。我不觉得那是酒——那是*无法逃避的事情*。”
+0x0100007200007207	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Was I... were *we* drinking?"	“我有没有……*我们*有没有喝酒？”
+0x010000720000720D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	No, that's not it. It's super easy to quit drinking. And it has no effect on human relations of this kind.	不，不是这样的。戒酒真的非常容易。而且对这类人际关系没有任何影响。
+0x0100007200007216	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Electrochemistry	See. If you drank with her, you'd be cool again. If you drank with her, you could have sex on alcohol...	看见了吧。如果你跟她一起喝酒，你又能变酷了。如果你跟她一起喝酒，就可以一起醉醺醺的颠鸾倒凤了……
+0x010000720000721D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Volition	You are right.	你是对的。
+0x010000720000722E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Okay, Harry." She sighs. "Okay. It was morning and you slept. The room smelled of cigarettes and rowans. There was hoarfrost on the ground, when I left. It was autumn, the first one we had together. But you have to understand -- it was a million years ago. No..."	“好吧，哈里。”她叹了口气。“好吧。那是一个清晨，你还在睡觉。房间满是香烟和花楸的味道。我离开的时候，地上都是白霜。那时已经是秋天了，我们一起度过的第一个秋季……你必须理解——那已经是一百年前的事了。不对……”
+0x010000720000723A	Alternate1	DREAM SEAFORT / DOLORES DEI	You	"Mass murderer!"	“杀人凶手！”
+0x010000720000723A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"War criminal!"	“战犯！”
+0x010000720000724D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"That is *very* contested by modern historians." She tramples her little feet for warmth and adds: "Very contested. Plus..."	“对于现代历史学家来说，这一点受到了*非常*强烈的质疑，”她跺着脚想要暖和一下身体，然后接着说到：“强烈的质疑。再加上……”
+0x0100007200007253	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Who says that? I have ruled with kindness, grace and temperance. It's perfectly normal to have an Army of Humanity. I am the innocence of humanism -- I call it whatever I want to."	“谁说的？我是个仁慈，优雅又节制的统治者。拥有一支人道的军队完全是正常的。我是人道主义的无罪女王——我想怎么称呼它都可以。”
+0x010000720000725B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"You're only saying this because things didn't work out between us. I have to go to the aerodrome now. I don't have time to defend myself from these accusations."	“你这么说是因为我们之间没有结果。现在我必须去机场了。我没时间为这些控诉辩解。”
+0x0100007200007275	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Besides, you're only saying this because things didn't work out between us." She stops. "I really have to go to the aerodrome, I don't have time for this."	“再说，你只说这是因为我们俩之间没有结果。”她停顿了一下。“我真的要赶去机场了，我没时间说这个。”
+0x010000720000727C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Suggestion	Stop making her angry! She won't start loving you again if you call her a war criminal. Seriously.	别再惹怒她了！如果你叫她战犯，她是不会再次爱上你的。我是认真的。
+0x0100007200007283	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Suggestion	Stop making her angry. She won't start loving you again if you call her a *mass murderer*. Seriously.	别再惹怒她了！如果你叫她*杀人凶手*，她是不会再次爱上你的。我是认真的。
+0x010000720000729C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Would you say you haven't behaved like a mass murderer -- with me?"	“你会说你在我面前没有表现的像个杀人凶手吗？”
+0x01000072000072A2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're right. I'm sorry. You're soft and good, not a mass murderer."	“你说得对。我很抱歉。你温柔又善良，不是杀人凶手。”
+0x01000072000072A8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're right. I'm sorry. You're soft and good, not a war criminal."	“你说得对。我很抱歉。你温柔又善良，不是战犯。”
+0x01000072000072AD	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Would you say you didn't behave like a war criminal with me?"	“你会说你在我面前没有表现的像个战犯吗？”
+0x01000072000072C4	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"You were very bad to me too..." She stops. "We've talked about it like seven million times now, I don't want to do that anymore."	“你对我也很糟糕……”她停顿了一下。“我们已经说过大概700万次了，我不想再来一遍。”
+0x01000072000072CC	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I'm not that either... Can't I just *be*?"	“那也不对……难道我不能*就是我*吗？”
+0x01000072000072F4	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I can still make your lungs glow, I know I can. If you only let me."	“我还能让你的肺发光，我知道我可以。只要你允许我这么做。”
+0x01000072000072FA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"But then this is all meaningless."	“但是那就毫无意义了啊。”
+0x0100007200007300	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It is -- and it's making me late for my beautiful-beautiful flight to Mirova. Far, far away from you -- and Revachol."	“没错——而且这会让我赶不上那趟飞往米诺瓦的美丽航班。远远地，远远地离开你——还有瑞瓦肖。”
+0x0100007200007310	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Conceptualization	She will -- once you have erected the TEMPLE OF LIGHT.	她会的——只要你建好光之神庙。
+0x0100007200007325	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	No answer. The arches of her brows quiver as she looks you in the eye and backs away from you...	没有回应。她看向你的眼睛，紧皱的眉头微微颤抖，随后背过身去……
+0x010000720000732C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Empathy	You won't do any of that. You can barely make her cry.	你不会这样做的。你已经不太可能让她流泪了。
+0x0100007200007336	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I didn't ask for them either. They're just a folk tale that has nothing to do with my reign, or the direction I have set our species on..." She glances over her shoulder, then back at you.	“我也没有要求啊。那只是民间故事，跟我的统治，或者我为人类设定的方向没有一点关系……”她往后看了一眼，然后转回头望着你。
+0x010000720000733C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Empathy	You couldn't make her lungs glow anyway, only cry. And maybe not even that anymore.	再说你也没办法让她的肺发光，你只会让她哭泣。而且就连后者，也不太可能了。
+0x010000720000734C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Her cheek against mine...	她的脸颊贴着我……
+0x0100007200007352	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Cold silver against my forehead...	冰冷的银光拂过我的前额……
+0x0100007200007360	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	...feels like soft fuzz, a bird covered in down feathers. Brushing against your broken capillaries.	……感觉就像柔软雪白的绒毛，一只被羽绒覆盖的小鸟。轻轻扫过你那破碎的毛细血管。
+0x0100007200007366	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You're not... kissing me back." (End.)	“你没有……回吻我。”（总结。）
+0x0100007200007372	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	The delicate wreath on her forehead, pressing into your temple. The silver is cold from the spring evening air.	她前额上精美的花冠压在你的太阳穴上。白银在春日的晚风中感觉十分冰凉。
+0x0100007200007378	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	The moment is ending. She is going to move her face away from yours...	这一刻就要结束了。她要把脸移开……
+0x0100007200007391	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Okay, I'm not gonna push it. I have other questions."	“好吧，我不会逼你的。我还有其他问题。”
+0x0100007200007398	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Other questions are the last thing I need right now..." She cups her ear.  "Hush, can you hear? I think that's the 42..."	“其他问题是我现在最不需要的东西……”她捂住了自己的耳朵。“嘘，你没听见吗？我觉得那是42……”
+0x010000720000739F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Perception (Hearing)	It's not. It's not that yet. It's another, you have plenty of time to win her over with *questions* and kisses...	不是。还没到。是别的，你还有很多时间，可以用*问题*和亲吻挽回她。
+0x01000072000073A8	Alternate1	DREAM SEAFORT / DOLORES DEI	You	"I have discovered a new species -- I will name it in your honour. It's beautiful like you, and also has a white head. I'll call it Doraensis." 	“我发现了一个新物种——我将以你的名字为它们命名。它就像你一样美丽，而且脑袋也是白色的。我就叫它德莉竹节虫。”
+0x01000072000073A8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I have discovered a new species -- I will name it in your honour. The Dolorian Phasmid. It's beautiful like you and also has a white head."	“我发现了一个新物种——我将以你的名字为它们命名。德洛莉丝竹节虫。它就像你一样美丽，而且脑袋也是白色的。”
+0x01000072000073AE	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Reaction Speed	The phasmid queen! Quick!	竹节虫女王！快！
+0x01000072000073C3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"That sounds like it would be in the news... I don't want that, okay?" There's a pause. "Please don't name it that. You discovering a new species changes nothing. If someone else discovered a new species and named it after me, then I would be flattered. But not you."	“听起来好像能上新闻……我不想要，好吗？”她停顿了一下。“请不要起这种名字。就算发现新物种，也改变不了什么。如果其他人发现一个新物种，然后以我命名，那我会感到很荣幸。但你不行。”
+0x01000072000073D6	Alternate1	DREAM SEAFORT / DOLORES DEI	You	It failed...	失败了……
+0x01000072000073D6	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	But I succeeded...	但是我成功了……
+0x01000072000073DC	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Suggestion	This was not about failure or success. This was always going to be horror. I should not have suggested it, and you should not have listened to me.	这与失败或者成功无关。一切总是会变得惨不忍睹。我不应该这么建议，而你也不应该听我的。
+0x01000072000073E2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Squeeze her wrist.	紧握她的手腕。
+0x01000072000073E9	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	Her hand does not return the grip. Her body is rigid. A current of unease courses through it.	她的手没有任何回应。她的身体很僵硬，一股不安的电流从中穿过。
+0x01000072000073F0	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She is not kissing you back.	她没有回吻你。
+0x01000072000073F8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	I feel her breath...	我感觉到她的呼吸……
+0x0100007200007407	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	Her chest rising like a pillow, warm exhalations against the side of your mouth -- her tender soul moving through her lungs.	她的胸膛像枕头一样起伏，你的唇边感到一股温热的气息——那是穿过她肺部的柔软灵魂。
+0x0100007200007415	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Conceptualization	The world's most precious material, reserved for those she lets close enough to feel it. You are stealing a touch. It's not yours to take.	这个世界上最珍贵的布料，只留给那些能够足够靠近她的人去感受。你偷走了一下轻触，但它并不属于你。
+0x010000720000741E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Inland Empire	Hidden, distant, kept safe from you.	隐蔽的，遥远的，远离你。
+0x0100007200007426	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Interfacing	Distrust. For you. The curve of her spine, her shoulders hunched. She keeps herself stiff, her centre guarded from your motions, unresponsive to your guidance.	怀疑。对你的怀疑。她脊椎的曲线，她蜷缩的双肩。她让自己变得僵硬，远离你；她的中心抵御着你的动作，对你的引导毫无反应。
+0x0100007200007439	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Perception (Smell)	Apricot scented chewing gum.	杏子口味的口香糖。
+0x0100007200007447	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	...trying hard not to look at you. When she withdrew and you held on to her hand she tried not to look at your face and see the expression there.	……努力试着不去看你。她想要收回的时候，你抓住了她的手。她试着不去看你的脸，不想让你看到上面的表情。
+0x010000720000744E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Suggestion	Brother, you should put me in front of a firing squad. I have no words for how I failed you.	兄弟，你应该把我放在行刑队前面。我辜负了你，我无话可说。
+0x010000720000745B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You didn't kiss me back."	“你没有回吻我。”
+0x0100007200007461	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"*You're* the Apricot Chewing Gum Scented One."	“*你是*杏子味的口香糖。”
+0x0100007200007467	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Why didn't you kiss me back?"	“你为什么没有回吻我？”
+0x010000720000746D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"That's it then."	“那就这样吧。”
+0x0100007200007476	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She breathes out, heavily, as if something painful has passed through her -- and shakes her head.	她重重地呼了一口气，就好像是某种痛苦穿过了她的身体——摇了摇她的头。
+0x010000720000747D	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I thought you would... I know you still love me. You *can't* not."	“我以为你会……我知道你还爱我。你*不可能*不爱的。”
+0x0100007200007483	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I just needed to do that. I'm sorry."	“我必须这么做。我很抱歉。”
+0x010000720000748B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Say nothing, stand there like a useless dildo.	什么也不说，像一个没用的废物站在原地。
+0x01000072000074A2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"The world should end. Now."	“世界会结束的。就是现在。”
+0x01000072000074A8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She shakes her head one more time. The evening wind rustles her hair, blowing old newspapers and fast food wrappings down the street...	她又摇了摇头。晚风撩起她的头发，吹起了街上的旧报纸和快餐包装袋……
+0x01000072000074B1	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	It does not. It goes on. Children run in the back alleys. Pigeons take flight. She shakes her head one more time as the evening wind rustles her hair.	它没有。它还在继续。孩子们在后巷奔跑。鸽子腾空而起。她又摇了摇头，晚风撩起了她的头发。
+0x01000072000074C3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No..." She just shakes her head once more. "I'm just Dora."	“不……”她只是又摇摇头。“我只是朵拉。”
+0x01000072000074CD	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No, Harry. Not yet. There is one more thing you have to see..." She slides her hands down her chest, and onto her lower stomach. And smiles.	“不，哈里。还不行。还有一件事你必须明白……”她的手滑向胸膛，停在下腹上，然后笑了。
+0x01000072000074D4	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"*Why* did you do that to yourself? You know I don't cheat, Harry. I never cheated on you."	“*为什么*你要这样对你自己？你知道我不会背叛你的，哈里。我从来没有对你不忠过。”
+0x01000072000074DB	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I'm pregnant."	“我怀孕了。”
+0x01000072000074EE	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Is it mine?"	“是我的吗？”
+0x01000072000074F4	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"It's his, the man I heard on the phone?"	“是他的，电话里那个男人的吗？”
+0x01000072000074FA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"It's not mine."	“不是我的。”
+0x0100007200007500	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Swallow.	吞口水。
+0x0100007200007507	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Of course not." She looks down at her belly, then up into your old eyes...	“当然不是。”她看向小腹，然后对上你沧桑的双眼……
+0x010000720000750E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I terminated yours. Don't you remember, you *poor* fuck? Poverty-stricken fuck."	“我流掉了。你不记得了吗，你这个*可怜虫*？穷困潦倒的混蛋。”
+0x0100007200007515	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Now, go ahead..." She wipes her palms into the silk of her gown. "...ask me more questions. Let's talk about *something else*."	“现在，来吧……”她用掌心摩挲着丝绸礼服。“……再多问我些问题。让我们聊聊*其他事情*。”
+0x010000720000751C	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Yes. He did it." She looks down at her belly, then up into your old eyes...	“没错，是他的。”她看向小腹，然后对上你沧桑的双眼……
+0x0100007200007522	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I terminated yours. Don't you remember, you *poor* fuck? You poverty-stricken fuck."	“我流掉了。你不记得了吗，你这个可怜虫？穷困潦倒的混蛋。”
+0x010000720000752E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Pain Threshold	No. This has to end. Do the last one.	不，这一切应该结束。再做最后一次。
+0x0100007200007537	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"You know what this means."	“你知道是什么意思。”
+0x010000720000753F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Of course not." She looks down at her belly, then up into your old eyes...	“当然不是。”她看向小腹，然后对上你沧桑的双眼……
+0x0100007200007549	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I forgive you that you're pregnant. I can deal with it. Just..."	“你怀孕这一点，我原谅你。我能忍受。只是……”
+0x010000720000754F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Oh, Harry... I don't need you to forgive. It's a *good* thing for me." She smiles. "It's good news, why aren't you smiling more?"	“哦，哈里……我不需要你的原谅。对我来说，这是一件*好事*。”她笑了。“这是好消息，你为什么不笑了？”
+0x0100007200007562	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Suggestion	No! Don't say it. Don't beg. It will only make her *go*!	不！别说出来。不要乞求。这样只会让她*离开*的！
+0x010000720000756A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I *have* to, Harry. Really, I've already missed the 8:30..." Her fingers wrap around the bag handle. "I'm gonna go now..."	“我*必须*走，哈里。真的，我已经错过了8:30的那班了……”她用手指缠绕在旅行箱的手柄上。“现在我该走了……”
+0x010000720000757A	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Wait, can't we sit down and have a coffee first? There's a cafeteria on the corner..." (Point east.)	“等等，我们能不能先坐下喝杯咖啡？街角就有一家咖啡店……”（指向东边。）
+0x0100007200007580	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Wait, yes! I have *other questions* first. Where's the list?	等等，没错！我应该先问*其他问题*。清单哪里去了？
+0x010000720000758B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Suggestion	Yes! Somewhere hidden among the options popping up in your nervous system... is the *right* one. That will make her love you again, and not go to the aerodrome at all!	是的！它就隐藏在你神经系统弹出来的那些选项中间……那个*正确*的答案。这样她又会重新爱上你，根本就不会去什么机场了！
+0x010000720000759B	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"No, actually, wait! I need to see my list again, I'm sorry. Where's my list? Wait!"	“不，说真的，等一下！我需要再看看我的清单，我很抱歉。我的清单哪去了？等等！”
+0x01000072000075A2	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No. Too late now. You have forgotten your list and the time is up. I am really going now. I must be on the 10:20 flight..." She turns.	“不。现在已经太迟了。你忘了自己的清单，时间也到了。现在我真的要走了。我必须赶上10：20的航班……”她转过身。
+0x01000072000075AF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Okay, I understand." (Nod silently, like a martyr.)	“好吧，我明白。”（像个殉道者一样安静地点头）
+0x01000072000075B7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	(It's all I have left.) "Please..."	（我只剩下这些了。）“求你……”
+0x01000072000075BF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"No. That would only be painful and dull. At the aerodrome -- life, love, and laughter are waiting for me. At the cafeteria -- dust, hell, and tragicomedy."	“不。这样只会让人觉得痛苦又无趣。在机场，生活、爱情和欢笑正在等待着我。在咖啡店里——只有灰尘，地狱和悲喜剧。”
+0x01000072000075C6	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Electrochemistry	A warm gust wraps her gown around her waist and between her thighs.	一阵暖风吹起，她的礼服缠绕在腰间和腿间。
+0x01000072000075D8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Perception (Smell)	An apricot scented ghost wafts out of her -- her skin, the fabric -- into the flow of the air around you.	一个散发着杏子香味的幽灵从她身上飘了出来——她的皮肤，还有衣服上——融入到你周围的空气中。
+0x01000072000075E0	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Shivers	All the roads will miss her footsteps when she's gone from here.	当她离开这里时，所有道路都会想念她的脚步。
+0x01000072000075E8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Inland Empire	A completely different world.	一个完全不同的世界。
+0x0100007200007613	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I miss you so much."	“我很想你。”
+0x0100007200007619	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"I want to go back to the completely different world. The see-through world with you."	“我想回到那个完全不同的世界。跟你一起的那个透明的世界。”
+0x0100007200007625	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Say nothing.	什么也不说。
+0x0100007200007631	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"It will pass..." The gown moves on her limbs, like water. "Everything does."	“会过去的……”礼服在她身上飘动，宛若流水。“一切都会。”
+0x0100007200007637	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Please, Harry..." The gown moves on her limbs, like water. "I don't understand what you're saying. You're pitiful and frightening, a smoky apparition of its former self."	“求你了，哈里……”礼服在她身上飘动，宛若流水。“我不明白你在说什么。你可怜又让人害怕，是过去的你那虚无缥缈的幽灵。”
+0x010000720000763F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	The gown moves on her limbs, like water. She breathes out, her breath heavy. You're running out of ideas.	礼服在她身上飘动，宛若流水。她重重地呼出一口气。你已经没主意了。
+0x0100007200007669	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"Hold on, what is there to do in Mirova?"	“等等，你打算在米诺瓦做什么？”
+0x010000720000766F	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Light, life, *culture*... It's so much better than here. Everything here reminds me of you, and the horrible times we had. The nights we stayed up fighting for our dying love."	“享受灯光、*文化*、生活……比这里要好多了。这里的一切都会让我想起你，还有和你一起的那些糟糕时光。那些彻夜不眠的夜晚，为了我们死去的爱情争执不休。”
+0x0100007200007692	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"What happens now?"	“那现在会怎么样？”
+0x0100007200007699	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"Nothing -- I have to go..." Her hand wraps around the handle of the bag in her hand again: "I'm gonna go now..."	“没什么——我得走了……”她的手又抓住了旅行箱的手柄：“我现在就要走了……”
+0x01000072000076CB	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"I have to wipe it all off me -- and be clean again. I want to be a good person again, not this. Not what you made me into."	“我要把那些全部擦掉——然后再次变得焕然一新。我想再变回那个好人，而不是现在这样。不是你让我变成的这种人。”
+0x01000072000076D3	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"But I swore I wouldn't let you go. You *told* me -- you asked me to be this way."	“但是我发誓，我不会让你走的。你*告诉*过我——是你让我这样做的。”
+0x01000072000076DA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Authority	You have sworn a holy oath Harry. She herself begged you to not let her go.	你已经许下神圣的誓言，哈里。她自己请求让你不要放她走。
+0x01000072000076E7	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	"You don't want me to let you go. Not really. You asked me not to."	“你不想让我放你走。不是真的。你让我不要这么做。”
+0x0100007200007705	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Drama	Lies, sire! She cannot but love you. She  has said so a hundred times.	撒谎，大人！她不得不爱你。她亲口说过上百遍了。
+0x010000720000773E	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"That was someone else. I betrayed her, overwrote her, and am happier for it. And I'm really going now. The time is up -- I must be on the 10:20 flight..." She turns.	“那是其他人。我背叛了她，重塑了她，而且更加快乐了。还有，我现在真的要走了。时间到了——我必须赶上10:20的航班……”她转过身去。
+0x0100007200007862	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"See you tomorrow."	“明天见。”
+0x0100007200007875	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"See you tomorrow."	“明天见。”
+0x0100007E000019BC	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"See you tomorrow."	“明天见。”
+0x0100007E000019C8	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"See you tomorrow."	“明天见。”
+0x0100007E000019CF	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"See you tomorrow."	“明天见。”
+0x0100007E000019E0	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	"See you tomorrow."	“明天见。”
+0x0100008000000007	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Cinematics KISS	如电影一般的亲吻
+0x0100008000000013	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Suggestion	With your feet trembling from the steps you took -- trepid and fearful -- you stand against her; her body close to you, radiating warmth. With your eyes closed you move your lips on her mouth.	你迈出蹒跚的步子——不温不火，又担惊受怕——站到她身旁；她的身体紧贴着你，散发着暖人的温度。你闭上双眼，嘴唇朝她的嘴唇贴了过去。
+0x0100008000000022	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Dolores Dei	She tried not to look at you -- when she withdrew and you held on to your hand. She tried not to look at your face and see the expression there.	她努力试着不去看你——她想要收回的时候，你抓住了她的手。她试着不去看你的脸，不想看到上面的表情。
+0x0100008000000029	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Cinematics END KISS	如电影般的最后一吻
+0x0100008000000031	Dialogue Text	DREAM SEAFORT / DOLORES DEI	You	Cinematics END	如电影般的结束
+0x01000081000060EA	Dialogue Text	DREAM SEAFORT / DOLORES DEI	Logic	Yes.	是的。
+0x010000060000E75A	Dialogue Text	DREAM SEAFORT / NO DOLORES DREAM	Limbic System	And the shape of the insect, its cyclical praying motion just... going on and on. That thing. Looking at you. You -- two things standing in front of each other...	还有昆虫的形状，它那周而复始的祈祷动作……不停地反复着。那个东西。看着你。你——两个东西站在彼此的面前……
+0x010000060000E761	Dialogue Text	DREAM SEAFORT / NO DOLORES DREAM	Limbic System	And a little something in there... a sensation. The bow drawn across a string. Something small and crustacean-like.	里面还有一些东西……一种感觉。弓拉过弓弦。某种很小，甲壳类的动物。
+0x010000060000E768	Dialogue Text	DREAM SEAFORT / NO DOLORES DREAM	Ancient Reptilian Brain	No. Relax, man. It's just the comfortable darkness. Interrupted by the pain in your body. A telegraph, far away.	不，放松点，伙计。这只是一片舒适的黑暗而已。被你身体的疼痛打断了。一封电报，很远很远。
+0x010000060000E771	Dialogue Text	DREAM SEAFORT / NO DOLORES DREAM	Pain Threshold	Far enough not to hurt for a while.	远到暂时无法伤害到你。
+0x010000060000E778	Dialogue Text	DREAM SEAFORT / NO DOLORES DREAM	Volition	And your mind healing too. Weaving itself back into shape.	而且你的精神也在治愈，自己重新编织成型。
+0x010000060000E790	Dialogue Text	DREAM SEAFORT / NO DOLORES DREAM	Logic	You did it... you solved the case.	你做到了……你破案了。
+0x010000060000E7A0	Dialogue Text	DREAM SEAFORT / NO DOLORES DREAM	Inland Empire	Somehow you managed to dodge it all... The church, the window *and* the bad book in the store. On the shelf. You made it. Across the black sea unharmed...	你不知怎么避开了这一切……教堂，窗户，*还有*商店里那些坏书。就在架子上。你做到了。安然无恙地渡过了黑色的大海……
+0x010000060000E7B7	Dialogue Text	DREAM SEAFORT / NO DOLORES DREAM	You	What?	什么？
+0x010000060000E7BD	Dialogue Text	DREAM SEAFORT / NO DOLORES DREAM	You	Turn to the other side.	转向另一边。
+0x010000060000E7C4	Dialogue Text	DREAM SEAFORT / NO DOLORES DREAM	Inland Empire	Nothing. Just threats that passed by -- outside in the world. Ill omens from another life. Not this one. You ignored them. Good. The sleep is nourishing. Take more of it.	什么也没有。只有擦身而过的危险——远在世界之外。来自来世的不祥之兆。不是这一个。你都忽略掉了。很好。睡眠能滋养你。再多睡一会儿。
+0x010000060000E7CC	Dialogue Text	DREAM SEAFORT / NO DOLORES DREAM	Limbic System	You do so many times. Until dim light starts peeking into the hood you're under. The rough karakul. More and more each second. Time to face it again -- the world. Anew...	你做过很多次。直到微弱的光芒开始渗透进到你的头巾之下。粗糙的大尾绵羊皮。每分每秒，越变越多。是时候再次面对它了——面对这个世界。重新再来……
+0x0100004100000186	Dialogue Text	DREAM SEAFORT / NO DOLORES DREAM	You	[Open your eyes.]	[睁开双眼。]
+0x0100004100000222	Dialogue Text	DREAM SEAFORT / NO DOLORES DREAM	You	Turn to the other side.	转向另一边。
+0x010000450001DFFD	Dialogue Text	DREAM SEAFORT / NO DOLORES DREAM	Ancient Reptilian Brain	Sleep is merciful this time, brother. Not too deep. Lit by the continuous sound of the sea outside.	这次睡眠是仁慈的，我的兄弟。不是太深。被外面连绵不绝的海浪声照亮着。
