@@ -1,0 +1,766 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060001779D	Dialogue Text	COAST ORB / abandoned summer house	Inland Empire	Rust peels off the bent iron posts of the swing. The wind whistles through the skeleton of the small house behind you. There's desolation... everywhere.	锈迹从秋千弯曲的铁杆上剥落。风从你身后小屋的骨架间呼啸而过。一种悲哀的情绪……蔓延各处。
+0x01000006000177AA	Dialogue Text	COAST ORB / abandoned summer house	You	"What happened here?"	“这里发生了什么事？”
+0x01000006000177B0	Dialogue Text	COAST ORB / abandoned summer house	You	What happened here?	这里发生了什么事？
+0x01000006000177B7	Dialogue Text	COAST ORB / abandoned summer house	Kim Kitsuragi	"In this yard?" The lieutenant looks at the small building. A flock of grey swallows takes off in the distance.	“这个院子吗？”警督看着那栋小建筑。一群灰雁从远处振翅高飞。
+0x01000006000177BE	Dialogue Text	COAST ORB / abandoned summer house	Kim Kitsuragi	"Someone thought they could have a summer house in a *bloc obscur*. For cheap. It didn't work out. They abandoned it about a decade ago."	“有人觉得他们可以在*黑暗驻地*拥有一栋度假小屋。很便宜的那种。不过没有成功。大概10年前吧，他们就抛弃这里了。”
+0x01000006000177C4	Dialogue Text	COAST ORB / abandoned summer house	Visual Calculus	He's assessing the situation. How long ago was it abandoned.	他在评估眼下的状况，它废弃的时间到底有多久。
+0x01000006000177D2	Dialogue Text	COAST ORB / abandoned summer house	You	"Wait, what's a *bloc obscur?*"	“等等，*黑暗驻地*是什么？”
+0x01000006000177D8	Dialogue Text	COAST ORB / abandoned summer house	You	"So this part of the coast is a *bloc obscur*?"	“所以说这片海岸是*黑暗驻地*？”
+0x01000006000177DF	Dialogue Text	COAST ORB / abandoned summer house	Kim Kitsuragi	"A black bloc, a part of the city left unrenovated after the war. Or one that has fallen to gang violence. Or has become inhospitable in some other way."	“黑暗驻地，是城市在战后没能得到修缮的部分，陷入帮派暴力的地区，或者是因为其他一些原因变得不适宜居住的地方。”
+0x01000006000177E6	Dialogue Text	COAST ORB / abandoned summer house	Encyclopedia	On aerial photos, bloc obscures look like dark squares. Hence their name.	从航拍照片上看，黑暗驻地看起来就像是黑色的方块，所以因此得名。
+0x01000006000177EE	Dialogue Text	COAST ORB / abandoned summer house	Kim Kitsuragi	"Practically. It's not an official term in any way, but..." he spreads his arms, "look around -- no sewage, broken power lines, crime, drunks... Life is tough in the blocs. It's no place to build a summer house."	“基本上是。虽然它并不是一个官方术语，不过……”他伸直胳膊，“看看周围——没有下水道，破损的电力线，犯罪，醉汉……在这些地区生活可不容易。这可不是造度假小屋的好地方。”
+0x0100000600017803	Dialogue Text	COAST ORB / abandoned summer house	You	"At least they left some old music behind." (Tap on the tape you picked up)	“至少他们留下了一些古老的音乐。”（拍拍你捡到的磁带。）
+0x0100000600017809	Dialogue Text	COAST ORB / abandoned summer house	You	"Maybe they left something useful behind?"	“也许他们留下了一些有用的东西？”
+0x0100000600017811	Dialogue Text	COAST ORB / abandoned summer house	Inland Empire	In this yard? Someone thought they could have a summer house on the beach. For cheap. It didn't work out. Looks like they abandoned it.	这个院子吗？有人觉得他们可以海滩边拥有一栋度假小屋。很便宜的那种。不过没有成功。看来他们已经抛弃这里了。
+0x0100000600017818	Dialogue Text	COAST ORB / abandoned summer house	You	[Discard thought.]	[放弃思维]
+0x0100000600017822	Dialogue Text	COAST ORB / abandoned summer house	Empathy	Yet someone used to live here. Laugh here. Thought it was a good idea to build a *swing* even...	但是还有人曾经住在这里，在这里欢笑。我甚至觉得在这里造个*秋千*是个不错的主意……
+0x010000060001782A	Alternate1	COAST ORB / abandoned summer house	Kim Kitsuragi	"Yes -- and you picked it up, because you're a post-apocalyptic scavenger who collects trash and magnesium blisters." He gives you a weary smile.	“是的——而且你把它捡了起来，因为你是个后启示录时代的拾荒者，专门收集垃圾和镁疱。”他露出一个疲倦的笑容。
+0x010000060001782A	Dialogue Text	COAST ORB / abandoned summer house	Kim Kitsuragi	"Yes -- and you picked it up as part of the Jamrock shuffle." He gives you a weary smile.	“是的——而且你把当做加姆洛克开箱步的一部分捡起来了。”他朝你露出一个疲倦的笑容。
+0x0100000600017832	Dialogue Text	COAST ORB / abandoned summer house	Esprit de Corps	It's not meant as nagging, just an observation.	这不是想唠叨什么，只是观察。
+0x0100000600017838	Dialogue Text	COAST ORB / abandoned summer house	Kim Kitsuragi	"We should move. I don't think we will solve the murder with forays into the urban hinterland. At least in this phase of the investigation."	“我们该走了。深入城市腹地应该不能帮我们解决这起凶杀案。至少在调查的这个阶段不行。”
+0x0100000600017846	Dialogue Text	COAST ORB / abandoned summer house	Kim Kitsuragi	"We should move. I don't think our suspect is in this particular yard. No place to hide, and besides, it's too close to Martinaise."	“我们该走了。我不觉得我们的嫌疑人就藏在这个院子里。不仅没地方藏身，而且离马丁内斯太近了。”
+0x010000060001784F	Alternate1	COAST ORB / abandoned summer house	Kim Kitsuragi	"Yes -- for you to scavenge, like a post-apocalyptic scavenger who collects trash and errant magnesium blisters." He gives you a weary smile.	“是的——专门留给你的，就像一个后启示录时代的拾荒者，专门收集垃圾和镁疱。”他露出一个疲倦的笑容。
+0x010000060001784F	Dialogue Text	COAST ORB / abandoned summer house	Kim Kitsuragi	"Yes -- for you to pick up as part of the Jamrock shuffle." He gives you a weary smile.	“是的——而且你把当做加姆洛克开箱步的一部分捡起来了。”他朝你露出一个疲倦的笑容。
+0x0100000600017859	Dialogue Text	COAST ORB / abandoned summer house	You	"You're right -- it's no place. Let's go." [Finish]	“你说的对——不是这个地方。我们走吧。”[结束]
+0x0100000600017869	Dialogue Text	COAST ORB / abandoned summer house	Empathy	A long time ago, someone used to live here. Laugh here. Thought it was a good idea to build a *swing* even... an intense loneliness comes over you.	很久以前，有人曾经住在这里，在这里欢笑。我甚至觉得在这里搭一座*秋千*是个不错的主意……一种强烈的孤独感涌上你的心头。
+0x0100000600017874	Dialogue Text	COAST ORB / abandoned summer house	Electrochemistry	This is a good place for a nice *sad* drink. Uncork a velvety bottle of red wine and think about life for a moment. Really *philosophise*.	这里是喝*闷酒*的好地方。撬开一瓶美味的红酒，想一想自己的生活。真的很*哲学*。
+0x0100006B00005928	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	One of the flyers has gotten stuck to the branches of a small brush. The sound of it flapping in the wind is an echo of Van Eyck.	一张海报卡在小灌木丛的枝丫之间。它在风中翻飞的声音就是凡·艾克的回响。
+0x0100006B0000592F	Dialogue Text	COAST ORB / arno van eyck after	You	Did that really happen just now?	刚才真的发生了吗？
+0x0100006B00005935	Dialogue Text	COAST ORB / arno van eyck after	You	[Ignore thought.]	[忽略思维。]
+0x0100006B0000593D	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	In the back of your head, you feel the rapid beat of anodic music... then it fades away.	在你脑后，你感觉到阳极音乐的快速节拍……然后逐渐消散。
+0x0100006B00005945	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	Your outstretched hand basks in the warm spring sun.	你伸出双手去感受春日暖阳的温度。
+0x0100006B0000594B	Dialogue Text	COAST ORB / arno van eyck after	You	Grab it quickly.	快点抓住它。
+0x0100006B00005952	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	As your hand reaches for the small rectangle of glossy paper, it snaps free from the branch...	当你的手碰到那张长方形的光面纸时，它从枝丫中偷偷溜走了……
+0x0100006B0000595A	Dialogue Text	COAST ORB / arno van eyck after	You	What the shit?	什么鬼？
+0x0100006B00005961	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	Cold drops of rain fall onto your outstretched hand. A slight tremble passes through it...	金色的雨滴坠落在你伸出的手上。一阵轻微的颤动穿梭而过……
+0x0100006B0000596D	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	Flakes of snow fall onto your outstretched hand. A slight tremble passes through it...	片片雪花飘落在你伸出的手上。一阵轻微的颤动穿梭而过……
+0x0100006B00005981	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	Your outstretched hand casts a deep shadow on the ground...	你伸出的双手在地面上投下一道深深的阴影……
+0x0100006B00005986	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	Cold drops of rain fall onto your outstretched hand. A slight tremble passes through it...	金色的雨滴坠落在你伸出的手上。一阵轻微的颤动穿梭而过……
+0x0100006B0000598B	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	Large flakes of snow fall onto your outstretched hand. A slight tremble passes through it...	大片大片的雪花飘落在你伸出的手上。一阵轻微的颤动穿梭而过……
+0x0100006B0000599A	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	...and is swept away, out of existence.	……然后被一扫而光，不复存在。
+0x0100006B000059A3	Dialogue Text	COAST ORB / arno van eyck after	You	Am I hallucinating?	我产生幻觉了吗？
+0x0100006B000059A9	Dialogue Text	COAST ORB / arno van eyck after	You	Okay, I'm done with this. [Finish thought.]	好吧，这个到此为止了。[完成思维。]
+0x0100006B000059AF	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	No.	不。
+0x0100006B000059B4	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	At the back of your head you feel the rapid beat of anodic music... then it fades away.	在你脑后，你感觉到阳极音乐的快速节拍……然后逐渐消散。
+0x0100006B000059BB	Dialogue Text	COAST ORB / arno van eyck after	Endurance	Yes. It's likely triggered by a focal epileptic seizure in your temporal lobe.	没错。可能是你颞叶的局灶性癫痫发作引起的。
+0x0100006B000059CB	Dialogue Text	COAST ORB / arno van eyck after	You	Is it dangerous?	很危险吗？
+0x0100006B000059D2	Dialogue Text	COAST ORB / arno van eyck after	You	Oh my god, I'm going to die!	我的天啦，我要死了！
+0x0100006B000059D9	Dialogue Text	COAST ORB / arno van eyck after	Endurance	I don't know... probably. I'm not a doctor.	我不知道……也许吧。我不是医生。
+0x0100006B000059DF	Dialogue Text	COAST ORB / arno van eyck after	Endurance	Yeah, probably, one day. But not this very minute.	是啊，也许，有一天。但是这一分钟不会。
+0x0100006B000059F9	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	And so all our lives become but a faded memory, an ephemeral vision of a Van Eyck concert flyer... blink or you'll miss it.	你所有的生活都变成了褪色的记忆，如凡·艾克音乐会的传单一般短命……眨眼之间，就会消失不见。
+0x0100006B00005A01	Dialogue Text	COAST ORB / arno van eyck after	Kim Kitsuragi	The lieutenant is looking at the spot you were reaching for. "Did you notice something important?"	警督看向你伸手的方向。“你是注意到什么重要的东西了？”
+0x0100006B00005A08	Dialogue Text	COAST ORB / arno van eyck after	You	"Kim, I think I'm seeing Van Eyck posters everywhere now."	“金，我想我现在到处都能看到凡·艾克的海报。”
+0x0100006B00005A0D	Dialogue Text	COAST ORB / arno van eyck after	You	"No... I don't think so. It was just a reflection or something. Never mind."	“不……我不这么觉得。这是个倒影或者什么的。没关系的。”
+0x0100006B00005A23	Dialogue Text	COAST ORB / arno van eyck after	Shivers	A GLIMPSE INTO THE PAST	回顾过去
+0x0100006B00005A2B	Dialogue Text	COAST ORB / arno van eyck after	Shivers	IT HAPPENED ONCE; LONG AGO	它曾经发生过一次；很久以前
+0x0100006B00005A37	Dialogue Text	COAST ORB / arno van eyck after	Kim Kitsuragi	"Okay. Well. I'm not going to ask who Van Eyck is. I'm just going to assume it's your business and move on, okay?" He raises his collar.	“好吧。我不会去问这个凡·艾克是谁。我会假定这是你的事，然后我们继续前进，好吗？”他竖起了衣领。
+0x0100006B00005A3E	Dialogue Text	COAST ORB / arno van eyck after	Kim Kitsuragi	He nods. "Let's get going. We have a case to solve."	他点点头。“我们走吧，还有案子要破呢。”
+0x0100006B00005A54	Dialogue Text	COAST ORB / arno van eyck after	You	"Never mind. Let's get going." [Finish thought.]	“没事了。我们走吧。”[完成思维。]
+0x0100006B00005AB6	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	The shadows play tricks on your mind...	阴影在玩弄你的大脑……
+0x0100006B00005ABE	Dialogue Text	COAST ORB / arno van eyck after	Inland Empire	Things in the night are not what they seem to be...	夜晚的东西感觉都变得不像它们自己了……
+0x01000004000164C1	Dialogue Text	COAST ORB / bluedoororb	You	Can *I* try to get in though?	不过*我*能试着闯进去吗？
+0x01000004000164C8	Dialogue Text	COAST ORB / bluedoororb	Physical Instrument	Not this time. The opposition is insurmountable. But I like the spirit -- have some *points*! It's lonely and cold without points.	这次不行。对方很难对付。不过我喜欢这种精神——应该得点*分数*。若是没有的话，那就太孤独、太清冷了。
+0x0100000600014A10	Dialogue Text	COAST ORB / bluedoororb	You	"Kim, you think she's in there?" (Point at the boarded up building.)	“金，你觉得她在里面吗？”（指着被封锁的建筑。）
+0x0100000600014A17	Dialogue Text	COAST ORB / bluedoororb	Kim Kitsuragi	"The suspect? God, I hope not -- I can't see a way in..." He inspects the bars. "Though many have tried."	“嫌疑人吗？老天，我希望没有——我没看见什么能进去的地方……”他检查了一下木板。“不过倒是有很多人试过。”
+0x0100000600014A30	Dialogue Text	COAST ORB / bluedoororb	Inland Empire	And dangerous. Dangerous too.	而且很危险，非常危险。
+0x0100008900001A43	Dialogue Text	COAST ORB / bluedoororb	Physical Instrument	There's no way the perp is in here, officer. Look how scarred the boards are -- all attempts to pry them off have failed.	那个罪犯不可能躲在这里，警官。看看这些伤痕累累的木板——所有想把它们撬开的企图都失败了。
+0x0100008F00002529	Dialogue Text	COAST ORB / bluedoororb	You	Nothing more to do here then. [Finish thought.]	这里没什么可以做的了。[完成思维。]
+0x0100000400015147	Dialogue Text	COAST ORB / bunkerthought	Visual Calculus	The light vanishes inside the concrete slit. The structure goes deep under the earth.	光线消失在混凝土的裂隙中。这个结构是深入地底深处的。
+0x010000040001514E	Dialogue Text	COAST ORB / bunkerthought	You	[Finish thought.]	[完成思维。]
+0x0100000400015154	Dialogue Text	COAST ORB / bunkerthought	You	What's in there?	里面是什么？
+0x010000040001515D	Dialogue Text	COAST ORB / bunkerthought	Visual Calculus	Maybe it's just a storm drain for the sewer?	也许只是下水道的雨水沟？
+0x0100000400015168	Dialogue Text	COAST ORB / bunkerthought	You	"Kim, any idea what's down there?"	“金，知道下面是什么吗？”
+0x0100000400015179	Dialogue Text	COAST ORB / bunkerthought	Kim Kitsuragi	"No idea." He takes his glasses off to polish. "Could be connected to one of the buildings around here..."	“不知道。”他取下眼镜擦拭着。“也许跟这附近的某栋建筑是相连的吧……”
+0x0100000400015180	Dialogue Text	COAST ORB / bunkerthought	You	"Think we might find Ruby down there?"	“你觉得我们能不能在下面找到露比？”
+0x010000040001518F	Dialogue Text	COAST ORB / bunkerthought	Kim Kitsuragi	"We might find her down *somewhere* -- there's an old storm drain system beneath Martinaise that's mostly collapsed. Revachol's sewage system has been built and rebuilt four or five times now."	“我们也许是能在下面的*某个地方*找到她——马丁内斯下面有一个老旧的暴雨排水系统，不过基本上已经塌陷了。瑞瓦肖的下水道系统到现在已经来来回回翻修4、5次了。”
+0x0100001600009AAB	Dialogue Text	COAST ORB / bunkerthought	You	Yell "Ho!" into the slit.	往裂缝地喊一声：“哟吼！”
+0x0100001600009AB3	Dialogue Text	COAST ORB / bunkerthought	Visual Calculus	There's no echo -- and no answer.	没有回音——也无人应答。
+0x0100001600009ABA	Dialogue Text	COAST ORB / bunkerthought	Conceptualization	The silence of god? Sorry...	神的沉默？抱歉……
+0x0100001600009AC5	Dialogue Text	COAST ORB / bunkerthought	Kim Kitsuragi	He puts his glasses back on. "In conclusion -- she could be under any building."	他重新戴上眼镜。“总而言之——她可能藏在任意一栋建筑下面。”
+0x0100001600009ACE	Dialogue Text	COAST ORB / bunkerthought	You	"But not in there?"	“但是这里没有吗？”
+0x0100001600009AD8	Dialogue Text	COAST ORB / bunkerthought	Kim Kitsuragi	He looks into the slit and sighs. "I hope not."	他看了一眼裂缝，叹了口气。“我希望没有。”
+0x0100000400015089	Dialogue Text	COAST ORB / feldwindows	You	[Finish thought.]	[完成思维。]
+0x010000060001D60B	Dialogue Text	COAST ORB / feldwindows	Kim Kitsuragi	"I had a partner once. They called him Eyes, because he had to show me things. It's that bad."	“我以前有个搭档。大家叫他眼睛，因为他必须指东西给我看。就有那么糟糕。”
+0x010000060001D612	Dialogue Text	COAST ORB / feldwindows	Visual Calculus	There's rust and corrosion on the bars, they're foaming with it. And a small layer of white salt from the sea.	铁条上有锈迹和腐蚀的痕迹，起泡。上面还有一层薄薄的白色海盐。
+0x010000060001D61B	Dialogue Text	COAST ORB / feldwindows	You	"Can you still shoot, though?"	“即便这样，你还能开枪？”
+0x010000060001D622	Dialogue Text	COAST ORB / feldwindows	You	Just nod. [Finish thought.]	只是点点头。[完成思维。]
+0x010000060001D629	Dialogue Text	COAST ORB / feldwindows	Empathy	This partner of his, Eyes -- things didn't end well. It saddens him to say his name. Don't even ask. He wouldn't answer. Maybe some other small talk?	他的搭档，眼睛——结局并不是很好。说出他的名字都会让他感到伤心。别问了。他不会回答的。也许可以聊点别的？
+0x010000060001D633	Dialogue Text	COAST ORB / feldwindows	Kim Kitsuragi	"Well enough, actually. It's odd how that works. I'm no sharpshooter, but I pass my shooting courses 7 out of 10."	“其实吧，还可以。那样居然能行，挺奇怪的。我不是神枪手，不过10分的射击课程，我7分通过了。”
+0x010000060001D63A	Dialogue Text	COAST ORB / feldwindows	Hand/Eye Coordination	His hands lead the way when it comes to that. And his shoulders. It's reflex.	说到这一点，他会用手做展示。还有他的肩膀。这是一种本能反应。
+0x0100001600009AFB	Dialogue Text	COAST ORB / feldwindows	You	"Lieutenant, can you make out what's inside?" (Point at the windows.)	“警督，你能看出里面有什么吗？”（指向窗户。）
+0x0100001600009B05	Dialogue Text	COAST ORB / feldwindows	Kim Kitsuragi	"No." He shakes his head. The windows rattle in their frames. "I won't even try. You know..." He takes his glasses off.	“不能。”他摇摇头。窗户在窗框中咯吱作响。“我连试都不会试。你知道的……”他取下眼镜。
+0x0100008900001A37	Dialogue Text	COAST ORB / feldwindows	Perception (Hearing)	The remaining windows rattle from a strong gust of wind. They're covered in a thick layer of grime. They must have been like this for forty years.	仅存的窗户被一阵狂风吹地咔哒直响，上面盖着一层厚厚的尘垢。这40年来，它们肯定一直都是这样。
+0x0100008F0000244C	Dialogue Text	COAST ORB / feldwindows	You	Try to see inside.	试着往里看。
+0x0100008F0000249F	Dialogue Text	COAST ORB / feldwindows	Perception (Hearing)	Dripping water falls from a high place. All you can see is the shadow of a collapsing staircase.	高处有水在滴落。你唯一能看到的，只有一座坍塌楼梯的阴影。
+0x010000060001C22F	Dialogue Text	COAST ORB / laughingatscene	Empathy	Somehow he doesn't want to dwell on it...	不知道为什么，他不想细说……
+0x0100000800002908	Dialogue Text	COAST ORB / laughingatscene	Logic	This is it -- the scene of the party. The fire pit, cigarettes, and empty bottles all evidence it.	就是这里了——派对现场。火堆、香烟、还有空瓶子，全都是证据。
+0x010000080000290E	Dialogue Text	COAST ORB / laughingatscene	Logic	Not as such. I'm talking about what came after -- the party scene.	不太对。我说的是那之后的事了——派对现场。
+0x0100000800002913	Dialogue Text	COAST ORB / laughingatscene	Logic	Looks like they were here a while, judging from all the bottles. The sunken motor carriage provided them a focal point -- like a goose ice-sculpture or a chocolate fountain.	从那些瓶子来看，他们在这里待过一段时间。那辆沉没的汽車给他们提供了一个焦点——就像一座鸿雁冰雕，或者是巧克力喷泉。
+0x0100000800002918	Dialogue Text	COAST ORB / laughingatscene	You	Hold up -- don't you mean scene of the crime?	等等——你说的不是犯罪现场吗？
+0x010000080000291E	Dialogue Text	COAST ORB / laughingatscene	You	Yeah. Sure does look like a lot of folks partied here.	没错。看起来确实有很多人在这里开过派对。
+0x0100000800002923	Dialogue Text	COAST ORB / laughingatscene	You	(Dismiss thought.)	（摒弃这个想法。）
+0x0100000800002935	Dialogue Text	COAST ORB / laughingatscene	You	"Hey, Kim. Looks like we've had a couple of party-goers here."	“喂，金。看来有一群派对动物在这里待过。”
+0x010000080000293B	Dialogue Text	COAST ORB / laughingatscene	You	Guess I'll be on my way. (Finish thought.)	看来我得走了。（完成思维。）
+0x0100000800002944	Dialogue Text	COAST ORB / laughingatscene	Kim Kitsuragi	"Looks like it."	“好像是这样没错。”
+0x010000080000294A	Dialogue Text	COAST ORB / laughingatscene	Kim Kitsuragi	"Hey -- let's keep moving, detective." The lieutenant adjusts his glasses.	警督调整了一下眼镜，点点头。“我说——我们还是继续前进吧，警探。”
+0x010000080000294F	Dialogue Text	COAST ORB / laughingatscene	Kim Kitsuragi	"Not as such, no. Let's keep moving, detective."	警督摇摇头。“不太像。我们还是继续前进吧，警探。”
+0x0100000800002954	Dialogue Text	COAST ORB / laughingatscene	You	"Looks like they had a great time laughing here."	“看来他们在这里笑得很开心。”
+0x010000080000295A	Dialogue Text	COAST ORB / laughingatscene	You	"This was some kind of theatre to them. A circus production by a great clown."	“对于他们来说是某种剧院。一个伟大小丑的马戏团表演。”
+0x0100000800002960	Dialogue Text	COAST ORB / laughingatscene	You	"Was this party against the law? On the ice like this -- it was probably a public danger."	“这种派对是违法的吗？在这种冰面上——可能会对公众造成危险。”
+0x010000060001788D	Dialogue Text	COAST ORB / living under the boat	Visual Calculus	Great news -- the boat is big enough for a grown man like you to fit underneath it in a supine position.	好消息——这艘船正好够一个像你这样的成年人仰卧在里面。
+0x01000006000178A0	Dialogue Text	COAST ORB / living under the boat	You	Wait, what would I be doing under there?	等等，我躺下能干什么？
+0x01000006000178A6	Dialogue Text	COAST ORB / living under the boat	You	"Great news, I found somewhere new to sleep."	“好消息，我找到一个新的可以睡觉的地方了。”
+0x01000006000178AC	Dialogue Text	COAST ORB / living under the boat	You	[Discard thought.]	[放弃思维]
+0x01000006000178B3	Dialogue Text	COAST ORB / living under the boat	Visual Calculus	I don't know? Sleeping? What do people do under boats? This is merely a measurement from your visual cortex, do with it what you want.	我不知道？睡觉？大家都在船下面干嘛？这只是你视觉皮质的一个测量结果，你想怎么做就怎么做吧。
+0x01000006000178C4	Dialogue Text	COAST ORB / living under the boat	Conceptualization	Oh no. He's pretty much a bum now.	哦不。现在他几乎就是个真正的流浪汉了。
+0x01000006000178CF	Dialogue Text	COAST ORB / living under the boat	Kim Kitsuragi	"Huh?"	“哈？”
+0x01000006000178DB	Dialogue Text	COAST ORB / living under the boat	You	"I said: great news, I found somewhere to sleep." (Point at the boat). "Under this boat here. It'll be free."	“我说：好消息，我找到可以睡觉的地方了。”（指着那艘船）“就在船下面，而且是免费的。”
+0x01000006000178EA	Dialogue Text	COAST ORB / living under the boat	You	"I can pretty much finish the case from under that boat there. It's dry, weatherproof, and *free of charge*."	“我几乎可以在那艘船下面处理完这个案子。那里很干燥，防水，而且*不要钱*。”
+0x01000006000178F0	Dialogue Text	COAST ORB / living under the boat	You	"I'm gonna live under a boat now."	“现在我要住在船底下了。”
+0x010000060001C1CE	Dialogue Text	COAST ORB / living under the boat	Kim Kitsuragi	"Sarcastic self pity is not what we need at this moment, officer."	“我们现在不需要这种尖酸刻薄的自哀自怜，警官。”
+0x010000060001C1D4	Dialogue Text	COAST ORB / living under the boat	Kim Kitsuragi	"Self pity is not what we need at this moment, officer."	“我们现在不需要你的自哀自怜，警官。”
+0x010000060001C1DA	Dialogue Text	COAST ORB / living under the boat	Kim Kitsuragi	"I understand the situation looks grim, but we must continue with our investigation."	“我明白，现在的情况确实看起来有些糟糕，但我们必须继续调查。”
+0x010000060001C1E4	Dialogue Text	COAST ORB / living under the boat	Visual Calculus	Sleeping. Was it not decided that you're a *hobocop* -- more hobo than cop -- or was that fine irony that your visual cortex somehow misunderstood?	睡觉。难道不是这样决定的吗，你是个*流浪警探*——比起警察更像是个流浪汉——或者是你的视觉皮质不知怎么的误解了这个绝妙的讽刺？
+0x010000060001C1ED	Dialogue Text	COAST ORB / living under the boat	Endurance	The elements are rough around here. I don't know about this...	周围的环境实在是太艰苦了。我不太确定……
+0x010000060001C1FC	Dialogue Text	COAST ORB / living under the boat	Volition	Think of it as a salvation.	就把这当成是一种救赎。
+0x010000060001C203	Dialogue Text	COAST ORB / living under the boat	Logic	You have a home, somewhere. All cops do. When this is done you can return.	你的家就在某个地方。所有警察都一样。当这一切结束，你就可以回到那个地方。
+0x010000060001C20B	Dialogue Text	COAST ORB / living under the boat	You	Great news then. I do need somewhere cosy.	这是个好消息。我确实需要一个舒适的地方。
+0x010000060001C212	Dialogue Text	COAST ORB / living under the boat	Visual Calculus	No, wait -- sorry. My bad. There's a rotting dog carcass under there and old fish too. You wouldn't fit next to the mummified canine's mausoleum.	不对，等等——对不起。我的错。那下面有一具腐烂的野狗尸体，还有鱼。犬科木乃伊的坟墓可不适合你。
+0x010000060001C219	Dialogue Text	COAST ORB / living under the boat	Perception (Smell)	Damn dog, taking up all your space. The fish smell is too rank too, though.	该死的狗，占用了你全部的空间。不过，鱼的味道也够销魂的。
+0x010000060001C220	Dialogue Text	COAST ORB / living under the boat	Logic	You have a home, somewhere. All cops do. When this is done you can return.	你的家就是某个地方。所有警察都一样。当这一切结束，你就可以回到那个地方。
+0x010000060001C227	Dialogue Text	COAST ORB / living under the boat	Volition	Just finish the case and you'll probably have somewhere to go. Hopefully.	只要解决这个案子，也许你也有个地方可以归去。希望如此。
+0x01000004000152FF	Dialogue Text	COAST ORB / redchairconvo	Inland Empire	It's only a red chair. Just a red chair in an empty shack -- with what looked like a dusty bow tie on the shelf. Nothing to see here, right?	只是一把红椅子。一个空旷棚屋里的红椅子——屋里的架子上像是放着一条灰尘扑扑的领带。
+0x0100000400015306	Dialogue Text	COAST ORB / redchairconvo	You	[Discard thought.]	[放弃思维。]
+0x0100000400015315	Dialogue Text	COAST ORB / redchairconvo	You	Sounds like we need to investigate it, then.	听起来我们需要调查一下。
+0x010000040001531C	Dialogue Text	COAST ORB / redchairconvo	Kim Kitsuragi	"In someone's abandoned shack. On the coast. In Martinaise..." He looks at you. "In Revachol."	“在某人废弃的棚屋里。海岸边。马丁内斯……”他看着你。“瑞瓦肖。”
+0x0100000400016453	Dialogue Text	COAST ORB / redchairconvo	You	"Hey Kim, where are we?"	“喂，金，我们这是在哪？”
+0x0100000400016494	Dialogue Text	COAST ORB / redchairconvo	Inland Empire	Investigate the blood red chair? You're going to leave it alone, Harry. That's what you're going to do.	调查这把血红色的椅子？你还是放着它别管了，哈里。你必须这么做。
+0x010000060001C4A2	Dialogue Text	COAST ORB / redchairconvo	Rhetoric	He's afraid you've forgotten suddenly.	他害怕你会突然忘记。
+0x010000060001C4AA	Dialogue Text	COAST ORB / redchairconvo	Half Light	You suddenly feel afraid of the chair. It looks like blood is peeling off it...	你突然有点害怕这张椅子。看起来像有鲜血从上面滑落……
+0x010000060001C4B2	Dialogue Text	COAST ORB / redchairconvo	You	"What's with the red chair?"	“这把红椅子是怎么回事？”
+0x010000060001C4BF	Dialogue Text	COAST ORB / redchairconvo	You	"What's with the red bow tie?" (Show it to him.)	“这条红领带是怎么回事？”（拿给他看。）
+0x010000060001C4C6	Dialogue Text	COAST ORB / redchairconvo	Kim Kitsuragi	"It's just a piece of clothing you've picked up. You do that, officer -- you collect clothes sometimes."	“只是你捡到的一件衣物。你是会这么做，警官——有时候你会收集衣服。”
+0x010000060001C4D3	Dialogue Text	COAST ORB / redchairconvo	Empathy	He sounds a little worried. It's an odd habit.	他听起来有些担心。这是个奇怪的习惯。
+0x010000060001C4DA	Dialogue Text	COAST ORB / redchairconvo	Composure	Don't be worried, lieutenant. Clothes are therapeutic.	别担心，警督。衣服是有益健康的。
+0x010000060001C4F3	Dialogue Text	COAST ORB / redchairconvo	Horrific Necktie	You better not fucking think about ditching me for some shitty cum stained bow tie. You and I are gearing up for the *final showdown* that's gonna be off *all walls*. You wait and see.	你他妈最好别想着因为那条劣质又肮脏的领带甩开我。你和我正在为*最终决战*做准备，而且一定会*盛况空前*。你等着看好吧。
+0x010000060001C500	Dialogue Text	COAST ORB / redchairconvo	Horrific Necktie	You took *me* off for that shit? YOU FUCKING IDIOT! Put the horrific neck tie back on immediately -- or you will miss out on the FINAL SHOWDOWN. This is your last warning. Put me back on.	你就因为那坨屎把*我*取下来？你他妈是白痴吧！马上给我把那条可怕的领带戴回去——不然你会错过最终决战的。最后警告你一次。把我戴回去。
+0x010000060001C50C	Dialogue Text	COAST ORB / redchairconvo	Half Light	Your neck tie sounds very scared. It's unsafe not to wear it. Put it back.	你的领带听起来很吓人。不戴好像不太安全，还是戴回去吧。
+0x010000060001C513	Dialogue Text	COAST ORB / redchairconvo	Inland Empire	Yes. Agreed. You should never take your neck tie off. Ever.	没错。我同意。你不应该把领带取下来，永远也不要。
+0x010000060001C519	Dialogue Text	COAST ORB / redchairconvo	Half Light	Your neck tie sounds very scared. NEVER take it off.	你的领带听起来很吓人。永远别把它取下来。
+0x010000060001C523	Dialogue Text	COAST ORB / redchairconvo	Kim Kitsuragi	"Nothing. It's just a piece of furniture." He looks at the chair gathering dust.	“没什么。只是一件家具。”他看着椅子上堆积的灰尘。
+0x010000060001C52A	Dialogue Text	COAST ORB / redchairconvo	Inland Empire	Red paint is peeling off it. Looks like blood, no?	红色的油漆从上面剥落。看起来像鲜血，不是吗？
+0x010000060001C53C	Dialogue Text	COAST ORB / redchairconvo	You	"Could our suspect be staying here?"	“我们的嫌疑人会不会待在这里？”
+0x010000060001C543	Dialogue Text	COAST ORB / redchairconvo	Kim Kitsuragi	"Here?" He looks around. "I don't see signs of recent habitation. This place is abandoned."	“这里？”他看了看周围。“我没看见最近有人居住过的痕迹。这里已经废弃了。”
+0x010000060001C54E	Dialogue Text	COAST ORB / redchairconvo	Suggestion	See? He doesn't like the *vibration* from the red chair either.	看见没？他也不喜欢这把红椅子的*波动*。
+0x010000060001C556	Dialogue Text	COAST ORB / redchairconvo	You	"All right. Let's move." [Finish thought.]	“好吧。我们走。”[完成思维。]
+0x0100002900000AAA	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	You set the apparatus back on the ground, among the reeds.	你把装置放回地面，隐藏在芦苇丛中。
+0x0100002900000ABE	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	Just dead and dying locusts, and the slow swaying of surrounding reeds.	只有死去的和奄奄一息的蝗虫，还有周围缓缓摇曳的芦苇。
+0x0100002900000AC4	Dialogue Text	COAST ORB / reeds at lands end	You	Say nothing, just put the trap down.	什么也不说，只是把陷阱放下。
+0x0100002900000ACA	Alternate1	COAST ORB / reeds at lands end	Trap: Land's End	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one was by the canal.	蝗虫的状况不太好，不过它们还在里面。这个陷阱不是空的。那个在运河边。
+0x0100002900000ACA	Alternate2	COAST ORB / reeds at lands end	Trap: Land's End	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one Morell was setting up, near the cryptozoologists camp.	蝗虫的状况不太好，不过它们还在里面。这个陷阱不是空的。那个是莫雷尔设置的，就在神秘动物学家的营地旁边。
+0x0100002900000ACA	Alternate3	COAST ORB / reeds at lands end	Trap: Land's End	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one was in Land's End, in the northern tip of this peninsula.	蝗虫的状况不太好，不过它们还在里面。这个陷阱不是空的。那个在地之角，这座半岛的最北端。
+0x0100002900000ACA	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	The locusts aren't doing all too well, but they're still in there. This isn't the *empty* trap. That must have been another one.	蝗虫的情况不太好，不过它们还在里面。这不是*空*陷阱。肯定还有其他的。
+0x0100002900000AE7	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	All the traps are stocked now -- and still no sight of the phasmid. Return to Morell and let him know.	现在所有陷阱都设置好了——但还是没有看见竹节虫。回到莫雷尔那里，把消息告诉他。
+0x0100002900000AED	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	He purses his lips. "Perhaps our cryptozoologists have competition in the form of an actual entomologist? Or someone else is sabotaging them? I could present more theories, but then I would be taking this on as a case -- which I'm *not*."	他咬起嘴唇。“也许我们的神秘动物学家与真正的昆虫学家之间存在竞争关系？又或者其他什么人在蓄意破坏？我可以提出更多的理论，不过那样的话，可能就要立案了——但我并*不想*这么做。”
+0x0100002900000AF8	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	Locusts are crawling around in the trap, confused but uneaten. You see no carnivorous *reed-phasmid* gorging on them.	蝗虫在陷阱里爬行，没有被吃掉，但却十分迷惑。你没看见食肉的*芦苇-竹节虫*在狼吞虎咽地享用它们。
+0x0100002900000B14	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	There's nothing else to do with the traps at this time. They're all just lying around, gathering dust and rainwater.	现在已经没什么可以做的了。陷阱只是躺在那里，收集灰尘和雨水。
+0x0100002900000B1A	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	Your voice echoes on the coast, carried by a gust of cold wind.	一阵冷风卷起你的声音，在海岸边发出回响。
+0x0100002900000B20	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	You've checked all the traps now. There's nothing else to do with them. The cryptozoologists await your report.	现在所有陷阱已经检查完毕。没什么需要做的了。神秘动物学家还在等待你的报告。
+0x0100002900000B42	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"Surely," he repeats and looks at the sea, then at you putting the trap back on the ground. "Anyway, the air is nice and fresh here..."	“当然了，”他望着大海又重复了一遍，然后看着你把陷阱放回地面上。“不管怎么说，这里的空气不错，很新鲜……”
+0x0100002900000B48	Dialogue Text	COAST ORB / reeds at lands end	Shivers	A cold gust of air dries your sweaty face and you look to the dark shadow the Feld building in the distance, drawing you to it. What a strange sensation... Once this is done, should you ask the wind again?	一阵冷风吹干你脸上的汗水，你看着远处菲尔德大厦的黑色阴影，慢慢被它吸引。多么奇怪的一种感觉……等这些结束之后，你再问问风？
+0x0100002900000B4E	Dialogue Text	COAST ORB / reeds at lands end	You	"Let's keep going. The next one is the *lucky* one."	“我们走吧。下一个肯定就*走运*了。”
+0x0100002900000B58	Dialogue Text	COAST ORB / reeds at lands end	You	[Leave.]	[离开。]
+0x0100002900000B5E	Dialogue Text	COAST ORB / reeds at lands end	You	"It'll be in the next one. *Surely*."	“肯定在下一个陷阱里面。*绝对的*。”
+0x0100002900000B69	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	The lieutenant stretches his back.	警督挺直后背。
+0x0100002900000B6F	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"I'm beginning to feel... somewhat sorry for the little guys."	“我开始有点……为这些小家伙感到抱歉。”
+0x0100002900000B75	Dialogue Text	COAST ORB / reeds at lands end	Empathy	Poor things...	可怜的家伙……
+0x0100002900000B8C	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"Big surprise." The lieutenant grins mirthlessly. "Anyway -- one down, three to go."	“大惊喜。”警督阴沉地咧嘴笑了。“不管怎么说——排除一个，还剩三个。”
+0x0100002900000B94	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"I meant no offence, just..." The lieutenant doesn't know how to finish the sentence. He looks at you, putting the trap back on the ground.	“我不想冒犯，只是……”警督不知道该如何说完这句话。他看着你把陷阱放回地面。
+0x0100002900000B9A	Dialogue Text	COAST ORB / reeds at lands end	You	"No need to grin. I'm not *expecting* to find anything. I'm helping some citizens and getting some fresh air."	“不用笑的这么勉强。我没*期望*能找到什么。我只是在帮助市民，然后顺便呼吸一下新鲜空气。”
+0x0100002900000BA6	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	The locusts, dazed from being transported, slowly begin to acclimate to their new surroundings.	刚经历了长途跋涉的蝗虫还有些头晕，不过也开始慢慢地适应起周围的新环境来。
+0x0100002900000BAC	Dialogue Text	COAST ORB / reeds at lands end	You	[Leave.]	[离开。]
+0x0100002900000BB2	Dialogue Text	COAST ORB / reeds at lands end	You	Release the locusts into the empty trap.	把蝗虫放进空陷阱。
+0x0100002900000BBD	Dialogue Text	COAST ORB / reeds at lands end	Composure	They're not really going to get the chance to get comfortable here.	它们舒舒服服地生活在这里的机会基本为零。
+0x0100002900000BC3	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"We did *sort of* promise to tell them, didn't we..." He seems to regret the fact.	“我们确实*好像*答应过要告诉他们，是吧……”他好像为这个事实感到有些后悔。
+0x0100002900000BC9	Dialogue Text	COAST ORB / reeds at lands end	You	"I do get the feeling that someone or something may have messed with the trap..."	“我确实感觉到好像有什么人，或者什么东西在破坏陷阱……”
+0x0100002900000BCF	Dialogue Text	COAST ORB / reeds at lands end	Shivers	The wind picks up here, near the cape's end, surrounding the narrow strip of land from three cardinal directions. It's cold for this time of year.	海角边缘附近，大风从三个方向包围住这片狭长的土地。每年的这个时候，总是特别的冷。
+0x0100002900000BDB	Alternate1	COAST ORB / reeds at lands end	Trap: Land's End	The reeds shake sadly in the coastal breeze, weighed down by rain. They seem to be waiting for something.	芦苇在海岸的微风中悲伤地颤抖着，被雨滴打得直不起腰来。它们像是在等待着什么。
+0x0100002900000BDB	Alternate2	COAST ORB / reeds at lands end	Trap: Land's End	The reeds shake sadly in the coastal breeze. Snow specks the stalks. Most of it melts quickly, relinquishing form to darkness. 	芦苇在海岸的微风中悲伤地颤抖着。斑驳的雪花点缀着茎杆，大部分很快融化不见，隐身于黑暗之中。
+0x0100002900000BDB	Alternate3	COAST ORB / reeds at lands end	Trap: Land's End	The reeds shake sadly in the coastal breeze. Snow specks the stalks. Most of it melts quickly. The reeds seem to be waiting for something.	芦苇在海岸的微风中悲伤地颤抖着。斑驳的雪花点缀着茎杆，大部分很快融化不见。芦苇好像在等待着什么。
+0x0100002900000BDB	Alternate4	COAST ORB / reeds at lands end	Trap: Land's End	The reeds shake sadly in the coastal breeze. They seem to be waiting for something -- some secret concealed in the night's warmthless robe.	芦苇在海岸的微风中悲伤地颤抖，好像在等待着——隐藏在夜晚那冰冷长袍下的秘密。
+0x0100002900000BDB	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	The reeds sway in the coastal breeze. They seem to be waiting for something.	芦苇在海岸的微风下轻轻摇摆，像是在等待着什么。
+0x0100002900000BED	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"Right." It does not look like he thinks you're right. "Anyway, that's for the cryptozoologists to figure out now." He adds, for clarity: "*We're* not cryptozoologists -- we're cops."	“没错。”看起来他是真的认同你说的话。“不管怎么说，现在这是神秘动物学家的需要解决的问题了。”为了澄清，他又补充了一句：“*我们*不是神秘动物学家——我们是警察。”
+0x0100002900000BF3	Dialogue Text	COAST ORB / reeds at lands end	You	[Leave.]	[离开。]
+0x0100002900000BF9	Alternate1	COAST ORB / reeds at lands end	Kim Kitsuragi	"Okay. But after that we get back to our own assignments. There really is *no* explanation for this detour at this point of the investigation."	“好吧。但是在那之后，我们要继续自己的任务。调查进行到这个阶段，像这样绕道而行真的找不到*任何*合理的解释。”
+0x0100002900000BF9	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"Okay. But after that we get back to our own assignments. We've done a thorough survey of the coast now -- just running around is no longer useful."	“好吧。但是在那之后，我们要继续自己的任务。既然现在已经对海岸进行了十分彻底的搜查——再这样到处跑来跑去就没什么用了。”
+0x0100002900000BFF	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"No you weren't." He looks at the sea, then you -- laying the trap back down on the ground.	“不，你没有。”他看着大海，然后看着你——把陷阱放回地面。
+0x0100002900000C05	Dialogue Text	COAST ORB / reeds at lands end	You	"Yeah, it probably *wasn't* the phasmid, but still. Morell needs to know."	“是啊，它也许*不是*竹节虫，不过莫雷尔还是需要知道这一点。”
+0x0100002900000C0B	Dialogue Text	COAST ORB / reeds at lands end	You	"Damn, I was hoping it would be in the *first* one."	“该死，我还希望这会是*第一*个呢。”
+0x0100002900000C11	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	Nothing has changed about this trap. You need to check the others.	这个陷阱没有任何变化。你需要检查一下其它的。
+0x0100002900000C17	Dialogue Text	COAST ORB / reeds at lands end	You	Pause and just stand there.	停下来，只是静静站着。
+0x0100002900000C1D	Alternate1	COAST ORB / reeds at lands end	You	"Let's go." [Leave.]	“我们走吧。”[离开。]
+0x0100002900000C1D	Dialogue Text	COAST ORB / reeds at lands end	You	[Leave.]	[离开。]
+0x0100002900000C27	Alternate1	COAST ORB / reeds at lands end	Trap: Land's End	The reeds whisper around the sepulchral trap, as though suddenly filled with fear. Even the snow does not quiet them.	芦苇围绕在阴森森的陷阱旁窃窃私语，好像突然被恐惧包围一样。就连雪花也无法给它们带去安慰。
+0x0100002900000C27	Alternate2	COAST ORB / reeds at lands end	Trap: Land's End	The reeds shudder in the falling rain, whispering. It is as though the sepulchral trap has filled them with some strange, novel fear.	芦苇在落雨中颤抖着，低语着。仿佛这个阴森森的陷阱让它们产生了某种奇怪而诡异的恐惧。
+0x0100002900000C27	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	The reeds whisper around the sepulchral trap, as though suddenly filled with fear.	芦苇围绕在阴森森的陷阱旁窃窃私语，好像突然被恐惧包围一样。
+0x0100002900000C35	Dialogue Text	COAST ORB / reeds at lands end	You	"Maybe they will still attract something?"	“也许它们还能吸引一些东西？”
+0x0100002900000C3B	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"Yes. Like a cat, or another teenage psychopath."	“是的。比如说一只猫，或者是又一个精神变态的青年。”
+0x0100002900000C41	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"Good, good. We should be courteous and tell the cryptozoologists that one of their traps was empty, but then we can get back to *our* assignment here."	“很好，很好。我们应该礼貌一点，告诉神秘动物学家有一个陷阱空了，然后继续回去完成*我们自己*的任务。”
+0x0100002900000C4C	Dialogue Text	COAST ORB / reeds at lands end	You	"But what if it *was* the phasmid? What if it ate them and got out?"	“但是如果*真是*竹节虫呢？如果它把蝗虫全吃掉，然后跑出来了呢？”
+0x0100002900000C58	Dialogue Text	COAST ORB / reeds at lands end	You	"You're right. But I still need to tell the cryptozoologists about this."	“你说得对。但我还是要跟神秘动物学家说一声。”
+0x0100002900000C6A	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"Good. Now that's done. When can we get to our impending apocalypse of a murder investigation?"	“很好。现在这个事情已经告一段落。我们什么时候才能看到凶杀案调查的启示呢？”
+0x0100002900000C7A	Dialogue Text	COAST ORB / reeds at lands end	You	"You're right. This crypto-research has been stupid."	“你说得对。这次的神秘动物学研究实在是太愚蠢了。”
+0x0100002900000C92	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	He stops you. "Don't answer that. It was a rhetorical question."	他拦住了你。“别回答。这是个反问句。”
+0x0100002900000CA6	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	Neither does the lieutenant. He just raises his collar -- it's cold out, as always.	警督也没有言语。他只是竖起衣领——毕竟外面很冷，一如往常。
+0x0100002900000CB2	Dialogue Text	COAST ORB / reeds at lands end	You	Look around.	看看周围。
+0x0100002900000CC1	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	The lieutenant's gaze follows yours and lingers on the reeds, the sand, the water beyond. Then he turns back to you expectantly.	警督追随着你的目光，先是停留在芦苇上，然后是沙子，最后是水面。接着，他满是期待地把目光转回到你身上。
+0x0100002900000CCB	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	The reeds continue to hiss around you as you put the empty trap back on the ground. Time to consult the professionals -- Morell and Lena.	芦苇不断地在你周围嘶嘶作响，你把空陷阱又放回到地面上。是时候去找专业人士咨询一下了——莫雷尔和莉娜。
+0x0100002900000CD1	Dialogue Text	COAST ORB / reeds at lands end	Authority	He doesn't want to, but if there is one more cryptozoological run-around, he *must* force the investigation back on track. This better be it...	他不想这么做，但是如果再来一次神秘动物学的借口，他*肯定*会强迫调查回归正轨。最好就到此为止了……
+0x0100002900000CDC	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	Nothing but locusts in this trap as well. Definitely no cryptozoological monstrosity.	这个陷阱也一样，除了蝗虫什么也没有。肯定没有神秘动物学意义上的畸形。
+0x0100002900000CE8	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	The trap feels light -- and silent -- as you pick it up. Something is different here...	这个陷阱感觉很轻——还很安静。这里好像有点不太一样……
+0x0100002900000CEE	Dialogue Text	COAST ORB / reeds at lands end	You	Look closer.	再仔细看看。
+0x0100002900000CF9	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	It takes you a moment, but finally you spot the last of Morell's traps. This one's partially obscured by the reeds...	你花了一会儿功夫，总算找到了莫雷尔的最后一个陷阱。有一部分被芦苇给挡住了……
+0x0100002900000D08	Dialogue Text	COAST ORB / reeds at lands end	You	[Leave.]	[离开。]
+0x0100002900000D0E	Dialogue Text	COAST ORB / reeds at lands end	Inland Empire	Man, it's lonely doing this alone. The wind seems to howl in a strange manner...	伙计，一个人做这个也太孤独了。风似乎都在以一种奇怪的方式呼啸……
+0x0100002900000D18	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	No locusts!	没有蝗虫！
+0x0100002900000D2A	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	This trap's not too hard to spot -- once you know what to look for. Keeping it hidden has not been a priority for the cryptozoologist.	要找到这个陷阱并不太难——只要你明白自己在找什么。对于神秘动物学家来说，把它隐藏起来可不是最高优先级。
+0x0100002900000D35	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"Yup. The next one has a *crab* trapped in it." He raises his collar -- it's windy. "These are just crab traps, you do realize?"	“是的。下一个里面困了只*螃蟹*。”他竖起衣领——起风了。“你有没有发现，这些只不过是抓螃蟹的陷阱？”
+0x0100002900000D42	Dialogue Text	COAST ORB / reeds at lands end	You	Reach for the trap.	伸手去碰陷阱。
+0x0100002900000D48	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	A familiar apparatus lies among the reeds -- another one of Morell's traps, weighed down by stones to keep it in place.	一个熟悉的装置躺在芦苇丛中……又是莫雷尔的陷阱，上面压着石头，方便固定它的位置。
+0x0100002900000D4E	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"Of course. Noted." He looks at you, incredulously, as you place the trap back in the reeds.	“当然。记下来了。”他怀疑地看着你把陷阱放回到芦苇丛中。
+0x0100002900000D59	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"Of course. Noted." He looks at you, incredulously, as you place the trap back in the reeds.	“当然。记下来了。”他怀疑地看着你把陷阱放回到芦苇丛中。
+0x0100002900000D5F	Dialogue Text	COAST ORB / reeds at lands end	You	Say nothing, just put the trap down.	什么也不说，只是把陷阱放下。
+0x0100002900000D65	Alternate1	COAST ORB / reeds at lands end	You	"Again -- I want to make it absolutely *clear* that I don't really believe the phasmid exists, okay?"	“再说一次——我要明确*声明*一点，我其实并不相信竹节虫的存在，好吗？”
+0x0100002900000D65	Dialogue Text	COAST ORB / reeds at lands end	You	"I want to make it clear that I don't *actually* believe the phasmid exists, okay?"	“我想声明一点，我*其实*并不相信竹节虫的存在，好吗？”
+0x0100002900000D72	Dialogue Text	COAST ORB / reeds at lands end	You	Say nothing, just put the trap down.	什么也不说，只是把陷阱放下。
+0x0100002900000D7F	Dialogue Text	COAST ORB / reeds at lands end	Logic	No phasmid either -- but still...	也没有竹节虫——不过……
+0x0100002900000D8B	Dialogue Text	COAST ORB / reeds at lands end	Perception (Sight)	The netting is a little untidy, messier than the others. Like someone or something picked up the trap and shook it before dropping it back down on the ground.	相比其他陷阱，这个的网更凌乱一些。就好像有人或者什么东西把陷阱捡了起来，摇了摇，然后又丢回地面。
+0x0100002900000D96	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"Empty as all of them..." he pants. "*One* more of these and we're done..." His face is red from the cold sea air. He crouches to catch his breath.	“跟其他的一样空……”他喘着气。“最多再看*一个*，我们就不做了……”他的脸被冰冷的海风吹得通红，蹲伏下身体喘着气。
+0x0100002900000DA0	Alternate1	COAST ORB / reeds at lands end	You	"One more time, I *must* stress that I did not expect a cryptozoological monstrosity to be in this trap."	“我*必须*再强调一遍，我可没期望能在这个陷阱里看到神秘动物学范畴的畸形。”
+0x0100002900000DA0	Dialogue Text	COAST ORB / reeds at lands end	You	"I *must* stress that I did not expect a cryptozoological monstrosity to be in this trap."	“我*必须*强调一下，我可没期望能在这个陷阱里看到神秘动物学范畴的畸形。”
+0x0100002900000DAD	Dialogue Text	COAST ORB / reeds at lands end	Trap: Boathouses	Nothing. No traces of the locusts *or* the Insulindian phasmid. What happened?	什么也没有。没有蝗虫*或者*是伊苏林迪竹节虫的痕迹。出什么事了？
+0x0100002900000DB3	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	The lieutenant studies the trap with you. "Well, the bait worked on *something*. This doesn't mean it was a reed-monster, though. Unless you see one in there? I just see an empty trap..."	警督跟你一起研究陷阱。“呃，诱饵对*某种东西*起作用了。但也并不意味着就是芦苇怪兽做的。除非你亲眼看见里面有？我只看到一个空陷阱……”
+0x0100002900000DB9	Dialogue Text	COAST ORB / reeds at lands end	You	"Bummer it wasn't in here..."	“可惜，它不在这里……”
+0x0100002900000DBF	Dialogue Text	COAST ORB / reeds at lands end	You	(Immediately yell.) "It's empty!"	（立马大叫出来。）“它是空的！”
+0x0100002900000DC5	Dialogue Text	COAST ORB / reeds at lands end	You	Look closer still.	靠近查看。
+0x0100002900000DCF	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"Always up for a good jog -- otherwise, would I still be *on* this case with *you*?" He smiles and raises his collar. It's windy.	“我一直好好坚持早起慢跑——不然的话，我还会跟*你*一起破*这个*案子吗？”他笑着竖起了衣领，突然起风了。
+0x0100002900000DD5	Dialogue Text	COAST ORB / reeds at lands end	You	"You getting tired?"	“你累了吗？”
+0x0100002900000DDB	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"I'm just..." he breathes out. "Glad we haven't found some poor cat trapped in one of these."	“我只是……”他吐出一口气。“很高兴没在里面找到被困住的可怜小猫。”
+0x0100002900000DE1	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"No-no. I'm fine. I didn't mean to complain, it's just..." He's short-winded. The sentence ends there.	“不。我很好。我不是想抱怨，只不过……”他有些气喘。话语到这里就结束了。
+0x0100002900000DE7	Dialogue Text	COAST ORB / reeds at lands end	You	"How are you enjoying the cardio, lieutenant? I'm quite enjoying it myself."	“你喜欢有氧运动吗，警督？我自己觉得挺舒服的。”
+0x0100002900000DED	Dialogue Text	COAST ORB / reeds at lands end	Kim Kitsuragi	"Another empty trap," the lieutenant takes a note -- more out of habit than duty.	“又是个空陷阱，”警督记下笔记——相比职责，更像是出于一种习惯。
+0x0100002900000DFD	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	There's a trap in the reeds at your feet. Looks like the same one you saw Morell set before -- same mesh, same wiring.	你脚下的芦苇丛里有一个陷阱。跟之前看见的莫雷尔的陷阱一模一样——同样的网，同样的线。
+0x0100002900000E03	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	This trap is also full of panicked locusts. No sign of any cryptozoological beast inside.	这个陷阱里面也满是惊慌失措的蝗虫，没有任何神秘动物学范畴的野兽存在。
+0x0100002900000EB2	Alternate1	COAST ORB / reeds at lands end	Trap: Land's End	The reeds dance slowly around the empty trap. The trap's netting trembles, shaking off the snow. No insect sounds or movement anywhere. 	芦苇在空陷阱周围缓缓舞动。陷阱的网颤抖着，想把身上的雪抖落。到处都没有昆虫的声音，或者是动作。
+0x0100002900000EB2	Alternate2	COAST ORB / reeds at lands end	Trap: Land's End	The reeds dance slowly around the empty trap. The trap's netting trembles in the cold rain. No insect sounds or movement anywhere. 	芦苇在空陷阱周围缓缓舞动。陷阱的网在冰冷的雨滴中颤抖着。到处都没有昆虫的声音，或者是动作。
+0x0100002900000EB2	Dialogue Text	COAST ORB / reeds at lands end	Trap: Land's End	The reeds dance slowly around the empty trap. The trap's netting trembles. No insect sounds or movement anywhere.	芦苇在空陷阱周围缓缓舞动。陷阱的网在颤抖着。到处都没有昆虫的声音，或者是动作。
+0x010000290000131E	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	The lieutenant's gaze follows yours and lingers on the reeds, the sand, the water beyond. Then he turns back to you expectantly.	警督追随着你的目光，先是停留在芦苇上，然后是沙子，最后是水面。接着，他满是期待地把目光转回到你身上。
+0x010000290000132B	Dialogue Text	COAST ORB / reeds by camp site	You	Reach for the trap.	伸手去碰陷阱。
+0x0100002900001331	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	The lieutenant studies the trap with you. "Well, the bait worked on *something*. This doesn't mean it was a reed-monster, though. Unless you see one in there? I just see an empty trap..."	警督跟你一起研究陷阱。“呃，诱饵对*某种东西*起作用了。但也并不意味着它就是芦苇怪兽。除非你亲眼看见里面有？我只看到一个空陷阱……”
+0x0100002900001337	Dialogue Text	COAST ORB / reeds by camp site	You	Look around.	看看周围。
+0x010000290000133D	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	You set the apparatus back on the ground, among the reeds.	你把装置放回地面，隐藏在芦苇丛中。
+0x010000290000134F	Dialogue Text	COAST ORB / reeds by camp site	You	Say nothing, just put the trap down.	什么也不说，只是把陷阱放下。
+0x010000290000135F	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	Your voice echoes on the coast, carried by a gust of cold wind.	一阵冷风卷起你的声音，在海岸边发出回响。
+0x010000290000136A	Dialogue Text	COAST ORB / reeds by camp site	You	[Leave.]	[离开。]
+0x0100002900001383	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	This is the last of the traps, the one Morell just set. Checking it over -- he said -- is just a technicality.	这是最后一个陷阱，莫雷尔刚刚设下的。他说——检查——只是个技术问题。
+0x0100002900001395	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	This is the trap Morell just set. Checking it over, he said, is just a *technicality*, but...	这是莫雷尔刚刚设下的陷阱。他说检查陷阱，只是一个*技术问题*，不过……
+0x010000290000139B	Dialogue Text	COAST ORB / reeds by camp site	You	"No need to grin. I'm not *expecting* to find anything. I'm helping some citizens and getting some fresh air."	“不用笑的这么勉强。我没*期望*能找到什么。我只是在帮助市民，然后顺便呼吸一下新鲜空气。”
+0x01000029000013A1	Dialogue Text	COAST ORB / reeds by camp site	Shivers	A cold gust of air dries your sweaty face and you look to the dark shadow the Feld building in the distance, drawing you to it. What a strange sensation... Once this is done, should you try to ask again?	一阵冷风吹干你脸上的汗水，你看着远处菲尔德大厦的黑色阴影，慢慢被它吸引。真是种奇怪的感觉……等这些事做完之后，你是不是应该再试着问一次？
+0x01000029000013AE	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"No-no. I'm fine. I didn't mean to complain, it's just..." He's short-winded. The sentence ends there.	“不。我很好。我不是想抱怨，只不过……”他有些气喘。话语到这里就结束了。
+0x01000029000013CA	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	Nothing has changed about this trap. You need to check the others.	这个陷阱没有任何变化。你需要检查一下其它的。
+0x01000029000013E1	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	There's nothing else to do with the traps at this time. They're all just lying around, gathering dust and rainwater.	现在已经没什么可以做的了。陷阱只是躺在那里，收集灰尘和雨水。
+0x01000029000013E7	Dialogue Text	COAST ORB / reeds by camp site	You	"Maybe they will still attract something?"	“也许它们还能吸引一些东西？”
+0x01000029000013ED	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	You've checked all the traps now. There's nothing else to do with them. The cryptozoologists await your report.	现在所有陷阱已经检查完毕。没什么需要做的了。神秘动物学家还在等待你的报告。
+0x01000029000013F3	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	The trap feels light -- and silent -- as you pick it up. Something is different here...	这个陷阱感觉很轻——还很安静。这里好像有点不太一样……
+0x01000029000013F9	Dialogue Text	COAST ORB / reeds by camp site	Authority	He doesn't want to, but if there is one more cryptozoological run-around, he *must* force the investigation back on track. This better be it...	他不想这么做，但是如果再来一次神秘动物学的借口，他*肯定*会强迫调查回归正轨。最好就到此为止了……
+0x01000029000013FF	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	This trap is also full of panicked locusts. No sign of any cryptozoological beast inside.	这个陷阱里面也满是惊慌失措的蝗虫，没有任何神秘动物学范畴的野兽存在。
+0x0100002900001405	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	Nothing but locusts in this trap as well. Definitely no cryptozoological monstrosity.	这个陷阱也一样，除了蝗虫什么也没有。肯定没有神秘动物学意义上的畸形。
+0x010000290000140D	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"We did *sort of* promise to tell them, didn't we..." He seems to regret the fact.	“我们确实*好像*答应过要告诉他们，是吧……”他好像为这个事实感到有些后悔。
+0x0100002900001413	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"Right." It does not look like he thinks you're right. "Anyway, that's for the cryptozoologists to figure out now." He adds, for clarity: "*We're* not cryptozoologists -- we're cops."	“没错。”看起来他是真的认同你说的话。“不管怎么说，现在这是神秘动物学家的需要解决的问题了。”为了澄清，他又补充了一句：“*我们*不是神秘动物学家——我们是警察。”
+0x0100002900001419	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	No locusts!	没有蝗虫！
+0x010000290000141F	Dialogue Text	COAST ORB / reeds by camp site	You	Look closer.	再仔细看看。
+0x0100002900001425	Alternate1	COAST ORB / reeds by camp site	Kim Kitsuragi	"Okay. But after that we get back to our own assignments. There is no justification for this detour at this point of our investigation. We have *a lot* of work to do back in town."	“好吧。但是在那之后，我们要继续自己的任务。调查进行到这个阶段，像这样绕道而行真的找不到任何合理的解释。而且我们在城里还有*很多*工作要做。”
+0x0100002900001425	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"Okay. But after that we get back to our own assignments. We've done a thorough survey of the coast now -- just running around is no longer useful."	“好吧。但是在那之后，我们要继续自己的任务。既然现在已经对海岸进行了十分彻底的搜查——再这样到处跑来跑去就没什么用了。”
+0x010000290000142B	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"Good, good. We should be courteous and tell the cryptozoologists that one of their traps was empty, but then we can get back to *our* assignment here."	“很好，很好。我们应该礼貌一点，告诉神秘动物学家有一个陷阱空了，然后就继续回去完成*我们自己*的任务。”
+0x0100002900001436	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	He purses his lips. "Perhaps our cryptozoologists have competition in the form of an actual entomologist? Or someone else is sabotaging them? I could present more theories, but then I would be taking this on as a case -- which I'm *not*."	他咬起嘴唇。“也许我们的神秘动物学家与真正的昆虫学家之间存在竞争关系？又或者其他什么人在蓄意破坏？我可以提出更多的理论，不过那样的话，可能就要立案了——但我并*不想*这么做。”
+0x010000290000143C	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"Another empty trap," the lieutenant takes a note -- more out of habit than duty.	“又是个空陷阱，”警督记下笔记——相比职责，更像是出于一种习惯。
+0x0100002900001442	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	He stops you. "Don't answer that. It was a rhetorical question."	他拦住了你。“别回答。这是个反问句。”
+0x0100002900001448	Dialogue Text	COAST ORB / reeds by camp site	You	"Let's keep going. The next one is the *lucky* one."	“我们走吧。下一个应该就能*走运*了。”
+0x010000290000144E	Dialogue Text	COAST ORB / reeds by camp site	You	"How are you enjoying the cardio, lieutenant? I'm quite enjoying it myself."	“你喜欢有氧运动吗，警督？我自己觉得挺舒服的。”
+0x0100002900001454	Alternate1	COAST ORB / reeds by camp site	You	"Again -- I want to make it absolutely *clear* that I don't really believe the phasmid exists, okay?"	“再说一次——我要明确*声明*一点，我其实并不相信竹节虫的存在，好吗？”
+0x0100002900001454	Dialogue Text	COAST ORB / reeds by camp site	You	"I want to make it clear that I don't *actually* believe the phasmid exists, okay?"	“我想声明一点，我*其实*并不相信竹节虫的存在，好吗？”
+0x010000290000145C	Dialogue Text	COAST ORB / reeds by camp site	You	Say nothing, just put the trap down.	什么也不说，只是把陷阱放下。
+0x0100002900001462	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"Yup. The next one has a *crab* trapped in it." He raises his collar -- it's windy. "These are just crab traps, you do realize?"	“是的。下一个里面困了只*螃蟹*。”他竖起衣领——起风了。“你有没有发现，这些只不过是抓螃蟹的陷阱？”
+0x0100002900001468	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"Always up for a good jog -- otherwise, would I still be *on* this case with *you*?" He smiles and raises his collar. It's windy.	“我一直好好坚持早起慢跑——不然的话，我还会跟*你*一起破*这个*案子吗？”他笑着竖起了衣领，突然起风了。
+0x010000290000146E	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"Of course. Noted." He looks at you, incredulously, as you place the trap back in the reeds.	“当然。记下来了。”他怀疑地看着你把陷阱放回到芦苇丛中。
+0x0100002900001474	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	Neither does the lieutenant. He just raises his collar -- it's cold out, as always.	警督也没有。他只是竖起衣领——毕竟外面很冷，一如往常。
+0x010000290000148D	Dialogue Text	COAST ORB / reeds by camp site	Inland Empire	Man, it's lonely doing this alone. The wind seems to howl in a strange manner...	伙计，一个人做这个也太孤独了。风似乎都在以一种奇怪的方式呼啸……
+0x0100002900001495	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	All the traps are stocked now -- and still no sight of the phasmid. Return to Morell and let him know.	现在所有陷阱都设置好了——但还是没有看见竹节虫。回到莫雷尔那里，把消息告诉他。
+0x010000290000149D	Dialogue Text	COAST ORB / reeds by camp site	You	"Actually -- I do get the feeling that someone or something may have messed with the trap..."	“其实——我确实感觉到好像有什么人，或者什么东西在破坏陷阱……”
+0x01000029000014A3	Dialogue Text	COAST ORB / reeds by camp site	You	"Yeah, it probably *wasn't* the phasmid, but still. Morell needs to know."	“是啊，它也许*不是*竹节虫，不过莫雷尔还是需要知道这一点。”
+0x01000029000014A9	Dialogue Text	COAST ORB / reeds by camp site	You	"But what if it *was* the phasmid? What if it ate them and got out?"	“但是如果*真是*竹节虫呢？如果它把蝗虫全吃掉，然后跑出来了呢？”
+0x01000029000014B3	Dialogue Text	COAST ORB / reeds by camp site	You	"You're right. But they still need to know."	“你说得对。不过他们还是需要知道。”
+0x01000029000014B9	Dialogue Text	COAST ORB / reeds by camp site	You	"You're right. This crypto-research has been stupid."	“你说得对。这次的神秘动物学研究实在是太愚蠢了。”
+0x01000029000014BF	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	The reeds continue to hiss around you as you put the empty trap back on the ground. Time to consult the professionals -- Morell and Lena.	芦苇不断地在你周围嘶嘶作响，你把空陷阱又放回到地面上。是时候去找专业人士咨询一下了——莫雷尔和莉娜。
+0x01000029000014CE	Dialogue Text	COAST ORB / reeds by camp site	You	"Damn, I was hoping it would be in the *first* one."	“该死，我还希望这会是*第一*个呢。”
+0x01000029000014D4	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"Empty as all of them..." he pants. "*One* more of these and we're done..." His face is red from the cold sea air. He crouches to catch his breath.	“跟其他的一样空……”他喘着气。“最多再看*一个*，我们就不做了……”他的脸被冰冷的海风吹得通红，蹲伏下身体喘着气。
+0x01000029000014DA	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"Surely," he repeats and looks at the sea, then at you putting the trap back on the ground. "Anyway, the air is nice and fresh here..."	“当然了，”他望着大海又重复了一遍，接着看着你把陷阱放回地面上。“不管怎么说，这里的空气不错，很新鲜……”
+0x01000029000014E0	Dialogue Text	COAST ORB / reeds by camp site	You	"It'll be in the next one. *Surely*."	“肯定在下一个陷阱里面。*绝对的*。”
+0x01000029000014ED	Dialogue Text	COAST ORB / reeds by camp site	You	"Bummer it wasn't in here..."	“可惜，它不在这里……”
+0x01000029000014F3	Dialogue Text	COAST ORB / reeds by camp site	You	"You getting tired?"	“你累了吗？”
+0x01000029000014F9	Alternate1	COAST ORB / reeds by camp site	You	"One more time, I *must* stress that I did not expect a cryptozoological monstrosity to be in this trap."	“我*必须*再强调一遍，我可没期望能在这个陷阱里看到神秘动物学范畴的畸形。”
+0x01000029000014F9	Dialogue Text	COAST ORB / reeds by camp site	You	"I *must* stress that I did not expect a cryptozoological monstrosity to be in this trap."	“我*必须*强调一下，我可没期望能在这个陷阱里看到神秘动物学范畴的畸形。”
+0x0100002900001501	Dialogue Text	COAST ORB / reeds by camp site	You	Say nothing, just put the trap down.	什么也不说，只是把陷阱放下。
+0x0100002900001507	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	The lieutenant stretches his back.	警督挺直后背。
+0x010000290000150D	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"I'm just..." he breathes out. "Glad we haven't found some poor cat trapped in one of these."	“我只是……”他吐出一口气。“很高兴没在里面找到被困住的可怜小猫。”
+0x0100002900001521	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"Of course. Noted." He looks at you, incredulously, as you place the trap back in the reeds.	“当然。记下来了。”他怀疑地看着你把陷阱放回到芦苇丛中。
+0x0100002900001527	Dialogue Text	COAST ORB / reeds by camp site	You	[Leave.]	[离开。]
+0x010000290000152D	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"No you weren't." He looks at the sea, then you -- laying the trap back down on the ground.	“不，你不会的。”他看着大海，然后看着你——把陷阱放回地面。
+0x010000290000153F	Dialogue Text	COAST ORB / reeds by camp site	Composure	They're not really going to get the chance to get comfortable here.	它们舒舒服服地生活在这里的机会基本为零。
+0x0100002900001545	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"Good. Now that's done. When do you think we will return to our impending apocalypse of a murder investigation?"	“很好。现在这个事情已经告一段落。我们什么时候才能看到凶杀案调查的启示呢？”
+0x0100002900001559	Dialogue Text	COAST ORB / reeds by camp site	You	Release the locusts into the empty trap.	把蝗虫放进空陷阱。
+0x0100002900001569	Dialogue Text	COAST ORB / reeds by camp site	You	(Immediately yell.) "It's empty! Morell didn't leave it empty..."	（立马大叫出来。）“它是空的！莫雷尔留下它的时候可不是空的……”
+0x010000290000157E	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	Nothing. No traces of the locusts *or* the Insulindian phasmid. What happened?	什么也没有。没有蝗虫*或者*是伊苏林迪竹节虫的痕迹。出什么事了？
+0x0100002900001589	Dialogue Text	COAST ORB / reeds by camp site	You	Look closer still.	靠近查看。
+0x0100002900001594	Dialogue Text	COAST ORB / reeds by camp site	Logic	No phasmid either -- but still...	也没有竹节虫——不过……
+0x010000290000159A	Dialogue Text	COAST ORB / reeds by camp site	You	[Leave.]	[离开。]
+0x01000029000015A2	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	Locusts are crawling around in the trap, confused but uneaten. You see no carnivorous *reed-phasmid* gorging on them.	蝗虫在陷阱里爬行，没有被吃掉，但却十分迷惑。你没看见食肉的*芦苇-竹节虫*在狼吞虎咽地享用它们。
+0x01000029000015AC	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"I meant no offence, just..." The lieutenant doesn't know how to finish the sentence. He looks at you, putting the trap back on the ground.	“我不想冒犯，只是……”警督不知道该如何说完这句话。他看着你，然后把陷阱放回地面。
+0x01000029000015B2	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	The locusts, dazed from being transported, slowly begin to acclimate to their new surroundings.	刚经历了长途跋涉的蝗虫还有些头晕，不过也开始慢慢地适应起周围的新环境来。
+0x01000029000015B8	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"Big surprise." The lieutenant grins mirthlessly. "Anyway -- one down, three to go."	“大惊喜。”警督阴沉地咧嘴笑了。“不管怎么说——排除一个，还剩三个。”
+0x01000029000015C7	Alternate1	COAST ORB / reeds by camp site	Trap: Morell	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one was by the canal.	蝗虫的状况不太好，不过它们还在里面。这个陷阱不是空的。那个在运河边。
+0x01000029000015C7	Alternate2	COAST ORB / reeds by camp site	Trap: Morell	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one Morell was setting up, near the cryptozoologists camp.	蝗虫的状况不太好，不过它们还在里面。这个陷阱不是空的。那个是莫雷尔设置的，就在神秘动物学家的营地旁边。
+0x01000029000015C7	Alternate3	COAST ORB / reeds by camp site	Trap: Morell	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one was in Land's End, in the northern tip of this peninsula.	蝗虫的状况不太好，不过它们还在里面。这个陷阱不是空的。那个在地之角，这座半岛的最北端。
+0x01000029000015C7	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That must have been another one.	蝗虫的情况不太好，不过它们还在里面。这个陷阱不是空的。肯定还有其他的。
+0x0100002900001605	Dialogue Text	COAST ORB / reeds by camp site	You	[Leave.]	[离开。]
+0x010000290000160B	Dialogue Text	COAST ORB / reeds by camp site	Savoir Faire	It's good the cryptozoologists left -- this isn't a very cosy place to stay night after night.	还好神秘动物学家离开了——在这里过夜可不舒服。
+0x0100002900001611	Alternate1	COAST ORB / reeds by camp site	Trap: Morell	The reeds by the abandoned camp site hiss and shake in the lazily falling rain.	雨滴洋洋洒洒地飘落，废弃营地旁的芦苇沙沙地摇晃着。
+0x0100002900001611	Alternate2	COAST ORB / reeds by camp site	Trap: Morell	The reeds by the abandoned camp site sway and tremble, while the snow falls all around.	雪花从空中飘落，废弃营地旁的芦苇摇摆着、颤抖着。
+0x0100002900001611	Alternate3	COAST ORB / reeds by camp site	Trap: Morell	The reeds hiss and shake in the darkness that has settled over the abandoned camp. 	黑暗笼罩着这片废弃的营地，芦苇沙沙地颤抖着。
+0x0100002900001611	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	The reeds by the abandoned camp site hiss and shake.	废弃营地旁的芦苇沙沙地摇晃着。
+0x010000290000161D	Dialogue Text	COAST ORB / reeds by camp site	Perception (Sight)	The netting is a little untidy, messier than the others. Like someone or something picked up the trap and shook it before dropping it back down on the ground.	相比其他陷阱，这个的网更凌乱一些。就好像有人或者什么东西把陷阱捡了起来，摇了摇，然后又丢回地面。
+0x010000290000162E	Dialogue Text	COAST ORB / reeds by camp site	Shivers	The later it gets, the colder. Remnants of the camp can still be seen in the sand, the fire that's gone out... you feel strange, somehow.	天色越晚，温度就越低。露营地残留下来的东西还散落在沙子里，火已经熄灭了……不知为什么，你感觉很奇怪。
+0x010000290000164F	Alternate1	COAST ORB / reeds by camp site	Trap: Morell	The reeds whisper around the sepulchral trap, as though suddenly filled with fear. Even the snow does not quiet them.	芦苇围绕在阴森森的陷阱旁窃窃私语，好像突然被恐惧包围一样。就连雪花也无法给它们带去安慰。
+0x010000290000164F	Alternate2	COAST ORB / reeds by camp site	Trap: Morell	The reeds shudder in the falling rain, whispering. It is as though the sepulchral trap has filled them with some strange, novel fear.	芦苇在落雨中颤抖着，低语着。仿佛这个阴森森的陷阱让它们产生了某种奇怪而诡异的恐惧。
+0x010000290000164F	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	The reeds whisper around the sepulchral trap, as though suddenly filled with fear.	芦苇围绕在阴森森的陷阱旁窃窃私语，好像突然被恐惧包围一样。
+0x010000290000166E	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	A few locusts trudge along the wall of the trap. The rest are piled in a heap in the corner, dead. No phasmid anywhere.	一群蝗虫沿着陷阱的内壁艰难地跋涉着。其余的挤在一个角落，已经死去了。到处都没有竹节虫的踪影。
+0x0100002900001674	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"Yes. Like a cat, or another teenage psychopath."	“是的。比如说一只猫，或者是又一个精神变态的青年。”
+0x010000290000167C	Dialogue Text	COAST ORB / reeds by camp site	Kim Kitsuragi	"I'm beginning to feel... somewhat sorry for them."	“我开始有点……为它们感到抱歉。”
+0x0100002900001682	Dialogue Text	COAST ORB / reeds by camp site	Empathy	Poor things...	可怜的家伙……
+0x010000290000168A	Dialogue Text	COAST ORB / reeds by camp site	You	Pause and just stand there.	停下来，只是静静站着。
+0x0100002900001690	Alternate1	COAST ORB / reeds by camp site	You	"Let's go." [Leave.]	“我们走吧。”[离开。]
+0x0100002900001690	Dialogue Text	COAST ORB / reeds by camp site	You	[Leave.]	[离开。]
+0x0100002900001741	Alternate1	COAST ORB / reeds by camp site	Trap: Morell	The trap stands empty near the reeds, powdered with snow. No insect sounds or movement around -- only the reeds' apprehensive hissing.	空空如也的陷阱站立在芦苇附近，上面布满雪花。周围没有昆虫的声音，或者是动作——只有芦苇那忧郁的沙沙声。
+0x0100002900001741	Alternate2	COAST ORB / reeds by camp site	Trap: Morell	The trap stands empty near the reeds. No insect sounds or movement around -- only the reeds' apprehensive hissing. Rain drips from the  mesh of the trap.	空空如也的陷阱站立在芦苇附近。周围没有昆虫的声音，或者是动作——只有芦苇那忧郁的沙沙声。雨点拍打在陷阱的网格上。
+0x0100002900001741	Dialogue Text	COAST ORB / reeds by camp site	Trap: Morell	The trap stands empty near the reeds. No insect sounds or movement around -- only the reeds' apprehensive hissing.	空空如也的陷阱站立在芦苇附近。周围没有昆虫的声音，或者是动作——只有芦苇那忧郁的沙沙声。
+0x01000006000140A5	Dialogue Text	COAST ORB / reeds by feld	You	Reach for the trap.	伸手去碰陷阱。
+0x01000006000140AB	Dialogue Text	COAST ORB / reeds by feld	You	Look around.	看看周围。
+0x01000006000140B4	Alternate1	COAST ORB / reeds by feld	Trap: Boathouses	The reeds rustle confidentially, while the residential building, menacing in the darkness behind you, shield them from the wind.	一栋居民楼恶狠狠地站在你身后的黑影里，保护芦苇不受大风侵袭，而芦苇则回以信任的沙沙声。
+0x01000006000140B4	Alternate2	COAST ORB / reeds by feld	Trap: Boathouses	Behind you, a ruined residential building looms over the reeds, shielding them from the wind. They rustle confidentially, in tune with the pitter-patter of the rain.	你身后是一栋居民楼的废墟，在芦苇丛中若隐若现，保护着它们不受大风的侵袭。芦苇回以信任的沙沙声，与噼里啪啦的雨声格外合拍。
+0x01000006000140B4	Alternate3	COAST ORB / reeds by feld	Trap: Boathouses	Behind you, the ruins of a residential building loom over the reeds. They whisper amongst themselves confidentially. Snowflakes cling to their shivering stems.	你身后是一栋居民楼的废墟，在芦苇丛中若隐若现，悄悄同它们低声慢语。从天而降的雪花，贴服在芦苇颤抖的茎杆上。
+0x01000006000140B4	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	Behind you, the ruins of a residential building rise over the reeds, shielding them from the wind. The reeds rustle confidentially.	你身后是一栋居民楼的废墟，高高地耸立在芦苇丛上，保护它们不受大风侵袭，而芦苇回以信任的沙沙声。
+0x01000006000140C1	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"Big surprise." The lieutenant grins mirthlessly. "Anyway -- one down, three to go."	“大惊喜。”警督阴沉地咧嘴笑了。“不管怎么说——排除一个，还剩三个。”
+0x01000006000140F7	Dialogue Text	COAST ORB / reeds by feld	Shivers	When this district was booming, the reeds were kept at bay. Nothing obscured the freshly painted façades, nowhere for drunks and adventurous teenagers to hide. Now only the wind blows...	这片区域飞速发展的时候，芦苇只能在海湾边生长。新刷的墙面没有任何东西遮挡，让酒鬼和爱冒险的青少年无处可藏。现在只剩下风在呼啸……
+0x0100000600014100	Dialogue Text	COAST ORB / reeds by feld	You	"Damn, I was hoping it would be in the *first* one."	“该死，我还希望这会是*第一*个呢。”
+0x0100000600014106	Dialogue Text	COAST ORB / reeds by feld	You	"No need to grin. I'm not *expecting* to find anything. I'm helping some citizens and getting some fresh air."	“不用笑的这么勉强。我没*期望*能找到什么。我只是在帮助市民，然后顺便呼吸一下新鲜空气。”
+0x010000060001410C	Dialogue Text	COAST ORB / reeds by feld	You	"It'll be in the next one. *Surely*."	“肯定在下一个陷阱里面。*绝对的*。”
+0x0100000600014117	Dialogue Text	COAST ORB / reeds by feld	You	Say nothing, just put the trap down.	什么也不说，只是把陷阱放下。
+0x010000060001411E	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"No you weren't." He looks at the sea, then you -- laying the trap back down on the ground.	“不，你不会的。”他看着大海，然后看着你——把陷阱放回地面。
+0x0100000600014125	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"I meant no offence, just..." The lieutenant doesn't know how to finish the sentence. He looks at you, putting the trap back on the ground.	“我不想冒犯，只是……”警督不知道该如何说完这句话。他看着你，然后把陷阱放回地面。
+0x010000060001412C	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"Surely," he repeats and looks at the sea, then at you putting the trap back on the ground. "Anyway, the air is nice and fresh here..."	“当然了，”他望着大海又重复了一遍，接着看着你把陷阱放回地面上。“不管怎么说，这里的空气不错，很新鲜……”
+0x0100000600014133	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	You set the apparatus back on the ground, among the reeds.	你把装置放回地面，隐藏在芦苇丛中。
+0x0100000600014150	Dialogue Text	COAST ORB / reeds by feld	You	[Leave.]	[离开。]
+0x0100000600014247	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	There's a trap in the reeds at your feet. Looks like the same one you saw Morell set before -- same mesh, same wiring.	你脚下的芦苇丛里有一个陷阱。跟之前看见的莫雷尔的陷阱一模一样——同样的网，同样的线。
+0x010000060001424D	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	A familiar apparatus lies among the reeds -- another one of Morell's traps, weighed down by stones to keep it in place.	一个熟悉的装置躺在芦苇丛中……又是莫雷尔的陷阱，上面压着石头，方便固定它的位置。
+0x0100000600014253	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	This trap's not too hard to spot -- once you know what to look for. Keeping it hidden has not been a priority for the cryptozoologist.	要找到这个陷阱并不太难——只要你明白自己在找什么。对于神秘动物学家来说，把它隐藏起来可不是最高优先级。
+0x0100000600014259	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	It takes you a moment, but finally you spot the last of Morell's traps. This one's partially obscured by the reeds...	你花了一会儿功夫，总算是找到了莫雷尔的最后一个陷阱。有一部分被芦苇给挡住了……
+0x01000006000142B0	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	Nothing has changed about this trap. You need to check the others.	这个陷阱没有任何变化。你需要检查一下其它的。
+0x01000006000142DA	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	The trap feels light -- and silent -- as you pick it up. Something is different here...	你捡起这个陷阱，感觉它很轻——还很安静。好像有点不太一样……
+0x01000006000142E1	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	Locusts are crawling around in the trap, confused but uneaten. You see no carnivorous *reed-phasmid* gorging on them.	蝗虫在陷阱里爬行，没有被吃掉，但却十分迷惑。你没看见食肉的*芦苇-竹节虫*在狼吞虎咽地享用它们。
+0x01000006000142E7	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	This trap is also full of panicked locusts. No sign of any cryptozoological beast inside.	这个陷阱里面也满是惊慌失措的蝗虫，没有任何神秘动物学范畴的野兽存在。
+0x01000006000142ED	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	Nothing but locusts in this trap as well. Definitely no cryptozoological monstrosity.	这个陷阱也一样，除了蝗虫什么也没有。肯定没有神秘动物学意义上的畸形。
+0x01000006000142F6	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	No locusts!	没有蝗虫！
+0x01000006000142FC	Dialogue Text	COAST ORB / reeds by feld	You	Look closer.	再仔细看看。
+0x0100000600014314	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"Another empty trap," the lieutenant takes a note -- more out of habit than duty.	“又是个空陷阱，”警督记下笔记——相比职责，更像是出于一种习惯。
+0x010000060001431B	Dialogue Text	COAST ORB / reeds by feld	You	"Let's keep going. The next one is the *lucky* one."	“我们走吧。下一个应该就能*走运*了。”
+0x0100000600014321	Dialogue Text	COAST ORB / reeds by feld	You	"How are you enjoying the cardio, lieutenant? I'm quite enjoying it myself."	“你喜欢有氧运动吗，警督？我自己觉得挺舒服的。”
+0x0100000600014327	Alternate1	COAST ORB / reeds by feld	You	"Again -- I want to make it absolutely *clear* that I don't really believe the phasmid exists, okay?"	“再说一次——我要明确*声明*一点，我其实并不相信竹节虫的存在，好吗？”
+0x0100000600014327	Dialogue Text	COAST ORB / reeds by feld	You	"I want to make it clear that I don't *actually* believe the phasmid exists, okay?"	“我想声明一点，我*其实*并不相信竹节虫的存在，好吗？”
+0x010000060001432D	Dialogue Text	COAST ORB / reeds by feld	You	Say nothing, just put the trap down.	什么也不说，只是把陷阱放下。
+0x0100000600014335	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"Yup. The next one has a *crab* trapped in it." He raises his collar -- it's windy. "These are just crab traps, you do realize?"	“是的。下一个里面困了只*螃蟹*。”他竖起衣领——起风了。“你有没有发现，这些只不过是抓螃蟹的陷阱？”
+0x010000060001433B	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"Always up for a good jog -- otherwise, would I still be *on* this case with *you*?" He smiles and raises his collar. It's windy.	“我一直好好坚持早起慢跑——不然的话，我还会跟*你*一起破*这个*案子吗？”他笑着竖起了衣领，突然起风了。
+0x0100000600014341	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"Of course. Noted." He looks at you, incredulously, as you place the trap back in the reeds.	“当然。记下来了。”他怀疑地看着你把陷阱放回到芦苇丛中。
+0x0100000600014347	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	Neither does the lieutenant. He just raises his collar -- it's cold out, as always.	警督也没有。他只是竖起衣领——毕竟外面很冷，一如往常。
+0x010000060001435C	Dialogue Text	COAST ORB / reeds by feld	Inland Empire	Man, it's lonely doing this alone. The wind seems to howl in a strange manner...	伙计，一个人做这个也太孤独了。风似乎都在以一种奇怪的方式呼啸……
+0x0100000600014376	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"Empty as all of them..." he pants. "*One* more of these and we're done..." His face is red from the cold sea air. He crouches to catch his breath.	“跟其他的一样空……”他喘着气。“最多再看*一个*，我们就不做了……”他的脸被冰冷的海风吹得通红，蹲伏下身体喘着气。
+0x0100000600014384	Dialogue Text	COAST ORB / reeds by feld	You	"Bummer it wasn't in here..."	“可惜，它不在这里……”
+0x010000060001438A	Dialogue Text	COAST ORB / reeds by feld	You	"You getting tired?"	“你累了吗？”
+0x0100000600014390	Alternate1	COAST ORB / reeds by feld	You	"One more time, I *must* stress that I did not expect a cryptozoological monstrosity to be in this trap."	“我*必须*再强调一遍，我可没期望能在这个陷阱里看到神秘动物学范畴的畸形。”
+0x0100000600014390	Dialogue Text	COAST ORB / reeds by feld	You	"I *must* stress that I did not expect a cryptozoological monstrosity to be in this trap."	“我*必须*强调一下，我可没期望能在这个陷阱里看到神秘动物学范畴的畸形。”
+0x0100000600014398	Dialogue Text	COAST ORB / reeds by feld	You	Say nothing, just put the trap down.	什么也不说，只是把陷阱放下。
+0x010000060001439E	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	The lieutenant stretches his back.	警督挺直后背。
+0x01000006000143A4	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"I'm just..." he breathes out. "Glad we haven't found some poor cat trapped in one of these."	“我只是……”他吐出一口气。“很高兴没在里面找到被困住的可怜小猫。”
+0x01000006000143AA	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"No-no. I'm fine. I didn't mean to complain, it's just..." He's short-winded. The sentence ends there.	“不。我很好。我不是想抱怨，只不过……”他有些气喘。话语到这里就结束了。
+0x01000006000143B0	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"Of course. Noted." He looks at you, incredulously, as you place the trap back in the reeds.	“当然。记下来了。”他怀疑地看着你把陷阱放回到芦苇丛中。
+0x01000006000143ED	Dialogue Text	COAST ORB / reeds by feld	You	(Immediately yell.) "It's empty!"	（立马大叫出来。）“它是空的！”
+0x01000006000143F8	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	The lieutenant studies the trap with you. "Well, the bait worked on *something*. This doesn't mean it was a reed-monster, though. Unless you see one in there? I just see an empty trap..."	警督跟你一起研究陷阱。“呃，诱饵对*某种东西*起作用了。但也并不意味着它就是芦苇怪兽。除非你亲眼看见里面有？我只看到一个空陷阱……”
+0x01000006000143FE	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	Nothing. No traces of the locusts *or* the Insulindian phasmid. What happened?	什么也没有。没有蝗虫*或者*是伊苏林迪竹节虫的痕迹。出什么事了？
+0x0100000600014409	Dialogue Text	COAST ORB / reeds by feld	You	Look closer still.	靠近查看。
+0x0100000600014414	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	The reeds continue to hiss around you as you put the empty trap back on the ground. Time to consult the professionals -- Morell and Lena.	芦苇不断地在你周围嘶嘶作响，你把空陷阱又放回到地面上。是时候去找专业人士咨询一下了——莫雷尔和莉娜。
+0x010000060001441A	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	He purses his lips. "Perhaps our cryptozoologists have competition in the form of an actual entomologist? Or someone else is sabotaging them? I could present more theories, but then I would be taking this on as a case -- which I'm *not*."	他咬起嘴唇。“也许我们的神秘动物学家与真正的昆虫学家之间存在竞争关系？又或者其他什么人在蓄意破坏？我可以提出更多的理论，不过那样的话，可能就要立案了——但我并*不想*这么做。”
+0x0100000600014420	Dialogue Text	COAST ORB / reeds by feld	Logic	No phasmid either -- but still...	也没有竹节虫——不过……
+0x0100000600014426	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	Your voice echoes on the coast, carried by a gust of cold wind.	一阵冷风卷起你的声音，在海岸边发出回响。
+0x010000060001442C	Dialogue Text	COAST ORB / reeds by feld	You	"You're right. This crypto-research has been stupid."	“你说得对。这次的神秘动物学研究实在是太愚蠢了。”
+0x0100000600014432	Dialogue Text	COAST ORB / reeds by feld	You	"You're right. But I still need to tell the cryptozoologists about this."	“你说得对。但我还是要跟神秘动物学家说一声。”
+0x0100000600014438	Dialogue Text	COAST ORB / reeds by feld	You	"But what if it *was* the phasmid? What if it ate them and got out?"	“但是如果*真是*竹节虫呢？如果它把蝗虫全吃掉，然后跑出来了呢？”
+0x0100000600014443	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"Good, good. We should be courteous and tell the cryptozoologists that one of their traps was empty, but then we can get back to *our* assignment here."	“很好，很好。我们应该礼貌一点，告诉神秘动物学家有一个陷阱空了，然后就继续回去完成*我们自己*的任务。”
+0x0100000600014449	Dialogue Text	COAST ORB / reeds by feld	You	"Yeah, it probably *wasn't* the phasmid, but still. Morell needs to know."	“是啊，它也许*不是*竹节虫，不过莫雷尔还是需要知道这一点。”
+0x010000060001444F	Alternate1	COAST ORB / reeds by feld	Kim Kitsuragi	"Okay. But after that we get back to our own assignments. There really is *no* explanation for why we're taking such a detour at this point in the investigation -- none whatsoever."	“好吧。但是在那之后，我们要继续自己的任务。调查进行到这个阶段，像这样绕道而行真的找不到*任何*合理的解释——一点也没有。”
+0x010000060001444F	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"Okay. But after that we get back to our own assignments. We've done a thorough survey of the coast now -- just running around is no longer useful."	“好吧。但是在那之后，我们要继续自己的任务。既然现在已经对海岸进行了十分彻底的搜查——再这样到处跑来跑去就没什么用了。”
+0x0100000600014455	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"Right." It does not look like he thinks you're right. "Anyway, that's for the cryptozoologists to figure out now." He adds, for clarity: "*We're* not cryptozoologists -- we're cops."	“没错。”看起来他是真的认同你说的话。“不管怎么说，现在这是神秘动物学家的需要解决的问题了。”为了澄清，他又补充了一句：“*我们*不是神秘动物学家——我们是警察。”
+0x010000060001445B	Dialogue Text	COAST ORB / reeds by feld	Perception (Sight)	The netting is a little untidy, messier than the others. Like someone or something picked up the trap and shook it before dropping it back down on the ground.	相比其他陷阱，这个的网更凌乱一些。就好像有人或者什么东西把陷阱捡了起来，摇了摇，然后又丢回地面。
+0x0100000600014461	Dialogue Text	COAST ORB / reeds by feld	You	"I do get the feeling that someone or something may have messed with the trap..."	“我确实感觉到好像有什么人，或者什么东西在破坏陷阱……”
+0x0100000600014467	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"We did *sort of* promise to tell them, didn't we..." He seems to regret the fact.	“我们确实*好像*答应过要告诉他们，是吧……”他好像为这个事实感到有些后悔。
+0x0100000600014499	Dialogue Text	COAST ORB / reeds by feld	Shivers	A cold gust of air dries your sweaty face and you look to the dark shadow the Feld building in the distance, drawing you to it. What a strange sensation... Once this is done, should you ask the wind again?	一阵冷风吹干你脸上的汗水，你看着远处菲尔德大厦的黑色阴影，慢慢被它吸引。多么奇怪的一种感觉……等这些结束之后，你再问问风？
+0x01000029000008F8	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	The trap is filled with dead and dying locusts. Most of them aren't moving anymore. You *still* can't see a phasmid anywhere.	这个陷阱里满是死去的和奄奄一息的蝗虫，大部分已经不再动作。你*还是*没有看见竹节虫的踪影。
+0x0100002900000906	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"I'm beginning to feel... somewhat sorry for them."	“我开始有点……为它们感到抱歉。”
+0x010000290000090C	Dialogue Text	COAST ORB / reeds by feld	Empathy	Poor things...	可怜的家伙……
+0x0100002900000919	Dialogue Text	COAST ORB / reeds by feld	You	Pause and just stand there.	停下来，只是静静站着。
+0x0100002900000925	Alternate1	COAST ORB / reeds by feld	You	"Let's go." [Leave.]	“我们走吧。”[离开。]
+0x0100002900000925	Dialogue Text	COAST ORB / reeds by feld	You	[Leave.]	[离开。]
+0x010000290000092B	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	The lieutenant's gaze follows yours and lingers on the reeds, the sand, the water beyond. Then he turns back to you expectantly.	警督追随着你的目光，先是停留在芦苇上，然后是沙子，最后是水面。接着，他满是期待地把目光转回到你身上。
+0x0100002900000938	Alternate1	COAST ORB / reeds by feld	Trap: Boathouses	The reeds whisper around the sepulchral trap, as though suddenly filled with fear. Even the snow does not quiet them.	芦苇围绕在阴森森的陷阱旁窃窃私语，好像突然被恐惧包围一样。就连雪花也无法给它们带去安慰。
+0x0100002900000938	Alternate2	COAST ORB / reeds by feld	Trap: Boathouses	The reeds shudder in the falling rain, whispering. It is as though the sepulchral trap has filled them with some strange, novel fear.	芦苇在落雨中颤抖着，低语着。仿佛这个阴森森的陷阱让它们产生了某种奇怪而诡异的恐惧。
+0x0100002900000938	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	The reeds whisper around the sepulchral trap, as though suddenly filled with fear.	芦苇围绕在阴森森的陷阱旁窃窃私语，好像突然被恐惧包围一样。
+0x010000290000095D	Dialogue Text	COAST ORB / reeds by feld	You	"Maybe they will still attract something?"	“也许它们还能吸引一些东西？”
+0x0100002900000976	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"Yes. Like a cat, or another teenage psychopath."	“是的。比如说一只猫，或者是又一个精神变态的青年。”
+0x010000290000098F	Alternate1	COAST ORB / reeds by feld	Trap: Boathouses	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one was by the canal.	蝗虫的状况不太好，不过它们还在里面。这个陷阱不是空的。那个在运河边。
+0x010000290000098F	Alternate2	COAST ORB / reeds by feld	Trap: Boathouses	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one Morell was setting up, near the cryptozoologists camp.	蝗虫的状况不太好，不过它们还在里面。这个陷阱不是空的。那个是莫雷尔设置的，就在神秘动物学家的营地旁边。
+0x010000290000098F	Alternate3	COAST ORB / reeds by feld	Trap: Boathouses	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one was in Land's End, in the northern tip of this peninsula.	蝗虫的状况不太好，不过它们还在里面。这个陷阱不是空的。那个在地之角，这座半岛的最北端。
+0x010000290000098F	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That must have been another one.	蝗虫的情况不太好，不过它们还在里面。这个陷阱不是空的。肯定还有其他的。
+0x01000029000009AB	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	The locusts, dazed from being transported, slowly begin to acclimate to their new surroundings.	刚经历了长途跋涉的蝗虫还有些头晕，不过也开始慢慢地适应起周围的新环境来。
+0x01000029000009B1	Dialogue Text	COAST ORB / reeds by feld	You	[Leave.]	[离开。]
+0x01000029000009B7	Alternate1	COAST ORB / reeds by feld	Reeds	 Morell's trap stands empty, just like the boathouses around it. The reeds susurrate softly amidst the falling snow.	莫雷尔的陷阱空空如也，就像周围的船库一样。芦苇在片片落雪中沙沙作响。
+0x01000029000009B7	Alternate2	COAST ORB / reeds by feld	Reeds	Morell's trap stands empty, just like the boathouses around it. The reeds chafe against one another while the rain falls.	莫雷尔的陷阱空空如也，就像周围的船库一样。雨滴落下，一只只芦苇相互摩挲着。
+0x01000029000009B7	Dialogue Text	COAST ORB / reeds by feld	Reeds	Morell's trap stands empty, just like the boathouses around it. The wind ruffles your sweaty hair.	莫雷尔的陷阱空空如也，就像周围的船库一样。轻风吹乱了你汗湿的头发。
+0x01000029000009C1	Dialogue Text	COAST ORB / reeds by feld	You	Release the locusts into the empty trap.	把蝗虫放进空陷阱。
+0x01000029000009DB	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	"Good. Now that's done. When do you think we will return to our impending apocalypse of a murder investigation?"	“很好。现在这个事情已经告一段落。我们什么时候才能看到凶杀案调查的启示呢？”
+0x01000029000009E6	Dialogue Text	COAST ORB / reeds by feld	Composure	They're not really going to get the chance to get comfortable here.	它们舒舒服服地生活在这里的机会基本为零。
+0x01000029000009F8	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	All the traps are stocked now -- and still no sight of the phasmid. Return to Morell and let him know.	现在所有陷阱都设置好了——但还是没有看见竹节虫。回到莫雷尔那里，把消息告诉他。
+0x0100002900000A06	Dialogue Text	COAST ORB / reeds by feld	Kim Kitsuragi	He stops you. "Don't answer that. It was a rhetorical question."	他拦住了你。“别回答。这是个反问句。”
+0x0100002900000A0E	Dialogue Text	COAST ORB / reeds by feld	Authority	He doesn't want to, but if there is one more cryptozoological run-around, he *must* force the investigation back on track. This better be it...	他不想这么做，但是如果再来一次神秘动物学的借口，他*肯定*会强迫调查回归正轨。最好就到此为止了……
+0x0100002900000A29	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	There's nothing else to do with the traps at this time. They're all just lying around, gathering dust and rainwater.	现在已经没什么可以做的了。陷阱只是躺在那里，收集灰尘和雨水。
+0x0100002900000A30	Dialogue Text	COAST ORB / reeds by feld	Trap: Boathouses	You've checked all the traps now. There's nothing else to do with them. The cryptozoologists await your report.	现在所有陷阱已经检查完毕。没什么需要做的了。神秘动物学家还在等待你的报告。
+0x0100002900000A7B	Dialogue Text	COAST ORB / reeds by feld	You	[Leave.]	[离开。]
+0x0100002900000A86	Dialogue Text	COAST ORB / reeds by feld	You	[Leave.]	[离开。]
+0x0100002900000EC9	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	A familiar apparatus lies among the reeds -- another one of Morell's traps, weighed down by stones to keep it in place.	一个熟悉的装置躺在芦苇丛中……又是莫雷尔的陷阱，上面压着石头，方便固定它的位置。
+0x0100002900000ED7	Dialogue Text	COAST ORB / reeds near sunken car	You	Say nothing, just put the trap down.	什么也不说，只是把陷阱放下。
+0x0100002900000EE9	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	You set the apparatus back on the ground, among the reeds.	你把装置放回地面，隐藏在芦苇丛中。
+0x0100002900000EF9	Dialogue Text	COAST ORB / reeds near sunken car	You	Say nothing, just put the trap down.	什么也不说，只是把陷阱放下。
+0x0100002900000F0E	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	It takes you a moment, but finally you spot the last of Morell's traps. This one's partially obscured by the reeds...	你花了一会儿功夫，总算是找到了莫雷尔的最后一个陷阱。有一部分被芦苇给挡住了……
+0x0100002900000F25	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	Nothing has changed about this trap. You need to check the others.	这个陷阱没有任何变化。你需要检查一下其它的。
+0x0100002900000F2F	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	The trap feels light -- and silent -- as you pick it up. Something is different here...	这个陷阱感觉很轻——还很安静。这里好像有点不太一样……
+0x0100002900000F35	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	The reeds continue to hiss around you as you put the empty trap back on the ground. Time to consult the professionals -- Morell and Lena.	芦苇不断地在你周围嘶嘶作响，你把空陷阱又放回到地面上。是时候去找专业人士咨询一下了——莫雷尔和莉娜。
+0x0100002900000F3B	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	No locusts!	没有蝗虫！
+0x0100002900000F41	Dialogue Text	COAST ORB / reeds near sunken car	You	Look closer.	再仔细看看。
+0x0100002900000F47	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Surely," he repeats and looks at the sea, then at you putting the trap back on the ground. "Anyway, the air is nice and fresh here..."	“当然了，”他望着大海又重复了一遍，接着看着你把陷阱放回地面上。“不管怎么说，这里的空气不错，很新鲜……”
+0x0100002900000F4D	Dialogue Text	COAST ORB / reeds near sunken car	You	"You're right. But I still need to tell the cryptozoologists about this."	“你说得对。但我还是要跟神秘动物学家说一声。”
+0x0100002900000F53	Dialogue Text	COAST ORB / reeds near sunken car	You	(Immediately yell.) "It's empty!"	（立马大叫出来。）“它是空的！”
+0x0100002900000F5E	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	The lieutenant studies the trap with you. "Well, the bait worked on *something*. This doesn't mean it was a reed-monster, though. Unless you see one in there? I just see an empty trap..."	警督跟你一起研究陷阱。“呃，诱饵对*某种东西*起作用了。但也并不意味着它就是芦苇怪兽。除非你亲眼看见里面有？我只看到一个空陷阱……”
+0x0100002900000F69	Dialogue Text	COAST ORB / reeds near sunken car	You	Look closer still.	靠近查看。
+0x0100002900000F74	Dialogue Text	COAST ORB / reeds near sunken car	Logic	No phasmid either -- but still...	也没有竹节虫——不过……
+0x0100002900000F7A	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	Your voice echoes on the coast, carried by a gust of cold wind.	一阵冷风卷起你的声音，在海岸边发出回响。
+0x0100002900000F80	Dialogue Text	COAST ORB / reeds near sunken car	Perception (Sight)	The netting is a little untidy, messier than the others. Like someone or something picked up the trap and shook it before dropping it back down on the ground.	相比其他陷阱，这个的网更凌乱一些。就好像有人或者什么东西把陷阱捡了起来，摇了摇，然后又丢回地面。
+0x0100002900000F86	Dialogue Text	COAST ORB / reeds near sunken car	You	"I do get the feeling that someone or something may have messed with the trap..."	“我确实感觉到好像有什么人，或者什么东西在破坏陷阱……”
+0x0100002900000F8C	Dialogue Text	COAST ORB / reeds near sunken car	You	"It'll be in the next one. *Surely*."	“肯定在下一个陷阱里面。*绝对的*。”
+0x0100002900000F94	Dialogue Text	COAST ORB / reeds near sunken car	You	"Yeah, it probably *wasn't* the phasmid, but still. Morell needs to know."	“是啊，它也许*不是*竹节虫，不过莫雷尔还是需要知道这一点。”
+0x0100002900000F9A	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	Locusts are crawling around in the trap, confused but uneaten. You see no carnivorous *reed-phasmid* gorging on them.	蝗虫在陷阱里爬行，没有被吃掉，但却十分迷惑。你没看见食肉的*芦苇-竹节虫*在狼吞虎咽地享用它们。
+0x0100002900000FA0	Dialogue Text	COAST ORB / reeds near sunken car	You	"But what if it *was* the phasmid? What if it ate them and got out?"	“但是如果*真是*竹节虫呢？如果它把蝗虫全吃掉，然后跑出来了呢？”
+0x0100002900000FA6	Dialogue Text	COAST ORB / reeds near sunken car	You	"You're right. This crypto-research has been stupid."	“你说得对。这次的神秘动物学研究实在是太愚蠢了。”
+0x0100002900000FAC	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Yup. The next one has a *crab* trapped in it." He raises his collar -- it's windy. "These are just crab traps, you do realize?"	“是的。下一个里面困了只*螃蟹*。”他竖起衣领——起风了。“你有没有发现，这些只不过是抓螃蟹的陷阱？”
+0x0100002900000FB6	Dialogue Text	COAST ORB / reeds near sunken car	You	"Let's keep going. The next one is the *lucky* one."	“我们走吧。下一个应该就能*走运*了。”
+0x0100002900000FBC	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"I meant no offence, just..." The lieutenant doesn't know how to finish the sentence. He looks at you, putting the trap back on the ground.	“我不想冒犯，只是……”警督不知道该如何说完这句话。他看着你，然后把陷阱放回地面。
+0x0100002900000FC7	Dialogue Text	COAST ORB / reeds near sunken car	You	"No need to grin. I'm not *expecting* to find anything. I'm helping some citizens and getting some fresh air."	“不用笑的这么勉强。我没*期望*能找到什么。我只是在帮助市民，然后顺便呼吸一下新鲜空气。”
+0x0100002900000FFF	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	The trap is full of locusts, but they seem weak and unhealthy. A few lie on their backs with their legs twitching. Still no phasmid.	这个陷阱里满是蝗虫，不过看起来十分虚弱又不健康。其中一些已经四脚朝天，腿还不停地抽搐着。还是没有竹节虫的踪影。
+0x0100002900001005	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Big surprise." The lieutenant grins mirthlessly. "Anyway -- one down, three to go."	“大惊喜。”警督阴沉地咧嘴笑了。“不管怎么说——排除一个，还剩三个。”
+0x010000290000100B	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	He purses his lips. "Perhaps our cryptozoologists have competition in the form of an actual entomologist? Or someone else is sabotaging them? I could present more theories, but then I would be taking this on as a case -- which I'm *not*."	他咬起嘴唇。“也许我们的神秘动物学家与真正的昆虫学家之间存在竞争关系？又或者其他什么人在蓄意破坏？我可以提出更多的理论，不过那样的话，可能就要立案了——但我并*不想*这么做。”
+0x0100002900001011	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"I'm beginning to feel... somewhat sorry for them."	“我开始有点……为它们感到抱歉。”
+0x0100002900001017	Dialogue Text	COAST ORB / reeds near sunken car	Empathy	Poor things...	可怜的家伙……
+0x010000290000101F	Dialogue Text	COAST ORB / reeds near sunken car	You	Pause and just stand there.	停下来，只是静静站着。
+0x0100002900001025	Alternate1	COAST ORB / reeds near sunken car	You	"Let's go." [Leave.]	“我们走吧。”[离开。]
+0x0100002900001025	Dialogue Text	COAST ORB / reeds near sunken car	You	[Leave.]	[离开。]
+0x010000290000102D	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	The lieutenant's gaze follows yours and lingers on the reeds, the sand, the water beyond. Then he turns back to you expectantly.	警督追随着你的目光，先是停留在芦苇上，然后是沙子，最后是水面。接着，他满是期待地把目光转回到你身上。
+0x010000290000103A	Alternate1	COAST ORB / reeds near sunken car	Trap: Canal	The reeds whisper around the sepulchral trap, as though suddenly filled with fear. Even the snow does not quiet them.	芦苇围绕在阴森森的陷阱旁窃窃私语，好像突然被恐惧包围一样。就连雪花也无法给它们带去安慰。
+0x010000290000103A	Alternate2	COAST ORB / reeds near sunken car	Trap: Canal	The reeds shudder in the falling rain, whispering. It is as though the sepulchral trap has filled them with some strange, novel fear.	芦苇在落雨中颤抖着，低语着。仿佛这个阴森森的陷阱让它们产生了某种奇怪而诡异的恐惧。
+0x010000290000103A	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	The reeds whisper around the sepulchral trap, as though suddenly filled with fear.	芦苇围绕在阴森森的陷阱旁窃窃私语，好像突然被恐惧包围一样。
+0x010000290000104F	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Good, good. We should be courteous and tell the cryptozoologists that one of their traps was empty, but then we can get back to *our* assignment here."	“很好，很好。我们应该礼貌一点，告诉神秘动物学家有一个陷阱空了，然后就继续回去完成*我们自己*的任务。”
+0x0100002900001057	Alternate1	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Okay. But after that we get back to our own assignments. There really is no explanation for this detour right now. None. None whatsoever."	“好吧。但是在那之后，我们要继续自己的任务。调查进行到这个阶段，像这样绕道而行真的找不到任何合理的解释。一点也没有。”
+0x0100002900001057	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Okay. But after that we get back to our own assignments. We've done a thorough survey of the coast now -- just running around is no longer useful."	“好吧。但是在那之后，我们要继续自己的任务。既然现在已经对海岸进行了十分彻底的搜查——再这样到处跑来跑去就没什么用了。”
+0x010000290000105D	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	The lieutenant stretches his back.	警督挺直后背。
+0x0100002900001063	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"No you weren't." He looks at the sea, then you -- laying the trap back down on the ground.	“不，你不会的。”他看着大海，然后看着你——把陷阱放回地面。
+0x0100002900001069	Dialogue Text	COAST ORB / reeds near sunken car	You	Say nothing, just put the trap down.	什么也不说，只是把陷阱放下。
+0x010000290000106F	Dialogue Text	COAST ORB / reeds near sunken car	You	"Damn, I was hoping it would be in the *first* one."	“该死，我还希望这会是*第一*个呢。”
+0x0100002900001075	Dialogue Text	COAST ORB / reeds near sunken car	You	"Maybe they will still attract something?"	“也许它们还能吸引一些东西？”
+0x010000290000108B	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Yes. Like a cat, or another teenage psychopath..."	“是的。比如说一只猫，或者是又一个精神变态的青年。”
+0x01000029000010AB	Alternate1	COAST ORB / reeds near sunken car	Trap: Canal	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one was by the canal.	蝗虫的状况不太好，不过它们还在里面。这个陷阱不是空的。那个在运河边。
+0x01000029000010AB	Alternate2	COAST ORB / reeds near sunken car	Trap: Canal	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one Morell was setting up, near the cryptozoologists camp.	蝗虫的状况不太好，不过它们还在里面。这个陷阱不是空的。那个是莫雷尔设置的，就在神秘动物学家的营地旁边。
+0x01000029000010AB	Alternate3	COAST ORB / reeds near sunken car	Trap: Canal	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That one was in Land's End, in the northern tip of this peninsula.	蝗虫的状况不太好，不过它们还在里面。这个陷阱不是空的。那个在地之角，这座半岛的最北端。
+0x01000029000010AB	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	The locusts aren't doing all too well, but they're still in there. This isn't the empty trap. That must have been another one.	蝗虫的情况不太好，不过它们还在里面。这个陷阱不是空的。肯定还有其他的。
+0x01000029000010BB	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	The locusts, dazed from being transported, slowly begin to acclimate to their new surroundings.	刚经历了长途跋涉的蝗虫还有些头晕，不过也开始慢慢地适应起周围的新环境来。
+0x01000029000010C1	Dialogue Text	COAST ORB / reeds near sunken car	You	[Leave.]	[离开。]
+0x01000029000010CB	Dialogue Text	COAST ORB / reeds near sunken car	You	Release the locusts into the empty trap.	把蝗虫放进空陷阱。
+0x01000029000010DB	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Good. Now that's done. When do you think we will return to our impending apocalypse of a murder investigation?"	“很好。现在这个事情已经告一段落。我们什么时候才能看到凶杀案调查的启示呢？”
+0x01000029000010E1	Dialogue Text	COAST ORB / reeds near sunken car	Composure	They're not really going to get the chance to get comfortable here.	它们舒舒服服地生活在这里的机会基本为零。
+0x01000029000010E7	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Right." It does not look like he thinks you're right. "Anyway, that's for the cryptozoologists to figure out now." He adds, for clarity: "*We're* not cryptozoologists -- we're cops."	“没错。”看起来他是真的认同你说的话。“不管怎么说，现在这是神秘动物学家的需要解决的问题了。”为了澄清，他又补充了一句：“*我们*不是神秘动物学家——我们是警察。”
+0x0100002900001107	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"We did *sort of* promise to tell them, didn't we..." He seems to regret the fact.	“我们确实*好像*答应过要告诉他们，是吧……”他好像为这个事实感到有些后悔。
+0x0100002900001111	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	All the traps are stocked now -- and still no sight of the phasmid. Return to Morell and let him know.	现在所有陷阱都设置好了——但还是没有看见竹节虫。回到莫雷尔那里，把消息告诉他。
+0x0100002900001119	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	Neither does the lieutenant. He just raises his collar -- it's cold out, as always.	警督也没有。他只是竖起衣领——毕竟外面很冷，一如往常。
+0x010000290000111F	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"No-no. I'm fine. I didn't mean to complain, it's just..." He's short-winded. The sentence ends there.	“不。我很好。我不是想抱怨，只不过……”他有些气喘。话语到这里就结束了。
+0x0100002900001125	Dialogue Text	COAST ORB / reeds near sunken car	You	"You getting tired?"	“你累了吗？”
+0x010000290000112B	Dialogue Text	COAST ORB / reeds near sunken car	Shivers	A cold gust of air dries your sweaty face and you look to the dark shadow the Feld building in the distance, drawing you to it. What a strange sensation... Once this is done, should you ask the wind again?	一阵冷风吹干你脸上的汗水，你看着远处菲尔德大厦的黑色阴影，慢慢被它吸引。多么奇怪的一种感觉……等这些结束之后，你再问问风？
+0x0100002900001131	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Of course. Noted." He looks at you, incredulously, as you place the trap back in the reeds.	“当然。记下来了。”他怀疑地看着你把陷阱放回到芦苇丛中。
+0x0100002900001137	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	He stops you. "Don't answer that. It was a rhetorical question."	他拦住了你。“别回答。这是个反问句。”
+0x010000290000113D	Alternate1	COAST ORB / reeds near sunken car	You	"One more time, I *must* stress that I did not expect a cryptozoological monstrosity to be in this trap."	“我*必须*再强调一遍，我可没期望能在这个陷阱里看到神秘动物学范畴的畸形。”
+0x010000290000113D	Dialogue Text	COAST ORB / reeds near sunken car	You	"I *must* stress that I did not expect a cryptozoological monstrosity to be in this trap."	“我*必须*强调一下，我可没期望能在这个陷阱里看到神秘动物学范畴的畸形。”
+0x0100002900001145	Dialogue Text	COAST ORB / reeds near sunken car	Authority	He doesn't want to, but if there is one more cryptozoological run-around, he *must* force the investigation back on track. This better be it...	他不想这么做，但是如果再来一次神秘动物学的借口，他*肯定*会强迫调查回归正轨。最好就到此为止了……
+0x010000290000114B	Dialogue Text	COAST ORB / reeds near sunken car	Inland Empire	Man, it's lonely doing this alone. The wind seems to howl in a strange manner...	伙计，一个人做这个也太孤独了。风似乎都在以一种奇怪的方式呼啸……
+0x0100002900001169	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	There's nothing else to do with the traps at this time. They're all just lying around, gathering dust and rainwater.	现在已经没什么可以做的了。陷阱只是躺在那里，收集灰尘和雨水。
+0x0100002900001175	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	You've checked all the traps now. There's nothing else to do with them. The cryptozoologists await your report.	现在所有陷阱已经检查完毕。没什么需要做的了。神秘动物学家还在等待你的报告。
+0x010000290000119D	Dialogue Text	COAST ORB / reeds near sunken car	You	[Leave.]	[离开。]
+0x01000029000011B1	Dialogue Text	COAST ORB / reeds near sunken car	You	[Leave.]	[离开。]
+0x01000029000011B9	Dialogue Text	COAST ORB / reeds near sunken car	You	[Leave.]	[离开。]
+0x01000029000011C4	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Empty as all of them..." he pants. "*One* more of these and we're done..." His face is red from the cold sea air. He crouches to catch his breath.	“跟其他的一样空……”他喘着气。“最多再看*一个*，我们就不做了……”他的脸被冰冷的海风吹得通红，蹲伏下身体喘着气。
+0x01000029000011D1	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Of course. Noted." He looks at you, incredulously, as you place the trap back in the reeds.	“当然。记下来了。”他怀疑地看着你把陷阱放回到芦苇丛中。
+0x01000029000011D9	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Always up for a good jog -- otherwise, would I still be *on* this case with *you*?" He smiles and raises his collar. It's windy.	“我一直好好坚持早起慢跑——不然的话，我还会跟*你*一起破*这个*案子吗？”他笑着竖起了衣领，突然起风了。
+0x01000029000011DF	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Another empty trap," the lieutenant takes a note -- more out of habit than duty.	“又是个空陷阱，”警督记下笔记——相比职责，更像是出于一种习惯。
+0x01000029000011E5	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	Nothing. No traces of the locusts *or* the Insulindian phasmid. What happened?	什么也没有。没有蝗虫*或者*是伊苏林迪竹节虫的痕迹。出什么事了？
+0x01000029000011ED	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	This trap's not too hard to spot -- once you know what to look for. Keeping it hidden has not been a priority for the cryptozoologist.	要找到这个陷阱并不太难——只要你明白自己在找什么。对于神秘动物学家来说，把它隐藏起来可不是最高优先级。
+0x01000029000011F8	Alternate1	COAST ORB / reeds near sunken car	You	"Again -- I want to make it absolutely *clear* that I don't really believe the phasmid exists, okay?"	“再说一次——我要明确*声明*一点，我其实并不相信竹节虫的存在，好吗？”
+0x01000029000011F8	Dialogue Text	COAST ORB / reeds near sunken car	You	"I want to make it clear that I don't *actually* believe the phasmid exists, okay?"	“我想声明一点，我*其实*并不相信竹节虫的存在，好吗？”
+0x0100002900001200	Dialogue Text	COAST ORB / reeds near sunken car	You	"How are you enjoying the cardio, lieutenant? I'm quite enjoying it myself."	“你喜欢有氧运动吗，警督？我自己觉得挺舒服的。”
+0x010000290000120B	Dialogue Text	COAST ORB / reeds near sunken car	You	Reach for the trap.	伸手去碰陷阱。
+0x0100002900001215	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	This trap is also full of panicked locusts. No sign of any cryptozoological beast inside.	这个陷阱里面也满是惊慌失措的蝗虫，没有任何神秘动物学范畴的野兽存在。
+0x0100002900001220	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	Nothing but locusts in this trap as well. Definitely no cryptozoological monstrosity.	这个陷阱也一样，除了蝗虫什么也没有。肯定没有神秘动物学意义上的畸形。
+0x0100002900001231	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	There's a trap in the reeds at your feet. Looks like the same one you saw Morell set before -- same mesh, same wiring.	你脚下的芦苇丛里有一个陷阱。跟之前看见的莫雷尔的陷阱一模一样——同样的网，同样的线。
+0x0100002900001237	Dialogue Text	COAST ORB / reeds near sunken car	You	"Bummer it wasn't in here..."	“可惜，它不在这里……”
+0x010000290000123D	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"I'm just..." he breathes out. "Glad we haven't found some poor cat trapped in one of these."	“我只是……”他吐出一口气。“很高兴没在里面找到被困住的可怜小猫。”
+0x01000029000012E8	Alternate1	COAST ORB / reeds near sunken car	Trap: Canal	The trap stands empty amongst the reeds, powdered with snow. No insect sounds or movement around -- only the reeds' melancholy rustling. 	空空如也的陷阱站立在芦苇丛中，上面堆满雪花。周围没有昆虫的声音，或者是动作——只有芦苇那忧郁的沙沙声。
+0x01000029000012E8	Alternate2	COAST ORB / reeds near sunken car	Trap: Canal	The trap stands empty amongst the reeds. No insect sounds or movement around -- only the reeds' melancholy rustling. Rain drips from the netting of the trap.	空空如也的陷阱站立在芦苇丛中。周围没有昆虫的声音，或者是动作——只有芦苇那忧郁的沙沙声。
+0x01000029000012E8	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	The trap stands empty amongst the reeds. No insect sounds or movement around -- only the reeds' melancholy rustling.	空空如也的陷阱站立在芦苇丛中。周围没有昆虫的声音，或者是动作——只有芦苇那忧郁的沙沙声。
+0x01000029000012FC	Dialogue Text	COAST ORB / reeds near sunken car	Shivers	The constant, distant song. Louder on this part of the coast. Nearer somehow. And there's that cold again, always the cold...	那遥远的，不变的歌声。在海岸的这一部分尤其响亮。不知为什么，好像更近一些。还有那刺骨的寒冷，永远不变的寒冷……
+0x0100002900001302	Dialogue Text	COAST ORB / reeds near sunken car	You	Look around.	看看周围。
+0x0100002900001308	Alternate1	COAST ORB / reeds near sunken car	Trap: Canal	The reeds bend forlornly toward the sand. Some tufts have been crushed. The broken stalks seem like a rebuke -- the sound of the city centre hums in the east.	芦苇孤苦伶仃地弯向沙地，有几丛已经被碾碎，折断的茎杆就像一场责罚。在东边，城市中心发出嗡嗡的声响。
+0x0100002900001308	Alternate2	COAST ORB / reeds near sunken car	Trap: Canal	The reeds bend forlornly toward the sand. Snow covers the broken stalks like a shroud, and they shimmer, ghostly, in the darkness. In the east, the city centre hums to you.	芦苇孤苦伶仃地弯向沙地。雪花像寿衣一样盖在折断的茎杆上，它们在黑暗中颤抖地，仿佛幽灵一样。在东边，市中心朝着你嗡嗡作响。
+0x0100002900001308	Alternate3	COAST ORB / reeds near sunken car	Trap: Canal	The reeds bend forlornly toward the sand. Some tufts have been crushed. Snow covers the broken stalks like a shroud. In the east, the city centre hums to you.	芦苇孤苦伶仃地弯向沙地，有几丛已经被碾碎。雪花像寿衣一样盖在折断的茎杆上。在东边，市中心朝着你嗡嗡作响。
+0x0100002900001308	Alternate4	COAST ORB / reeds near sunken car	Trap: Canal	The reeds bend forlornly toward the water. Some tufts have been crushed. The broken stalks, sickly-pale against the darkness. In the east, the city centre hums to you.	芦苇孤苦伶仃地弯向沙地，有几丛已经被碾碎。折断的茎杆，在黑暗中愈发显现出病态般的苍白。在东边，市中心朝着你嗡嗡作响。
+0x0100002900001308	Dialogue Text	COAST ORB / reeds near sunken car	Trap: Canal	The reeds bend forlornly toward the sand. You see slabs of concrete, north. In the east, the city centre hums to you.	芦苇孤苦伶仃地弯向沙地。在北边，你望见混凝土石板。在东边，市中心朝着你嗡嗡作响。
+0x0100002900001843	Dialogue Text	COAST ORB / reeds near sunken car	You	"This was the one."	“就是这个。”
+0x010000290000184F	Dialogue Text	COAST ORB / reeds near sunken car	Kim Kitsuragi	"Fantastic." The lieutenant looks at the familiar contraption and shrugs.	“太棒了。”警督看着眼熟的精妙装置，耸了耸肩。
+0x0100007100005710	Dialogue Text	COAST ORB / reeds with buoy	Inland Empire	That patch of reeds over there -- it's a great place to hide something. Kind of out of the way, being so close to the water.	那边的芦苇丛——是藏东西的好地方。那么靠近水边，有点不同寻常。
+0x010000710000571D	Dialogue Text	COAST ORB / reeds with buoy	You	Wait, I can't see anything interesting...	等等，我没看见什么有意思的东西……
+0x0100007100005723	Dialogue Text	COAST ORB / reeds with buoy	Inland Empire	You don't have a reason to -- yet.	你没有理由——暂时没有。
+0x010000710000572A	Dialogue Text	COAST ORB / reeds with buoy	You	What is this about?	这是干什么？
+0x0100007100005730	Dialogue Text	COAST ORB / reeds with buoy	You	[Discard thought.]	[放弃思维。]
+0x0100007100005739	Dialogue Text	COAST ORB / reeds with buoy	Inland Empire	Nothing. Just a hunch. The hunch passes, leaving you there, by the old buoy bobbing in the water. Time to go.	没什么。只是有种预感。预感逝去，把你独自留在这里——水面若隐若现的旧浮标旁。时间差不多，该走了。
+0x010000040001511B	Dialogue Text	COAST ORB / reflectingwaterthought	You	Just me, I guess?	我猜，只有我？
+0x0100000400015121	Dialogue Text	COAST ORB / reflectingwaterthought	You	Some nasty water?	脏水？
+0x0100000400015129	Dialogue Text	COAST ORB / reflectingwaterthought	Rhetoric	This is more important than you. That's the blood of industry you see before you. The run off from Coal City, further down the coast.	这远比你重要。出现在你眼前的是工业的血液。从海岸那头遥远的煤城流出来的。
+0x010000040001512F	Dialogue Text	COAST ORB / reflectingwaterthought	Rhetoric	No! For a second, think about something other than yourself -- think about *the blood of industry* here before you. The run off from Coal City, further down the coast.	不！只稍片刻，想想除你以外的东西——想想你眼前的*工业的血液*。从海岸那头遥远的煤城流出来的。
+0x0100000400015135	Dialogue Text	COAST ORB / reflectingwaterthought	Rhetoric	Exactly! The *blood of industry*. The run off from Coal City, further down the coast.	没错！*工业的血液*。从海岸那头遥远的煤城流出来的。
+0x010000060001D5D9	Dialogue Text	COAST ORB / reflectingwaterthought	Conceptualization	Metaphor. It's always metaphor.	隐喻。一直都是隐喻。
+0x010000060001D5E4	Dialogue Text	COAST ORB / reflectingwaterthought	You	What happened?	出什么事了？
+0x0100008900001A29	Dialogue Text	COAST ORB / reflectingwaterthought	Rhetoric	Wait -- take a longer look at yourself and how you're reflected in that slick chemical rainbow. What do you *see*?	等等——好好看看你自己，看看你在那道光滑的化学彩虹下的倒影。你*看见*什么了？
+0x0100008F00001D7E	Dialogue Text	COAST ORB / reflectingwaterthought	You	Some kind of metaphor for me?	对我来说是某种隐喻吗？
+0x0100008F00001D85	Dialogue Text	COAST ORB / reflectingwaterthought	You	[Discard thought.]	[放弃思维。]
+0x0100008F00001D8F	Dialogue Text	COAST ORB / reflectingwaterthought	Rhetoric	The engines of fortune once roared here. Great wealth poured into Revachol, the Delta. As did smoke, waste, sickness, life...	财富的引擎曾经在这里咆哮。大量财富涌入瑞瓦肖，德尔塔，同时还有烟雾、废品、疾病和生命……
+0x0100008F00001D95	Dialogue Text	COAST ORB / reflectingwaterthought	Rhetoric	The engines stopped. The West Revacholian industrial base was dismantled after the war. Now, extinguished coke furnaces dot the landscape. A landscape despoiled by industry.	引擎已经停止。战后，西瑞瓦肖工业基地被拆除了。现在，熄灭的焦炭炉点缀着这片风景。被工业掠夺过的风景。
+0x0100008F00001D9B	Dialogue Text	COAST ORB / reflectingwaterthought	You	I don't see the problem. Revachol moved on to a service industry. Get with the times, yo.	我没觉得有什么问题。瑞瓦肖转向了服务业。要跟上时代嘛。
+0x0100008F00001DA1	Dialogue Text	COAST ORB / reflectingwaterthought	You	There was a serious dereliction of duty in this clean up.	清理工作中存在着严重的失职行为。
+0x0100008F00001DA9	Dialogue Text	COAST ORB / reflectingwaterthought	Rhetoric	Right. Here's some advice that's good for business and life: never fight a losing battle. I'm not even going to argue with you.	没错。这里有一些对生意和生活都很有益的建议：永远都不要打败仗。我甚至都不想跟你争辩。
+0x0100008F00001DB5	Dialogue Text	COAST ORB / reflectingwaterthought	Physical Instrument	Filth! This needs environmental action -- now!	肮脏！这里需要环境行动——就是现在！
+0x0100008F00001DD4	Dialogue Text	COAST ORB / reflectingwaterthought	Rhetoric	Perhaps you could dedicate your life to cleaning it up. But you're a cop. You must concern yourself with different messes. Even so: it's pretty to think.	也许你可以奉献自己的一生来清理它。但你是个警察。你还有其他不同的烂摊子要考虑。即便如此：想想还是挺好的。
+0x0100008F00002287	Dialogue Text	COAST ORB / reflectingwaterthought	You	West Revacholian industrial base? That's so me.	西瑞瓦肖工业基地？听起来很适合我。
+0x0100008F0000228D	Dialogue Text	COAST ORB / reflectingwaterthought	Rhetoric	Yes. Fortune left you too, leaving only pharmaceuticals and a sub-par service based industry.	是的。财富也离开了你，只留下制药和服务水平低下的工业。
+0x010000060001C90A	Dialogue Text	COAST ORB / roadsidethought	Suggestion	His boyfriend is on his way home. He brings tins of meat and vegetables with him. Their pockets are heavier with money; but only slightly.	他的男朋友还在回家路上，身上带着肉类和蔬菜罐头。他们的口袋因为金钱变得沉重了些；不过只有一点而已。
+0x0100008F00001997	Dialogue Text	COAST ORB / roadsidethought	Shivers	A drop in temperature. An easy flow of air: an empty street. Before you, a thoroughfare unjammed with lorries. No more drivers smoking on hitch steps. Just... silence.	温度骤降。在一条空旷的街道上，连空气的流动也变得容易起来。在你面前，一条没有货車堵死的大道。没有坐在托杆上抽烟的司机。只有……寂静。
+0x0100008F0000199E	Dialogue Text	COAST ORB / roadsidethought	You	Let go of the moment. [Discard thought.]	放下这一刻。[放弃思维。]
+0x0100008F000019A3	Dialogue Text	COAST ORB / roadsidethought	You	What did the smoke smell like?	烟是什么味道？
+0x0100008F000019AD	Dialogue Text	COAST ORB / roadsidethought	Shivers	Chemically sweetened. Across the road, a forgotten bus stop; corrosion has opened a hole in its roof. An elm tree watches over the building. Its branches are dripping with rain and snow.	化学的甜味。道路那边是一个被遗忘的公交車站；锈迹在它的顶部开了个洞。一棵榆树看守着建筑。它的枝头滴落着雨水和雪水。
+0x0100008F000019B4	Dialogue Text	COAST ORB / roadsidethought	Shivers	The road is smooth and motley. Craters filled with a black asphalt. The asphalt first laid is grey already. A row of tenements are under construction in the distance.	道路通畅而混杂。坑洞里填满黑色的沥青。第一次铺设的沥青已经变灰。一排建造中的公寓伫立在远方。
+0x0100008F000019C2	Dialogue Text	COAST ORB / roadsidethought	You	What about the bus stop?	那个公交車站呢？
+0x0100008F000019C8	Dialogue Text	COAST ORB / roadsidethought	You	That is enough. [Finish thought.]	已经够了。[完成思维。]
+0x0100008F000019CE	Dialogue Text	COAST ORB / roadsidethought	You	Who are the people who live across the road?	住在路对面的都是什么人？
+0x0100008F000019E1	Dialogue Text	COAST ORB / roadsidethought	You	A dead dog?	一条死狗？
+0x0100008F000019E8	Dialogue Text	COAST ORB / roadsidethought	Shivers	A tub warm with water, white with soap. A man bathes while radio waves transmit the lottery numbers: 4, 18, 21, 4, 1... A modern washing machine rattles a drawer full of silverware.	一盆温水，上面漂浮着白色的肥皂沫。一个男人正在洗澡，无线电波正里传输着彩票中奖号码：4,18,21,4,1……洗碗机把装满镀银餐具的抽屉晃得咯咯直响。
+0x0100008F000019FB	Dialogue Text	COAST ORB / roadsidethought	Shivers	#312D. Young girls used to come here, huddled up, hoping for more warmth than their thin coats give them. The bus took them to school. It has not run for eight years; there were not enough girls to sustain its cost.	312D号。以前会有年轻的女孩来到这里，挤成一团，寻求着比身上单薄大衣更多的温暖。公交車把她们送往学校。它已经有8年没有运行了；没有足够多的女孩来负担它运营的成本。
+0x0100008F00001A01	Dialogue Text	COAST ORB / roadsidethought	Perception (Sight)	There's one bump on the road: a dead dog lies flat about two hundred paces away, right at the turn.	路上有一块隆起：一条死狗平躺在两百米开外，刚好就在转角的地方。
+0x0100008F00001A07	Dialogue Text	COAST ORB / roadsidethought	Shivers	Craters pocked the surface. Children played in them, until heavy trucks full of black pitch rolled in. The landowners have filled the craters with money. It is a vital artery of flow of trade.	路的表面密密麻麻全是坑洞。孩子们在里面玩耍，直到载满黑色沥青的重型货車蜂拥而至。土地所有者用钱填满了这些坑洞。它是商业流通的重要命脉。
+0x0100008F00001A1A	Dialogue Text	COAST ORB / roadsidethought	Shivers	Tragedy came from the wheels of a fast RCM vehicle, hurrying to work. The cold washes over you. The sound of the sea has grown distant.	悲剧来自于飞驰的車轮，那是急着赶去工作的RCM专車。一股寒意充斥着你的全身。大海的声音渐行渐远。
+0x0100008F000022BA	Dialogue Text	COAST ORB / roadsidethought	Shivers	The wind moves the aerosol. A detective stands behind the boom barrier; a breeze moves a curl of his hair.	风吹散了气溶胶。一个警探站在拦車杆的后面；一阵微风吹起了他的一缕卷发。
+0x0100008F000022C2	Dialogue Text	COAST ORB / roadsidethought	You	What about the road?	那条路呢？
+0x0100008F00002125	Dialogue Text	COAST ORB / seagull	Endurance	You see that seagull up there? Remind you of anybody?	你看见上面那只海鸥了吗？有没有让你想起谁？
+0x0100008F0000212C	Dialogue Text	COAST ORB / seagull	You	Um... me?	呃……我？
+0x0100008F00002132	Dialogue Text	COAST ORB / seagull	You	Kim?	金？
+0x0100008F00002139	Dialogue Text	COAST ORB / seagull	Endurance	What? Kim? No, it's you! You! You and the seagull are just alike!	什么？金？不，是你！你！你和海鸥太像了！
+0x0100008F00002141	Dialogue Text	COAST ORB / seagull	Endurance	Exactly!	没错！
+0x0100008F00002155	Dialogue Text	COAST ORB / seagull	You	Why am I like a seagull?	为什么我像海鸥？
+0x0100008F00002164	Dialogue Text	COAST ORB / seagull	Endurance	Think about the seagull's story. It's one of endurance -- and adaptation. The seaside was paradise once. They were birds of that paradise.	想想海鸥的故事吧。那是关于忍耐力——还有适应性的故事。海边曾经是天堂般的存在，鸟儿们的天堂。
+0x0100008F0000216A	Dialogue Text	COAST ORB / seagull	Endurance	No time for that sentimental bullshit. They're hustlers, getting shit done. They're one pair of track pants away from gangsters. Just like you.	没时间搞那些多愁善感的狗屁东西了。它们是骗子，专门做些恶心的事。它们离歹徒只有一步之遥。就像你一样。
+0x0100008F0000217E	Dialogue Text	COAST ORB / seagull	You	I guess I *am* a bit like the seagull.	我猜我*的确*有一点像海鸥。
+0x0100008F00002184	Dialogue Text	COAST ORB / seagull	You	But I'm not like that! I'm still romantic.	但我一点都不像啊！我还是很浪漫的。
+0x0100008F0000218C	Dialogue Text	COAST ORB / seagull	Endurance	Sure, *inside*. But outside it's a tough world. You've got to do whatever it takes to survive. And you *do*. Question is: will you admit that to yourself?	当然，*内在*是。不过外面是一个艰难的世界。为了生存，你什么都要做。而且你的确*做了*。问题是：你自己会承认吗？
+0x0100008F00002192	Dialogue Text	COAST ORB / seagull	Endurance	Exactly. The seagull does what it takes -- and so do you. You've got that same spirit in you. When the time comes, you'll push yourself.	没错。海鸥会竭尽所能——就像你一样。你也拥有同样的精神。当时机到来的时候，你会鞭策自己的。
+0x0100008F00002198	Dialogue Text	COAST ORB / seagull	You	Fuckin' right. Whatever it takes to survive. I AM THE SEAGULL!	没错。尽一切可能活下来。我就是海鸥！
+0x0100008F000021A1	Dialogue Text	COAST ORB / seagull	Endurance	Own it! Steal hot dogs, shit in the sand -- whatever it takes to keep going!	拥抱它吧！偷走热狗，在沙子里大便——无论如何也要继续坚持下去！
+0x0100008F000021AB	Dialogue Text	COAST ORB / seagull	You	Okay... well, let me re-consider.	好吧……呃，让我重新考虑一下。
+0x0100008F000021B1	Dialogue Text	COAST ORB / seagull	You	I will not, no. [Finish thought.]	我不会的。[完成思维。]
+0x0100008F000024AE	Dialogue Text	COAST ORB / seagull	You	I'm not going to have a seagull conversation. [Finish thought.]	我不想聊海鸥的话题。[完成思维。]
+0x0100008F000024B4	Dialogue Text	COAST ORB / seagull	You	No one comes to mind.	没想到什么人。
+0x0100008F000024BD	Dialogue Text	COAST ORB / seagull	Endurance	You! You and the seagull are just alike!	你啊！你和海鸥太像了！
+0x0100008F000024D8	Dialogue Text	COAST ORB / seagull	Endurance	Then their paradise became *shit city*. And what did they do? They became urban survivors! Eating burgers out of trash cans! Killing and eating pigeons!	然后它们的天堂变成了*该死的城市*。它们做了什么？它们变成了城市的幸存者！吃着垃圾箱里的汉堡！杀掉鸽子，然后把它们吃掉！
+0x0100008F000024E0	Dialogue Text	COAST ORB / seagull	Endurance	Good boy.	好孩子。
+0x0100008F000024E9	Dialogue Text	COAST ORB / seagull	You	Hold on. Have I ever eaten a burger out of the trash?	等一等。我有没有在垃圾箱翻过汉堡吃？
+0x0100008F000024F6	Dialogue Text	COAST ORB / seagull	Endurance	You have. The body remembers.	你有过。你的身体还记得。
+0x0100000600017427	Dialogue Text	COAST ORB / snow shivers	Shivers	The snow falls lazily, making the beach sand paler still, mixing with the rust-coloured sewage run-off.	雪花洋洋洒洒地飘落，让海岸上沙子的颜色变得更浅，跟溢出的锈色污水混在了一起。
+0x010000060001742E	Dialogue Text	COAST ORB / snow shivers	You	Look around you.	看看自己周围。
+0x010000060001743F	Dialogue Text	COAST ORB / snow shivers	You	How does it feel?	感觉怎么样？
+0x0100000600017456	Dialogue Text	COAST ORB / snow shivers	You	What is there?	那里有什么？
+0x010000060001745C	Dialogue Text	COAST ORB / snow shivers	Shivers	Below the old mines -- L'Ossuaire Municipal, Revachol's underground cemetery. *Les petits rats* brave the underground passageways, trying to get to Le Royaume...	在旧矿井下面——是市公墓，瑞瓦肖的地下墓地。那群*小老鼠*勇敢地面对着地下通道，想要抵达王国……
+0x0100000600017467	Dialogue Text	COAST ORB / snow shivers	You	Look around.	环顾四周。
+0x010000060001746F	Dialogue Text	COAST ORB / snow shivers	Shivers	A chill comes over you, crawling down your back. The sand under your feet is wet. Somewhere in the south, tarpaulin flap in the wind.	你感到一阵寒意，顺着你的后背窜了下去。脚下是潮湿的沙子。南边的某个地方，防水油布在风中翻飞。
+0x0100000600017477	Dialogue Text	COAST ORB / snow shivers	You	For what?	为什么？
+0x010000060001968A	Dialogue Text	COAST ORB / snow shivers	Shivers	Someone's stuffed a big old polar anorak into a concrete pipe under the boardwalk. It would keep you warm. You will probably never happen across it, but who knows.	有人把一件又大又旧的厚夹克塞进了木板道下的一根水泥管里。它能帮你保暖。你可能永远也不会遇到它，但是谁知道呢。
+0x0100000600019697	Dialogue Text	COAST ORB / snow shivers	You	Tell me a secret of the sands, wind.	风，给我讲一个沙子的秘密吧。
+0x01000006000196A8	Dialogue Text	COAST ORB / snow shivers	You	No need for secrets.	不需要什么秘密。
+0x01000006000196AE	Dialogue Text	COAST ORB / snow shivers	Shivers	No need for anything anymore.	什么也不需要了。
+0x010000060001DE24	Dialogue Text	COAST ORB / snow shivers	You	But still...	但还是……
+0x010000060001DE2C	Dialogue Text	COAST ORB / snow shivers	You	Where is Ruby?	露比在哪？
+0x010000060001DE33	Dialogue Text	COAST ORB / snow shivers	Shivers	Near. Snow falls into dark water. She prays, though she doesn't believe. There is a hum in the air.	附近。雪花飘落进黑水里。她祈祷着，虽然她并不相信。空气中传来嗡嗡的声音。
+0x010000060001DE3A	Dialogue Text	COAST ORB / snow shivers	Shivers	That's all.	就这些。
+0x0100000700009839	Dialogue Text	COAST ORB / snow shivers	You	That's where Cuno said he's gonna go...	那就是坤诺说他要去的地方……
+0x0100000700009842	Dialogue Text	COAST ORB / snow shivers	Shivers	Yes. To peel the gold off with his fingernails.	是的。用他的手指甲把黄金抠下来。
+0x0100007D00000125	Dialogue Text	COAST ORB / snow shivers	Shivers	The spring thaw will come in earnest. Just not yet.	春季解冻期会郑重其事地到来。只是还没到而已。
+0x0100007D00000194	Dialogue Text	COAST ORB / snow shivers	You	Stomp your feet for warmth, brushing off the snow. [Finish thought.]	跺跺脚取暖，拍掉雪花。[完成思维。]
+0x0100007D0000019A	Dialogue Text	COAST ORB / snow shivers	Kim Kitsuragi	"We should keep moving. Who knows when this snow will let up?"	“我们应该继续前进。谁知道这场雪什么时候会变小？”
+0x0100007D000001B7	Dialogue Text	COAST ORB / snow shivers	You	What's in the east?	东边有什么？
+0x0100007D0000028F	Dialogue Text	COAST ORB / snow shivers	You	What's in the west?	西边有什么？
+0x0100007D00000317	Dialogue Text	COAST ORB / snow shivers	You	Shake the shivers off. [Discard thought.]	甩掉这种颤抖的感觉。[放弃思维]
+0x0100007D0000034A	Dialogue Text	COAST ORB / snow shivers	You	What's in the south?	南边有什么？
+0x0100007D000003A3	Dialogue Text	COAST ORB / snow shivers	Shivers	Winter, slow to let go of Revachol, flecks some more wet snow from above...	冬季，慢慢放开了瑞瓦肖，从天空洒下更多湿漉漉的雪花……
+0x0100007D000003B0	Dialogue Text	COAST ORB / snow shivers	You	What am I doing?	我在做什么？
+0x0100007D000003B6	Dialogue Text	COAST ORB / snow shivers	Shivers	And to think -- it seemed as though it were already spring.	想一想——似乎春天已经到来。
+0x0100007D00000414	Dialogue Text	COAST ORB / snow shivers	You	What's in the north?	北边有什么？
+0x0100008100001742	Dialogue Text	COAST ORB / snow shivers	Shivers	It has been a cold year. All things waiting for spring will have to wait a bit longer.	今年特别冷。世间万物都在等待春天的到来，只不过可能还要等得再久一点。
+0x01000081000017B2	Alternate1	COAST ORB / snow shivers	Shivers	You should be warm, with your hat and your coat, but you notice that you're missing a shoe. You feel like a traveller ill-equipped to survey the landscape you have set out to explore.	有了帽子和大衣，你应该感到十分温暖，但你注意到自己少了一只鞋。你感觉就像个装备不良的旅行者，正探索着这片大地。
+0x01000081000017B2	Alternate2	COAST ORB / snow shivers	Shivers	You should be warm, with your hat and your coat, but you notice that you don't have any shoes on. You feel like a traveller ill-equipped to survey the landscape you have endeavoured to explore.	有了帽子和大衣，你应该感到十分温暖，但你注意自己没穿鞋。你感觉自己是个装备不良的旅行者，正探索着这片大地。
+0x01000081000017B2	Dialogue Text	COAST ORB / snow shivers	Shivers	You're warm in your hat and your coat. Like a well-equipped explorer, you comfortably survey the white landscape.	穿戴着帽子和大衣的你感到十分温暖。你就像个装备精良的探险家，舒适地探查着这片白茫茫的大地。
+0x0100008100001813	Alternate1	COAST ORB / snow shivers	Shivers	Looking up at the sky, melted snow dripping from your hat.	抬头望向天空，融化的雪花从你的帽子上滴落下来。
+0x0100008100001813	Dialogue Text	COAST ORB / snow shivers	Shivers	Looking up at the sky, melted snow dripping from your hair...	抬头望向天空，融化的雪花从你的头发上滴落下来……
+0x010000810000181B	Dialogue Text	COAST ORB / snow shivers	You	What do I see?	我看见什么了？
+0x0100008100001821	Dialogue Text	COAST ORB / snow shivers	Shivers	The sky is full of great battleships. White clouds collide with one another, and the world is drenched with their debris.	天空满是大型战舰。白色的云朵相互碰撞着，整个世界都被它们的残骸所遮盖。
+0x0100008100001827	Dialogue Text	COAST ORB / snow shivers	You	How does it feel?	感觉怎么样？
+0x010000810000183B	Alternate1	COAST ORB / snow shivers	Shivers	The melting snow seeps through your thin clothes. The toes of your one bare foot are growing numb. At least your hair is protected from getting wet and sticking together. You look around...	融化的雪花渗入你单薄的衣衫。那只光脚的脚趾变得越来越麻木。至少你的头发有了保护，不会湿乎乎地黏在一起。你看了看周围……
+0x010000810000183B	Alternate2	COAST ORB / snow shivers	Shivers	The melting snow seeps through your thin clothes. The toes of your bare feet are growing numb. At least your hair is protected from getting wet and sticking together. You look around...	融化的雪花渗入你单薄的衣衫。你光脚的脚趾变得越来越麻木。至少你的头发有了保护，不会湿乎乎地黏在一起。你看了看周围……
+0x010000810000183B	Dialogue Text	COAST ORB / snow shivers	Shivers	The melting snow seeps through your thin clothes. Grandmothers don't let their grandchildren out dressed so lightly in this weather. At least your hair is protected from getting wet and sticking together. You look around...	融化的雪花渗入你单薄的衣衫。在这种天气里，祖母们不会让他们的外孙穿的如此轻薄。至少你的头发有了保护，不会湿乎乎地黏在一起。你看了看周围……
+0x0100008100001845	Alternate1	COAST ORB / snow shivers	Shivers	Your teeth chatter as the snow melts on your exposed skin, running down your chest and your back in icy rivulets. The toes of your one bare foot are growing numb. Your hat is of little help. To distract yourself, you look around...	雪花融化在你裸露的皮肤上，化成一条冰冷的小溪沿着你的胸膛和后背缓缓滑落，让你的牙齿止不住的打战。那只光脚的脚趾变得越来越麻木。帽子没能帮上你多大的忙。为了转移注意力，你看向周围……
+0x0100008100001845	Alternate2	COAST ORB / snow shivers	Shivers	Your teeth chatter as the snow melts on your exposed skin, running down your chest and your back in icy rivulets. Your bare feet are growing numb. Your hat is of little help. To distract yourself, you look around...	雪花融化在你裸露的皮肤上，化成一条冰冷的小溪沿着你的胸膛和后背缓缓滑落，让你的牙齿止不住的打战。光脚的脚趾变得越来越麻木。帽子没能帮上你多大的忙。为了转移注意力，你看向周围……
+0x0100008100001845	Dialogue Text	COAST ORB / snow shivers	Shivers	Your teeth chatter as the snow melts on your exposed skin, running down your chest and your back in icy rivulets. Your hat is of little help. To distract yourself, you look around...	雪花融化在你裸露的皮肤上，化成一条冰冷的小溪沿着你的胸膛和后背缓缓滑落，让你的牙齿止不住的打战。帽子没能帮上你多大的忙。为了转移注意力，你看向周围……
+0x010000810000184F	Alternate1	COAST ORB / snow shivers	Shivers	You're warm in your coat, though your cold, damp hair sticks to your head unpleasantly, and your one bare foot is growing numb. You survey the landscape around you.	裹在大衣里的你感觉很温暖，冰冷潮湿的头发贴在头皮上，让人感觉有些不悦，而且那只光脚变得越来越麻木。你观察着四周的环境。
+0x010000810000184F	Alternate2	COAST ORB / snow shivers	Shivers	You're warm in your coat, though your cold, damp hair sticks to your head unpleasantly, and your bare feet are growing numb. You survey the landscape around you.	裹在大衣里的你感觉很温暖，冰冷潮湿的头发贴在头皮上，让人感觉有些不悦，而且光着的脚变得越来越麻木。你观察着四周的环境。
+0x010000810000184F	Dialogue Text	COAST ORB / snow shivers	Shivers	You're warm in your coat, though your cold, damp hair sticks to your head unpleasantly -- you should have a hat. You survey the landscape around you.	裹在大衣里的你感觉很温暖，冰冷潮湿的头发贴在头皮上，让人感觉有些不悦——你应该弄一顶帽子。你观察着四周的环境。
+0x0100008100001872	Alternate1	COAST ORB / snow shivers	Shivers	The melting snow seeps through your thin clothes. The toes of your one bare foot are growing numb. You look around...	融化的雪花渗入你单薄的衣衫。那只光脚的脚趾变得越来越麻木。你看了看周围……
+0x0100008100001872	Alternate2	COAST ORB / snow shivers	Shivers	The melting snow seeps through your thin clothes. The toes of your bare feet are growing numb. You look around...	融化的雪花渗入你单薄的衣衫。光脚的脚趾变得越来越麻木。你看了看周围……
+0x0100008100001872	Dialogue Text	COAST ORB / snow shivers	Shivers	The melting snow seeps through your thin clothes. Grandmothers don't let their grandchildren out dressed so lightly in this weather. You look around...	融化的雪花渗入你单薄的衣衫。在这种天气里，祖母们不会让他们的外孙穿的如此轻薄。你看了看周围……
+0x0100008100001888	Alternate1	COAST ORB / snow shivers	Shivers	Your teeth chatter as the snow melts on your exposed skin, running down your chest and your back in icy rivulets. The toes of your one bare foot are growing numb. To distract yourself, you look around...	雪花融化在你裸露的皮肤上，化成一条冰冷的小溪沿着你的胸膛和后背缓缓滑落，让你的牙齿止不住的打战。那只光脚的脚趾变得越来越麻木。为了转移注意力，你看向周围……
+0x0100008100001888	Alternate2	COAST ORB / snow shivers	Shivers	Your teeth chatter as the snow melts on your exposed skin, running down your chest and your back in icy rivulets. Your bare feet are growing numb. To distract yourself, you look around...	雪花融化在你裸露的皮肤上，化成一条冰冷的小溪沿着你的胸膛和后背缓缓滑落，让你的牙齿止不住的打战。光脚的脚趾变得越来越麻木。为了转移注意力，你看向周围……
+0x0100008100001888	Dialogue Text	COAST ORB / snow shivers	Shivers	Your teeth chatter as the snow melts on your exposed skin, running down your chest and your back in icy rivulets. To distract yourself, you look around...	雪花融化在你裸露的皮肤上，化成一条冰冷的小溪沿着你的胸膛和后背缓缓滑落，让你的牙齿止不住的打战。为了转移注意力，你看向周围……
+0x01000081000018A4	Dialogue Text	COAST ORB / snow shivers	Kim Kitsuragi	The lieutenant looks at you standing there shivering with some concern, but makes no comment.	警督略带担忧地看着站在那儿浑身颤抖的你，但是没有发表任何评论。
+0x01000081000018AA	Dialogue Text	COAST ORB / snow shivers	Kim Kitsuragi	The lieutenant looks at your feet with some concern, but makes no comment.	警督略呆担忧地看着你的脚，但是没有发表任何评论。
+0x01000081000018B5	Dialogue Text	COAST ORB / snow shivers	Shivers	The canal you crossed to get here, and beyond it -- Martinaise proper, the district the police forgot to police. There is laughter, lights, attempts at entrepreneurial activity, cynicism.	在你之前穿越的那条运河上面——是马丁内斯，被警察遗忘的区域。那里有欢笑、灯光、创业活动尝试、还有犬儒主义。
+0x01000081000018BC	Dialogue Text	COAST ORB / snow shivers	Shivers	Someone is scraping snow off their windshield. At the roundabout, in the midst of which a statue of Filippe the III serves as a destination for grade-school field trips and a fine perch for winter birds.	有人刮着挡风玻璃上的雪。环岛中央伫立着一座菲利普三世的雕像，这里是小学户外旅行的目的地，也是冬候鸟良好的栖息地。
+0x01000081000018CC	Dialogue Text	COAST ORB / snow shivers	You	That's all?	就这些？
+0x01000081000018D3	Dialogue Text	COAST ORB / snow shivers	Shivers	Like all monuments, it's also a warning. Six-story ruins on the south side of the roundabout cast a long shadow over the profligate king.	就像所有纪念碑一样，它也是个警告。环岛南面六层高的废墟在这位挥霍无度的国王身上投下了长长的阴影。
+0x01000081000018E2	Dialogue Text	COAST ORB / snow shivers	Shivers	More winding coastline lined with abandoned buildings. Crumbling piers, salt water lapping at their dark piles. Grey and red, forgotten city blocks. What remains of the pre-revolutionary effort to gentrify the coast.	蜿蜒的海岸线边排列着更多的废弃建筑。破损的码头上，咸咸的海水拍打着黑色桩柱。还有那灰红色的、被人遗忘的城市街区。大革命之前修复海岸做出的努力，如今就只剩下如此光景。
+0x01000081000018E9	Dialogue Text	COAST ORB / snow shivers	You	And beyond that?	除此之外呢？
+0x01000081000018F0	Dialogue Text	COAST ORB / snow shivers	Shivers	The waters turn black. Coal City in the shadow of Saint-Martin, a boom town, back when coal extracted from countless shafts near the city was needed to power Revachol.	海水变黑了。煤城笼罩在圣马丁的阴影之下，那是一座新兴城市，以前煤炭会从城市周围数不清的竖井里开采出来，为瑞瓦肖提供能源。
+0x01000081000018F7	Dialogue Text	COAST ORB / snow shivers	Shivers	No more. The coal was supplanted by petroleum from the ocean floor and hydropower from the Esperance. Everything crumbled. These days, only the weakest remain in Coal City. Their hopes of getting rich linger in the defunct shafts under their feet.	现在没有了。煤炭被海床里的石油和埃斯佩兰斯河的水力所替代。一切都崩溃了。现如今，只有最虚弱的人才会留在煤城。他们致富的希望还在脚下废弃的竖井里苟延残喘。
+0x0100008100001933	Dialogue Text	COAST ORB / snow shivers	Shivers	Layer upon layer of sand poisoned with industrial run-off. The storm drainage. Hidden bunkers. Rats scuttle...	一层又一层被工业废水污染的沙子。雨水管道。隐蔽的碉堡。老鼠四下逃窜……
+0x0100008100001939	Dialogue Text	COAST ORB / snow shivers	You	What's below me?	我下面是什么？
+0x010000810000193F	Dialogue Text	COAST ORB / snow shivers	You	What's above?	上面是什么？
+0x0100008100001945	Dialogue Text	COAST ORB / snow shivers	Shivers	Coalition aerostatics hang like apparitions under the cloud cover. Occasionally, lights flash as they manoeuvre through the falling snow.	联盟的静风舰像幽灵般漂浮在云层下面。它们在飘雪中穿过的时候，偶尔会留下几分闪烁的灯光。
+0x0100008100001956	Dialogue Text	COAST ORB / snow shivers	Shivers	More coalition aerostatics. Occasionally, lights flash as they manoeuvre through the falling snow. One large airship carries crates in its belly.	更多联盟的静风舰。它们在飘雪中穿过的时候，偶尔会留下几分闪烁的灯光。一艘大飞艇下面运载着板条箱。
+0x010000810000197E	Dialogue Text	COAST ORB / snow shivers	You	Le Royaume...	王国……
+0x0100008100001984	Dialogue Text	COAST ORB / snow shivers	You	Les *petits rats*...	*小老鼠*……
+0x010000810000198A	Dialogue Text	COAST ORB / snow shivers	You	Deeper...	再深一些……
+0x0100008100001996	Dialogue Text	COAST ORB / snow shivers	Shivers	...where the Filippian kings were interred, with their doctors and their admirals. Mausoleums, burial chambers, leaf gold still remains on the Double Door of the Morning.	……是菲利普家族的国王们，他们的医生，还有舰队司令被埋葬的地方。陵墓，墓室，金叶还留在双扇门上。
+0x01000081000019A9	Dialogue Text	COAST ORB / snow shivers	Shivers	Children under 14. They go underground, looking for artefacts to sell to foreign museums -- and for fabled relics. Their parents let them. They go deeper...	14岁以下的孩子。他们深入地下，寻找可以卖给外国博物馆的文物——还有传说中的圣物。这是他们父母的授意。他们越来越深入……
+0x01000081000019D0	Dialogue Text	COAST ORB / snow shivers	Shivers	...after rubies, melchiorite, lapis lazuli plundered from Safre and Seol during the time of the Suzerain. In the burial chambers of the kings: Grand Old Filippe, Guillaume II, and even in the mausoleum of Filippe the Opulent.	……在宗主国时期，从萨弗里和西奥掠夺红宝石、白铜石和青金石之后。在国王的墓室里：老菲利普国王，纪尧姆二世，甚至还有丰饶者菲利普的陵墓。
+0x01000081000019D8	Dialogue Text	COAST ORB / snow shivers	You	Wipe the snow from your shoulder.	拍掉肩膀上的雪。
+0x01000081000019DF	Dialogue Text	COAST ORB / snow shivers	Shivers	Two kilometres underground, in a winding shaft along whose walls mirrors have been placed so that daylight may eternally fall upon the richest of all the kings.	地下两千米深处，一个提升井的墙壁上挂着很多面镜子，这样阳光就能永远地照射在最富有的国王身上。
+0x01000081000019E6	Dialogue Text	COAST ORB / snow shivers	Shivers	The mausoleum contains untold quantities of gold -- and that special, purest-of-the-pure magenta cocaine favoured by Revacholian royalty.	陵墓里蕴藏着数不清的黄金——还有瑞瓦肖前皇室钟爱的那种最特别、最纯净的洋红色可卡因。
+0x01000081000019ED	Dialogue Text	COAST ORB / snow shivers	Logic	How can it be pure if it's magenta?	如果是洋红色的话，还怎么能算是最纯净的呢？
+0x01000081000019F4	Dialogue Text	COAST ORB / snow shivers	Electrochemistry	Did someone say *untold quantities of cocaine*? Drop everything immediately and go looking for this hoard!	刚是不是有人说了*数不清的可卡因*？赶快放下手中的一切，去寻找这个宝藏吧！
+0x01000081000019FC	Dialogue Text	COAST ORB / snow shivers	You	How can it be pure if it's magenta?	如果是洋红色的话，还怎么能算是最纯净的呢？
+0x0100008100001A13	Dialogue Text	COAST ORB / snow shivers	Shivers	Few *petits rats* return from the shafts -- and even fewer find what they're looking for. A small child steps out of a black tunnel, with silver trinkets in her pockets.	只有少数*小老鼠*从竖井里回来了——甚至更少数找到了他们要找的东西。一个小孩从黑色的隧道中钻了出来，口袋里还装着一些银色的小饰品。
+0x0100008100001A21	Dialogue Text	COAST ORB / snow shivers	Shivers	All around her, white snow on the extinguished coke furnaces, and on the weather-worn shacks, where fathers beat their sons after drinking. The snow melts on your fingers, turning to water.	在她周围，白雪覆盖在熄灭的焦炭炉上。在被风雨侵蚀的棚屋里，醉酒的父亲正在殴打他们的儿子。雪花在你的指尖融化成水滴。
+0x0100008100001A29	Dialogue Text	COAST ORB / snow shivers	Shivers	Snow falls and there is no answer. Some things are not for mortals to know.	雪花飘落，无人应答。有些事情，凡人无法知晓。
+0x0100008100001A4B	Dialogue Text	COAST ORB / snow shivers	You	And further...	更远处……
+0x0100008100001A52	Alternate1	COAST ORB / snow shivers	Shivers	A fenced-off yard. There's a truck belonging to a logistics company parked next to the gate. You've seen it. Bright light from a building behind the fence reflects off its hood.	一个围起来的院子。大门旁边停靠着一辆物流公司的货車。你之前见过。围栏后建筑发出的亮光反射在货車的引擎盖上。
+0x0100008100001A52	Alternate2	COAST ORB / snow shivers	Shivers	A fenced-off yard. There's a truck belonging to a logistics company parked next to the gate. You've heard about it. Bright light from a building behind the fence reflects off its hood.	一个围起来的院子。大门旁边停靠着一辆物流公司的货車。你之前听说过。围栏后建筑发出的亮光反射在货車的引擎盖上。
+0x0100008100001A52	Dialogue Text	COAST ORB / snow shivers	Shivers	A fenced-off yard. There's a truck belonging to a logistics company parked next to the gate. Bright light from a building behind the fence reflects off its hood.	一个被栅栏围起来的院子。一台德尔塔物流公司的货車停靠在大门旁边。栅栏背后，一栋建筑透出的明亮灯光映照在它的引擎盖上。
+0x0100008100001A5A	Dialogue Text	COAST ORB / snow shivers	Conceptualization	Clean white light, coming from the windows of a clean cube-shaped office building hidden amidst ruins. A secret...	干净的白光从窗户中投射出来，那是一栋干净的方形办公大楼，就隐藏在废墟中央。一个秘密……
+0x0100008100001A7B	Dialogue Text	COAST ORB / snow shivers	Shivers	The raised motorway, 8/81, with vehicles whooshing past one another day and night, while those who reside beneath the motorway attempt to carry on with their lives in the snow and the slush. And south of the 8/81 is the Pox.	高架高速公路，8/81，形形色色的車辆日日夜夜从上面呼啸而过，而那些居住在高速公路下面的人，努力在大雪和烂泥中维系他们的生活。8/81的南边是帕克斯。
+0x0100008100001A8D	Dialogue Text	COAST ORB / snow shivers	Shivers	...was once a park, a place for reflection and recuperation for the patients of the Old Military Hospital. In the Twenties, it was used as a quarantine centre during a measles outbreak that killed many children. Most everyone has avoided the hospital and surrounding park ever since.	……那里曾经是一个公园，旧军事医院的病人用来静神养心的地方。在20年代那场让很多孩童丧命的麻疹爆发期间，这里被当成了一个检疫中心。从那之后，几乎所有人都避开了医院和邻近的公园。
+0x0100008100001A99	Dialogue Text	COAST ORB / snow shivers	Shivers	The Pox is completely wild now. Evergreen thickets covered in snow and industrial dust. Feral dogs and even wolves roaming in packs. The police try to keep the deepest corners cordoned off.	现在的帕克斯已经是一片荒野。常绿灌木丛被掩藏在大雪和工业粉尘之下。成群的野狗，甚至还有野狼在这里游荡。警察试图封锁最深处的那些角落。
+0x0100008100001AA0	Dialogue Text	COAST ORB / snow shivers	Shivers	...heavy drug users do slip through and hole up in the Old Military Hospital, hoping to find something to get high on among the hastily abandoned supplies. Or just to overdose in peace.	……重度吸毒者溜进来，偷偷藏在旧军事医院里，希望能在匆忙丢弃的补给品中找到一些能让自己兴奋起来的东西。或者只想平静地享受服药过量的感觉。
+0x0100008100001AA7	Dialogue Text	COAST ORB / snow shivers	You	Further south...	南边更远处……
+0x0100008100001AAE	Dialogue Text	COAST ORB / snow shivers	Shivers	A line of motor garages with armoured carapaces, hunched in the cold. A mechanic is hard at work, patching up bullet holes in the side of a Coupris 40. These are the garages of Precinct 41. Snow settles on the roof of the re-purposed silk mill that serves as your station. Shivering RCM personnel hurry in and out of the main entrance.	一排装甲車库在寒冷中蜷缩着。一名机械师埋头工作，修补着库普瑞斯侧面的弹孔。这些是41分局的車库。雪花飘落在丝绸厂的屋顶，这里已经被重新翻修成你的警局。RCM的工作人员哆哆嗦嗦地从大门入口进出。
+0x0100008100001AB7	Dialogue Text	COAST ORB / snow shivers	Esprit de Corps	Patrol Officer Judit Minot stands in the corner, beneath the narrow awning that hangs over the main entrance. She is watching the snow absent-mindedly as she searches for her gloves in her briefcase.	巡警茱蒂特·迈诺特站在角落——悬挂在大门上方狭窄雨篷的下面。她心不在焉地看着漫天的雪花，在公文包里翻找着自己的手套。
+0x0100008100001AC4	Dialogue Text	COAST ORB / snow shivers	Judit Minot	"Where are hell are they..." she mutters under her breath.	“到底去哪了……”她小声嘀咕着。
+0x0100008100001B01	Dialogue Text	COAST ORB / snow shivers	Chester McLaine	"It's not like that. They're what is called *hetero-sexual life partners*. They have a battle-tested relationship. A 'bröderbund', if you will."	“不是这样的。他们是大家口中的*异性恋生活伴侣*。彼此之间的关系久经考验。如果你喜欢的话，可以称之为‘兄弟情'。”
+0x0100008100001B07	Dialogue Text	COAST ORB / snow shivers	Jean Vicquemare	"No, nothing. It's just... Judit went to his place and found the Monday mail unopened. I think he's still there. You didn't, like, drink with him over the weekend did you?"	“没，没什么。只不过……茱蒂特去他那看了看，发现周一的邮件没开过封。我觉得他应该还在*那里*。你不会……周末跟他一起喝酒去了吧？”
+0x0100008100001B0D	Dialogue Text	COAST ORB / snow shivers	Jean Vicquemare	"What?"	“什么？”
+0x0100008100001B13	Dialogue Text	COAST ORB / snow shivers	Mack Torson	"With that animal? Never again, man. What, is he still down there, in... you know, south of the interchange? The... what was it?"	“跟那只野兽吗？再也不会了，伙计。什么，你说他还在那里，在……你知道的，枢纽站南边？那个……是什么来着？”
+0x0100008100001B19	Dialogue Text	COAST ORB / snow shivers	Jean Vicquemare	"Huh? Yeah." He takes out his gloves and struggles to pull them onto his hands.	“哈？是啊。”他掏出手套，挣扎着戴在手上。
+0x0100008100001B1F	Dialogue Text	COAST ORB / snow shivers	Esprit de Corps	Satellite-Officer Jean Vicquemare rushes down the station stairs, angrily hunched over in the falling slush.	随迁警官让·维克玛冲下警局的楼梯，怒气冲冲地踩在泥浆里。
+0x0100008100001B25	Dialogue Text	COAST ORB / snow shivers	Mack Torson	"Hetero... sexual. Life... partners."	“异性……恋。生活……伴侣。”
+0x0100008100001B2B	Dialogue Text	COAST ORB / snow shivers	Chester McLaine	"That would have been irresponsible."	“那也太不负责任了吧。”
+0x0100008100001B31	Dialogue Text	COAST ORB / snow shivers	Jean Vicquemare	"Funny apery." Vicquemare finally manages to pull his gloves on. There's a small tear along the inside seam of the left glove. "Male-centric workplace humour. Have you seen him?"	“你这模仿的有点意思啊。”维克玛总算戴上了手套。左边手套的内侧缝线处有些小开裂。“男权中心工作场所的幽默。你见着他了吗？”
+0x0100008100001B37	Dialogue Text	COAST ORB / snow shivers	Jean Vicquemare	"In Martinaise. He's in Martinaise."	“在马丁内斯。他在马丁内斯。”
+0x0100008100001B3D	Dialogue Text	COAST ORB / snow shivers	Mack Torson	"Is there something wrong?"	“那里出什么事了吗？”
+0x0100008100001B48	Dialogue Text	COAST ORB / snow shivers	Mack Torson	"Where's your homo, homey?"	“你的同性恋朋友去哪了，基佬？”
+0x0100008100001B4E	Dialogue Text	COAST ORB / snow shivers	Esprit de Corps	On the bridge, Officers Torson and McLaine are standing guard. The muscular Torson wears jeans and a leather jacket. When Vicquemare passes him, the young man remarks...	托森和麦克莱恩警官在桥上守卫。强壮的托森穿着牛仔裤和一件皮夹克。维克玛走过的时候，那个年轻人评论到……
+0x0100008100001B58	Dialogue Text	COAST ORB / snow shivers	Shivers	Around you, the snow continues to fall. To the west, the ocean swells.	雪在你周围不断下落。西面的大海在涌浪。
+0x0100008100001B5E	Dialogue Text	COAST ORB / snow shivers	Esprit de Corps	It's the only home you have now. But you can't go back. Not like this.	现在这是你唯一的家了。但你不能回去，像这样不行。
+0x01000081000030FD	Dialogue Text	COAST ORB / snow shivers	Shivers	The raised motorway, 8/81, separating Martinaise from Jamrock. Vehicles whoosh past one another day and night, while those who reside in the labyrinthine alleyways beneath the motorway attempt to carry on with their lives in the snow and the slush. And south of the 8/81 is the Pox.	高架高速公路8/81，把马丁内斯和加姆洛克分隔开来。車辆夜以继日地从上面呼啸而过，而那些住在桥下复杂小巷里的人，还在大雪和泥泞里努力维系自己的生活。8/81南边是帕克斯。
+0x010000810000310B	Dialogue Text	COAST ORB / snow shivers	You	The Pox...	帕克斯……
+0x010000810000315D	Dialogue Text	COAST ORB / snow shivers	You	No, it was home. I want more.	不，这是家。我想要更多。
+0x010000810000319A	Dialogue Text	COAST ORB / snow shivers	Shivers	The stairs descend -- to Central Jamrock. A man named Kuklov has a snow-covered stall there, in the market across the bridge. He sells kebab infested with fly larvae to your colleagues who believe eating it will make them immune to food poisoning.	楼梯向下——延伸至加姆洛克中心。一个名叫库科洛夫的男人在那里摆了个被白雪覆盖的小摊，就在桥对面的市场里。他把感染了苍蝇幼虫的烤肉串卖给你的同事们，他们相信吃掉之后就能免疫食物中毒。
+0x01000081000031A3	Dialogue Text	COAST ORB / snow shivers	Nix Gottlieb	The surgeon watches her for a moment, pulling on his cigarette. "You know, it's not so cold that you're going to get frostbite without your gloves."	外科医生看了她一会儿，然后抽了一口烟。“你知道吗，天气还没冷到不戴手套就会冻伤的地步。”
+0x01000081000031AA	Dialogue Text	COAST ORB / snow shivers	Judit Minot	She nods, then looks down at her hands. No frostbite, sure, but a web of thin red cracks around the wrists. She is visibly embarrassed by the delicacy of her skin.	她点点头，然后低头看着自己的手。当然，没有冻伤，但是手腕周围有一圈细细的红色裂纹。她显然对自己娇嫩的皮肤感到有些尴尬。
+0x01000081000031B1	Dialogue Text	COAST ORB / snow shivers	Judit Minot	Suddenly, she smiles at some thought that had just come to her, nods to the surgeon again, and sprints down the stairs, gloveless, into the falling snow.	突然，她的脑海里冒出一些让自己发笑的想法。于是，她朝外科医生又点了点头，快步冲下楼梯，站在雪中——手上没戴手套。
+0x01000081000031B9	Dialogue Text	COAST ORB / snow shivers	Shivers	Snow falls on the utility district: the library, the florist, the Saramirizian restaurant that offers homemade wine. And also on the brothels and drug dens, and the chop shops of the zemlyaki.	雪花飘落在这个公用事业区——图书馆，花店，还有贩卖自家美酒的萨拉米尔泽餐厅。还有妓院，毒贩老巢和泽姆拉基的拆車厂。
+0x01000081000031C3	Dialogue Text	COAST ORB / snow shivers	Shivers	All of this built around a lake that formed in a meteorite strike. At the centre of this lake, there is a little ship. There are lights at the bottom of its hull. They are lights directed toward the sea floor, looking for something, like whiskers...	那是一个陨石撞击形成的湖泊，所有建筑都环湖而建。在湖心中央，有一只小船。船体底部有一些灯。它们直直地照射着海床，寻找着什么东西，仿佛晶须一般……
+0x01000081000031E8	Dialogue Text	COAST ORB / snow shivers	Mack Torson	"Wonder if Vic's found his hetero-sexual life partner yet." The man in the fishnet wifebeater looks over at Chester McLaine.	“不知道维克有没有找到他的异性恋生活伴侣。”穿着渔网背心的男人看向切斯特·麦克莱恩。
+0x01000081000031EE	Dialogue Text	COAST ORB / snow shivers	Chester McLaine	"Damn, I don't know. Even a real *bröderbund* like that can't survive everything..."	“见鬼，我不知道。就算是真正的*兄弟情*也不会永久幸存下来吧……”
+0x0100008100003232	Dialogue Text	COAST ORB / snow shivers	Shivers	The abandoned church. One of two remaining stave churches which were collectively called les Sept Soeurs. The other six sisters were destroyed during the Revolution.	废弃的教堂。仅存的两座木条教堂的其中之一，它们被统称为“七姐妹”。另外五个姐妹都在大革命期间毁掉了。
+0x0100008100003239	Dialogue Text	COAST ORB / snow shivers	Shivers	The abandoned church, its walls covered with hoarfrost now. One of les Sept Soeurs. The other six sisters were destroyed during the Revolution.	废弃的教堂，现在墙壁上布满白霜。它是七姐妹之一。另外五个姐妹都在大革命期间毁掉了。
+0x0100008100003245	Dialogue Text	COAST ORB / snow shivers	Shivers	An abandoned church that's being turned into a dance club. Four youths are hard at work there, making it ever harder core.	一座废弃的教堂，如今变成了一家夜店。四个年轻人在那里埋头苦干，让它变得更加硬核了。
+0x0100008100003254	Dialogue Text	COAST ORB / snow shivers	You	And further north?	再往北呢？
+0x010000810000325E	Dialogue Text	COAST ORB / snow shivers	Shivers	A serpentine strip of land weaving its way into the Martinaise inlet. Unfortunates on the run -- from the law, from themselves -- sometimes hide out on nearby islets. Little dots in the ocean that are occasionally submerged when the tide is high and the weather foul.	一块蜿蜒狭长的土地，一路延伸进马丁内斯水湾。那些逃亡的人——逃避法律制裁，逃避自己的可怜虫——有时会隐藏在附近的小岛上。那些海洋中的小斑点偶尔会在涨潮和坏天气的时候被水淹没。
+0x0100008100003265	Dialogue Text	COAST ORB / snow shivers	Shivers	Then there's Ozonne... but the snow falls too thick. You cannot see that far.	然后就是欧佐纳尔……但是雪堆积地太厚。你看不到那么远。
+0x010000810000326C	Dialogue Text	COAST ORB / snow shivers	Shivers	The remains of a camp on a jagged piece of rock -- a tent, old dishes and cutlery. Long since abandoned. A hermit crab scuttles among the debris, looking for a new shell.	一块锯齿状的岩石上残留着一片营地遗迹——只有一顶帐篷，一堆老旧的碗碟和餐具。这里已经废弃很久了。一只寄居蟹在废墟中乱窜，寻找着新的躯壳。
+0x0100008100003272	Dialogue Text	COAST ORB / snow shivers	Shivers	Further out, the lights burn bright on Résurrection; way beyond Martinaise -- a popular spa destination for ample-bodied Ozonne kids with equally ample pockets.	较远的地方，又是一片灯火通明；离马丁内斯很远的地方——是一个热门的休闲渡假村，那里满是身材圆润的欧佐纳尔小孩，还有他们同样圆圆鼓鼓的钱包。
+0x010000810000327B	Dialogue Text	COAST ORB / snow shivers	You	Before that? Before the curtains are drawn...	在那之前呢？在帷幔落下之前……
+0x0100008100003282	Dialogue Text	COAST ORB / snow shivers	Shivers	The Bay of Revachol, vastness, great depth -- over 1200 m at its deepest. Water, air brinier than here. It is crisscrossed by huge cargo ships bearing company logos: Wild Pines, ZAMM, Moriyn.	瑞瓦肖海湾，旷阔无垠，深不可测——最深的地方超过1200米。水和空气都比这里要咸很多。印着公司标志的巨型货船在水面上来来往往：野松公司，ZAMM，莫里林……
+0x0100008100003289	Dialogue Text	COAST ORB / snow shivers	Shivers	And, at the farthest reaches of the Bay of Revachol -- the shadow of Coalition Warship Archer, on perpetual patrol duty, ready to unleash artillery fire if you were to rise up against the market. You shudder.	在瑞瓦肖海湾最遥远的流域——是联盟军舰“弓箭手”的阴影，正在执行不间断地巡逻任务，如果你想奋起反抗市场，就要随时做好迎接炮火洗礼的准备。你颤抖了。
+0x010000810000329B	Dialogue Text	COAST ORB / snow shivers	You	And on the islets?	那小岛上有什么？
+0x01000081000032A3	Dialogue Text	COAST ORB / snow shivers	You	And on the other side of the inlet?	那水湾另一边有什么？
+0x0100000600017400	Dialogue Text	COAST ORB / wearing interisolary pants	You	I like regular, normal things.	我喜欢普通又寻常的东西。
+0x0100000600017407	Dialogue Text	COAST ORB / wearing interisolary pants	You	Oops, it's a fashion faux pas! [Discard the thought -- and the pants.]	哎呀，对时尚还真是太失礼了！[放弃思维——还有这条裤子。]
+0x010000060001740F	Dialogue Text	COAST ORB / wearing interisolary pants	Volition	Let's hope no one saw you wearing those outrageously regular -- almost moralist! -- pants.	希望没人看见你穿着这条普通地相当凶残——几乎可以说像个道德家！——的裤子。
+0x010000060001C57F	Dialogue Text	COAST ORB / wearing interisolary pants	Composure	Makes sense. This is what wearing boring office trousers does to you.	有道理。穿上无聊的工装裤就会对你造成这种影响。
+0x0100006B0000262F	Dialogue Text	COAST ORB / wearing interisolary pants	Volition	You're a little more moralist now, buddy. A little more *normal*. Even if you didn't want to be.	现在你变得更像个道德家了，伙计。变得更*正常*一些了。就算这不是你想要的结果。
+0x0100006B00002634	Dialogue Text	COAST ORB / wearing interisolary pants	Volition	Mhm, I know you do. These interisolary pants are like wearing a perfect *compromise* in your nether regions. No one will call the Moralintern on you like this, that's for sure.	嗯，我知道你会的。这些跨洲裤就像是给你的股间穿上了一件完美的*妥协*。这样没人会叫国际道德伦理委员会来抓你，这一点是肯定的。
+0x0100006B00002639	Dialogue Text	COAST ORB / wearing interisolary pants	Volition	Mm, these are some wonderfully regular pants. Not too tight, not too loose -- moderate in every sense. You'll blend right in at some pleasant dinner party.	嗯，这些是非常普通的裤子。不太紧，也不太松——从各种意义上讲都很适中。你可以很快融入愉快的晚宴中。
