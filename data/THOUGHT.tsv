@@ -1,0 +1,563 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060000FA17	Dialogue Text	THOUGHT / APOCALYPSE COP	Half Light	Tremble. THE TIME IS NOW. τὰ ὅλα.	颤栗。时间就是现在。τὰὅλα。
+0x010000060000FA23	Dialogue Text	THOUGHT / APOCALYPSE COP	You	What time?	什么时间？
+0x010000060000FA29	Dialogue Text	THOUGHT / APOCALYPSE COP	You	Am I sure it's not just a joke, or some kind of coping mechanism?	我确定这不是个笑话，或者某种应对机制吗？
+0x010000060000FA2F	Dialogue Text	THOUGHT / APOCALYPSE COP	You	This is because of the insane world-ending I've been saying isn't it? (Proceed.)	是因为我一直在胡言乱语的那个世界末日理论，对吧？（继续。）
+0x010000060000FA38	Dialogue Text	THOUGHT / APOCALYPSE COP	Half Light	Time for THE SHOW. For τὰ ὅλα. The hallowed time of fear and disintegration. A countdown has begun. All will collapse on itself. The world will disappear into a single grain of blackness. All sound will be muted. All life will scream.	演出的时间到了。τὰὅλα。恐惧与分裂的神圣时间。倒计时开始了。一切都将分崩离析。整个世界都会在一片黑暗中消失殆尽。听不见一切声响。所有生命都将发出刺耳的尖叫。
+0x010000060000FA3F	Dialogue Text	THOUGHT / APOCALYPSE COP	Half Light	Yes. You spoke the words of the παλίντροπος, and the houses of Perikarnassis. Items, people, even WORDS will tumble, all will lose its meaning in the coming years. That is why you marked yourself.	是的，你说出了那个单词*παλίντροποςe*，还有佩里卡内西的家园。所有物品，人类，甚至是言语都会崩塌，在接下来的几年中失去所有意义。这就是你给自己做记号的原因。
+0x010000060000FA45	Dialogue Text	THOUGHT / APOCALYPSE COP	Half Light	It's *totally* also a coping mechanism.	这不*完全*就是应对机制嘛。
+0x010000060000FB59	Dialogue Text	THOUGHT / APOCALYPSE COP	You	Wait, wait -- when did this *countdown* begin?	等等——这个*倒计时*是什么时候开始的？
+0x010000060000FB5F	Dialogue Text	THOUGHT / APOCALYPSE COP	Half Light	Monday morning. The moment you arrived in this reality. You are the first crack in the sheer face of god. From you it will spread.	周一早晨，你醒过来的那一刻起。你是神明的冷峻面颊上第一道裂痕。灾难将会以你为起点蔓延。
+0x010000060000FB76	Dialogue Text	THOUGHT / APOCALYPSE COP	You	I *do* think the world might end soon. (Opt in.)	我*的确*认为这个世界可能很快会终结。（接受思想。）
+0x010000060000FB7C	Dialogue Text	THOUGHT / APOCALYPSE COP	You	Uhm... yeah, I'm going to opt out of the 'παλίντροπος' whatever it is. This was a mistake. (Opt out.)	呃……是啊，不管这个“παλίντροποςe”是什么，我还是不参加了。这是个错误。（拒绝思想。）
+0x010000060000FB82	Dialogue Text	THOUGHT / APOCALYPSE COP	You	Yeah... I don't think the time is *now*. Later maybe. [Leave.]	是啊……我觉得这个时间不是*现在*。也许以后再说吧。[离开。]
+0x010000060000FB89	Dialogue Text	THOUGHT / APOCALYPSE COP	Half Light	No. You cannot *leave*. The countdown has not yet reached XERO.	不。你不能*离开*。倒计时还没有到达XERO.
+0x010000060000FB95	Dialogue Text	THOUGHT / APOCALYPSE COP	You	τὰ ὅλα? What's that?	τὰὅλα？那是什么？
+0x010000060000FB9C	Dialogue Text	THOUGHT / APOCALYPSE COP	Half Light	οῦ λόγου δ' ἐόντος ξυνοῦ ζώουσιν οἱ πολλοὶ ὡς ἰδίαν ἔχοντες φρόνησιν.	οῦλόγουδ'ἐόντοςξυνοῦζώουσινοἱπολλοὶὡςἰδίανἔχοντεςφρόνησιν.
+0x010000060000FBA9	Dialogue Text	THOUGHT / APOCALYPSE COP	Half Light	The face of the woman fractures. There will be herd killing. We all become vapour.	女人的面孔碎裂了。大屠杀将会出现，我们全都会变成水蒸气。
+0x010000060000FBAE	Dialogue Text	THOUGHT / APOCALYPSE COP	Half Light	Okay, yes. Maybe it *is* just the hangover talking. Or some kind of joke you're playing on yourself instead of working on the case...	好吧，没错。也许这*只是*一些醉话。或者你对自己开的某种玩笑，为的就是不想办案……
+0x010000060000FBB4	Dialogue Text	THOUGHT / APOCALYPSE COP	You	I'm... a little afraid.	我……有点害怕。
+0x010000060000FBBD	Dialogue Text	THOUGHT / APOCALYPSE COP	Half Light	So you should be. The world island crumbles at your feet and in the far plain -- παλίντροπος.	你应该这样。这个世界岛在你脚下碎裂，还有那遥远的平原——παλίντροποςe。
+0x010000060000FBC4	Dialogue Text	THOUGHT / APOCALYPSE COP	Volition	Perhaps -- just a thought -- this has something to do with the hangover?	也许——只是个想法啊——这跟宿醉有关？
+0x0100000600012D9E	Dialogue Text	THOUGHT / ART COP	You	[Discard thought.]	[放弃思维。]
+0x0100000600012DAF	Dialogue Text	THOUGHT / ART COP	You	Wait, but don't I have to be 100% cop -- to get the case finished and all that?	等等，我不应该是个100%的警察吗——为了破案啊什么之类的？
+0x0100000600012DB5	Dialogue Text	THOUGHT / ART COP	You	Okay. If 50% art critic is what's needed to free me from rote repetition, so be it. (Opt in.)	好吧。如果需要50%的艺术评论家把我从这些机械性的重复工作中解救出来，那就这样吧。（接受思想。）
+0x0100000600012DBB	Dialogue Text	THOUGHT / ART COP	You	No. I cannot risk another copo-diversion at this point. Go away! (Opt out.)	不。眼下我可不能冒险转变警察类型了。快走开！（拒绝思想。）
+0x0100000600012DC4	Dialogue Text	THOUGHT / ART COP	Conceptualization	Exactly. It's not *only* your duty to only catch the criminals of the street, you must also apprehend criminals of the printing press and the gallery -- the trite and derivative artists and writers of the world!	没错。抓捕街上的罪犯不是你*唯一*的职责，你还要逮捕印刷业和画廊的罪犯——世界上那些陈腐和只会模仿的艺术家和作者！
+0x0100000600012DCA	Dialogue Text	THOUGHT / ART COP	Conceptualization	Go ahead and provide savage criticisms, Art Cop. The world is yours to rip to pieces and reassemble!	去吧，猛烈地批判吧，艺术警探。这个世界是你的，把它撕成碎片再重新拼接起来吧！
+0x0100000600012DD2	Dialogue Text	THOUGHT / ART COP	Conceptualization	Quit being so indecisive. What are you going for here? Some kind of indecisive and *camp* aesthetic now? Strike a bold shape here. Go art or go home.	别这么犹豫不决。你来这儿是干什么的？参加优柔寡断的*审美*夏令营吗？这里要大胆一点。不搞艺术，就回家去吧。
+0x0100000600012DDB	Dialogue Text	THOUGHT / ART COP	Conceptualization	Bravo! Continue, then, in the mediocre and vulgar epigones of the world. So what if everything is incomprehensibly shit and you can see it. Take no responsibility.	太赞了！那就继续，在充满平庸又粗俗的追随者的世界。所以，如果一切都是让人费解的狗屁，而你也能看见。完全不要负责。
+0x0100000600012DE3	Dialogue Text	THOUGHT / ART COP	Visual Calculus	This was a good call. That guy probably thinks forensics is autism too.	这是个好主意。那个家伙可能也会觉得辩论术是臆想了。
+0x010000210000160F	Dialogue Text	THOUGHT / ART COP	You	Wait, what about music? Is it art?	等等，那音乐呢？也是艺术吗？
+0x0100002100001615	Dialogue Text	THOUGHT / ART COP	Conceptualization	Only the most experimental kind.	只有最实验性的那一类是。
+0x010000210000161D	Dialogue Text	THOUGHT / ART COP	You	That's stupid. Architecture is stupid. Music is stupid.	愚蠢。建筑学很愚蠢，音乐也愚蠢。
+0x0100005A00013A70	Dialogue Text	THOUGHT / ART COP	Conceptualization	Why does art inspire you so much?	为什么艺术能带给你这么多灵感？
+0x0100005A00013A76	Dialogue Text	THOUGHT / ART COP	You	It does, yes -- but what *is* art?	确实是这样没错——但什么*是*艺术？
+0x0100005A00013A7B	Dialogue Text	THOUGHT / ART COP	You	No, art is for arrogant blowhards. Why am I getting this?	不，艺术是为那些傲慢的吹牛大家准备的。我为什么会想到这个？
+0x0100005A00013A83	Dialogue Text	THOUGHT / ART COP	Conceptualization	Excellent question. Art is a diverse range of visual, literary, auditory, and performative creativity! It's an expression of imagination and technical skill. Additionally, it's history, criticism and pure enjoyment...	这是个很好的问题。艺术是各种各样的视觉、文学、听觉和表述行为创造力的集合体！它是想象力和工艺技术的表达。此外，它还是历史，批判和纯粹的享受……
+0x0100005A00013A8B	Dialogue Text	THOUGHT / ART COP	Conceptualization	Is it? Yet your eye constantly seeks out the most critical side of any aesthetic confrontation. You follow the expressions of imagination and technical skill with curiosity...	是吗？但你的眼睛还在不断寻找所有审美冲突中最有批判性的一面。你用好奇心追求着想象力和工艺技术的表达……
+0x0100006B00000265	Dialogue Text	THOUGHT / ART COP	Conceptualization	Yes! You seek substance. No vapid representations and reproductions of social mores, as made manifest in stuffy biennials, we're talking real *living art* here. Become the Art Cop. Half art critic -- half cop.	是的！你在寻找物质。没有社会习俗那乏味的表示法和复制品——这一点在古板的二年生植物上表现地最明显，我们这里谈论的是真正的*生活艺术*。成为艺术警探吧。一半是艺术评论家——另一半是警察。
+0x0100006B00000271	Alternate1	THOUGHT / ART COP	Conceptualization	Have you looked in the mirror lately? To be honest, you have the exact features of the modern artist, with that wild hair and those clothes. Perhaps you should try to write poetry some day -- and critique architecture!	你最近有没有照镜子？说真的，你拥有现代艺术家的所有特征，看看你疯狂的发型，还有衣服。也许有天你应该试试写诗——还有批判建筑学！
+0x0100006B00000271	Dialogue Text	THOUGHT / ART COP	Conceptualization	Have you looked in the mirror lately? You have the exact features of a savage art critic, with that beard and those clothes! Dishevelled and *prophetic*. Perhaps you should try to critique architecture too!	你最近有没有照镜子？你拥有一个残酷艺术评论家的所有特征，看看那把胡子，还有那些衣服！蓬乱，而且有*预言感*。也许你还应该尝一下批判建筑学！
+0x0100006B00000283	Dialogue Text	THOUGHT / ART COP	Conceptualization	Of course not, it's autism. Box-drawing. Masturbation with a ruler and a sextant or whatever they use. You should demean and criticize the genteel institution of architecture. While extolling the virtues of the *pure* arts.	当然不是了，这是自闭症。制表符。用尺子和六分仪或者其他什么东西自渎。你应该贬低和批判上层建筑。同时赞颂*纯粹*艺术的美德。
+0x0100006B0000028A	Dialogue Text	THOUGHT / ART COP	Conceptualization	In short, art is the highest form of human communication -- representation, narrative, emotion and agency intertwined.	总之，艺术是人类交流的最高形式——表现，叙述，情感还有错综复杂的代理关系。
+0x0100006B00000292	Dialogue Text	THOUGHT / ART COP	You	Hold on, is architecture also art?	等一下，建筑学也是艺术吗？
+0x0100006B00000297	Dialogue Text	THOUGHT / ART COP	You	Would I fit into the art world? I mean...	我能适应这个艺术世界吗？我的意思是……
+0x0100006B000002A1	Dialogue Text	THOUGHT / ART COP	You	I guess I *have* been feeling critical lately.	我想自己最近好像*确实*很爱批评。
+0x0100006B000002A7	Dialogue Text	THOUGHT / ART COP	You	That's stupid. Architecture is stupid.	愚蠢。建筑学太愚蠢了。
+0x0100006B000002B0	Dialogue Text	THOUGHT / ART COP	Conceptualization	Such vigour! Already you express a sharp descriptive mind, ready to slice through the empty and superficial in favour of the *sublime* and the *beautiful*... Do it. Become the Art Cop. Half art critic -- half cop.	这么有气势！你已经表现出尖锐的描述性思维，准备好切开这虚无又肤浅的表面，来支持*崇高*和*美丽*……来吧。成为艺术警探吧。一半是艺术评论家——另一半是警察。
+0x010000060000FBD1	Dialogue Text	THOUGHT / BORING COP	Drama	Wow, so someone's been a little... *boring*?	哇哦，这么说有人好像有一点……*无聊*？
+0x010000060000FBD7	Dialogue Text	THOUGHT / BORING COP	You	No, I'm not. Get outta here! [Finish thought.]	不，我不是。给我出去！[完成思维。]
+0x010000060000FBDD	Dialogue Text	THOUGHT / BORING COP	You	What?	什么？
+0x010000060000FBE5	Dialogue Text	THOUGHT / BORING COP	Drama	Yes, my *standard* liege. Someone's seen all sorts of wild ideas pop off and thought -- 'I'll take the *boring* one. The regular, please. The brown.'	遵命，吾之*贤君*。有人见过各种各样的疯狂思想匆匆离去，想着——“我就选*无聊*的这一个。普通的就好。棕色的。”
+0x010000060000FBF2	Dialogue Text	THOUGHT / BORING COP	You	I like brown.	我喜欢棕色。
+0x010000060000FBF8	Dialogue Text	THOUGHT / BORING COP	You	I like standards.	我喜欢标准。
+0x010000060000FBFE	Dialogue Text	THOUGHT / BORING COP	You	Look, I'm just trying to do my job, no need for extravagance.	你看，我只想完成自己的工作，没必要这么浮夸。
+0x010000060000FC07	Dialogue Text	THOUGHT / BORING COP	You	What is this? Picking on me for not being *crazy* enough? That's the LEAST of my concerns.	这是干什么？因为我不够*疯狂*，所以要挑我的刺？我最不关心的就是这个了。
+0x010000060000FC0D	Dialogue Text	THOUGHT / BORING COP	You	"Kim. Am I boring?"	“金。我很无聊吗？”
+0x010000060000FC15	Dialogue Text	THOUGHT / BORING COP	Kim Kitsuragi	"You?" He looks at you. "I wouldn't worry about that."	“你？”他看着你。“我一点都不担心这个。”
+0x010000060000FC21	Dialogue Text	THOUGHT / BORING COP	Drama	See? You're so *regular* and vinyl-brown, he doesn't even want to talk to you about it.	看见了吗？你如此*普通*，是黑棕色的，他甚至都不想跟你聊起这个。
+0x010000060000FC29	Dialogue Text	THOUGHT / BORING COP	Drama	Of course you do. And maybe some black shoes or a pristine white shirt to go with that. It's official: My lord's *copotype* is Regular Cop. I'll let everyone know. I'll send out a telefax.	您当然是了。也许再来一双黑鞋，或者再搭配一件崭新的白衬衫。官方发言：吾之君主的*警察类型*是普通警察。吾会这一切告知天下。吾将派发一份传真。
+0x010000060000FC30	Dialogue Text	THOUGHT / BORING COP	Drama	Of course you do. Maybe some *regulations* and a *usual* pistol to go with them? It's official: My lord's *copotype* is Regular Cop. I'll let everyone know. I'll send out a telefax.	您当然是了。也许再来点*规则*和一只*普通*的手枪来搭配？官方发言：吾之君主的*警察类型*是普通警察。吾会这一切告知天下。吾将派发一份传真。
+0x010000060000FC37	Dialogue Text	THOUGHT / BORING COP	Drama	Of course you do. Let's get right to it. My lord's *copotype* is Regular Cop. I'll let everyone know. I'll send out a telefax.	您当然是了。让我们马上开始吧。吾之君主的*警察类型*是普通警察。吾会这一切告知天下。吾将派发一份传真。
+0x010000060000FC42	Dialogue Text	THOUGHT / BORING COP	You	Wait, wait -- this will be my *copotype* now?	等等——现在这就是我的*警察类型*了？
+0x010000060000FC48	Dialogue Text	THOUGHT / BORING COP	You	Why not. Send out the telefax then. I'm not ashamed. (Opt in.)	为什么不呢。那就派发传真吧。我不觉得有什么羞耻的。（接受思想。）
+0x010000060000FC4E	Dialogue Text	THOUGHT / BORING COP	You	Yeah, no need. Let's keep that announcement on standby for now. (Opt out.)	是啊，没必要。暂时让那份公告待定吧。（拒绝思想。）
+0x010000060000FC55	Dialogue Text	THOUGHT / BORING COP	Drama	Yes, the type of cop you are, sire. Think of it as a caste, a *class*, even. A nation of Regular Law Officials that you belong to. It comes, of course, with the *usual* benefits.	没错，就是您那种警察，大人。把它想象成一个种姓，甚至是一种*阶层*。想象成您从属的普通执法人员的国度。当然，它也有*普通*的好处。
+0x010000060000FC61	Dialogue Text	THOUGHT / BORING COP	Drama	No need to be defensive. The regularity, the brownness, the *cut-and-dry* have their appeal -- a very *standard* appeal.	没必要这么防备。规则性，褐色，还有*呆板*都拥有自己的诉求——非常*标准*的诉求。
+0x010000060000FC6F	Dialogue Text	THOUGHT / BORING COP	Drama	Done and done. No actual *communiques* will be sent, of course. That would be too dramatic.	搞定。当然了，不会发放实际的*公报*。要不然就太戏剧性了。
+0x010000060000FC75	Dialogue Text	THOUGHT / BORING COP	Drama	Good, good. Of course. To outright declare yourself something does seem a bit too... *interesting* now, doesn't it? I won't trouble you any further.	很好，很好。当然了。直截了当地声明自己是个怎样的人，似乎有点……太*有趣*了，不是吗？吾辈以后不会再烦你了。
+0x0100005A00013AB5	Dialogue Text	THOUGHT / COACH PHYSICAL INSTRUMENT	Physical Instrument	Son, you've really let yourself go -- it's a disgrace. But Coach Physical Instrument is going to get you back in prime condition. Even if it takes a million push-ups!	孩子，你真的太放纵自己了——这是一种耻辱。但是强身健体教练要让你恢复最佳状态。就算是要做上100万个俯卧撑也得行！
+0x0100005A00013ABA	Dialogue Text	THOUGHT / COACH PHYSICAL INSTRUMENT	You	Yes sir! Forge me into organic steel, coach!	遵命，长官！把我锻造成有机钢铁吧，教练！
+0x0100005A00013ABF	Dialogue Text	THOUGHT / COACH PHYSICAL INSTRUMENT	Physical Instrument	Does a master swordsman insult his own blade? No! I'm going to turn you into an athletic bench-mark, you big pussy!	一个剑术大师会侮辱自己的宝剑吗？不会！我要把你变成身强体壮的基准点，你这只大弱鸡！
+0x0100005A00013ACA	Dialogue Text	THOUGHT / COACH PHYSICAL INSTRUMENT	You	Wait, why piss?	等等，为什么会有尿液？
+0x0100005A00013ACF	Dialogue Text	THOUGHT / COACH PHYSICAL INSTRUMENT	You	Let's do this, coach, I'm with you! (Opt in.)	我们来吧，教练，我跟你一起！（接受思想。）
+0x0100005A00013AD4	Dialogue Text	THOUGHT / COACH PHYSICAL INSTRUMENT	You	Too much abuse for my taste. I'm more of an intellectual. (Opt out.)	以我的口味来说，有点滥用了。我更像是知识分子派的。（拒绝思想。）
+0x0100005A00013AD9	Dialogue Text	THOUGHT / COACH PHYSICAL INSTRUMENT	Physical Instrument	When a man sets his mind and body on something and gives his hundred and ten percent, he is sometimes going to piss himself. It just happens. No shame in that.	当一个男人全身心专注于某件事情，而且付出了110%的努力，有时候就可能会尿裤子。它就这么发生了。没什么好羞愧的。
+0x0100005A00013AE3	Dialogue Text	THOUGHT / COACH PHYSICAL INSTRUMENT	Physical Instrument	Attention, attention! An old has-been giving up! Come see the has-been quitting again, everyone!	注意，注意！一个过气的老家伙要放弃了！大家快来看，这家伙又要退出了！
+0x0100005A00013AE8	Dialogue Text	THOUGHT / COACH PHYSICAL INSTRUMENT	Physical Instrument	Behold, world -- here walks a sportsman, hands chalked and hair kept back with a bandana. The *homo athleticus!*.	看啊，全世界的观众朋友们——一位运动员正朝我们走来，双手无光，一块鲜艳的大头巾将他的头发束在脑后。我们的*基佬运动员！*。
+0x0100005A00013AFB	Dialogue Text	THOUGHT / COACH PHYSICAL INSTRUMENT	You	I'm really, *really* not interested. [Discard thought.]	我真的，*真的*不感兴趣。[放弃思维。]
+0x0100005A00013B0C	Dialogue Text	THOUGHT / COACH PHYSICAL INSTRUMENT	You	Coach Physical Instrument? Does that mean you'll call me a maggot and a nancy-boy to motivate me?	强身健体教练？这是不是意味着你会用蛆虫和娘炮之类的称呼来激励我？
+0x0100005A00013B14	Dialogue Text	THOUGHT / COACH PHYSICAL INSTRUMENT	Physical Instrument	It's going to take blood, sweat, piss, and tears, but when I'm done with you, boy, you will be a Master Athlete!	你需要付出鲜血、汗水、尿液还有眼泪，但是当我完成之后，小伙子，你会变成一个大师级运动员！
+0x010000060001A36C	Dialogue Text	THOUGHT / FAIRWEATHER T-500	You	Vulnerabilities?	弱点？
+0x010000060001A8F0	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Half Light	For the day you have to *fight* someone covered in the same material.	有一天，你不得不跟穿着相同材质的人*战斗*。
+0x0100002F00012A4A	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	As your head is ensconced in the ceramic helm, you realize --	当你的脑袋隐藏在陶瓷头盔之下时，你意识到——
+0x0100002F00012A51	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	Well, it's a bit late to think about all this now, isn't it?	呃，现在想这些有点迟了，对吧？
+0x0100002F00012A59	Dialogue Text	THOUGHT / FAIRWEATHER T-500	You	Better late than never, huh?	迟到总比不到好，对吧？
+0x0100002F00012A5F	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	I guess so.	我猜也是。
+0x0100002F00012C03	Dialogue Text	THOUGHT / FAIRWEATHER T-500	You	It is good to be an unstoppable ceramic man.	当一个无人能挡的陶瓷人，挺好的。
+0x010000580000AD56	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	The hardened vitreous enamel, at once sleek and light, adds a glow to your cheeks and a spring to your step. Just imagine what a full suit of this stuff could do for you!	硬化珐琅，光滑又轻盈，为你的面颊增添了一丝光彩，为你的步伐增加了一分轻盈。想象一下，如果穿上一整套，对你能有多大的帮助！
+0x010000580000AD62	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	The white ceramic cuirass hugs your torso, shielding your vitals without adding much bulk to your form...	白色的陶瓷胸甲环抱住你的躯干，保护你的命脉，同时也没有让你的体型变得过于臃肿……
+0x010000580000AD69	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	You look down at the white ceramic sabatons hugging your arches and calves, surprised at how well they fit.	你低头看向包裹在后背和小腿的白色陶瓷盔甲，惊讶地发现它们是如此地贴合。
+0x010000580000AD6F	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	As you fold your fingers into a fist, you realize you could knock anyone out with one punch... the white ceramic gloves wrap around your digits comfortably.	当手指握拳，你意识到自己只需一拳就能击倒任何人……白色的陶瓷手套舒适地包裹着你的手指。
+0x010000580000B2B6	Dialogue Text	THOUGHT / FAIRWEATHER T-500	You	I remember a feeling -- being worried about crossing paths with someone in this armour.	我记得一种感觉——担心与穿着这套盔甲的人相遇。
+0x010000580000B2BC	Dialogue Text	THOUGHT / FAIRWEATHER T-500	You	This is the long sought after *enemy technology*. I can't just enjoy it -- I must *study* it.	这是我长久以来追寻的*敌人的技术*。我不能只是享受它——我必须*学习*它。
+0x010000580000B2C2	Dialogue Text	THOUGHT / FAIRWEATHER T-500	You	Yeah, I *want* the full suit!	是啊，我*想要*一整套！
+0x010000580000B2C8	Dialogue Text	THOUGHT / FAIRWEATHER T-500	You	This gear could line my pockets with cash. I could probably sell it to some other cops.	这个装备可以让我的口袋装满现金。也许我可以把它卖给其他警察。
+0x010000580000B2D7	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	Then you should prepare -- analyse this armour, figure out its vulnerabilities.	然后你应该做好准备——分析这套盔甲，找出它的弱点。
+0x010000580000B2DD	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	Yes. You should analyse the armour, figure out its vulnerabilities.	是的。你应该分析这套盔甲，找出它的弱点。
+0x010000580000B2E3	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	It may be a while before you have all the pieces. In the meantime, you should analyse the armour, figure out its vulnerabilities.	你可能还需要一段时间才能集齐所有部件。与此同时，你应该分析这套盔甲，找出它的弱点。
+0x010000580000B2E9	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	Certainly, but you may want to hold on to the armour you have for long enough to properly analyse it, figure out its vulnerabilities.	当然了，也许你想把这套盔甲尽可能久地留在身边，来争取足够的分析时间，找出它的弱点。
+0x010000580000B2FA	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	Remember, this is a highly specialized kinetic re-distributor meant to stop bullets. Wear it, observe its properties. See if there's a *weakness* in the design.	记住，这是一个高度专业化的运动再分配器，专门用来挡子弹的。穿上它，观察它的性能。看看设计上有没有什么*弱点*。
+0x010000580000B300	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	Remember, the vitreous enamel material acts as a kinetic re-distributor. It's meant to stop bullets. Wear it, observe its properties. See if there's a *weakness* in the design.	记住，这种珐琅材料充当着一种运动再分配器的角色。专门用来挡子弹的。穿上它，观察它的性能。看看设计上有没有什么*弱点*。
+0x010000580000B31B	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Composure	You really do feel more confident. Invulnerability does that. Even partial invulnerability.	你真的感觉更加自信了。刀枪不入会产生这种效果。甚至局部的刀枪不入也可以。
+0x0100007800013156	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Perception (Hearing)	Your movements cause tiny little clicks, like dice rolling somewhere far away, as the plates reorient to your motions.	盔甲跟随你的动作而晃动，他们轻轻互相摩擦，声音就像有个骰子在远处滚动一样。
+0x0100007800013165	Dialogue Text	THOUGHT / FAIRWEATHER T-500	You	I will be responsible with this. This is just to protect me from harm, not to show off.	我会对这个负责的。这只是为了保护我不受伤害，不是用来炫耀的。
+0x010000780001316B	Dialogue Text	THOUGHT / FAIRWEATHER T-500	You	Decked out in future-armour. Like a cop ought to be.	穿着未来盔甲。这才是警察应有的样子。
+0x0100007800013171	Dialogue Text	THOUGHT / FAIRWEATHER T-500	You	[Discard thought.]	[放弃思维。]
+0x0100007800013187	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	The hardened vitreous enamel, at once sleek and voluptuous, adds a glow to your cheeks and a spring to your step. Just imagine what a full suit of this stuff could do for you!	硬化珐琅，光滑又轻盈，为你的面颊增添了一丝光彩，为你的步伐增加了一分轻盈。想象一下，如果穿上一整套，对你能有多大的帮助！
+0x010000780001318D	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Composure	You really do feel more confident. Invulnerability does that. Even partial invulnerability.	你真的感觉更加自信了。刀枪不入会产生这种效果。甚至局部的刀枪不入也可以。
+0x010000780001319C	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	Well, you found that one piece you were after, anyway. Don't forget to enjoy it!	不管怎么说，你已经发现一件自己要找的东西了。别忘了享受一下！
+0x01000078000131AB	Dialogue Text	THOUGHT / FAIRWEATHER T-500	You	One down -- two pieces to go. Here I come.	找到一件——还有两件。我来了。
+0x01000078000131B2	Dialogue Text	THOUGHT / FAIRWEATHER T-500	Visual Calculus	Two? Are you sure you're correct there? There was a helmet too. Three pieces more like. You were *ambitious*.	两件？你确定没搞错吗？还有一个头盔呢。更像是三件套。你真是*野心勃勃*。
+0x01000078000131C2	Dialogue Text	THOUGHT / FAIRWEATHER T-500	You	This is the long sought after *enemy technology*. I can't just enjoy it -- I must *study* it.	这是我长久以来追寻的*敌人的技术*。我不能只是享受它——我必须*学习*它。
+0x0100004000002F20	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	He did, yes he did. And you took it. Took it and put in in your pocket. Ka-ching, baby doll. Officer Hustle riding shotgun.	他做了，是的，他做了。而且你拿了。拿走，而且放进了自己的口袋。哗啦，小宝贝。骗子警官就坐在副驾驶上。
+0x0100004000002F26	Dialogue Text	THOUGHT / GOSSAMER STATE	You	Yeah, and Evrart gave me that fiver."	是啊，而且艾弗拉特还给了我5块钱。
+0x01000045000208DC	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Wow, you work *hard*.	哇哦，你工作可真够*努力*的。
+0x01000045000208E3	Dialogue Text	THOUGHT / GOSSAMER STATE	You	I do?	我有吗？
+0x01000045000208E9	Dialogue Text	THOUGHT / GOSSAMER STATE	You	(Discard thought.)	（放弃思维。）
+0x01000045000208F0	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	I know you're in a hurry, sir -- off to work really hard, as always -- I just need *one* moment of your time to discuss how hard you hustle.	我知道你在赶时间，警官——努力工作，一如既往——我只需要占用你*一点*时间，讨论一下你有多努力。
+0x01000045000208F8	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Oh, yes. You hustle. You're a provider. It's tough out there, but you keep it real and provide...	是啊，你很努力。你是个服务者。外面世道很艰难，但你能让它保持真实，不断提供你的服务……
+0x010000450002090B	Dialogue Text	THOUGHT / GOSSAMER STATE	You	I guess I do, yeah.	我想是这样没错，嗯。
+0x0100004500020911	Dialogue Text	THOUGHT / GOSSAMER STATE	You	What hard work do I do exactly?	我到底做了哪些努力？
+0x0100004500020918	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Oh yeah! Like a horse. A work horse. For hard work.	对啊！像一匹马，一匹役马。专门就是为努力工作而生的。
+0x0100004500020920	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Look at yourself, you're a human pedometer! You must have walked 200,000 steps down cracked asphalt, mosaic, sand, and linoleum after you re-emerged.	看看你自己，你就是个人形计步器！从你东山再起之后，一定已经走过了200,000步——走过那些破裂的沥青、地砖，沙土还有地板。
+0x0100004500020927	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	That is the sign of a hustler who never gives up. The world is harsh and people are evil -- you didn't make it that way. And you won't let it break you. You *ride*.	这说明你是一个永不放弃的家伙。这个世界如此严酷，人类如此邪恶——你不是始作俑者，你也不会向它屈服。你会*一往无前*。
+0x0100004500020930	Dialogue Text	THOUGHT / GOSSAMER STATE	You	Yeah, I ride. A little.	是啊，我是有那么点一往无前。
+0x0100004500020936	Dialogue Text	THOUGHT / GOSSAMER STATE	You	I fuckin' ride till I die, bitch.	我他妈的会一直这样，直到我死的那一天。
+0x010000450002093C	Dialogue Text	THOUGHT / GOSSAMER STATE	You	I'm not sure I *ride*...	我不确定自己是不是*一往无前*……
+0x0100004500020945	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Oh, you do. You *make* money. You got gills, baby, meaning those black papers with the faces of the innocences on them. You bring in the Franconegros and the Solas.	哦，你当然是了。你会*赚*钱。你有票子，宝贝，就是那些上面印着无罪之王面孔的黑纸。你收获了弗兰考格斯和索拉斯。
+0x0100004500020953	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	A little? You *make* money. You got gills, baby, got those black papers with the faces of the innocences on them. You bring in the Franconegros and the Solas.	有一点？你会*造*钱。你有票子，宝贝，就是上面印着无罪之王面孔的黑纸。你收获了弗兰考格斯和索拉斯。
+0x010000450002095A	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	It ain't easy, but you *do* it. Day in and day out. You didn't make the rules but you won't lose! You're a cop and a sprinter and a money printer.	其实没那么容易，但是你*做到*了，日复一日。规则不是你制定的，但是你也不会输！你是个警察，一个短跑健将，还是个金钱印刷机。
+0x0100004500020966	Dialogue Text	THOUGHT / GOSSAMER STATE	You	I mean yeah, I *did* take that bribe from that Joyce woman.	我想说是啊，我*确实*从那个叫乔伊斯的女人那儿收受过贿赂。
+0x010000450002096C	Dialogue Text	THOUGHT / GOSSAMER STATE	You	I guess I've made *some* gills, sure.	我想我确实赚了*一些*票子。
+0x0100004500020972	Dialogue Text	THOUGHT / GOSSAMER STATE	You	Can't say I didn't make that Siileng guy give some of his money either.	也不能说我没有让那个叫席勒的家伙拿钱出来。
+0x0100004500020978	Dialogue Text	THOUGHT / GOSSAMER STATE	You	Sure, and I got that giant novelty cheque from Evrart...	当然，而且我还从艾弗拉特那里拿到了一张兑奖支票……
+0x010000450002097F	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Oh yeah, you took that bribe *hard*. You're a killa'.	是啊，你那贿赂收的可真够*狠*的。你是个杀手。
+0x0100004500020987	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Can't say that -- you *shook* him. You're a killer. A shark.	也不能这么说——你*动摇*了他。你是个杀手，是一只鲨鱼。
+0x010000450002098E	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Wasn't *easy* getting that giant novelty cheque from Evrart. Took some ingenuity to get into the harbour, but you got in -- and you *took* that bribe as hard as any cop's taken it.	从艾弗拉特那里弄到兑奖支票也挺*不容易*的。费了那么大的劲才进入港口，但你还是进去了——而且像其他警察一样狠狠地*收受*了贿赂。
+0x0100004500020998	Dialogue Text	THOUGHT / GOSSAMER STATE	You	You could say I took some money from that Mañana guy too.	你还可以说我从那个叫马列拉的家伙那里也拿了点钱。
+0x010000450002099F	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	You didn't log that in as a donation either -- you don't log any of that shit in, you're a straight rider.	那个你也没有记录在捐款里——完全没有记录下来，你是个直肠子。
+0x01000045000209AE	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Sure, sure. And has it been easy? Is life easy? Have you *not* gone into cardiac arrest? Are you *not* about to have an anxiety attack or shoot yourself in the mouth? But you still hustle 24/7, ride or die. Now, ask yourself...	当然，当然了。而且有那么容易吗？生活容易吗？你难道*没有*心跳骤停过吗？你*没有*过焦虑发作，或者想吞枪自杀过？但你还是7x24小时地拼命奔跑着。现在，问问你自己……
+0x01000045000209B5	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	...are you *rich*?	……你很*富有*吗？
+0x01000045000209BC	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	That's just what it's like -- life and death. But you got *gills* on your side, baby, got those black papers with the faces of the innocences on them -- you bring in the Franconegros and the Solas.	就是这个样子——生活和死亡。但是有*票子*站在你这边，宝贝，你拥有那些印着无罪之王面孔的黑纸——你收获了弗兰考格斯和索拉斯。
+0x01000045000209C4	Dialogue Text	THOUGHT / GOSSAMER STATE	You	Oh, and then there's pawning stuff off to that suspicious Roy guy.	哦，还有把东西典当给那个叫罗伊的可疑的家伙。
+0x01000045000209CB	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Yeah, you're in the sales business. Shake 'em for shit and then pawn it off, *law officer*-style.	是啊，你在做销售生意。把他们吓得屁滚尿流，然后把东西典当掉，很有*执法人员*的风范。
+0x01000045000209D9	Dialogue Text	THOUGHT / GOSSAMER STATE	You	Yes. Quite.	是的，的确如此。
+0x01000045000209DF	Dialogue Text	THOUGHT / GOSSAMER STATE	You	No, I'm actually *not*.	不，其实我*不富有*。
+0x01000045000209EE	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Get outta here! You're a pauper! You work harder than *anyone*, almost rode yourself to the grave and you're still practically a *hobo* -- why is that?	少来！你是个穷光蛋！你比*任何人*工作都要努力，甚至已经快把自己送进坟墓，结果几乎还是个*流浪汉*——为什么会这样？
+0x01000045000209F4	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	That's right. You work harder than *anyone*, you almost rode yourself to the grave and you're still practically a *hobo* -- why is that?	没错。你比*任何人*工作都要努力，甚至已经快把自己送进坟墓，结果几乎还是个*流浪汉*——为什么会这样？
+0x0100004500020A03	Dialogue Text	THOUGHT / GOSSAMER STATE	You	It's because of that Garte guy riding my ass!	是因为那个叫加尔特的家伙一直在骚扰我！
+0x0100004500020A09	Dialogue Text	THOUGHT / GOSSAMER STATE	You	The system is broken!	体制被破坏了！
+0x0100004500020A0F	Dialogue Text	THOUGHT / GOSSAMER STATE	You	There's a market for corrupt cops out there, but the immigrant cops have price dumped it.	腐败的警察在外面有市场，但是移民警察把价格拉低了。
+0x0100004500020A15	Dialogue Text	THOUGHT / GOSSAMER STATE	You	I don't know. Why *am* I so poor?	我不知道。为什么我*会*这么穷？
+0x0100004500020A23	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Boohoo, *the system is broken*. *The establishment is keeping me down...* That's not the fuck-yeah attitude you're used to, what is this? Why are you so poor?	你就哭吧，*体制被破坏*了！*体制让我失望*……这可不是你习惯的那种‘是又怎么样，去他妈的’的态度，这是什么？你为什么这么穷？
+0x0100004500020A2A	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Look, the immigrants are cool. The immigrants play *cool* music. Everyone likes them. Especially the women. Don't hate on the immigrants. They've got nothing to do with you living under a boat.	你看，移民其实挺酷的。移民的音乐很*酷*。所有人都喜欢他们，特别是女人。不要仇恨移民，他们跟你穷困潦倒的事实没有任何关联。
+0x0100004500020A31	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	The Garte-man has set himself up one of those self replicating money-structures. You should *learn* from it. Don't play the victim. Think, hustler. Think with your head.	那个叫加尔特的男人自己设置了一套能够自我复制的赚钱方法。你应该从中*学习*一下。别总是扮演受害者。要懂得思考，大忙人。好好用用你的脑子。
+0x0100004500020A39	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Because of the TAXES. G-man's got his jam-covered sticky-fingers in your pocket, stealing from you every time you buy, sell, walk, talk, fart, so much as sneeze!	因为税收。那家伙把他那沾满果酱、黏黏糊糊的手指伸进你的口袋里，每当你买东西，卖东西，走路，说话，放屁，甚至是打喷嚏的时候，都在偷你的钱！
+0x0100004500020A40	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	That's right! One-hundred percent. Fucking G-man's got his jam-covered sticky-fingers in your pocket, stealing from you every time you buy, sell, walk, talk, fart, so much as sneeze!	没错！100%准确。那家伙把他那沾满果酱、黏黏糊糊的手指伸进你的口袋里，每当你买东西、卖东西、走路、说话、放屁，甚至是打喷嚏的时候，它都在偷你的钱！
+0x0100004500020A46	Dialogue Text	THOUGHT / GOSSAMER STATE	You	Fucking taxes, man.	税收真他妈该死，兄弟。
+0x0100004500020A4E	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	What are you not sure about?! They're *milking* your nipples till they bleed. Can't you see? Aren't you *sick and tired* of having bloody nipples?	你还有什么不确定的？！他们一直从你身上*挤奶*，直到你的乳头出血为止。你难道看不见吗？难道流血的乳头没让你觉得*十分厌烦*吗？
+0x0100004500020A56	Dialogue Text	THOUGHT / GOSSAMER STATE	Rhetoric	Aren't taxes almost non-existent in the Gossamer State that is Revachol?	像瑞瓦肖这种小国，税收不是几乎不存在吗？
+0x0100004500020A6A	Dialogue Text	THOUGHT / GOSSAMER STATE	You	I thought there *were* no taxes.	我还以为根本*没有*税收呢。
+0x0100004500020A70	Dialogue Text	THOUGHT / GOSSAMER STATE	You	Really? Every time I sneeze?	真的吗？每次我打喷嚏的时候都会吗？
+0x0100004500020A76	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	You and I both, but they got those *indirect modes of taxation*. Sales tax, excise duty, extraction tax, this tax that doesn't even have a name -- plus there's the stuff *people in other countries* pay for, that makes them ask for more money from *you* here! The Gossamer State's a myth. In total the Coalition Government is taking...	你和我都是这么想的，但是他们拥有那些*间接征税模式*。营业税、消费税、提取税、甚至还有连名字都没有的税——外加上*其他国家的人*会支付的税，会从*你*这里要求更多的钱！蛛丝国度不过是个神话。总的来说，联盟政府会收取的总额度是……
+0x0100004500020A82	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	NINETY-EIGHT PERCENT OF ALL YOUR MONEY.	你所有财产的98%。
+0x0100004500020A8A	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Every time you wipe your ass! They got their direct and their *indirect modes of taxation*: sales tax, excise duty, extraction tax, alimony, one tax that doesn't even have a name! Plus there's the stuff *people in other countries* pay for, that makes them ask for more money from *you* here. Total tax duties add up to...	每次你擦屁股的时候也一样！他们有直接的，也有*间接收税模式*：营业税、消费税、提取税、甚至还有连名字都没有的税——外加上*其他国家的人*会支付的税，会从*你*这里要求更多的钱！总的税金加起来有……
+0x0100004500020A92	Dialogue Text	THOUGHT / GOSSAMER STATE	You	NO FUCKING WAY. I guess I'm a free market fundamentalist now. (Opt in.)	绝对他妈的没门。我猜现在我是个自由市场原教旨主义者了。（接受思想。）
+0x0100004500020A98	Dialogue Text	THOUGHT / GOSSAMER STATE	You	Are you sure? That seems like a pretty big number...	你确定吗？这个数字看起来好像有点大……
+0x0100004500020A9E	Dialogue Text	THOUGHT / GOSSAMER STATE	You	This isn't helping me solve my money problem, it's only making me into a free-market type. (Opt out.)	这样也不能帮我解决金钱问题，只会让我变成自由市场那种家伙。（拒绝思想。）
+0x0100004500020AB5	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Here you go, hustler, fight the righteous fight! Free the people. Keep it real. Keep it street. Keep foaming at the mouth *furiously* on the tax issue!	就是这样，大忙人，为了公平和正义战斗吧！解放人民！保持真实。忠于竞赛。继续*猛烈地*唾弃税收问题吧！
+0x0100004500020ABC	Dialogue Text	THOUGHT / GOSSAMER STATE	You	Bleeding nipples are kind of a pain, but how will deregulation help with that? (Opt in, but only a little.)	流血的乳头好像有点痛，但是放松管制对那个又有什么帮助呢？（接受思想，但只有一点。）
+0x0100004500020AC5	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	It's *all* about the tax issue, hustler. No other problem in the world is as pressing as top-marginal tax rates, and don't you fucking forget it.	这*全都*跟税收问题有关，大忙人。世界上的其他问题都没有最高边际税率来的紧迫，你可别他妈的忘了这一点。
+0x0100004500020AD0	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	What are you, a racist? Don't be a racist! Be a cool immigrant ultraliberal free market advocate! Ride or die, keep it street!	你是谁，种族主义者吗？别搞种族主义！做一个移民极端自由市场的拥护者多酷炫啊！展现你的忠诚，忠于竞赛！
+0x0100004500020AD7	Dialogue Text	THOUGHT / GOSSAMER STATE	You	Well... if *not* being an ultraliberal makes me a racist then I guess I should be an ultraliberal? (Opt in.)	呃……如果*不*推崇极端自由主义会让我变一个种族主义者的话，那我猜我应该加入？（接受思想。）
+0x0100004500020ADD	Dialogue Text	THOUGHT / GOSSAMER STATE	You	Go away! [Discard thought.]	走开！[放弃思维。]
+0x0100004500020AE4	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Here you go, hustler, fight the righteous fight! Free the people. Keep it real. Keep it street. Keep foaming at the mouth *furiously* on the tax issue!	就是这样，大忙人，为了公平和正义战斗吧！解放人民！保持真实。保持街头。继续往*猛烈地*唾弃税收问题吧！
+0x0100004500020AF6	Dialogue Text	THOUGHT / GOSSAMER STATE	Conceptualization	This guy's appropriating the emerging Boogie Street lingo as part of his sales pitch for the free market economy.	这家伙把新兴的布吉街术语变成了推销自由市场经济说辞的一部分。
+0x0100004500020B05	Dialogue Text	THOUGHT / GOSSAMER STATE	You	You're trying to sound like a Boogie Street youth to peddle me this stuff, aren't you?	你是想让自己听起来像个布吉街的年轻人，然后向我散播这些东西，是不是？
+0x0100004500020B0C	Dialogue Text	THOUGHT / GOSSAMER STATE	Savoir Faire	Yeah, ain't it cool, rider?! Ain't it street?	是啊，难道你不觉得很酷吗，骑手？！难道不觉得很街头风吗？
+0x0100004500020B13	Dialogue Text	THOUGHT / GOSSAMER STATE	You	It's not. (Opt out.)	并没有。（拒绝思想。）
+0x010000060001B3DE	Dialogue Text	THOUGHT / HONOUR	You	My honour is my life. It's what separates me from the treacherous wömen.	我的荣耀就是我的生命。它将我和那些奸诈的女人区分开来。
+0x010000060001B3E6	Dialogue Text	THOUGHT / HONOUR	You	Okay...	好吧……
+0x0100002F0000EE5A	Dialogue Text	THOUGHT / HONOUR	You	I don't want this. I really don't care about honour... at all.	我不想要这个。我真的不在乎什么荣誉……一点也不。
+0x0100002F0000EE60	Dialogue Text	THOUGHT / HONOUR	Half Light	No! You're not a snivelling shit-heel chasing imaginary karma-coupons! Not for this, nor the afterlife! Fuck this honour shit!	不！你不是一个哭哭啼啼追赶虚构的因果优惠券的傻瓜！不是为了这个，也不是为了来世！让荣誉什么的去死吧！
+0x0100002F0000EE66	Dialogue Text	THOUGHT / HONOUR	Authority	Ah... ahhh. You continue to display such humility. This is to be admired! Refusing praise for your personal integrity is most honourable indeed.	啊……哈。你还是表现出了如此的谦逊。这是很值得钦佩的！拒绝对自己正直的赞美，确实是最让人尊敬的。
+0x0100002F0000EE72	Dialogue Text	THOUGHT / HONOUR	Authority	You brought much shame on your family today. Your name will forever be tarnished by this most shameful of deeds. Be forever banished, Shameful One!	今天你给自己的家人带去了很多耻辱。你的名字将会永远被这最可耻的行为玷污。被永远地放逐吧，可耻的人！
+0x0100002F0000EE88	Dialogue Text	THOUGHT / HONOUR	Authority	Good. You feel its presence. Now you are ready for the *Rite of Honour*.	很好。你感到了它的存在。现在你已经准备好迎接*荣誉仪式*了。
+0x0100005A000000F8	Dialogue Text	THOUGHT / HONOUR	Authority	Honourable One, you have accumulated a substantial amount of honour points on your life-path. You are a man most virtuous.	荣耀的人啊，你已经在人生道路上积累了大量的荣誉点。你是最善良正直的人。
+0x0100005A000000FE	Dialogue Text	THOUGHT / HONOUR	Authority	Go forth and commit even more honourable deeds. And should your resolve ever waiver, remember The Rite of Honour. It will always cleanse a man's soul...	向前去，做出更加荣耀的举动吧。如果你决定放弃，请记住这个荣誉仪式。它能一直净化人类的灵魂……
+0x0100005A0001388C	Dialogue Text	THOUGHT / HONOUR	You	You're not hearing me. I'm not some creepy honour-lover. Period.	你没听我说话。我不是什么诡异的荣誉爱好者。句号。
+0x0100005A00013891	Dialogue Text	THOUGHT / HONOUR	You	This honour thing feels overwhelming. Maybe I should open my heart to it?	这个荣誉什么的东西感觉有点势不可挡。也许我应该向它敞开心扉？
+0x0100005A0001389A	Dialogue Text	THOUGHT / HONOUR	You	Wait, there were honour points?	等等，还有荣誉点的吗？
+0x0100005A0001389F	Dialogue Text	THOUGHT / HONOUR	You	My honour is my life.	我的人生就是我的荣耀。
+0x0100005A000138A6	Dialogue Text	THOUGHT / HONOUR	You	Isn't honour sort of an archaic concept?	这个荣耀不是某种陈旧的观念吗？
+0x0100005A000138AD	Dialogue Text	THOUGHT / HONOUR	Authority	Of course there were honour points. Did you think no one was paying attention to all of your honourable deeds, Honourable One?	当然有荣誉点了。你觉得没人注意到你那些值得尊敬的举动吗，荣耀的人啊？
+0x0100005A000138B4	Dialogue Text	THOUGHT / HONOUR	Authority	Living in the name of virtue and doing noble deeds while expecting nothing in return is not *archaic*. How can you even think that?	以美德的名字为生，做着高尚的举动，同时不期待任何回报，这一点也不*陈旧*。你为什么会这样想？
+0x0100005A000138BB	Dialogue Text	THOUGHT / HONOUR	Authority	Selflessness forms the basis for the warrior code. An ageless code, as fit for nomadic Iilmaraan tribes traversing the vast Red Plateau in Provincia Gurdi as it is for your neighbourhood postman.	无私是战士法典的基础。一部不朽的法典，它适合穿越戈迪省广阔红色高原的伊尔玛游牧部落，就像适合你邻居的邮差一样。
+0x0100005A000138D1	Dialogue Text	THOUGHT / HONOUR	Authority	Yes. Your deeds have spoken for you, Honourable One, but to fully drape one's self in an eternal cloak of honour a ritual must be completed. A *Rite of Honour*...	是的。你的举动代表了你，荣耀的人啊，但是要想把一个人完全包裹在永恒的荣耀斗篷之下，还必须举行一个仪式。一个*荣耀仪式*……
+0x0100005A000138D7	Dialogue Text	THOUGHT / HONOUR	You	I only try my best. It's the most any of us can do.	我只是尽力而为。我们大部分人都是这么做的。
+0x0100005A000138DF	Dialogue Text	THOUGHT / HONOUR	Authority	Oh, the modesty on this one. Another 10 honour points for you, sir!	哦，你真是太谦逊了。再为你加上10个荣耀点，先生！
+0x0100005A00013927	Dialogue Text	THOUGHT / HONOUR	You	A warrior code, you say... I do feel like a warrior. This whole thing is beginning to sound very *me*.	你说，一部战士法典……我确实觉得自己是个战士。这整件事情听起来有点越来越像*我*了。
+0x0100005A0001392D	Dialogue Text	THOUGHT / HONOUR	You	It sounds rather arrogant, a secretive self-regard.	听起来很傲慢，一种秘密的自尊感。
+0x0100005A00013936	Dialogue Text	THOUGHT / HONOUR	Authority	No, no, no! You see, you're putting the needs of *others* above *yours*. *You* get nothing in return -- not even praise. You always get the short, *noble* end of the stick...	不不不！你看，你把*其他人*的需求放在了*自己*的需求之上。*你*没有得到任何回报——甚至连赞扬都没有。你总是得到棍子上比较短，比较*高尚*的那一端……
+0x0100005A0001393D	Dialogue Text	THOUGHT / HONOUR	Authority	Don't think about it too much! Just say it -- are you ready to get knee-deep in honour?	别想太多了！就直接说吧——你准备好沉浸在荣耀之中了吗？
+0x0100006400009E98	Dialogue Text	THOUGHT / HONOUR	You	Hold your horses! This is a mistake. Honour is meaningless to me. [Discard thought.]	别着急！这是个错误。荣耀对我来说毫无意义。[放弃思维。]
+0x0100006400009EA2	Dialogue Text	THOUGHT / HONOUR	Authority	You are on the fast track to becoming one of the rarest, most revered of all police officers -- an honour cop.	你已经踏上最罕见、最可敬那类警察的快车道上——一名光荣的警察。
+0x0100006400009EAA	Dialogue Text	THOUGHT / HONOUR	Authority	Most dishonourable are those who have known honour, carried honour in their hearts, and then disowned honour. They are the *honourfallen*...	最无耻的都是那些知道荣誉，把荣誉放在心中，然后否认荣誉的人。他们是*堕落*的荣耀之徒……
+0x0100006400009EB4	Dialogue Text	THOUGHT / HONOUR	Authority	Even among the honourable only the most dignified are deemed worthy -- but you, oh honourable one, have excelled... in honour.	就算在那些荣耀的人中间，也只有最高贵的那一个才是当之无愧的——但是你，哦，荣耀的人啊，已经超越……荣誉了。
+0x0100006400009EBC	Dialogue Text	THOUGHT / HONOUR	Authority	Honour comes from deep within you and to truly know oneself, to *know* one's honour, one must reach deep within oneself and *touch* one's honour...	荣耀源于你的内心深处，为了真正了解自己，*了解*一个人的荣耀，你必须直达深处，去*碰触*那份荣耀……
+0x0100006400009EC3	Dialogue Text	THOUGHT / HONOUR	Authority	You need to bring the thumb of your right hand -- your sword hand -- to your rectum and stick it in there to form the Arch of Honours.	你需要用右手拇指——持剑的那只手——放进直肠，把它伸进去，形成荣耀的拱门。
+0x0100006400009ECA	Dialogue Text	THOUGHT / HONOUR	You	All I ever wanted was to live with dignity -- to die with honour. (Stick your thumb in your ass.)	我想要的只是过上有尊严的生活——带着荣耀死去。（把拇指伸入你的直肠。）
+0x0100006400009ED1	Dialogue Text	THOUGHT / HONOUR	You	You're crazy if you think I'm just going to stick a finger in my ass! NO WAY!	你疯了吗，居然以为我会把手指头塞进我的菊部！想都别想！
+0x0100006400009ED8	Dialogue Text	THOUGHT / HONOUR	You	What? I don't know... just like that? Outside? What about people?	什么？我不知道……那样就行了？在外面吗？这么多人怎么弄？
+0x0100006400009EDD	Dialogue Text	THOUGHT / HONOUR	You	What? What if someone comes and *sees* me?	什么？要是有人经过，*看见*我了怎么办？
+0x0100006400009EEB	Dialogue Text	THOUGHT / HONOUR	Authority	People will be in awe, admiring a police officer most honourable in a sacred ritual of uttermost righteousness.	人们会敬畏地欣赏那位最荣耀的警官举行一场最公正的神圣仪式。
+0x0100006400009EF2	Dialogue Text	THOUGHT / HONOUR	Authority	Then they will witness honour so great it seems nigh impossible a single man can contain it. They will admire you, Honourable One.	那他们会亲眼见证这份伟大的荣耀，伟大到任何人几乎都无法承受。他们会钦佩你的，荣耀的人啊。
+0x0100006400009F04	Dialogue Text	THOUGHT / HONOUR	Kim Kitsuragi	"WHAT ARE YOU DOING?!" The lieutenant jumps away from you.	“你在做什么？”警督从你身边跳开。
+0x0100006400009F10	Dialogue Text	THOUGHT / HONOUR	Authority	Congratulations, Honourable One! You have become a member of a noble faculty. A man kneels, an Honour Cop rises...	恭喜，荣耀的人啊！你已经成为高贵学院的一员。一个男人跪下去，另一个荣耀的警察站起来……
+0x0100006400009F1A	Dialogue Text	THOUGHT / HONOUR	You	"I am honouring myself, lieutenant."	“我在为自己带去荣耀，警督。”
+0x0100006400009F21	Dialogue Text	THOUGHT / HONOUR	You	"Nothing, you wouldn't understand. It's an honour thing."	“没什么，你不会理解的。这是一件很荣耀的事情。”
+0x0100006400009F28	Dialogue Text	THOUGHT / HONOUR	You	"Who, me? Nothing. I'm doing nothing, Kim."	“谁，我吗？没什么。我什么也没做，金。”
+0x0100006400009F2F	Dialogue Text	THOUGHT / HONOUR	You	"Scratching my ass. What's the big deal?"	“摸一下我的屁股。有什么大不了的吗？”
+0x0100006400009F36	Dialogue Text	THOUGHT / HONOUR	Kim Kitsuragi	"The big deal?" The lieutenant rolls his eyes. "I guess we really do come from different upbringings..."	“大不了？”警督翻了翻白眼。“看来我们的成长环境真是截然不同……”
+0x0100006400009F3D	Dialogue Text	THOUGHT / HONOUR	Authority	Good. That was a lie most honourable. Sometimes we must hide the truth from those who wouldn't understand it. The Less-Honoured Ones.	很好。这是一个最荣耀的谎言。有时候我们必须对那些不理解的人隐藏真相。那些不荣耀的人。
+0x0100006400009F45	Dialogue Text	THOUGHT / HONOUR	Authority	It is an honour to serve with you, Honour Cop!	和你一起服役是我的荣耀，荣耀警察！
+0x0100006400009F4D	Dialogue Text	THOUGHT / HONOUR	Kim Kitsuragi	"Then why are you elbow deep in your pants like..." He suddenly stops as if realizing he doesn't want to hear the answer. "Never mind, officer. Carry on."	“那你为什么要那样深入……”他突然停了下来，似乎意识到自己不想听到答案。“没事了，警官。继续吧。”
+0x0100006400009F55	Dialogue Text	THOUGHT / HONOUR	Kim Kitsuragi	"Really? It seems more like a personal hygiene thing." He leans even more away from you. "But let's not delve deeper."	“真的吗？那更像是个人卫生问题。”他离得你更远了。“不过我们还是别再深入探究这个话题了。”
+0x0100006400009F5C	Dialogue Text	THOUGHT / HONOUR	Authority	You're right. The lieutenant, although a noble man, does not understand honour like you do. Best not to waste time trying to explain. Lead by example.	你是对的。警督他虽然是个高尚的人，但也不能理解你的那种荣耀。最好还是不要浪费时间去解释了。以身作则吧。
+0x0100006400009F6A	Dialogue Text	THOUGHT / HONOUR	Kim Kitsuragi	"I can see that, but do you have to do it where everyone can see you?" He looks shocked.	“我能看见，但你真的有必要在每个人都能看见你的地方这样做吗？”他看起来很震惊。
+0x0100006400009F71	Dialogue Text	THOUGHT / HONOUR	Kim Kitsuragi	"Have you no self control?" Then realizing the naivete of the question he looks at the ground. "Please spare me this sight."	“你完全不懂什么叫自控力吗？”他突然意识到这个问题有多天真，于是低头看向地面。“别让我看到这个了。”
+0x0100006400009F78	Dialogue Text	THOUGHT / HONOUR	Kim Kitsuragi	"Well... uh... don't!" The lieutenant looks truly shocked.	“呃……不……别！”警督看起来真心惊呆了。
+0x0100006400009F80	Dialogue Text	THOUGHT / HONOUR	Authority	The lieutenant is a noble man, but he does not *know* honour like you and I do. Best not to waste time trying to explain. Lead by example.	警督是个高尚的人，但他不*知道*我和你的那种荣耀。最好还是不要浪费时间去解释了。以身作则吧。
+0x0100006400009FA8	Dialogue Text	THOUGHT / HONOUR	Authority	Mhmh-mhmh, you are like a wondering knight-monk setting right the wrongs of the world you come upon.	嗯嗯，你就像一个好奇的骑士武僧，纠正着你在这个世界上遇到的错误。
+0x0100006400009FB4	Dialogue Text	THOUGHT / HONOUR	Authority	Are you ready to drink deep from the cup of honour?	你准备好豪饮荣耀圣杯中的美酒了吗？
+0x0100006B0000A16D	Dialogue Text	THOUGHT / HONOUR	Authority	Meaningless?! Vulgar knave, how dare you besmirch the honour of honour points... It hurts the eyes to look upon filth like you. Begone.	没有意义？！粗俗的无赖，你居然敢诽谤光荣的荣耀点……看着你这样的污秽简直就是伤眼睛。快走开。
+0x010000060000F943	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	This is because I keep saying *none of the above* to political stuff, isn't it?"	这是因为我一直对政治之类的玩意说些*以上都不对*的话，对吗？
+0x010000060000F94A	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	It's *also* about that. But it's *also* more! Perhaps it's the hangover, perhaps it's a temporary surge of serotonin, but something tells you...	*也*是那样没错。但是*还*远远不止这些！也许是宿醉，也许是暂时的血清素飙升，不过某种东西告诉你……
+0x010000450002078E	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	What's this? We're getting reports of *normal*, *reasonable*, *temperate* political opinions somewhere in Martinaise...	这是什么？我们收到报告说马丁内斯某处传来*普通的*，*合理的*，*稳健的*政治意见……
+0x010000450002079B	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	You must be mistaken: I'm a real radical.	你一定是搞错了：我是个真正的种族主义者。
+0x01000045000207A1	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	That's me, Mr. Reasonable. Someone's got to keep it sane around here.	那就是我，公道先生。这里总得有人保持清醒吧。
+0x01000045000207A7	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	[Discard thought.]	[放弃思维。]
+0x01000045000207B0	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	Of course, a *radical centrist*. In these bright and loud times where a thousand frequencies drown one another out, sober thinking is a radical act...	当然，一个*中间派种族主义分子*。在这些明亮而又喧嚣的时代，数千个频率彼此淹没，冷静思考变成了种族主义的行为……
+0x01000045000207CE	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	The air suddenly feels calmer. More transparent in a strangely tender way. Perhaps it's the hangover, perhaps it's a temporary surge of serotonin, but something tells you...	空气突然变得更加平静。以一种奇妙又温柔的方式，变得愈加透明。也许是因为宿醉，也许是暂时的血清素飙升，但是有什么告诉你……
+0x01000045000207D5	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	It's time... to become a citizen of the *Kingdom of Conscience*.	时间到了……成为*道德国度*的子民吧。
+0x01000045000207E4	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	First, where is this Kingdom of Conscience?	首先，这个道德国度在哪？
+0x01000045000207EA	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	No more talk -- Sign me up for a passport! (Opt in.)	不用多说了——马上给我注册本护照吧！（接受思想。）
+0x01000045000207F0	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	No, I'm too fiery for this watercolour ideology. I'm trying to develop more *extreme* and *interesting* opinions... (Opt out.)	不，我太暴躁了，不适合这个水彩色的意识形态。我要尝试开发更加*极端*和*有趣*的选项……（拒绝思想。）
+0x01000045000207FD	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	It is not a place, it is a *moment* in time that can only arise in the right circumstances. In all of human history, it's only been achieved a handful of times...	它不是个地方，是时间里的某个*时刻*，只有在正确的环境下才能出现。在整个人类历史当中，它成功出现的次数也是屈指可数的……
+0x01000045000208CB	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	I knew we could trust you. Remember -- *real democracy* is just around the corner for Revachol. When that real democracy kicks in we are all going to be so much happier.	我知道我们可以信任你。记住——*真正的民主*就快要降临瑞瓦肖。当真正的民主到来时，我们都会变得更加开心。
+0x01000045000208D1	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	That's a pity. *Real democracy* was just around the corner for Revachol. All the leading citizens are waiting there -- without you.	真可惜。*真正的民主*就快要降临瑞瓦肖。所有市民都将翘首以待——而你却不在其中。
+0x0100006B00007D85	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	Must have been a false alarm, then.	那就肯定是个假警报了。
+0x0100009400000A87	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	There you have it. Sometimes holding the line *is* progress.	好了。有时候坚持下去*就是*进步。
+0x0100009400000AB1	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Electrochemistry	Speaking of, when are you going to get on that, bub?	说到这里，你打算什么时候开始，小家伙？
+0x0100009400000ABD	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	Oh, right. Then let's get there... eventually?	哦，对哦。那我们就……最后去那里吧？
+0x0100009400000ACF	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	How do you bring about those *circumstances*?	该怎么创造那些*环境*？
+0x0100009400000AD5	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	Sometimes, in the face of great disaster, defending the status quo *is* progress.	有时候，在面对巨大的灾难前，维持现状*就是*进步。
+0x0100009400000ADB	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	That's a stupid goal. (Shake your head dismissively.)	这是个愚蠢的目标。（轻蔑地摇摇头。）
+0x0100009400000AE1	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	Then you've never lived through *real* chaos...	那你其实从未经历过*真正的*混乱……
+0x0100009400000AE7	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	That's an honourable goal. (Nod your head approvingly.)	这是一个很光荣的目标。（赞许地点点头。）
+0x0100009400000AF3	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	*Incrementally*.	*循序渐进*。
+0x0100009400000AF9	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	Yes.	是的。
+0x0100009400000AFF	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	Is it?	“是吗？”
+0x0100009400000B05	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	History's greatest catastrophes have been brought about by people trying to make the world a better place *too quickly*...	历史上最大的灾难早已降临，就在人们*过快地*打算把这个世界变得更好的时候……
+0x0100009400000B0B	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	It is, isn't it?	“就是这样，难道不是吗？”
+0x0100009400000B11	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	No.	不。
+0x0100009400000B17	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Electrochemistry	What a fucking joke!	开什么他妈的玩笑！
+0x0100009400000B29	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Electrochemistry	YAWN. You'd get there faster with a little *speed*.	哈欠。来一点*思必得*的话，就能最快到达。
+0x0100009400000B34	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	Do you believe the status quo is preferable to chaos and bloodshed?	你认为维持现状会比混乱和杀戮好吗？
+0x0100009400000B46	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	*Tsk, tsk*. Just because you live in the *present* doesn't mean you have the right to place your needs above the needs of the *future*...	*啧啧，啧啧*。只是因为你生活在*当下*，不代表你有权把自己的需求放在*未来*的需求之上……
+0x0100009400000B52	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	It's also post-industrial, post-ideological, and even *post-sexual*.	它也是后工业化，后意识形态，甚至是*后两性文化*的。
+0x0100009400000B5E	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Composure	What sangfroid...	多么沉着……
+0x0100009400000B64	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	But what about all the things that are wrong *now*?	但是*现在*那些所有错误的事情呢？
+0x0100009400000B6A	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Volition	What benevolence...	多么仁慈……
+0x0100009400000B70	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	You may never live to see the Kingdom of Conscience. Your children may not. Even your *grandchildren* might not. But that's no excuse not to keep working...	你永远无法活到亲眼看见道德国度的那一天。你的孩子也许不行，甚至你的*孙辈*也不行。但这不是不继续工作的借口……
+0x0100009400000B76	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	Partly because humanity will need to discard many of the categories that define and limit it today. The Kingdom of Conscience is post-capitalist, post-national...	部分是因为人类今天需要抛弃很多定义和限制它的类别。道德国度是后资本主义，后国家化的……
+0x0100009400000B7C	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	That's the genius of *Dolores Dei*. She recognized that progress is meaningless if its gains are lost because of instability. *Real*, lasting change can only come about gradually. Increment by increment.	那就是*德洛莉丝·黛*的天才之处。她意识到如果因为不稳定而失去进步的成果，那进步本身则是毫无意义的。*真正的*，持久的改变只会渐渐产生。循序渐进。
+0x0100009400000B82	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	Sounds incredible. Allons-y! Let's go there right now. (Opt in.)	听起来有点难以置信！我们走！现在就去吧！（接受思想。）
+0x0100009400000B88	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	Okay, but what's the Kingdom of Conscience actually *like*?	好吧，但是这个道德国度到底是*什么样*的呢？
+0x0100009400000B8E	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	What you *want* is immaterial. The Kingdom of Conscience is coming... WHETHER YOU LIKE IT OR NOT. (Only very slowly.)	你*想要*的东西是无形的。道德国度即将降临……不论你喜欢与否。（只不过特别慢。）
+0x0100009400000B94	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	Man, that sounds kind of terrible. I don't think I want to be a moralist anymore. (Opt out.)	我的天，听起来好像有点吓人。我想我还是不要当什么道德卫士了。（拒绝思想。）
+0x0100009400000B9A	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	The Kingdom is difficult to comprehend and even more difficult to describe...	这个国度很难理解，更难描述……
+0x0100009400000BA0	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	Slow down, Mr. Reasonable! Did you miss the part about compromising and taking things slow?	慢一点，公道先生！你想念妥协和放慢脚步那部分吗？
+0x0100009400000BA6	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	This sounds mega boring. Count me out. (Opt out.)	听起来超级无聊的。别算上我。（拒绝思想。）
+0x0100009400000BB2	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	Wait, is the Kingdom of Conscience really about doing things, or just preserving the status quo?	等等，这个道德国度真是关于做事的吗，或者只是维持现状？
+0x0100009400000BB8	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	You	That seems fine. I still want to live for the present, though. (Opt out.)	听起来好像还可以。不过我想生活在当下。（拒绝思想。）
+0x0100009400000BBE	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Logic	What rationality...	多么理性……
+0x0100009400000C15	Dialogue Text	THOUGHT / KINGDOM OF CONSCIENCE	Empathy	That's right. Remember -- *real democracy* is just around the corner for Revachol. When that real democracy kicks in -- a long time from now -- we are all going to be so much happier.	记住——*真正的民主*就快要降临瑞瓦肖。当真正的民主到来时——从现在开始的很久之后——我们都会变得更加开心。
+0x01000089000023D1	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	Composure	Hear that? Magnesium. That's what you're lacking. The lack of magnesium has you slouched.	听见了吗？镁。那是你缺少的东西。缺少镁会让你变得没精打采。
+0x01000089000023D8	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	Electrochemistry	The magnesium levels in your blood are dangerously low. It's about the low magnesium levels and *not* the high alcohol levels.	你血液里面的镁含量已经低到一个很危险的水平。这里说的是低镁含量，*不是*高酒精含量。
+0x01000089000023E5	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	You	I fucking knew it wasn't the alcohol... or the other things.	我他妈当然知道不是酒精……或者其他什么东西了。
+0x01000089000023EC	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	You	So there's a lack of magnesium in me?	所以我的身体里缺镁吗？
+0x01000089000023F3	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	You	My magnesium level is fine. [Discard thought.]	我身体的镁含量挺好的。[放弃思维。]
+0x01000089000023FA	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	Electrochemistry	Yeah, the other things! Long live the other things! Made you strong as an ox, they have.	是啊，其他东西！其他东西万岁！它们让你变得强壮如牛。
+0x0100008900002401	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	Composure	Yes, and it's critical. Look at yourself. You're practically devolving into a fish due to the lack of magnesium in you bloodstream.	是的，而且是至关重要的。看看你自己。因为血液里缺少镁，你几乎就快退化成一条咸鱼了。
+0x0100008900002408	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	You	I need to Mag it up?	我需要再多*镁*一点？
+0x010000890000240F	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	You	So I need to Mag it sideways?	所以我要再稍微来点*镁*？
+0x0100008900002416	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	Composure	You need to get *SO* magged up! You've probably had two heart attacks and a minor stroke already... and the only prescription is insane amounts of magnesium.	你真的*太需要*多镁一点了！你很可能已经心脏病发两次，还有一次轻度中风……唯一的处方就是加入疯狂剂量的镁。
+0x010000890000241D	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	Endurance	One stroke? Don't be so modest. He's having one right now.	一次中风？别谦虚了。他现在就已经中风了。
+0x0100008900002424	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	Composure	Mag it sideways? What are you talking about?! You need to Mag it *up*! You've probably had two heart attacks and a minor stroke already... and the only prescription is insane amounts of magnesium.	稍微来点*镁*？你在说什么呢？！你需要*多加*一点镁！你很可能已经心脏病发两次，还有一次轻度中风……唯一的处方就是加入疯狂剂量的镁。
+0x010000890000242C	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	You	You're saying... I need to become a Magnesium-Based Lifeform?	你是说……我需要变成一个以镁过活的生命体？
+0x0100008900002433	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	You	I need is to stop thinking about this. [Discard thought.]	我不能再想这个。[放弃思维。]
+0x010000890000243B	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	Composure	Yes. If you want to live, you need to *evolve*. You need to transcend the carbon barrier. Go to the apothecary and buy insane amounts of magnesium -- it will reverse the damage to your circulatory system.	是的。如果你想活下去，就需要*进化*。你需要跨越碳的壁垒。马上去找药剂师，买下疯狂剂量的镁——它会逆转你损坏的循环系统。
+0x0100008900002448	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	Electrochemistry	Just remember -- it's not the alcohol. Buy more of that too. Alcohol is *not* the problem.	只要记住——它不是酒精。但酒精也要多买一点，因为酒精*不是*问题。
+0x010000890000244F	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	Electrochemistry	And it's certainly not the dextroamphetamine.	而且肯定也不是右旋安非他命。
+0x0100008900002455	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	Electrochemistry	Nor pyrholidon, that sweet, sweet psychoactive radiation drug.	也不是吡嚯浣酮，那个甜美又迷人的精神辐射药品。
+0x010000890000245B	Dialogue Text	THOUGHT / MAGNESIUM BASED LIFE FORM	Electrochemistry	Nor smoking for forty years. It's the lack of magnesium. And excess of coffee. You should stop drinking coffee. It wreaks havoc on your gastrointestinal system.	也不是抽了40年的烟。就是缺镁。还有过量饮用咖啡。你不能再喝咖啡了。它会严重破坏你的消化系统。
+0x0100006B0000A1D1	Dialogue Text	THOUGHT / REMOTE VIEWER	Inland Empire	Do you *feel* that?	你*感觉*到了吗？
+0x0100009400000D3B	Dialogue Text	THOUGHT / REMOTE VIEWER	You	Yes.	是的。
+0x0100009400000D41	Dialogue Text	THOUGHT / REMOTE VIEWER	You	Feel what?	感觉到什么？
+0x0100009400000D49	Dialogue Text	THOUGHT / REMOTE VIEWER	Inland Empire	Of course you do. You don't even know *what* it is you're feeling, but you can feel it. That's the mark of a true *Remote Viewer*...	你当然可以。你甚至不知道自己感觉到的是*什么*，但就是能感觉到。这就是一个真正的*遥视者*的标志……
+0x0100009400000D50	Dialogue Text	THOUGHT / REMOTE VIEWER	Inland Empire	Close your eyes. Reach out with your *feelings*. There's something *para-natural* at play here.	闭上你的眼睛。伸出你*感觉*的触手。这里有一种*超自然*的东西在起作用。
+0x0100009400000D57	Dialogue Text	THOUGHT / REMOTE VIEWER	Shivers	NONSENSE.	胡说。
+0x0100009400000D5E	Dialogue Text	THOUGHT / REMOTE VIEWER	Inland Empire	Now, the time has come for you to be inducted into the ranks of the Remote Viewers Division.	现在，你应该被引荐到遥视者部队去工作。
+0x0100009400000D65	Dialogue Text	THOUGHT / REMOTE VIEWER	You	Close your eyes.	闭上你的眼睛。
+0x0100009400000D6B	Dialogue Text	THOUGHT / REMOTE VIEWER	You	I'm good where I am. [Discard thought.]	我现在这样就很好。[放弃思维。]
+0x0100009400000D74	Dialogue Text	THOUGHT / REMOTE VIEWER	You	You're right. I feel it now.	你是对的。我现在能感觉到。
+0x0100009400000D7A	Dialogue Text	THOUGHT / REMOTE VIEWER	You	This sounds like a load of garbage. [Discard thought.]	听起来像是一堆垃圾。[放弃思维。]
+0x0100009400000D84	Dialogue Text	THOUGHT / REMOTE VIEWER	Inland Empire	The time has come to *connect* to RVD HQ. By establishing a connection you'll have proved yourself worthy as a Remote Viewer...	是时候*联系*遥视者总部了。如果能建立起连接，你将证明自己是个合格的遥视者……
+0x0100009400000D8B	Dialogue Text	THOUGHT / REMOTE VIEWER	Kim Kitsuragi	"Everything alright, detective?"	“你没事吧，警探？”
+0x0100009400000D91	Dialogue Text	THOUGHT / REMOTE VIEWER	You	"Shhh... I'm trying to connect with the Remote Viewers Division."	“嘘……我在试着联系遥视者部队。”
+0x0100009400000D97	Dialogue Text	THOUGHT / REMOTE VIEWER	You	"Yeah, just resting my eyes." [Discard thought.]	“是啊，只是休息一下眼睛。”[放弃思维。]
+0x0100009400000DBC	Dialogue Text	THOUGHT / REMOTE VIEWER	Kim Kitsuragi	"It has been a long day." The lieutenant looks down at his wristwatch.	“今天是挺漫长的。”警督低头看了看自己的手表。
+0x0100009400000DC2	Dialogue Text	THOUGHT / REMOTE VIEWER	Kim Kitsuragi	"It is rather late." The lieutenant looks down at his wristwatch.	“已经很晚了。”警督低头看了看自己的手表。
+0x0100009400000DC8	Dialogue Text	THOUGHT / REMOTE VIEWER	Kim Kitsuragi	"A little early in the day for a nap, isn't it?" The lieutenant frowns at his wristwatch.	“现在打盹是不是太早了点？”警督看着手表皱了皱眉。
+0x0100009400000DD1	Dialogue Text	THOUGHT / REMOTE VIEWER	Kim Kitsuragi	"This again? Come on, detective. The joke has gone on long enough."	“又来这个？拜托，警探。这个玩笑已经开的太久了。”
+0x0100009400000DD8	Dialogue Text	THOUGHT / REMOTE VIEWER	Inland Empire	Ignore the lieutenant. He's never connected with anything para-natural. You're on different planes, metaphysically speaking.	无视警督。他从来没有跟任何超自然的东西联系过。从形而上学地意义上讲，你生活在一个不同的星球。
+0x0100009400000DDF	Dialogue Text	THOUGHT / REMOTE VIEWER	You	Keep your eyes shut.	闭上你的眼睛。
+0x0100009400000DE5	Dialogue Text	THOUGHT / REMOTE VIEWER	You	Open your eyes. [Discard thought.]	睁开你的眼睛。[放弃思维。]
+0x0100009400000DED	Dialogue Text	THOUGHT / REMOTE VIEWER	Inland Empire	It takes time to block out the sounds of the world. But once you do, it's like you're on a wavelength. Not like any *natural* wavelength. No. There seems to be *something* on the other end, if only you could listen closely enough...	阻挡这个世界的声音需要花上一点时间。但是一旦做到了，你就会像处在一个波长之上。不像任何*自然*的波长。不是的。如果你能足够靠近去倾听，会发现另一端似乎有什么*东西*……
+0x0100009400000DF4	Dialogue Text	THOUGHT / REMOTE VIEWER	Inland Empire	*BZZZZT*. Do you copy? This is RVD HQ. Anyone there?	*嗞*。收到了吗？这里是遥视者总部。有人吗？
+0x0100009400000DFB	Alternate1	THOUGHT / REMOTE VIEWER	You	Hello. Remote Viewer Du Bois reporting for duty.\n	你好。遥视者杜博阿前来报到。
+0x0100009400000DFB	Alternate2	THOUGHT / REMOTE VIEWER	You	Hi, this is Harry. I'm looking for the Remote Viewers Division.	你好，我是哈里。我在寻找遥视者部队。
+0x0100009400000DFB	Dialogue Text	THOUGHT / REMOTE VIEWER	You	Uh... is this the Remote Viewers Division?	呃……这里是遥视者部队吗？
+0x0100009400000E01	Dialogue Text	THOUGHT / REMOTE VIEWER	You	Say nothing.	什么也不说。
+0x0100009400000E09	Dialogue Text	THOUGHT / REMOTE VIEWER	Inland Empire	Acknowledged. Connection established. *BZZZZT*. Welcome aboard, Remote Viewer. You are a special man, and *definitely* not imagining it.	确认。连接建立成功。*嗞嗞嗞*。欢迎登入，遥视者。你是个特殊的人，而且*绝对*不是想象出来的。
+0x0100009400000E10	Dialogue Text	THOUGHT / REMOTE VIEWER	Inland Empire	... must have been... para-natural static. Ghosts... in the wires... Kill the connection... *BZZZZT*.	……一定是……超自然静电。幽灵……在线路里……断开连接……*嗞嗞嗞*。
+0x0100009400000E1C	Dialogue Text	THOUGHT / REMOTE VIEWER	You	Try to establish a connection.	尝试建立连接。
+0x0100009400000E45	Dialogue Text	THOUGHT / REMOTE VIEWER	Kim Kitsuragi	"Oh, for god's sake. This is a bunch of..."	“哎，看在老天爷的份上。这完全就是……”
+0x0100009400000E52	Dialogue Text	THOUGHT / REMOTE VIEWER	Logic	That *something* is the sound of your brain cells giving their two weeks' notice.	那个*东西*是你的脑细胞发出的两周通知的声音。
+0x0100009400000E5A	Dialogue Text	THOUGHT / REMOTE VIEWER	You	(Clear throat.) RVD HQ, this is Firewalker. Reporting for duty.	（清清喉咙。）遥视者总部，我是火行者，前来报到。
+0x0100009400000E61	Dialogue Text	THOUGHT / REMOTE VIEWER	Inland Empire	Can it be? We haven't heard that name in ages. Welcome to the RVD, Firewalker. *BZZZZZT*. You are a special man, and *definitely* not imagining it.	真的吗？我们已经很多年没听过那个名字了。欢迎来到遥视者，火行者。*嗞嗞嗞*。你是个特殊的人，而且*绝对*不是想象出来的。
+0x010000060000F95A	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	For the nation... smart. Best not to mention *the wömen issue* too often. People are not ready.	为了民族……很聪明。最好不要经常提到那些*女人的问题*。大家还没有准备好。
+0x010000060001C080	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	But I'm a feminist!	但我是个女权主义者！
+0x010000060001C086	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	Föminist? No! It can't be. Not you. No one believes this.	女权主义者？不！这不可能。这不像你。没人相信这个的。
+0x0100002100001874	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Tutorial Agent	Did you know you can FORGET Thoughts? Go to your THOUGHT CABINET and FORGET all about föminism.	你知道思维是可以遗忘的吗？前往思维阁并遗忘关于女性主义的一切吧。
+0x010000450002047B	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	It's clear you like the hard stuff, bröther.	显然你喜欢烈一点的东西，兄弟。
+0x0100004500020488	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	The what? Sounds like my stomach is growling...	什么？听起来好像我的胃在咆哮……
+0x010000450002048E	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	What is my lower intestine going on about?	我的小肠出什么事了？
+0x0100004500020494	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	[Discard thought.]	[放弃思维。]
+0x010000450002049B	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	Evening falls. The time has come to take the vows.	夜幕降临。许下誓言的时间到了。
+0x01000045000204A2	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	Vows?	誓言？
+0x01000045000204A8	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	The Vows of Blööd and Flesh.	血与肉的誓言。
+0x01000045000204B2	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	Lower intestine? The term is METABOLIC AND CIRCULATORY SYSTEM.	小肠？术语应该叫代谢和循环系统。
+0x01000045000204B9	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	Okay, but... what's *the hard stuff*?	好吧，但是……那个*烈一点的东西*是什么？
+0x01000045000204C0	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	*Fascism*, bröther.	*法西斯主义*，兄弟。
+0x01000045000204C7	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	No, no. When the blööd and the flesh call, there is no discarding them. Speak true, do you like *the hard stuff*?	不不。当血与肉召唤时，就不能抛弃它们。说真的，你喜欢*烈一点的东西*吗？
+0x01000045000204CE	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	What is *the hard stuff*?	什么是*烈一点的东西*？
+0x01000045000204E2	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	What *is* fascism, though?	不过，什么*是*法西斯主义？
+0x01000045000204E8	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	Am I having some kind of stomach seizure?	我这是胃病犯了嘛？
+0x01000045000204EE	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	*Fascism* sounds so bad, though. What if we called it something else? Like, uh, *traditionalism*?	不过*法西斯主义*听起来挺糟糕的。要不我们给它换个别的名字？比如，呃，*传统主义*？
+0x01000045000204F5	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	Many things, but it's möstly about trusting your gut. Who does your gut tell you is the source of Revachol's problems?	很多东西，但是主要是关于相信你的直觉。凭你的直觉，你觉得瑞瓦肖问题的根源是什么？
+0x01000045000204FC	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	Foreigners?	外国人？
+0x0100004500020502	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	Yes, them, but also...	是的，他们也是，不过还有……
+0x0100004500020508	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	Financiers?	金融家？
+0x010000450002050E	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	Leftist academicians?	左翼知识分子？
+0x0100004500020514	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	Liberals?	自由主义者？
+0x010000450002051A	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	...wömen.	……女人。
+0x0100004500020529	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	Wömen?	女人？
+0x0100004500020530	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	Wö-Men. Men of Wö. You don't like them. They're insane. Their idiocy needs to be scrubbed off this world with rubbing alcohol. Wömen need to go back to the fucking kitchen.	女人。男人的对立面。你不喜欢她们。她们都是疯子。她们愚蠢的行为需要用酒精从这个世界上擦除。女人都需要滚回该死的厨房去。
+0x0100004500020537	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	That's what fascism boils down to. The rest is also important, but the *main thing* is that wömen need to *know their place*.	归结起来这就是法西斯主义。其他的也很重要，但是*最主要*的还是女人需要*明白她们的位置*。
+0x010000450002053F	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	Stomach truth. You're having a stomach *truth*.	胃的真相。你得到了胃的*真相*。
+0x0100004500020546	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	Ökay. Yes. Let's call it that. Good thinking.	好吧。可以。就这么叫吧。是个好主意。
+0x010000450002054D	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Rhetoric	That sounds much better. Traditionalism. You like the sound of that.	那样听起来好多了。传统主义。你喜欢这种叫法。
+0x0100004500020555	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	Okay, stomach. I've made up my mind about fascism. (Proceed to the Jüdgement.)	好吧，胃。我对法西斯主义已经下定决心了。（进行判决。）
+0x0100004500020561	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	You're going to keep your vöws, right? Keep your vöws, bröther!	你会遵守自己的誓言，对吧？一定要信守誓言，兄弟！
+0x010000450002056E	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	Absolutely not. I'm not going to be played by an upset stomach. (Opt out.)	绝对不要。我可不会被反胃玩弄。（拒绝思想。）
+0x0100004500020579	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	I will keeps my vöws... for the glory of the Revacholian nation. (Opt in.)	我会遵守誓言……为了瑞瓦肖民族的荣耀。（接受思想。）
+0x0100004500020581	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	Why am I getting this?	我为什么会得到这个？
+0x0100004500020587	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	Because you've said the hard things, that others won't say. The gööd things. You've said them many times.	因为你说过一些其他人不会说的很冷酷无情的事。那些苦口良言，你已经说过很多次了。
+0x0100004500020597	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	I thought you were my circulatory system?	我以为你是我的循环系统？
+0x010000450002059D	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	Quit stalling, bröther! We were talking about the weakest, worst, most insane thing. The weak link!	别墨迹了，兄弟！我们说的可是最弱，最糟糕，最疯狂的事情。说的是薄弱环节！
+0x01000045000205A3	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	There's a slow, painful growl somewhere in your intestines, knocking on your alcohol-engorged liver...	你的肠道某处发出一种缓慢的，痛苦的隆隆声，敲打着你那浸泡在酒精里的肝脏……
+0x01000045000205AA	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	For the nation... smart. Best not to mention *the wömen* too often. That's why you're the head and I am the stomach.	为了民族……很聪明。最好不要经常提到那些*女人*。这就是为什么你是脑袋，而我是胃的原因。
+0x01000045000205B3	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	Pat your stomach. [Finish thought.]	轻拍你的胃部。[完成思维。]
+0x01000045000205BA	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	It is one of betrayal and disappointment.	这是一种背叛和失望。
+0x01000045000205D1	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	You	No, fascism is about industry and politics and nationhood, not wömen. I'm absolutely okay with women.	不，法西斯主义与工业、政治和民族有关，与女人无关。我跟女人之间完全没问题。
+0x01000045000205D8	Dialogue Text	THOUGHT / REVACHOLIAN NATIONHOOD	Endurance	Of course you are, bröther. Of course. (A wink-shaped growl sounds from your ass.)	你当然没问题了，兄弟。当然。（你的屁股发出低沉的隆隆声。）
+0x0100000200000EC8	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	My wedding anniversary?	我的结婚纪念日？
+0x0100000200000ECE	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	The day I'll solve this case?	我破案的日子？
+0x0100000200000ED4	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	I give up.	我放弃。
+0x0100000200000EDA	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	Endurance	No, you don't. It's been too long since this has happened for you to recognize the feeling.	不，不是。已经过去太久，你很久没有过这种感觉了。
+0x0100000200000EE0	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	Endurance	Of course. It's been too long since this has happened for you to recognize the feeling.	当然。已经过去太久，你很久没有过这种感觉了。
+0x0100000200000EEB	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	Endurance	No, believe it or not, this isn't about *her*. Well, not exactly...	不，不管你信不信，这跟*她*无关。呃，也不完全是……
+0x0100000200000EF2	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	Endurance	Let's hope so. It's beginning to seem possible that you *will* solve it.	希望如此吧。你似乎开始*有可能*会解决这个案子。
+0x0100000200000EF9	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	Endurance	It's your first day sober.	是你戒酒的第一天。
+0x0100000200000F0A	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	What?! I've been sober for *over two days* already!	什么？！我已经戒酒*超过两天*了！
+0x0100000200000F10	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	How did I let it come to this? I need to get my buzz on *immediately*.	我怎么会让这种事情发生？我需要*立即*兴奋起来。
+0x0100000200000F1D	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	Endurance	It takes a while for that shit to get out of your system, and for reality to come back into focus.	要让那些垃圾从你的身体系统里出去，然后让现实变得清晰，还需要一段时间。
+0x0100000200000F2B	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	Endurance	No, you don't. You're well into detoxing now. *Reality* is beginning to come into focus -- just look around.	不，没有。你现在已经完全脱瘾了。*现实*开始变得清晰——你看看周围就知道了。
+0x0100000200000F32	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	Endurance	Yes, you're beginning to see the world for what it is, even through the mental fog. And yourself, too -- what you've made yourself into.	是的，虽然还有精神上那片迷雾，但你已经开始渐渐看清这个世界的样子，而且还有你自己——你让自己变成了什么样子。
+0x0100000200000F39	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	Reality... (Look around.)	现实……（看看周围。）
+0x0100000200000F41	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	Oh, how I've missed this clarity!	哦，我真是想死这种清晰透明的感觉了！
+0x0100000200000F47	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	Everything is terrible. I want off the sobriety train.	一切都很可怕。我要从这趟清醒列车上下去。
+0x0100000200000F4D	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	I don't know how I feel about this yet...	我还不知道自己有什么感觉……
+0x0100000200000F53	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	Endurance	You've shown you can get through two days of detox. You can certainly endure a little more...	你已经证明自己可以成功脱瘾两天，肯定还能再忍耐地久一点……
+0x0100000200000F59	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	Endurance	Don't get too excited. Clarity is still many months away for you -- difficult, confusing, very emotional months. Shall we keep going?	别太兴奋。你离清醒还有好几个月呢——艰苦，困惑，很情绪化的几个月。我们要不要继续？
+0x0100000200000F65	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	Endurance	You're going to feel all kinds of contradictory, confusing things for months to come. But don't get discouraged -- you just have to keep going, right foot in front of left, left foot in front of right...	在接下来的一个月，你会感觉到各种矛盾又困惑的事情。但是不要灰心——你只要继续坚持，向左前方迈一步，再向右前方迈一步……
+0x0100000200000F73	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	I'm done with my old life. One foot after the other, I will go on...	我已经受够之前的生活了。一步接着一步，我会继续的……
+0x0100000200000F79	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	No, I can't handle this, I'm done. I'm going to find a drink *right now*. [Discard thought.]	不，我受不了这个，我不做了。我*现在*就去找点酒喝。[放弃思维。]
+0x0100000200000F96	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	Endurance	...and together we will walk the waste land of reality. Because even if you haven't had your last drink or your last line, you will never really, truly enjoy either again.	……我们会一起走过现实的荒原。因为就算你没有喝完最后一杯酒，或者说出最后一句话，你永远也无法再真正的、真实地感觉到享受了。
+0x0100000200000F9E	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	Reality... (Study your surroundings with your newly sober eyes.)	现实……（用你清醒的双眼研究着周围的一切。）
+0x0100006B0000A234	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	Endurance	Do you know what today is?	你知道今天是什么日子吗？
+0x0100009400000E28	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	Huh?	哈？
+0x0100009400000E2D	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	(Lie.) Yes.	（撒谎。)知道。
+0x0100009400000E33	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	You	My birthday?	我的生日？
+0x0100009400000E3C	Alternate1	THOUGHT / SOBRIETY DAY ONE	Endurance	No. Check your badge. Is it your birthday? No, it's not. Try again.	不对。看看你的警徽。是你的生日吗？不，不是的。再猜一次。
+0x0100009400000E3C	Dialogue Text	THOUGHT / SOBRIETY DAY ONE	Endurance	No. Well, it might be, but you don't have your badge, so how would you know? Try again.	不对。呃，可能是，但是没有警徽，所以你怎么知道？再猜一次。
+0x010000060000FA4B	Dialogue Text	THOUGHT / SORRY COP	Suggestion	Hey, so we've been monitoring you internally, and now we know your *copotype*.	喂，我们一直在内部监视你，现在我们都知道你的*警察类型*了。
+0x010000060000FA57	Dialogue Text	THOUGHT / SORRY COP	You	Wait, there are *copotypes*?	等等，还有*警察类型*的吗？
+0x010000060000FA5D	Dialogue Text	THOUGHT / SORRY COP	You	Okay. What am I?	好吧。那我是什么？
+0x010000060000FA63	Dialogue Text	THOUGHT / SORRY COP	You	[Discard thought.]	[放弃思维。]
+0x010000060000FA6A	Dialogue Text	THOUGHT / SORRY COP	Suggestion	Yes. Guess what's yours?	是的。猜猜你的是什么？
+0x010000060000FA72	Dialogue Text	THOUGHT / SORRY COP	Suggestion	Guess.	你猜。
+0x010000060000FA81	Dialogue Text	THOUGHT / SORRY COP	You	Sorry cop? I'm sorry, I'm not sure...	抱歉警探？很抱歉，我不确定……
+0x010000060000FA87	Dialogue Text	THOUGHT / SORRY COP	You	Cool cop?	酷炫警探？
+0x010000060000FA8D	Dialogue Text	THOUGHT / SORRY COP	You	Some kind of... weapon-cop?	某种……武装警探？
+0x010000060000FA93	Dialogue Text	THOUGHT / SORRY COP	You	I'm sorry you had to monitor me.	很抱歉让你监视我。
+0x010000060000FAAB	Dialogue Text	THOUGHT / SORRY COP	Suggestion	Okay, just for the length of this short demonstration, please say something that isn't *I'm sorry*. Guess. What is it?	好吧，我们来简短的示范一下，请不要说一些*我很抱歉*的话。你猜，会是什么？
+0x010000060000FAB8	Dialogue Text	THOUGHT / SORRY COP	Suggestion	Yes. Sorry Cop. The cop who's sorriest. Let's make it official, then, shall we?	是的。抱歉警探。最抱歉的警察。这就是正式的了，可以吗？
+0x010000060000FABE	Dialogue Text	THOUGHT / SORRY COP	Suggestion	No, you're the *Sorry Cop*. The cop who's sorriest. Let's make it official, then, shall we?	不，你是*抱歉警探*——那个最抱歉的警察。这就是正式的了，可以吗？
+0x010000060000FACB	Dialogue Text	THOUGHT / SORRY COP	You	Okay, okay, but what are the *other* copotypes?	好吧，好吧，那*其他*警察类型是什么？
+0x010000060000FAD1	Dialogue Text	THOUGHT / SORRY COP	You	Uhm, won't the other copotypes be jealous?	呃，那其他警察类型会不会妒忌？
+0x010000060000FAD7	Alternate1	THOUGHT / SORRY COP	You	I'm sorry. (Opt in.)	我很抱歉。（接受思想。）
+0x010000060000FAD7	Dialogue Text	THOUGHT / SORRY COP	You	I'm sorry. (Opt in.)	我很抱歉。（接受思想。）
+0x010000060000FAE1	Dialogue Text	THOUGHT / SORRY COP	Suggestion	Oh, you know. Apocalypse, Superstellar, The Advanced Interesting Cop. Liquid Shadow Cop. But you're too sorry to say those things, so -- here we go?	哦，你知道的。末日警探，超新星警探，进阶趣味警探，液体阴影警探。但你感觉太抱歉，所以说不出那些东西，所以——可以了吗？
+0x010000060000FAE9	Dialogue Text	THOUGHT / SORRY COP	Suggestion	What? Jealous of the *Sorry Cop*? I think they'll be fine. Don't worry.	什么？妒忌*抱歉警探*？我觉得它们会没事的。别担心。
+0x010000060000FAF0	Dialogue Text	THOUGHT / SORRY COP	Suggestion	Of course you are. It's okay. See if you can get something out of this. Like... info, or... maybe every time you say you're sorry you get a million bucks?	你当然是了。没关系的。看看你能不能从中得到些什么。比如……情报，或者……也许每当你说一次抱歉的时候，就能获得一百万美元？
+0x010000060000FAF6	Dialogue Text	THOUGHT / SORRY COP	Empathy	Huge lack of enthusiasm going on in here.	这里极度缺乏热情。
+0x010000060000FB01	Dialogue Text	THOUGHT / SORRY COP	You	You know, actually I'm *not* sorry. I change my mind.	你知道的，其实我一点也*没有*感到抱歉。我改变主意了。
+0x010000060000FB08	Dialogue Text	THOUGHT / SORRY COP	You	Fuckin'... *they* should be sorry!	去他的吧……*它们*才应该抱歉！
+0x010000060000FB0F	Dialogue Text	THOUGHT / SORRY COP	Suggestion	Yes-yes, impotent rage and lamentation. Let's wrap it up?	是啊，是啊，无能的愤怒和悲叹。我们早点结束吧？
+0x010000060000FB1C	Dialogue Text	THOUGHT / SORRY COP	Conceptualization	They'll be super, super fine. It'll be totally *okay*. You can dual-copotype from sorry to anything.	它们会超级，超级无所谓的。完全*没问题*。做个抱歉警探的同时你也可以做其他任何风格的警探。
+0x010000060000FB2A	Dialogue Text	THOUGHT / SORRY COP	Suggestion	No, you don't. C'mon. You'll be back to saying sorry in two minutes. Stop wasting time and begin The Repentance.	不，不会的。拜托。用不到两分钟，你又会开口说抱歉了吧。别浪费时间了，赶紧开始悔过吧。
+0x010000060000FB3D	Dialogue Text	THOUGHT / SORRY COP	You	No. I'm *really* not sorry. Fuck off! (Opt out.)	不。我*真的*没有感到抱歉。滚一边去！（拒绝思想。）
+0x010000060000FB44	Dialogue Text	THOUGHT / SORRY COP	Suggestion	Wow. Okay. *Fuck off*? Maybe we were wrong about you then...	哇哦。好吧。*滚一边去*？也许我们对你的看法是错的……
+0x010000060000FB4B	Dialogue Text	THOUGHT / SORRY COP	Half Light	Check out the big balls on Fire Cop...	看看这个烈火警探，胆子真大……
+0x01000006000192D8	Dialogue Text	THOUGHT / SORRY COP	Logic	That won't happen.	那不会发生的。
+0x010000060001CA94	Dialogue Text	THOUGHT / SORRY COP	You	I was kinda hoping I'm the Apocalypse Cop.	我有点希望自己是末日警探。
+0x010000060001CAA0	Dialogue Text	THOUGHT / SORRY COP	You	I was kinda hoping I'm the Superstar Cop.	我有点希望自己是明星警探。
+0x010000060001CAA6	Dialogue Text	THOUGHT / SORRY COP	You	I was kinda thinking I'm the Regular Cop.	我有点希望自己是普通警探。
+0x010000060001CAAF	Dialogue Text	THOUGHT / SORRY COP	Suggestion	That is only a ludicrous daydream. Guess again. You're the...	这只是一个可笑的白日梦。再猜一次。你是……
+0x010000060001998D	Dialogue Text	THOUGHT / SUICIDE COP	Volition	What is this? You're not ready to die, this is garbage.	这是干什么？你还没准备好去死，这些都是屁话。
+0x0100000600019994	Dialogue Text	THOUGHT / SUICIDE COP	Authority	It *would* be the honourable thing to do. It would really show them. Show her too.	这*也许*是一件荣耀的事。这样真的会让他们看到。让她也看看。
+0x01000006000199A9	Dialogue Text	THOUGHT / SUICIDE COP	You	Hmm... maybe I should. Yes. (Look at the gun and start thinking about it.)	嗯……也许我应该这么做。是的。（看着枪，开始认真考虑。）
+0x01000006000199B1	Dialogue Text	THOUGHT / SUICIDE COP	Pain Threshold	Oh yes. It would be so sweet to taste the barrel once more. That sour metal...  Oh, but not yet. But stick with it -- keep going dark, and it'll finally *click*.	没错。再次尝到枪管的味道一定很美好。那酸臭的金属味……哦，但是还没到。但是坚持下去——继续陷入黑暗，它最终会*叩响*的。
+0x01000006000199B8	Dialogue Text	THOUGHT / SUICIDE COP	You	Suicide Cop *does* have a ring to it. I should think about it -- but only a little.	自杀警探*确实*听起来还不错。我应该考虑一下——但是只有一点点。
+0x01000071000006DA	Dialogue Text	THOUGHT / SUICIDE COP	Pain Threshold	Sounds like you're a potential Suicide Cop! With his finger on the *eject* button. Ready to let go of this life! Guess what?	听起来你是个潜在的自杀警探！手指一直放在*退出*按钮上。随时准备放弃生命！你猜怎么着？
+0x01000071000006E0	Dialogue Text	THOUGHT / SUICIDE COP	Pain Threshold	Sounds like you're the Suicide Cop! With his finger on the *eject* button. Ready to let go of this life! But guess what?	听起来你像是个自杀警探！手指一直放在*退出*按钮上。随时准备放弃生命！但是你猜怎么着？
+0x01000071000006E6	Dialogue Text	THOUGHT / SUICIDE COP	Pain Threshold	Sounds like you're the Suicide Cop! With his finger on the *eject* button. Ready to let go of this life! But guess what?	听起来你像是个自杀警探！手指一直放在*退出*按钮上。随时准备放弃生命！但是你猜怎么着？
+0x01000071000006EC	Dialogue Text	THOUGHT / SUICIDE COP	Pain Threshold	Sounds like you're the Suicide Cop! With his finger on the *eject* button. Ready to let go of this life! But guess what?	听起来你像是个自杀警探！手指一直放在*退出*按钮上。随时准备放弃生命！但是你猜怎么着？
+0x01000071000008B2	Dialogue Text	THOUGHT / SUICIDE COP	Pain Threshold	You idiot! You don't have any bullets!	你这个白痴！你根本没有子弹！
+0x01000071000008BF	Dialogue Text	THOUGHT / SUICIDE COP	You	No. It's a sign that I want to live. (Refuse.)	不，这是我想活下去的信号。（拒绝。）
+0x01000071000008D8	Dialogue Text	THOUGHT / SUICIDE COP	Pain Threshold	You idiot! You've got the bullet, but no gun!	你这个白痴！你有子弹，但是没枪啊！
+0x01000071000008DF	Dialogue Text	THOUGHT / SUICIDE COP	Pain Threshold	You idiot! You don't have a gun or any bullets!	你这个白痴！你没枪，也没子弹！
+0x010000710000094A	Dialogue Text	THOUGHT / SUICIDE COP	You	What a pity. Because that's totally *me*. Suicide Cop.	真可惜。因为这完全很像*我*啊。自杀警探。
+0x0100007100000950	Dialogue Text	THOUGHT / SUICIDE COP	Pain Threshold	Oh yes. It would be so sweet to taste the barrel once more. That sour metal...  maybe there *is* a way? Not yet. But stick with it -- keep going dark, and it'll finally *click*.	没错。再次尝到枪管的味道一定很美好。那酸臭的金属味……也许还是*有*办法的？还没到。但是坚持下去——继续陷入黑暗，它最终会*叩响*的。
+0x0100007100000964	Dialogue Text	THOUGHT / SUICIDE COP	Pain Threshold	Fine. Keep up the charade another day. This could have been so liberating, but you cling to the case, to your partner, to the world... it's pitiful.	很好。改天再继续装模做样吧。这可能是一种解放，不过你还拴在这个案子、你的搭档和这个世界上……实在是太可怜了。
+0x010000710000097E	Dialogue Text	THOUGHT / SUICIDE COP	Composure	You've made such a big show out of it too. You feel like everyone basically *expects* you to do it now.	你把它变成了一场轰动的大型演出。现在，你感觉基本上每个人都在*期待*你这么做。
+0x0100009400000C40	Dialogue Text	THOUGHT / SUICIDE COP	You	What's that?	那是什么？
+0x0100009400000C46	Dialogue Text	THOUGHT / SUICIDE COP	Pain Threshold	One bullet should do the trick. You have the gun... and you have the bullet.	一颗子弹就够了。你有枪……而且还有子弹。
+0x010000060000F964	Dialogue Text	THOUGHT / SUPERSTAR COP	Composure	As you turn, a bright light catches your eye, making you squint.	你转过身，一道明亮的光线照射了过来，让你眯起了双眼。
+0x010000060000F970	Dialogue Text	THOUGHT / SUPERSTAR COP	You	Where's it coming from?	它是从哪里来的？
+0x010000060000F976	Dialogue Text	THOUGHT / SUPERSTAR COP	You	[Discard thought.]	[放弃思维。]
+0x010000060000F97C	Dialogue Text	THOUGHT / SUPERSTAR COP	You	"Yes." [*Really* discard it.]	“是的。”[*真正*放弃它。]
+0x010000060000F983	Dialogue Text	THOUGHT / SUPERSTAR COP	Composure	From a distant sunset? A stage light? Flash photography? Nowhere in particular? It's just what *superstar law-officers* do -- they squint at lights. And they solve shit.	遥远的日落？舞台灯？闪光摄影？没什么特别的？这只是*超级明星执法人员*该做的——看见灯光就眯眼。而且他们会解决这种狗屁问题。
+0x010000060000F98A	Dialogue Text	THOUGHT / SUPERSTAR COP	You	Actually, now that I hear *superstar* and *law official* in a sentence they sound weird together.	说实话，在一个句子里听到*超级明星*和*执法人员*这两个词，好像有点诡异。
+0x010000060000F990	Dialogue Text	THOUGHT / SUPERSTAR COP	You	Yeah, that's me -- I've been *establishing* my superstardom hard lately.	没错，是我——我最近一直在努力*打造*我的超级明星形象。
+0x010000060000F996	Dialogue Text	THOUGHT / SUPERSTAR COP	Composure	Yeah, you have! You're a big dick cop. Dick Mullen. Salaam Rocky Bhai. Bad-ass, on-the-edge disco cop. Time to recede into a ludicrous fantasy world, HERE WE GO! Camera, lights...	是的，没错！你是明星大侦探。迪克·马伦。萨拉姆·洛奇·巴依。狠角色，横跨黑白两道的迪斯科警察。是时候退回到荒唐的幻想世界了，我们走！相机，灯光……
+0x010000060000F99E	Dialogue Text	THOUGHT / SUPERSTAR COP	Composure	What are you, deaf? They're perfect! Like 'rockstar politician' and 'drug-addict teacher'. Embrace the superstardom you've worked so hard to establish.	你怎么了，聋了？它们多完美！就像“摇滚政客”和“瘾君子教师”。拥抱你如此努力才建立起来的超级明星形象吧。
+0x010000060000F9A7	Dialogue Text	THOUGHT / SUPERSTAR COP	Composure	You sure? The light is *important*. The light is life. And destiny.	你确定？灯光很*重要*的。灯光就是生命，是命运。
+0x010000060000F9B3	Dialogue Text	THOUGHT / SUPERSTAR COP	You	You've got the wrong impression. I'm no superstar. I'm trash.	你把我的形象搞错了。我不是超级明星。我是个垃圾。
+0x010000060000F9BB	Dialogue Text	THOUGHT / SUPERSTAR COP	Composure	Yeah, a cool *trash* superstar. Big dick cop down on his luck. Salaam Rocky Bhai. Bad-ass, on the edge disco cop. Time to recede into a ludicrous fantasy world, HERE WE GO! Camera, lights...	是啊，酷炫的*垃圾*超级明星。倒霉的明星大侦探。萨拉姆·洛奇·巴依。狠角色，横跨黑白两道的迪斯科警察。是时候退回到荒唐的幻想世界了，我们走！相机，灯光……
+0x010000060000F9C9	Dialogue Text	THOUGHT / SUPERSTAR COP	You	ACTION!	开拍！
+0x010000060000F9CF	Dialogue Text	THOUGHT / SUPERSTAR COP	You	Wait, what's that about a ludicrous fantasy world?	等等，这个荒唐的幻想世界是怎么回事？
+0x010000060000F9D7	Dialogue Text	THOUGHT / SUPERSTAR COP	Composure	Yeah. You know, beneath it is just heartbreak, a pulmonary tract infection, atherosclerotic disease. This is where you say *action* and re-conceptualize all that. Re-invent it as the world's first celebrity police officer!	是啊。你知道的，在那下面只是件伤心事，肺部大面积感染，动脉粥样硬化病。这里就是你喊一句*开拍*，然后把一切重新概念化的地方。把它彻底改造成世界第一明星警探的样子！
+0x010000060000F9E4	Dialogue Text	THOUGHT / SUPERSTAR COP	You	Cool.	妙啊。
+0x010000060000F9EA	Dialogue Text	THOUGHT / SUPERSTAR COP	Composure	Sooooo cool.	真的太妙了。
+0x010000060000F9F4	Dialogue Text	THOUGHT / SUPERSTAR COP	Conceptualization	This is the beginning of your *legend*.	这是你*传说*的开始。
+0x010000060000F9FC	Dialogue Text	THOUGHT / SUPERSTAR COP	You	No. I'm too down beat. I won't say those things anymore. [Wave off the thought.]	不。我太悲观了。我再也不会说这种话了。[忽略思维。]
+0x010000060000FA03	Dialogue Text	THOUGHT / SUPERSTAR COP	You	Fuck it -- ACTION!	去他的吧——开拍！
+0x010000060000FA0A	Dialogue Text	THOUGHT / SUPERSTAR COP	Composure	With a sudden flash the world freezes around you -- and you along with it. In an iconic monochrome solution, a black silhouette against a rasterized orange world. It's *on*.	突然的一阵闪光过后，你周围的世界全都冻住了——把你也包围其中。在一片图像性的单色溶液里，一个黑色的剪影对抗着一个栅格化的橙色世界。它*开幕*了。
+0x010000060001BF40	Dialogue Text	THOUGHT / SUPERSTAR COP	You	No. Fuck you! [Finish thought]	不。你去死吧！[完成思维。]
+0x010000570000B3CE	Dialogue Text	THOUGHT / THE DESTROYER	Pain Threshold	You are *The Destroyer*, the bane of inanimate matter.	你是*毁灭者*，无机质灭亡的原因。
+0x010000570000B3DA	Dialogue Text	THOUGHT / THE DESTROYER	You	Gaze upon me, stuff, and despair!	看着我，物体，还有绝望！
+0x010000570000B3E1	Dialogue Text	THOUGHT / THE DESTROYER	You	No, I'm just a disempowered individual trying to take my disempowerment out on everyday objects.	不，我只是一个无能为力的个体，尝试把我对日常事物的无力感给取出来。
+0x010000570000B3E8	Dialogue Text	THOUGHT / THE DESTROYER	You	Yeah, I rip shit apart.	是啊，我把丫撕成两半了。
+0x010000570000B3F0	Dialogue Text	THOUGHT / THE DESTROYER	Pain Threshold	Kudos.	荣誉。
+0x010000570000B3F8	Alternate1	THOUGHT / THE DESTROYER	Pain Threshold	Look! There's a discarded milk carton on the ground. Why don't you destroy that, too?\n	看！地板上有一个废弃的牛奶盒。为什么不把它也毁掉呢？
+0x010000570000B3F8	Dialogue Text	THOUGHT / THE DESTROYER	Pain Threshold	Look! There's a discarded milk carton on the floor. Why don't you destroy that, too?	看！地板上有一个废弃的牛奶盒。为什么不把它也毁掉呢？
+0x010000570000B407	Dialogue Text	THOUGHT / THE DESTROYER	You	No, I actually feel sorry for the things I've destroyed. (I'm sorry, milk carton.)	不，其实我为自己毁掉的东西感到很抱歉。（对不起，牛奶盒。）
+0x010000570000B40E	Dialogue Text	THOUGHT / THE DESTROYER	You	Good idea. Fuck you, milk carton, this is all *your* fault!	好主意。去你的吧，牛奶盒，这全都是*你的*错！
+0x010000570000B41B	Dialogue Text	THOUGHT / THE DESTROYER	Pain Threshold	You're right, that's definitely not the behaviour of a destroyer at all. That's just severe anger-management problems and a disregard for property rights.	你是对的，那根本就算不上是毁灭者的行为。那只不过是严重的愤怒管理问题，还有对财产权的漠视。
+0x0100009400000CDF	Dialogue Text	THOUGHT / THE DESTROYER	Pain Threshold	Bent metal, broken glass... your path lies strewn with the broken forms of everyday objects...	弯曲的金属，破碎的玻璃……你的道路上铺满了破碎的日常事物……
+0x01000089000012FA	Dialogue Text	THOUGHT / WHAT LIES BENEATH	Savoir Faire	Master Investigator! You just can't keep yourself away from locked and hidden places, can you?	王牌调查员！你就是不能远离那些上锁和隐藏的地方，是吧？
+0x0100008900001304	Dialogue Text	THOUGHT / WHAT LIES BENEATH	You	What do you mean?	你什么意思？
+0x0100008900001309	Alternate1	THOUGHT / WHAT LIES BENEATH	You	I am honour-bound to investigate every square inch of this world.\n	我的义务就是调查这个世界上的每一寸土地。
+0x0100008900001309	Dialogue Text	THOUGHT / WHAT LIES BENEATH	You	It is my duty as a cop to investigate every square inch of this world.	作为一个警察，我的职责就是调查这个世界上的每一寸土地。
+0x0100008900001312	Dialogue Text	THOUGHT / WHAT LIES BENEATH	Savoir Faire	Nothing. Nothing! You're right -- get in there... deep. Invade every personal space, break every lock...	没什么。没什么！你是对的——进去吧……深入一点。入侵每一处私人空间，砸开每一把锁……
+0x0100008900001318	Dialogue Text	THOUGHT / WHAT LIES BENEATH	You	I'm just browsing...	我只是浏览一下……
+0x0100008900001320	Dialogue Text	THOUGHT / WHAT LIES BENEATH	Savoir Faire	Attaboy! The world's secrets were made for you. They wait patiently for you to uncover them...	好样的！这个世界的秘密就是专门为你准备的。它们耐心地等待着，等待你把它们都揭露出来……
+0x0100008900001326	Dialogue Text	THOUGHT / WHAT LIES BENEATH	Savoir Faire	Yes, that's what it is... a quick peek here, a short glance there. It is all quite... delectable.	是的，就是这么回事……这里快速瞄一眼，那边匆匆一瞥。真的是太……让人愉快了。
+0x0100008900001331	Dialogue Text	THOUGHT / WHAT LIES BENEATH	You	Hey! I am not some sort of a... peeper.	喂！我又不是什么……偷窥狂。
+0x0100008900001339	Dialogue Text	THOUGHT / WHAT LIES BENEATH	Savoir Faire	Sure, friend. This is nothing sordid, nothing inappropriate. You just *have* to do this... it's your duty.	当然了，我的朋友。完全没有任何卑鄙的成分，一点没有不合适的地方。你只是*必须*这么做……这是你的职责。
+0x010000060001C075	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	Get the fuck outta here! No. [Finish thought.]	他妈的给我滚出去！不要。[完成思维。]
+0x01000045000205E0	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Hey, psst...	喂，这里……
+0x01000045000205E7	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	Who -- me?	谁——叫我吗？
+0x01000045000205EE	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Yes, you. Word on the street is you're ready to start building *communism* again!	是的，你。街上有传闻说你已经再次开始建设*康米主义*了！
+0x01000045000205F4	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	Look around.	看看周围。
+0x01000045000205FA	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Psst, hey, you!	这里，喂，叫你呢！
+0x0100004500020603	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Yes -- you're ready to start building communism *again*. You've built it before, *they've* built it before. Hasn't really worked out yet, but neither has *love* -- should we just stop building love, too?	是的——你已经准备好*再次*建设康米主义了。你之前就做过，*他们*之前也做过。虽然还不算太成功，但是二者都没有*爱*——我们是不是也应该停止建造爱？
+0x010000450002060B	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	'Again'?	‘再次’？
+0x0100004500020611	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	How come there's *word on the street*?	为什么*街上会有传闻*？
+0x0100004500020619	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	Can't argue with that.	这一点我无可争辩。
+0x010000450002061F	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	Yes, we should all stop building love.	是的，我们都应该停止建设爱。
+0x0100004500020625	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	Love has worked out really well for me. I'm a love winner.	我的爱情挺好的。我是个爱情赢家。
+0x010000450002062E	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Good. We need tender men like you building gargantuan communism. Word on the street is it's going to be ten thousand times larger than any communism previously attempted by human beings. Is that right?	很好。我们需要像你这样温柔的男人来建设庞大的的康米主义。街上有传闻说，这次要比人类之前尝试过的任何康米主义都要再大上个一万倍。是这样吗？
+0x0100004500020634	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	This conversation isn't really about love. Try to keep up, okay? This is about the communism you've *promised* to build. Word on the street is it's going to be ten thousand times larger than any communism previously attempted. Is that true?	这次谈话真不是关于爱情的。努力跟上好吗？这是关于你*承诺*要建设的康米主义。街上有传闻说，这次要比人类之前尝试过的任何康米主义都要再大上个一万倍。是真的吗？
+0x010000450002063C	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	You keep saying things like *down with the bourgeoisie*, *eat the rich*, *sodomize the land-owners*, *impale all people who have more than 25 reál in their pocket*, *literally murder all human beings regardless of their political beliefs* -- that kind of stuff.	你一直说着什么*打倒资产阶级*，*吃掉富人*，*强暴土地所有者*，*把所有口袋里雷亚尔超过25的人都刺穿*，*不论政治信仰如何，杀掉所有人类*——那之类的话。
+0x0100004500020643	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	Oh, right. That sounds like me.	哦，没错。听起来确实很像我说的话。
+0x0100004500020649	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	I haven't said anything like that.	我从没说过这种话。
+0x0100004500020651	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Okay, not in so many words. But don't deny it. You're about to rip off that mask of social democracy and reveal the monstrous seven-eyed lamb of global communism that will devour and masticate mankind.	好吧，没说过那么多。但是不要否认。你就快撕掉社会民主的面具，揭露全球康米主义的七眼巨羊——它将会吞噬和粉粹全人类。
+0x0100004500020658	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Everyone can see that. So tell me, do you have any questions before we fire up the Big Communism Builder, or do we get *right down to it*?	每个人都能看见。所以告诉我，在我们煽动这个伟大的康米主义建设者之前，你还有没有什么问题，或者我们就*直接放手去做*？
+0x010000450002065F	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	So, what about all that communism you've promised to build? Word on the street is you've woken up from a thousand years of slumber, promising to erect a version of communism many times greater than any attempted before. Is that true?	所以，你答应建设的康米主义呢？街道上有传闻说你从一千年的沉睡中醒来，答应要建设一个比之前所有尝试过的都要巨大好多倍的康米主义。是真的吗？
+0x0100004500020671	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Funky-style. Very funky. So tell me. Do you have any questions before we fire up the Big Communism Builder, or do we get right down to it?	放克风。非常放克。所以告诉我，在我们发动这个伟大的康米主义建造者之前，你还有没有什么问题，或者我们就*直接放手大干*？
+0x0100004500020680	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	Wait, first -- what's this *communism* even about?	等等，首先——这个*康米主义*到底是什么意思？
+0x010000450002068C	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	It's too tiring. I don't have it in me. I'm beat down and broken. (Opt out.)	实在是太麻烦了。我没那个本事。我很累，而且已经支离破碎了。（拒绝思想。）
+0x0100004500020692	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	Roll up your sleeves and start building Communism. (Opt in.)	撸起你的袖子，开始建设康米主义。（接受思想。）
+0x010000450002069A	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Failure. It's about failure.	失败。是关于失败的。
+0x01000045000206AF	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	Failure?	失败？
+0x01000045000206B5	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	I don't *do* failure.	我不会*做*失败的事。
+0x01000045000206D1	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	You alone, against every living thing, against every human alive: eight hundred trillion reál in the hands of an *impossibly* well organized ruling class; towering city blocks of bank-men who have the ears of prime ministers; million-headed armies of nations and the love of your own mother!	你孤身一人，对抗所有的生灵，对抗所有活着的人类：800万亿雷亚尔掌握在一个组织得有序到*难以置信*的统治阶级手里；生活在那些高耸入云的城区的银行家，能给首相吹耳边风的人；国家的几百万军队，还有你亲生母亲的爱！
+0x01000045000206D7	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Yes! Abject failure. Total, irreversible defeat on all fronts! Absolutely vanquished, beaten, curb-stomped and pissed on -- until *you* came along! *You* will reverse the fortune of the workers of the world.	是的！不幸的失败。在各条战线都遭遇了完全的，不可逆转的失败！完全被征服，被打败，被践踏，被侮辱——直到*你*的出现！*你*将会扭转全世界工人的命运。
+0x01000045000206DE	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	You -- against the atom, the charm and the spin. Where the whole world failed -- matter failed to bend to human will; human will failed to get out of bed and tie its laces -- you alone, single-handedly, will rebuild the dreams of the working class. You are The Last Communist.	你——与原子为敌，与魔法为敌，与地球自转为敌。当整个世界已然失序——当人的意志无法使物质屈服时；当人类连下床系鞋带都无法做到时——只有你，将以一己之力为工人阶级重建梦想。你就是最后的康米主义者。
+0x01000045000206E5	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Now get to work, comrade.	现在该去工作了，同志。
+0x01000045000206EC	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Of course you do! You *are* failure, you *are* Communism. Absolutely vanquished, beaten, curb-stomped, shat on. While everyone else is out partying, having a callous laugh, *you* will reverse the fortune of the workers of the world.	你当然会！你*就是*失败，你*是*康米主义。完全被征服，被打败，被践踏，被侮辱。当其他人都在狂欢，无情嘲笑的时候，*你*将会扭转全世界工人的命运。
+0x01000045000206FA	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Very well. I guess no one will build Communism then. Tell the working man it's over. Unless anyone has... objections?	很好。那我猜是没有人建设康米主义了。告诉那些工人们，一切都结束了。除非有人……反对？
+0x0100004500020701	Dialogue Text	THOUGHT / WORLD REPUBLIC	Logic	No objections. It's mathematically impossible to achieve a classless society. Everyone knows this.	没有反对。从数学上来讲，建设一个无阶级社会是不可能的。所有人都知道这一点。
+0x0100004500020708	Dialogue Text	THOUGHT / WORLD REPUBLIC	Savoir Faire	Let not failure ensnare you any further, beautiful pixie girl! Be an acrobat! A prancing faerie queen!	别因为失败而让自己越陷越深，美丽的精灵仙子！要成为一个能够翻云覆雨的人！一个欢腾的精灵女王！
+0x010000450002070F	Dialogue Text	THOUGHT / WORLD REPUBLIC	Electrochemistry	Did someone mention cocaine? Are we doing cocaine? No? I'm sure I heard someone say Cocainimism...	有人提到可卡因了吗？我们要吸可卡因吗？不是？我肯定好像听到有人说可卡因主义了……
+0x0100004500020716	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Anyone? Anyone else? There's no one?	有人吗？还有其他人吗？没有人吗？
+0x010000450002071D	Dialogue Text	THOUGHT / WORLD REPUBLIC	Volition	There's one.	有一个。
+0x010000450002072C	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Oh yeah! Get the firing squads and the animal wagons ready!	那好吧！把纵火小队和动物货车准备好！
+0x0100004500020733	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	What should I do?	我应该做什么？
+0x0100004500020739	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	No. Shut up. I want to lie down and let the water carry me downstream. [Discard thought.]	不。闭嘴。我想躺下，让水带着我顺流而下。[放弃思维。]
+0x0100004500020740	Dialogue Text	THOUGHT / WORLD REPUBLIC	Volition	You should build Communism -- precisely *because* it's impossible.	你应该建设康米主义——完全*因为*这是不可能的。
+0x0100004500020750	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	There's no one. Okay then. Lie down and let the water carry you downstream...	有一个。那好吧。躺下，让水带着你顺流而下……
+0x0100004500020757	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	Good bye, Communism. [Finish thought.]	再见，康米主义。[完成思维。]
+0x0100004500020774	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	Wait, what? Firing squads? You didn't say anything about those.	等等，什么？纵火小队？没听你说过这个啊。
+0x010000450002077A	Alternate1	THOUGHT / WORLD REPUBLIC	You	Roll your sleeves up and breathe in the pristine air. [Finish thought.]	卷高你的袖子，好好呼吸一口新鲜空气。[完成思维。]
+0x010000450002077A	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	Roll your sleeves up further and breathe in the pristine air. [Finish thought.]	卷高你的袖子，好好呼吸一口新鲜空气。[完成思维。]
+0x0100004500020782	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Too late to back out now. You can't make an omelet without breaking a few million eggs!	现在退出已经太晚了。毕竟有得才有失嘛！
+0x01000045000207BF	Dialogue Text	THOUGHT / WORLD REPUBLIC	You	I've said *some* mildly left wing things but none of those.	我温和地表达过*一些*左翼思想的东西，但可没有这一些。
+0x01000045000207C6	Dialogue Text	THOUGHT / WORLD REPUBLIC	Rhetoric	Oh yes, the *mask of ambivalence*. Don't deny it. You're about to rip it off and reveal the monstrous seven-eyed lamb of global communism that will devour and masticate mankind.	啊，是的。*矛盾的面具*。不要否认它。你就快撕掉工人主义的面具，揭露全球康米主义的七眼巨羊——它将会吞噬和粉粹全人类。
