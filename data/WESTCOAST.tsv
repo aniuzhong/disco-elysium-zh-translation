@@ -122,7 +122,7 @@
 0x0100000600013C73	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"I told you everything I know, sir. I'm *truly* sorry for the mug, but I have nothing to do with that." He shifts uncomfortably in his clothes.	“我知道的一切都已经告诉你了，先生。关于马克杯的事，我*真的*很抱歉，但是那件事绝对和我无关。”他穿着衣服，不安地扭动着。
 0x0100000600013C87	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"I told you everything -- I just took the cuirass that's all. I promise. I don't know anything else."	“我全都告诉你了——我只是把胸甲拿走了，就这些。我保证。其他的我就不知道了。”
 0x0100000600013CBB	Dialogue Text	WESTCOAST / GARY	You	"I can buy into that. A flaming rhino."	“我可以接受这个说法。一头燃烧的犀牛。”
-0x0100000600013CC2	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Revachol used to be flaming rhino once, a long time ago..." he says and then pauses, thoughtfully.	“很久以前，瑞瓦科也是一头燃烧的犀牛……”他说着，然后若有所思地停了下来。
+0x0100000600013CC2	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Revachol used to be flaming rhino once, a long time ago..." he says and then pauses, thoughtfully.	“很久以前，瑞瓦肖也是一头燃烧的犀牛……”他说着，然后若有所思地停了下来。
 0x0100000600013CD1	Dialogue Text	WESTCOAST / GARY	You	Let it go.	随它吧。
 0x0100000600013CD8	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Okay, I work as a special courier." He smiles. "You know, urgent deliveries, overnight deliveries, deliveries to out-of-the-way locations."	“好吧，我是一名特殊速递员。”他笑了笑。“你知道的，紧急配送、夜间配送、偏远地区配送。”
 0x0100000600013CE9	Dialogue Text	WESTCOAST / GARY	You	"How about you deliver *me* a topping pie?"	“那给*我*送个馅饼怎么样？”
@@ -200,7 +200,7 @@
 0x0100000600014012	Alternate1	WESTCOAST / GARY	Gary, the Cryptofascist	"Yes. Absolutely. I will *never* do anything like this again." He looks around, relieved of some burden, his mouth still quivering. "I won't mess with Mr. Claire either, you have my word."	“是的。绝对的。我*永远*不会做这种事了。”他环顾四周，卸下了一些重担，但嘴唇还在颤抖。“我不会再去招惹克莱尔先生了，我向你发誓。”
 0x0100000600014012	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Yes. Absolutely. I will *never* do anything like this again." He looks around, relieved of some burden, his mouth still quivering.	“是的。绝对没错。我*永远*不会做这种事了。”他环顾四周，卸下了一些重担，但嘴唇还在颤抖。
 0x010000060001401A	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Man, I don't wanna talk about that... I was wrong to bring it up at all. Shouldn't have said those things about your partner..."	“天啦，我不想提这个……我根本就不该提这件事。更不应该对你的搭档说出那种话……”
-0x0100000600014020	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Most of the Seolites may be shifty, but the ones in Revachol have always been loyal to Revachol -- and the Suzerain too. I..." He trails off.	“大多数西奥人也许是很狡诈，但是瑞瓦科那些一直对这里很忠诚——还有宗主国也是。我……”他的声音越来越小。
+0x0100000600014020	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Most of the Seolites may be shifty, but the ones in Revachol have always been loyal to Revachol -- and the Suzerain too. I..." He trails off.	“大多数西奥人也许是很狡诈，但是瑞瓦肖那些一直对这里很忠诚——还有宗主国也是。我……”他的声音越来越小。
 0x010000060001402D	Dialogue Text	WESTCOAST / GARY	Lena, the Cryptozoologist's wife	"It's for the best, dear. Lay that story to rest."	“这是最好的结果，亲爱的。别再提那个故事了。”
 0x0100000600014033	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	The man simply nods, his long blond hair falling on his shoulders.	男人点点头，长长的金发落在他的肩膀上。
 0x0100000600014052	Dialogue Text	WESTCOAST / GARY	You	"Do you know who killed the hanged man?"	“你知道是谁杀了那个吊着的男人吗？”
@@ -219,9 +219,9 @@
 0x0100000600017C01	Dialogue Text	WESTCOAST / GARY	Endurance	I'm satisfied. Are you satisfied? Because I am.	我很满意。你满意了吗？因为我很满意。
 0x0100000600017C0C	Dialogue Text	WESTCOAST / GARY	Electrochemistry	Here we go. Start pumping that sweet info.	我们开始吧。开始灌输那些甜蜜的信息。
 0x0100000600017C4B	Dialogue Text	WESTCOAST / GARY	Authority	*Serious* question time. This man is no innocent. No one is.	*严肃*的问题时间。这个人不是无辜的。没有人是。
-0x010000060001D748	Dialogue Text	WESTCOAST / GARY	Rhetoric	He pronounces 'Revachol' with a hard 'k,' unlike other people.	他把‘瑞瓦肖’念成了‘瑞瓦科’，跟其他人不一样。
-0x010000060001D74E	Dialogue Text	WESTCOAST / GARY	Rhetoric	He pronounces 'Revachol' with a hard k, unlike other people.	他把‘瑞瓦肖’念成了‘瑞瓦科’，跟其他人不一样。
-0x010000060001D759	Dialogue Text	WESTCOAST / GARY	You	"You said 'Revakhol'?"	“你说‘瑞瓦科’？”
+0x010000060001D748	Dialogue Text	WESTCOAST / GARY	Rhetoric	He pronounces 'Revachol' with a hard 'k,' unlike other people.	他把‘瑞瓦肖’念成了‘瑞瓦肖’，跟其他人不一样。
+0x010000060001D74E	Dialogue Text	WESTCOAST / GARY	Rhetoric	He pronounces 'Revachol' with a hard k, unlike other people.	他把‘瑞瓦肖’念成了‘瑞瓦肖’，跟其他人不一样。
+0x010000060001D759	Dialogue Text	WESTCOAST / GARY	You	"You said 'Revakhol'?"	“你说‘瑞瓦肖’？”
 0x010000060001D760	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"I like to pronounce it the *hard* way. The old way. The Vespertine way." He nods solemnly.	“我喜欢用*硬核*一点的发音方式。以前的方式。维斯珀的方式。”他郑重其事地点点头。
 0x010000060001D76B	Dialogue Text	WESTCOAST / GARY	Endurance	Garbage. You're a *true* patriot and you know how it's said. The Suresne way. The *fine* way. With an elegant shhh...	屁话。你是一个*真正*的爱国者，你知道该怎么说。公社的方式。*好*方式。还带着一丝高雅和讲究……
 0x010000060001D774	Dialogue Text	WESTCOAST / GARY	Suggestion	He winks at you, trying to relay some hidden message. Inviting you to mispronounce it too perhaps? It's odd.	他朝你眨眨眼，试着传达某种隐藏的信息。也许是邀请你也一起发错音？有点奇怪。
@@ -324,9 +324,9 @@
 0x010000580000460B	Dialogue Text	WESTCOAST / GARY	You	"How does the lighting of this... fluid actually work?"	“那这个液体……燃烧是怎么回事？”
 0x010000580000461A	Dialogue Text	WESTCOAST / GARY	You	"This seems unlikely."	“好像不太可能。”
 0x0100005800004620	Dialogue Text	WESTCOAST / GARY	You	"I want to be just like that rhino, running through the night with guns blazing!"	“我也想像那头犀牛一样，在深夜耀眼的枪火中奔跑！”
-0x0100005800004649	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Perhaps we should have more such *decisive action* in Revachol. You know -- this city used to be flaming rhino once, a long time ago..." he says and then pauses, thoughtfully.	“也许瑞瓦科需要更多*果断的行动*。你知道的——很久以前，这座城市也是一头燃烧犀牛……”他若有所思地停顿了一下。
+0x0100005800004649	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Perhaps we should have more such *decisive action* in Revachol. You know -- this city used to be flaming rhino once, a long time ago..." he says and then pauses, thoughtfully.	“也许瑞瓦肖需要更多*果断的行动*。你知道的——很久以前，这座城市也是一头燃烧犀牛……”他若有所思地停顿了一下。
 0x010000580000464F	Dialogue Text	WESTCOAST / GARY	Kim Kitsuragi	"We don't really do that around here."	“我们这里不会这么做的。”
-0x0100005800004658	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Yeah, well -- Revachol used to be flaming rhino once, a long time ago..." he says and then pauses, thoughtfully. "That seems unlikely too, doesn't it?"	“是啊，呃——很久以前，瑞瓦科也是一头燃烧犀牛……”他若有所思地停顿了一下。“这好像也不太可能，是吧？”
+0x0100005800004658	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Yeah, well -- Revachol used to be flaming rhino once, a long time ago..." he says and then pauses, thoughtfully. "That seems unlikely too, doesn't it?"	“是啊，呃——很久以前，瑞瓦肖也是一头燃烧犀牛……”他若有所思地停顿了一下。“这好像也不太可能，是吧？”
 0x0100005800004672	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"The flames are not just for decoration. They are an integral part of the beast's mating behaviour."	“这些火焰可不是装饰用的。它们是野兽交配行为中不可分割的一部分。”
 0x0100005800004679	Dialogue Text	WESTCOAST / GARY	You	"How so?"	“怎么讲？”
 0x010000580000467F	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"During the Burning Rhino's mating season, herds of male rhinos, all aflame, encircle herds of female rhinos, forming a fiery ring as they begin to copulate, loudly."	“等到燃烧犀牛交配的季节，一大群熊熊燃烧的雄性犀牛会把雌性犀牛包围其中，组成一个炙热的圆环，然后大声地开始交配。”
@@ -505,7 +505,7 @@
 0x01000058000054DC	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Why would I do that, officer?" He furrows his eyebrows.	他皱紧眉头。“我为什么要这么做，警官？”
 0x0100005800005513	Dialogue Text	WESTCOAST / GARY	You	"Are those prayer beads I keep hearing?"	“我听见的是念珠的声音吗？”
 0x010000580000551A	Dialogue Text	WESTCOAST / GARY	You	"Are you currently sporting some *anal beads*?"	“你现在是不是在玩*肛珠*？”
-0x0100005800005521	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"I don't pray, officer. Faith in non-existent helpers is a sign of weakness. Not for proper Revacholian men such as ourselves."	“我不祈祷的，警官。信仰不存在的帮手是一种脆弱的标志。对于我们这样的瑞瓦科爷们来说，是不可能的。”
+0x0100005800005521	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"I don't pray, officer. Faith in non-existent helpers is a sign of weakness. Not for proper Revacholian men such as ourselves."	“我不祈祷的，警官。信仰不存在的帮手是一种脆弱的标志。对于我们这样的瑞瓦肖爷们来说，是不可能的。”
 0x0100005800005553	Dialogue Text	WESTCOAST / GARY	Kim Kitsuragi	The lieutenant leans in confidentially. "You wouldn't be able to hear if he were wearing anal beads," he whispers.	警督悄悄探过身来。“如果他戴着肛珠，你是不可能听见的，”他低语到。
 0x010000580000555F	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Of course, of course." He forces a grin, no doubt hiding some *colossal* anal beads up his butt as he does so.	“当然，当然了。”他挤出一个微笑，毫无疑问，他确实在后门里藏了些*巨大*的肛珠。
 0x010000580000556D	Dialogue Text	WESTCOAST / GARY	Kim Kitsuragi	"Please excuse my colleague's humour. Working this murder case is taking a toll on us both. You don't *quite* have to answer that -- yet."	“请原谅我同事的幽默。调查这起凶杀案给我们俩造成了很大的影响。其实你*不用*回答的——暂时不用。”
@@ -528,19 +528,19 @@
 0x010000580000B9B5	Dialogue Text	WESTCOAST / GARY	You	"That sounds too fancy for an officer of the law."	“对于执法人员来说，好像有点太昂贵了。”
 0x010000580000B9BB	Dialogue Text	WESTCOAST / GARY	You	"Yummm. I can taste it already!"	“嗯。我已经能感受到它的美味了！”
 0x010000580000B9C1	Dialogue Text	WESTCOAST / GARY	You	"What kind of devilry is this?"	“这是什么鬼把戏？”
-0x010000580000B9CA	Alternate1	WESTCOAST / GARY	Gary, the Cryptofascist	He chuckles. "Not devilry, just Revachol's best topping pie. It's the least I can do for an officer -- and a Union man too!"	他咯咯笑了。“不是鬼把戏，是瑞瓦科最棒的馅饼。这是我至少能为一个警官——而且还是一名工会成员做的！”
-0x010000580000B9CA	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	He chuckles. "Not devilry, just Revachol's best topping pie!"	他咯咯笑了。“不是鬼把戏，是瑞瓦科最棒的馅饼。”
+0x010000580000B9CA	Alternate1	WESTCOAST / GARY	Gary, the Cryptofascist	He chuckles. "Not devilry, just Revachol's best topping pie. It's the least I can do for an officer -- and a Union man too!"	他咯咯笑了。“不是鬼把戏，是瑞瓦肖最棒的馅饼。这是我至少能为一个警官——而且还是一名工会成员做的！”
+0x010000580000B9CA	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	He chuckles. "Not devilry, just Revachol's best topping pie!"	他咯咯笑了。“不是鬼把戏，是瑞瓦肖最棒的馅饼。”
 0x010000580000B9D0	Alternate1	WESTCOAST / GARY	Gary, the Cryptofascist	He smiles broadly. "Enjoy. It's the least I can do for an officer -- and a Union man too!"	他开心的笑了。“请慢用。这是我至少能为一个警官——而且还是一名工会成员做的！”
 0x010000580000B9D0	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Enjoy." He smiles broadly.	他开心的笑了。“请慢用。”
-0x010000580000B9D6	Alternate1	WESTCOAST / GARY	Gary, the Cryptofascist	"Revachol's protectors ought to enjoy Revachol's best topping pie. It's the best I can do for an officer -- and a Union man too!" He smiles broadly. 	他开心的笑了。“瑞瓦科的守护者就应当享用瑞瓦科最棒的馅饼！这是我能为一个警官——和一名工会成员能做的最好的事了！”
-0x010000580000B9D6	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Revachol's protectors ought to enjoy Revachol's best topping pie!" He smiles broadly.	他开心的笑了。“瑞瓦科的守护者就应当享用瑞瓦科最棒的馅饼！”
+0x010000580000B9D6	Alternate1	WESTCOAST / GARY	Gary, the Cryptofascist	"Revachol's protectors ought to enjoy Revachol's best topping pie. It's the best I can do for an officer -- and a Union man too!" He smiles broadly. 	他开心的笑了。“瑞瓦肖的守护者就应当享用瑞瓦肖最棒的馅饼！这是我能为一个警官——和一名工会成员能做的最好的事了！”
+0x010000580000B9D6	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Revachol's protectors ought to enjoy Revachol's best topping pie!" He smiles broadly.	他开心的笑了。“瑞瓦肖的守护者就应当享用瑞瓦肖最棒的馅饼！”
 0x0100007100000A46	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Dark times will do that to good men." He nods gravely, then shifts his gaze to the pile of soggy logs at his feet.	“黑暗时代会对好人造成这种影响。”他严肃地点点头，然后把目光转向脚下那堆浸水的原木。
 0x0100007100000A4C	Dialogue Text	WESTCOAST / GARY	You	"Yeah, I'm more of a city boy too."	“是啊，我更像是一个城市男孩。”
 0x0100007100000A52	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"I like nature, just not this bloody coast. It's mostly drunks and degenerates that come here."	“我喜欢大自然，只是不喜欢这片该死的海岸。只有酒鬼和瘾君子会来这里。”
 0x0100007100000A60	Dialogue Text	WESTCOAST / GARY	You	"Sadly, I think I might be a drunk. Or a degenerate. Maybe even both."	“可惜，我好像就是个酒鬼，或者是瘾君子，甚至两者都是。”
 0x0100007100000A6A	Dialogue Text	WESTCOAST / GARY	You	"Nobody's perfect. I'm sure you've been tempted to drink."	“人无完人嘛。我肯定你也受到过喝酒的诱惑。”
 0x0100007100000A78	Dialogue Text	WESTCOAST / GARY	You	"Not a lover of the great outdoors?"	“不喜欢户外活动吗？”
-0x0100007100000A86	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Oh, I've been tempted." He nods gravely. "But someone has to stay strong for Revachol." His gaze shifts to the pile of soggy logs at his feet.	“哎，我也动过这个念头。”他严肃地点点头。“不过总得有人为瑞瓦科保持一颗坚强的心。”他把目光转向脚下那堆浸水的原木。
+0x0100007100000A86	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Oh, I've been tempted." He nods gravely. "But someone has to stay strong for Revachol." His gaze shifts to the pile of soggy logs at his feet.	“哎，我也动过这个念头。”他严肃地点点头。“不过总得有人为瑞瓦肖保持一颗坚强的心。”他把目光转向脚下那堆浸水的原木。
 0x0100007100000AA2	Alternate1	WESTCOAST / GARY	Gary, the Cryptofascist	"I'm just waiting for my friend Morell to finish up with his insect traps," he quickly changes the subject, "so we can return to civilization." 	“我在等我的朋友莫雷尔完成昆虫陷阱，”他很快换了个话题，“然后我们就可以返回文明世界了。”
 0x0100007100000AA2	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"I'm just waiting for my friend Morell to finish up with his insect traps so we can return to civilization."	“我在等我的朋友莫雷尔完成昆虫陷阱，然后我们就可以返回文明世界了。”
 0x0100007100000D36	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Always a pleasure to see an officer of the law!"	“很高兴见到你，警官！”
@@ -565,13 +565,13 @@
 0x01000071000012AD	Dialogue Text	WESTCOAST / GARY	You	"Degenerates? I've been trained to identify the slightest hint of degeneracy by the pre-eminent authority on it."	“堕落的人？我受过权威专家的训练，哪怕是一丁点堕落的迹象，我也能辨认出来。”
 0x01000071000012B4	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Oh, uh... I didn't mean it in any *scientific* way." His gaze shifts nervously to the pile of soggy logs at his feet.	“哦……我的意思没有包含任何*科学*的成分。”他紧张地把目光转移到脚下那堆浸水的原木上。
 0x01000071000012BB	Dialogue Text	WESTCOAST / GARY	You	"I am neither of those things, I can assure you. I'm a by-the-books, clean-as-a-whistle officer of the law. I'm not even tempted to touch intoxicants."	“我可以跟你保证，我既不是酒鬼也不是瘾君子。我是干干净净、毫无污点、教科书级的执法人员。甚至连致醉物都无法诱惑我。”
-0x01000071000012C2	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	He nods gravely. "I've been tempted on occasion. But someone has to stay strong for Revachol." His gaze shifts to the pile of soggy logs at his feet.	他严肃地点点头。“我有时也会被诱惑。但是总得有人为瑞瓦科保持一颗坚强的心。”他把目光转移到脚下那堆浸水的原木上。
+0x01000071000012C2	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	He nods gravely. "I've been tempted on occasion. But someone has to stay strong for Revachol." His gaze shifts to the pile of soggy logs at his feet.	他严肃地点点头。“我有时也会被诱惑。但是总得有人为瑞瓦肖保持一颗坚强的心。”他把目光转移到脚下那堆浸水的原木上。
 0x01000071000012C9	Dialogue Text	WESTCOAST / GARY	Drama	Degenerates? This man respects authority too much to see the truth inscribed upon thine own visage. Pretend thou art a paragon of virtue.	堕落的人？这个人太尊重权威，完全无法看清铭刻在您脸上的真相。假装自己是道德的典范。
 0x01000071000012D7	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"I really owe you one for getting us out of those reeds, officer. Finally got all that soot out of my hair. Name's Gary."	“谢谢你把我们从芦苇丛里带出来，这是我欠你的，警官。终于把我头发里那些煤灰清干净了。对了，我叫盖理。”
 0x01000071000012ED	Dialogue Text	WESTCOAST / GARY	You	"I'll talk to her then." [Leave.]	“我会跟她聊的。”[离开。]
 0x010000710000131F	Dialogue Text	WESTCOAST / GARY	You	"Nobody's perfect. Have you never been tempted to drink?"	“人无完人嘛。你有没有对喝酒动心过？”
-0x0100007100001325	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Oh, I've been tempted." He nods gravely. "But someone has to stay strong for Revachol." His gaze shifts to the floor tiles.	“哎，我也动过这个念头。”他严肃地点点头。“不过总得有人为瑞瓦科保持一颗坚强的心。”他把目光转移到了地板上。
-0x010000710000132F	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"I've been tempted on occasion." He nods gravely. "But someone has to stay strong for Revachol." His gaze shifts to the floor tiles.	他严肃地点点头。“我有时也会被诱惑。但是总得有人为瑞瓦科保持一颗坚强的心。”他把目光转移到了地板上。
+0x0100007100001325	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Oh, I've been tempted." He nods gravely. "But someone has to stay strong for Revachol." His gaze shifts to the floor tiles.	“哎，我也动过这个念头。”他严肃地点点头。“不过总得有人为瑞瓦肖保持一颗坚强的心。”他把目光转移到了地板上。
+0x010000710000132F	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"I've been tempted on occasion." He nods gravely. "But someone has to stay strong for Revachol." His gaze shifts to the floor tiles.	他严肃地点点头。“我有时也会被诱惑。但是总得有人为瑞瓦肖保持一颗坚强的心。”他把目光转移到了地板上。
 0x0100007100001335	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"Dark times will do that to good men." He nods gravely, then shifts his gaze to the floor tiles.	“黑暗时代会对好人造成这种影响。”他严肃地点点头，然后把目光转移到了地板上。
 0x010000710000133B	Dialogue Text	WESTCOAST / GARY	Gary, the Cryptofascist	"I like nature, just not this bloody coast. It's mostly drunks and degenerates that come here."	“我喜欢大自然，只是不喜欢这片该死的海岸。只有酒鬼和瘾君子会来这里。”
 0x0100007100001341	Dialogue Text	WESTCOAST / GARY	You	"Sadly, I think I might be a drunk. Or a degenerate. Maybe even both..."	“可惜，我好像就是个酒鬼。或者是堕落的人。甚至两者都是。”
