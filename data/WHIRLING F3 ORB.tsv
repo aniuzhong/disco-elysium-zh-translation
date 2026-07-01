@@ -1,0 +1,208 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060001702D	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"Yes miss, but..." The lieutenant disagrees. "For him that number is *56*."	“是的，小姐，但是……”警督不太赞同。“对于他来说，这个数字是56。”
+0x0100003700000318	Dialogue Text	WHIRLING F3 ORB / age afterthought	Reaction Speed	You could ask either one of them.	你随便问谁都可以。
+0x010000420000011B	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	I got this, I got this... My age -- I think I'm...	我可以的，我可以的……我的年纪——我觉得我……
+0x0100004200000122	Dialogue Text	WHIRLING F3 ORB / age afterthought	Visual Calculus	Yes?	什么？
+0x0100004200000129	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	I'm old. A wizened sage who has seen it all across *three hundred years*.	我老了。我是一个干瘪的圣人，见证了*三百年来*的一切。
+0x010000420000012F	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	I'm in my early thirties. A rough thirty. I *lived it up*.	我30岁出头。大概30几。我*逍遥度日*。
+0x0100004200000134	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	Oh my god. I have no idea. Probably middle aged, but... but...	天啦。我不知道。可能到了中年，但是……不过……
+0x010000420000013D	Dialogue Text	WHIRLING F3 ORB / age afterthought	Visual Calculus	You're a rough rider, but not in your early thirties. Do you want to know *the truth*?	你是一个狂放的骑手，但并不是30出头。你想知道*真相*吗？
+0x0100004200000143	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	Bring it on. I am not afraid of the truth.	来吧。我不害怕真相。
+0x0100004200000149	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	I don't want to think about this anymore.	我不想再考虑这个问题了。
+0x010000420000014F	Dialogue Text	WHIRLING F3 ORB / age afterthought	Visual Calculus	To the Laboratorium!	去实验室！
+0x0100004200000155	Dialogue Text	WHIRLING F3 ORB / age afterthought	Visual Calculus	Okay. Seek not the truth. Cower in barbarism, you 58-year-old man-child.	好吧。不追求真相。蜷缩在原始状态，你这个58岁的老小孩。
+0x0100004200000166	Dialogue Text	WHIRLING F3 ORB / age afterthought	Visual Calculus	Yeah, but probably not though. Do you want to know *the truth*?	是啊，不过可能不是。你想知道*真相*吗？
+0x010000420000016E	Dialogue Text	WHIRLING F3 ORB / age afterthought	Visual Calculus	Do you want to know the truth?	你想知道真相吗？
+0x0100004500013872	Dialogue Text	WHIRLING F3 ORB / age afterthought	Visual Calculus	Wait, stop -- that man, bloated beyond all recognition, was 42?	等等，先停下来——那个男人，肿胀到难以辨认的男人，是42岁吗？
+0x0100004500013878	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	It's what she said, yes.	她是这么说的，没错。
+0x010000450001387E	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	[Discard thought.]	[放弃思维。]
+0x0100004500013887	Dialogue Text	WHIRLING F3 ORB / age afterthought	Visual Calculus	Below the damage, the weeks of decomposition, all the swollen indignity of mortality -- he was 42 years old?	那具伤痕累累，已经腐烂数周，死后还被百般羞辱的肿胀躯体——只有42岁？
+0x010000450001388F	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	Where is this going?	这是想干什么？
+0x0100004500013896	Dialogue Text	WHIRLING F3 ORB / age afterthought	Visual Calculus	How old are *you*? That's where this is going. Forty-five thousand litres of raw alcohol has left its disfigurements. What lies beneath, you wonder.	*你*几岁？这就是我要说的。45,000公升的酒精在你脸上刻下了痕迹。你觉得在那疤痕之下会有什么呢。
+0x01000045000138A9	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"Kim, how old do you think I am?"	“金，你觉得我多大？”
+0x01000045000138AF	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	(Turn around.) "Miss, how old do you think I am?"	（转回头。）“小姐，你觉得我多大？”
+0x01000045000138E2	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"Huh?" The lieutenant isn't quite sure he heard you.	“啊？”警督不太确定自己听到了什么。
+0x0100004500015656	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"How old do I look?"	“我看起来多大？”
+0x010000450001565C	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"Nothing." [Finish thought.]	“没什么。”[完成思维。]
+0x0100004500015670	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"How old? Fifty-eight."	“多大？58。”
+0x0100004500015677	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"Maybe you're wrong. You were wrong about the deceased too, he was *way* younger."	“也许你错了。这个死者你也搞错了，他看起来要年轻*很多*。”
+0x010000450001567D	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"What if you're wrong? We were both wrong about the deceased -- he turned out to be 40!"	“要是你搞错了呢？我们可能都认错这个死者了——他原来是40岁！”
+0x0100004500015683	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"You're probably right. That's about what I look."	“也许你是对的。这就是我的样子。”
+0x010000450001568B	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"Oh my god, that's really old -- really?"	“我的天，真的好老——你认真的吗？”
+0x0100004500015692	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"You asked." He shrugs.	“是你问我的。”他耸耸肩。
+0x010000450001569C	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"He was *deceased*. He had been decomposing for a week."	“他已经*死了*。而且还腐烂了一星期。”
+0x01000045000156A3	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"I feel like I've been decomposing for longer than that."	“我觉得自己腐烂的时间比他更长。”
+0x01000045000156AA	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"Forty-two. And he was *deceased*. He had been decomposing for a week."	“42岁，而且他已经*死了*，还腐烂了一星期。”
+0x01000045000156B1	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"Actually, make that 54." He squints. "Alcoholism has severely impacted your appearance."	“也是，那就54吧。”他斜了你一眼。“酗酒严重影响了你的外貌。”
+0x01000045000156B8	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"And I *was* wrong about the age of the deceased. "	“而且我还搞错了死者的年纪。”
+0x01000045000156C6	Alternate1	WHIRLING F3 ORB / age afterthought	You	"The ravages of Al Gul are nearly as extreme as that of death itself, Lieutenant Kitsuragi."	“阿尔古造成的极端破坏近乎跟死亡本身一样，曷城警督。”
+0x01000045000156C6	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"Alcoholism has a similar effect on living tissue, I hear."	“我听说，酗酒对活体组织有类似的影响。”
+0x01000045000156D0	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"You're right. I'm probably 62. Let's leave it at that."	“你说得对。也许我62岁了。这个话题就到此为止吧。”
+0x01000045000156D7	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"I didn't say 62, I said 58." He squints, looking at you for a second.	“我没说62，我说58。”他斜了你一眼，看了几秒。
+0x01000045000156DE	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	There's silence.	一片沉默。
+0x01000045000156E5	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	Then a little more.	还是沉默。
+0x01000045000156EB	Dialogue Text	WHIRLING F3 ORB / age afterthought	Empathy	Here it comes -- mercy.	又要来了——怜悯。
+0x01000045000156F2	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"Sure -- you're 42." He squints. "Let's go?"	“当然——你42岁。”他斜了你一眼。“我们走吧？”
+0x01000045000156FA	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"On the bright side, you've been getting *a lot* of exercise lately."	“往好的方面想，你最近得到了*不少*锻炼。”
+0x0100004500015708	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"Huh?" She leans in closer. "How old do I think you are?"	“啊？”她俯身靠近。“我觉得你多大？”
+0x010000450001570F	Dialogue Text	WHIRLING F3 ORB / age afterthought	Rhetoric	She's buying time to formulate the best answer.	她在为起草最佳答案争取时间。
+0x010000450001571C	Dialogue Text	WHIRLING F3 ORB / age afterthought	Volition	Look who's finally awake!	看看，谁总算是清醒了！
+0x010000450001572B	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"I don't know... Twenty-one? Seventeen? Sixteen? When does the male libido peak?"	“我不知道……21岁？17？16？男人的性欲巅峰是多少岁？”
+0x0100004500015731	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"I don't know... one million years old? Twenty-one? Seventeen? How old are superstar police officers usually?"	“我不知道……100万岁？21？17？一般明星警探都多大？”
+0x0100004500015737	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"I don't know... 80? One hundred? One year old? I don't know what I'm supposed to say? How old is the *sorriest* age?"	“我不知道……80岁？100岁？我不知道该说什么？*最遗憾*的年纪是几岁？”
+0x010000450001573D	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"I don't know... one? Two? I don't know what I'm supposed to say? How old is a newborn cop who doesn't remember he's a cop?"	“我不知道……1岁？2岁？我不知道该说什么？一个忘记自己是警察的新生警察应该几岁？”
+0x0100004500015743	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"I don't know... Forty-one? Forty-five? What am I supposed to say? What's the most *boring* age a human being can be?"	“我不知道……41岁？45？我不知道该说什么？人类*最无聊*的时候是几岁？”
+0x0100004500015749	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"I don't know... As old as time itself? *Ageless*? Fifty-thousand years old? I don't know what I'm supposed to say? How old *is* an Apocalypse Cop?"	“我不知道……跟时间一样大吗？*永远不老*？50000岁？我不知道该说什么？天启警探应该多少岁？”
+0x010000450001574F	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"I don't know... 40? I was like 9 when OO peaked. That was, what? Nineteen years ago? I liked them when I was 9. You couldn't have liked it when you were 40..."	“我不知道……40岁？？*永远不老*？招摇乐团到达巅峰的时候我好像是9岁。所以，差不多就是？19年前？我9岁的时候很喜欢他们。不过到了40岁的时候，应该就不会喜欢了。”
+0x0100004500015765	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"Let's say you were twenty-something. Twenty five. A good disco age. Twenty five plus nineteen is forty four. I'm gonna say you're 44."	“这么说吧，当时你大概是20几岁。25。那是迪斯科的好时代。25加上19是44。所以我会说你44岁。”
+0x010000450001576C	Dialogue Text	WHIRLING F3 ORB / age afterthought	Logic	Wow!	哇哦！
+0x010000450001577F	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"Wow."	“哇哦！”
+0x0100004500015785	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"Forty four? I'm young!"	“44岁？我好年轻！”
+0x010000450001578D	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"Forty four? You think so?"	“44岁？你真这么觉得？”
+0x0100004500015793	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"Yeah. I have a university degree, you know." She flicks ash from her cigarette.	“是啊，我有大学学历，你知道的。”她掸了掸烟灰。
+0x010000450001579B	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"Absolutely. Age is just a number, man."	“当然。年龄只是个数字而已。”
+0x01000045000157A2	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"Look -- at the end of the day, age is just a number, you know."	“你看——到头来说，年龄不过只是一个数字，你知道的。”
+0x01000045000157D3	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"I think I'm circa 55."	“我觉得自己大概55岁。”
+0x01000045000157D9	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"I think I'm circa 45."	“我觉得自己大概45岁。”
+0x01000045000157DF	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	"I think I'm circa 35."	“我觉得自己大概35岁。”
+0x01000045000157F8	Dialogue Text	WHIRLING F3 ORB / age afterthought	Visual Calculus	Wait! This requires *scientific* measurements.	等一下！这就需要*科学的*测量方法。
+0x0100004500015800	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	Bring it on. I am not afraid of the truth.	来吧。我不害怕真相。
+0x0100004500015806	Dialogue Text	WHIRLING F3 ORB / age afterthought	You	I don't want to think about this anymore.	我不想再考虑这个问题了。
+0x010000450001580E	Dialogue Text	WHIRLING F3 ORB / age afterthought	Visual Calculus	To the Laboratorium!	去实验室！
+0x0100004500015815	Dialogue Text	WHIRLING F3 ORB / age afterthought	Visual Calculus	Okay. Seek not the truth. Cower in barbarism, you 58-year-old man-child.	好吧。不追求真相。蜷缩在原始状态，你这个58岁的老小孩。
+0x0100004500015820	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"You're not." He's squinting at you.	“你不是。”他眯着眼睛看你。
+0x0100004500015834	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"Sure he is. You know. Age is just a number."	“他当然是了。你知道的。年纪只是个数字。”
+0x010000450001583B	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"Yes. But for him that number is *much* larger than 35."	“是的。但是对于他来说，这个数字比35要*大很多*。”
+0x0100004500015842	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"Sure. Age is just a number, you know." She extinguishes her cigarette. "It's all in your *head*."	“当然。你也知道，年纪只是个数字。”她熄灭了手中的香烟。“它全都在你的*脑子*里。”
+0x0100004500015854	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"You're not." He's squinting at you.	“你不是。”他眯着眼睛看你。
+0x010000450001585A	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"Sure he is. You know, age is just a number."	“他当然是了。你知道的。年纪只是个数字。”
+0x0100004500015860	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"Yes. But for him that number is higher than 45."	“是的。但是对于他来说，这个数字比45要大。”
+0x0100004500015869	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"Sure, yeah. And if you're not -- age is just a number anyway."	“是啊，当然了。就算你不是——年纪也只是个数字而已。”
+0x0100004500015870	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"You're not." He's squinting at you.	“你不是。”他眯着眼睛看你。
+0x0100004500015876	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"Sure he is. You know, age is just a number."	“他当然是了。你知道的。年纪只是个数字。”
+0x010000450001587C	Dialogue Text	WHIRLING F3 ORB / age afterthought	Kim Kitsuragi	"Yes. But for him that number is 56."	“是的。但是对于他来说，这个数字是56。”
+0x010000450001588B	Dialogue Text	WHIRLING F3 ORB / age afterthought	Klaasje (Miss Oranje Disco Dancer)	"That's pretty much it, but... Age is just a number anyway, you know." She extinguishes her cigarette.	“那还挺大的，但是……你也知道，年纪只是个数字。”她熄灭了手中的香烟。
+0x010000060001B8C0	Dialogue Text	WHIRLING F3 ORB / love did him in	Empathy	Real as anything.	真真切切。
+0x0100004000003176	Dialogue Text	WHIRLING F3 ORB / love did him in	You	I already miss Klaasje.	我已经亲吻过卡拉洁了。
+0x010000400000317C	Dialogue Text	WHIRLING F3 ORB / love did him in	Inland Empire	Of course you do, Harry. Everyone does.	当然有过了，哈利。大家都有过。
+0x0100004000003184	Dialogue Text	WHIRLING F3 ORB / love did him in	Drama	Gone forever... Sire, thee shall never findeth another mistress quaint like her!	一去不复返……大人，您再也不会找到像她一样有趣的情妇了。
+0x010000400000318B	Dialogue Text	WHIRLING F3 ORB / love did him in	Half Light	You fool! What are you waiting for?! Mount a rescue operation and go get her back!	你这个傻瓜！还在等什么？！赶快开始救援行动，把她带回来！
+0x0100004000003197	Dialogue Text	WHIRLING F3 ORB / love did him in	You	I did the right thing. I know I did.	我做的事是对的。我知道。
+0x010000400000319E	Dialogue Text	WHIRLING F3 ORB / love did him in	Inland Empire	Feels good, doesn't it? Doing the right thing.	感觉很好，不是吗？做正确的事。
+0x01000040000031A5	Dialogue Text	WHIRLING F3 ORB / love did him in	Authority	Hey, what is this funeral vibe here? You did what any good cop would do. Pat yourself on the back and move on.	喂，这种送葬的气氛是怎么回事？你做了所有好警察都会做的事。给自己一些鼓励，继续前进。
+0x01000040000031AC	Dialogue Text	WHIRLING F3 ORB / love did him in	Volition	You were just being a good cop.	你只是做了一个好警察该做的事。
+0x0100004500017391	Dialogue Text	WHIRLING F3 ORB / love did him in	Inland Empire	As you look back you think: So love did *do him in* after all.	回首往事，你想到：看来爱情终究还是*害了他*。
+0x0100004500017398	Dialogue Text	WHIRLING F3 ORB / love did him in	You	I was right...	我是对的……
+0x010000450001739E	Dialogue Text	WHIRLING F3 ORB / love did him in	You	[Discard thought.]	[放弃思维。]
+0x01000045000173A7	Dialogue Text	WHIRLING F3 ORB / love did him in	Inland Empire	No. Communism killed him, remember? Love made it possible. You know this much.	不。是康米主义杀了他，还记得吗？爱情让一切变得可能。你只知道这么多了。
+0x01000045000173AD	Alternate1	WHIRLING F3 ORB / love did him in	You	It *killed* him.	它*杀了*他。
+0x01000045000173AD	Dialogue Text	WHIRLING F3 ORB / love did him in	You	It *killed* him... (Look at Klaasje.)	是它*杀了*他……（看着卡拉洁。）
+0x01000045000173BA	Dialogue Text	WHIRLING F3 ORB / love did him in	You	What is communism in this?	这跟康米主义有什么关系？
+0x01000045000173C0	Dialogue Text	WHIRLING F3 ORB / love did him in	Inland Empire	You do not know. A wind of needles. Airships flutter in the stratosphere.	你不知道。针的风暴。飞艇在平流层中振颤。
+0x01000045000173C6	Dialogue Text	WHIRLING F3 ORB / love did him in	You	How do I... know all this then?	那我……又是怎么知道的？
+0x01000045000173DA	Dialogue Text	WHIRLING F3 ORB / love did him in	Inland Empire	Who knows?... It's getting cold out. You should go.	谁知道？……外面变冷了。你该走了。
+0x01000045000173EB	Dialogue Text	WHIRLING F3 ORB / love did him in	Inland Empire	Or was it communism that killed him and love that did him in...	或者是康米主义杀了他，还有爱情拖垮了他……
+0x01000045000173F3	Dialogue Text	WHIRLING F3 ORB / love did him in	Inland Empire	If it weren't for her he would not have been there. The shot would not have connected with his soft palate...	如果不是为了她，他就不会出现在那里。这一枪就不会击中他的软肋……
+0x010000450001741E	Dialogue Text	WHIRLING F3 ORB / love did him in	You	(Turn to Klaasje.) "Looks like love did him in after all."	（转向卡拉洁。）“看来终究是爱情伤害了他。”
+0x0100004500017425	Dialogue Text	WHIRLING F3 ORB / love did him in	Klaasje (Miss Oranje Disco Dancer)	She's silent, holding on to her coffee mug. No vapour rises from it -- it's cold.	她手握自己的咖啡杯，沉默无语。杯中并没有蒸汽升腾而出——咖啡已经凉了。
+0x010000450001742C	Dialogue Text	WHIRLING F3 ORB / love did him in	You	Say nothing. Let her answer.	什么也不说。等她回答。
+0x0100004500017432	Dialogue Text	WHIRLING F3 ORB / love did him in	Klaasje (Miss Oranje Disco Dancer)	"Yeah..." she finally breaks the silence. "I'd like to think he didn't *love* me. Or that it was chemically-induced and not real."	“是啊……”她最终打破了沉默。“我宁愿他*不爱*我。或者那只化学作用的诱导，而不是真的。”
+0x010000450001743A	Dialogue Text	WHIRLING F3 ORB / love did him in	You	"Why?"	“为什么？”
+0x0100004500017440	Dialogue Text	WHIRLING F3 ORB / love did him in	Klaasje (Miss Oranje Disco Dancer)	"Easier that way." She takes a sip.	“这样想更轻松一些。她抿了一小口。
+0x010000450001744F	Dialogue Text	WHIRLING F3 ORB / love did him in	You	"Was it? Real?"	“是这样吗？真的？”
+0x0100004500017456	Dialogue Text	WHIRLING F3 ORB / love did him in	Klaasje (Miss Oranje Disco Dancer)	"I don't know..." She looks down at the yard -- then back into her coffee.	“我不知道……”她垂下眼眸，看着院子——然后注视着手中的咖啡。
+0x010000450001746E	Dialogue Text	WHIRLING F3 ORB / love did him in	You	[Finish thought.]	[完成思维。]
+0x0100004500017497	Dialogue Text	WHIRLING F3 ORB / love did him in	Inland Empire	If it weren't for her he would not have been there. The shot would not have connected with his soft palate...	如果不是为了她，他就不会出现在那里。这一枪就不会击中他的软肋……
+0x01000045000174A4	Dialogue Text	WHIRLING F3 ORB / love did him in	Composure	There's a nod, the smallest of nods.	她点点头，动作小的几乎看不见。
+0x010000450001771D	Dialogue Text	WHIRLING F3 ORB / love did him in	Volition	It appears this one has *not* been entirely corrupted... this may help. This may help the others see.	看来它*还没有*完全腐败……也许帮的上忙。能帮助其他人看见。
+0x0100004500019C8C	Dialogue Text	WHIRLING F3 ORB / love did him in	Inland Empire	Remember this silence. The lady is dangerous. People suffer around her.	记住这个沉默。这个女士很危险。她周围的人都在受苦。
+0x0100000200000227	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	I seem to have a drug habit or two myself. Is this really a good idea?	我自己好像都有点药物成瘾的问题。这真是个好主意吗？
+0x010000450001113D	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Authority	You made the right call there. It feels good. Pure.	你做了个正确决定。这种感觉很好，好的很纯粹。
+0x0100004500011144	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	About what?	关于什么？
+0x010000450001114A	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	[Discard thought.]	[放弃思维。]
+0x0100004500011153	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Authority	I'm talking about your zero tolerance policy toward *the mania of Narco*! You're in the *right* there. Powerful stance. Would you like to take it up a notch? Would you like to become an anti-narcomania zealot?	我说的是你对——*麻醉狂热*的零容忍政策！你做的*很对*。立场坚定。想要更上一层楼吗？想成为一个反麻醉剂的狂热信徒吗？
+0x0100004500011160	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	I seem to have an absolutely *massive* speed habit myself... Is this really a good idea?	我自己好像都有*严重*依赖思必得的习惯……这真的是个好主意吗？
+0x0100004500011166	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	Okay, but don't I have to stop, like, taking pyrholidon first?	好吧，但我是不是应该停下来，比如说，先试一下吡嚯浣酮？
+0x010000450001116F	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	I am pure and steadfast. Totally uncorrupted by Narco.	我很纯粹，也很坚定。完全没有因为麻药堕落。
+0x0100004500011176	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Authority	That's *not* a problem. At all. The more drugs you do, the more zealous you can be in combating them. Drugs give you the *vigour* to fight drugs.	这*不是*问题，一点也不是。你碰的毒品越多，对抗的时候就越积极。毒品给了你与之对抗的*活力*。
+0x010000450001117F	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	Yeah -- and the intimate knowledge of their damaging effects.	是啊——而且还能深入了解它们带来的损伤。
+0x0100004500011186	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Authority	Yeah. Sure.	是啊，当然。
+0x010000450001118C	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Authority	Yes. You're pure. Unravaged by Narco. Of course it's pretty obvious you've done a lot of drugs in the past -- and will probably do more in the future -- but that doesn't matter.	是的，你很纯粹。没有为麻醉剂堕落。很明显，你过去碰了不少毒品——未来可能只多不少——不过这个不重要。
+0x010000450001119B	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	Doesn't it hurt that I smoke like beast?	我抽烟抽的这么凶，难道就不疼吗？
+0x01000045000111A1	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	Me drinking -- moribundly -- that isn't gonna be a problem, is it?	我还酗酒——都喝到只剩一口气了——这也不是问题，对吗？
+0x01000045000111A7	Alternate1	WHIRLING F3 ORB / narcomania afterthought	You	You're right. I can't think of any more objections.	你说得对。我想不出什么反对意见。
+0x01000045000111A7	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	You're right. I can't think of any objections.	你说得对。我想不出什么反对意见。
+0x01000045000111AF	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Authority	No. Alcohol is a powerful anti-narco agent. Seventy-eight percent of people who use alcohol daily feel no need to use it's opposite -- narcohol. If anything, you should drink more. It cleanses.	不。酒精是强大的反毒品中介。有78%每天酗酒的人觉得没必要去碰它的对立面——麻醉剂。如果有什么的话，你应该再多喝一点，被它净化。
+0x01000045000111B5	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Authority	No. By supporting the *traditional* tobacco industry, you keep the narco mills in check. If anything, you should smoke *more*. Tobacco smoke also wards off narco spirits.	不。通过支持*传统*烟草行业，你就能控制制毒工厂。如果有什么的话，你应该再*多*抽点。香烟也能让你远离毒品。
+0x01000045000111BE	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Authority	Of course not. You've always been anti-narco militant material. You kept *her* off a *dark* course with that interjection! Are you ready to *save lives*?	当然没有。你一直都是反麻药激进分子的好材料。你就是用那句感叹让*她*远离了*黑暗*的道路。你准备好*拯救生命*了吗？
+0x01000045000111C6	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Rhetoric	And not only that!	还不仅仅如此！
+0x01000045000111D6	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	Isn't that a bit... stupid?	不觉得这有点……愚蠢吗？
+0x01000045000111DE	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Authority	No.	不。
+0x01000045000111EB	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	"I'm ready to start saving lives." (Opt in.)	“我准备好拯救生命了。”（选择加入。）
+0x01000045000111F1	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	"I'm gonna pussy out at the last moment, like a degenerate." [Discard thought.]	“我会在最后一刻退缩，像堕落者一样。”[放弃思维。]
+0x0100004500011204	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Kim Kitsuragi	"What?" The lieutenant waves you off. "Never mind."	“什么？”警督看了你一眼。“没事了。”
+0x010000450001120C	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Kim Kitsuragi	"That's good to hear." The lieutenant acknowledges your strange mumbling. He does not have any narcotics visibly on him as he says it. Good.	“听你这么说，我很高兴。”警督已经习惯了你奇怪的咕哝声。他说这句话的时候，身上明显没有服用麻醉剂的迹象。这是好事。
+0x010000450001122C	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Klaasje (Miss Oranje Disco Dancer)	"That's wonderful to hear." The young woman takes a sip of coffee. Good un-narcotic coffee. Wholesome to look at.	“听你这么说，我很高兴。”年轻女子抿了一口咖啡。上好的、不含麻醉剂的咖啡。看起来非常健康。
+0x0100004500011234	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Klaasje (Miss Oranje Disco Dancer)	"That's an odd thing to say to yourself, officer." The young woman takes a sip of coffee. It does not seem to have narcotics in it.	“对自己说这种话挺奇怪的，警官。”年轻女子抿了一口咖啡。里面好像没放麻醉剂。
+0x0100006B00009781	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	I seem to have a slight speed habit myself, though. Is this really a good idea?	不过，我自己好像都有点嗑思必得的习惯。这真是个好主意吗？
+0x0100006B0000978B	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	And my proclivity for smoking doesn't hurt?	那我抽烟的癖好没什么害处吧？
+0x0100006B00009793	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	You	My drinking problem... isn't going to be a problem, is it?	我的酗酒问题……应该不算什么问题，对吧？
+0x0100006B00009D65	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Authority	Your words sound hollow and unconvincing. You're a weakling, a servant to the dark arts of narcomania.	你的言语听起来空洞又牵强。你是一个弱者，是诚服于麻醉剂瘾那黑暗艺术的奴隶。
+0x0100006B00009D71	Dialogue Text	WHIRLING F3 ORB / narcomania afterthought	Authority	You say the words loudly to yourself. That makes them very convincing. The world applauds you -- you are finally on the holy warpath against narcomania!	你对自己大声说到。这样听起来更有说服力一些。那些话语称赞着你——你总算踏上了对抗麻醉剂瘾的神圣之路！
+0x01000058000076F5	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Shivers	Signage is put up and taken down, shop windows boarded up and reopened once more. What remains constant -- voyeurism, always unhelpful. And, at times, quite fully helpless.	招牌竖起又被拆下，商店橱窗关闭又被重新打开。唯一永恒不变的——只有偷窥狂，从来都没什么用。而且有时候，是彻头彻尾的一无是处。
+0x0100005800007708	Dialogue Text	WHIRLING F3 ORB / peephole shivers	You	Is that why that hole in the wall is there? Voyeurism?	所以这就是墙上有洞的原因？有偷窥狂？
+0x010000580000770F	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Shivers	It doesn't even matter why it was put there in the first place. That's something it could have been used for.	其实它为什么一开始就在那里根本就不重要。也许之前就是那样用的吧。
+0x010000580000771D	Alternate1	WHIRLING F3 ORB / peephole shivers	You	[Finish thought.]	[完成思维。]
+0x010000580000771D	Dialogue Text	WHIRLING F3 ORB / peephole shivers	You	[Ignore thought.]	[忽略思维。]
+0x0100005800007726	Dialogue Text	WHIRLING F3 ORB / peephole shivers	You	It's not my fault this pinball operation failed.	弹球操作失败不是我的错。
+0x010000580000772D	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Shivers	No, but how does it make you feel, to dig through its trash?	不，但是在垃圾堆里乱翻的你有什么感受？
+0x0100005800007734	Dialogue Text	WHIRLING F3 ORB / peephole shivers	You	Like I should be grieving something, but I'm not sure what.	感觉我应该为某种东西感到悲痛，但不确定是什么。
+0x010000580000773A	Dialogue Text	WHIRLING F3 ORB / peephole shivers	You	Like a good investigator.	像一个优秀的调查员。
+0x0100005800007740	Dialogue Text	WHIRLING F3 ORB / peephole shivers	You	Like a survivor.	像一个幸存者。
+0x0100005800007749	Dialogue Text	WHIRLING F3 ORB / peephole shivers	You	Like an intruder.	像一个入侵者。
+0x0100005800007750	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Shivers	But why? None of this belongs to anyone anymore.	但是为什么呢？这些东西已经不属于任何人了。
+0x0100005800007756	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Shivers	There are too many places to start, aren't there.	有太多地方可以开始了，是吧。
+0x010000580000775C	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Shivers	Then do your job.	那就赶紧做事吧。
+0x0100005800007762	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Shivers	But of what conflict or catastrophe?	但是，到底是什么冲突，或者是大灾难呢？
+0x0100007800010DEF	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Electrochemistry	You can almost *see* the shape of a man and a woman, writhing inside -- bathed in drug sweat and dirty linens. Bottles lie around everywhere...	你几乎可以*看见*一个男人和一个女人的形状，在里面纠缠——沐浴在毒品，汗水和肮脏的床单之中。瓶子在地上散落的到处都是……
+0x0100007800010DFB	Dialogue Text	WHIRLING F3 ORB / peephole shivers	You	"I think I can see into Klaasje's bedroom from here."	“我好像能从这里看到卡拉洁的卧室。”
+0x0100007800010E01	Dialogue Text	WHIRLING F3 ORB / peephole shivers	You	What were those people doing -- in there?	那些人在里面做什么？
+0x0100007800010E07	Dialogue Text	WHIRLING F3 ORB / peephole shivers	You	[Finish thought.]	[完成思维。]
+0x0100007800010E11	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Electrochemistry	You lean closer to the peephole, instinctively. I bet they're doing something quite *unnatural* there. Sensationally unnatural.	你本能地靠近了窥视孔。我肯定他们在做一些*不自然*的事，反常到骇人听闻。
+0x0100007800010E2B	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Electrochemistry	If your mesolimbic reward pathway were to venture a guess: one of the bottles is probably being *put* somewhere it doesn't belong.	如果你的中脑缘奖赏回路大胆猜测的话：其中一个瓶子可能被*放在*了不属于它的某个地方。
+0x0100007800010E32	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Electrochemistry	And were your glands to venture *another* guess -- they would add that *another* bottle is being put somewhere very close to that. The bottle is a bit smaller you see.	然后你的腺体又大胆的做出*另一种*假设——他们还会加上*另一个*瓶子，就放在离之前那个不远的地方。这次看见的瓶子要稍微小一些。
+0x0100007800010E39	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Electrochemistry	Also! You can literally put speed up your asshole, did you know? Enters the bloodstream right through the mucus membrane! So yeah, that's definitely *also* taking place.	还有！你可以把思必得塞进自己的直肠，我是说字面意义上的，懂吗？通过粘膜直接进入血液！没错，肯定*也*发生这种事了。
+0x0100007800010E41	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Kim Kitsuragi	He leans closer to inspect the peephole. "You can barely see through. Better not to jump to *sensationalist* conclusions here."	他靠近窥视孔。“几乎什么都看不见。最好不要仓促地*凭感觉*做出结论。”
+0x0100007800010E51	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Kim Kitsuragi	"The footprints on the floor, however..." He points to the marks nearby, on the floor. "*Definitely* suspicious."	“不过，地板上的脚印……”他指着附近地板上的印记。“*确实*非常可疑。”
+0x0100007800010E58	Dialogue Text	WHIRLING F3 ORB / peephole shivers	Electrochemistry	Boring footprints. I want to jump to sensationalist conclusions.	无聊的脚印。我想直接凭感觉作出结论了。
+0x01000006000171AC	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Logic	Stupid superstition. But still -- it would be *interesting* to see what the cafeteria manager thinks of this...	愚蠢的迷信。不过——看看餐厅经理对此有什么看法，应该*挺有意思*的……
+0x01000006000171B3	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Inland Empire	It's not a ghost story. It's a curse -- and Garte ought be made knowledgeable so he can perform counter-spells.	这不是什么鬼故事。这是个诅咒——而且加尔特应该知道这一点，这样他就能使用反制咒语了。
+0x010000060001BD0A	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Kim Kitsuragi	The lieutenant looks around the dusty, crowded room, inspecting the tools on the shelf.	警督四下看了看这间灰尘扑扑又拥挤的小房间，检查着架子上的工具。
+0x01000058000075BA	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Logic	So this is where they brought faulty pinball machines to fix them up -- a long time ago. Everything is covered with dust now...	看来他们就是把坏掉的弹球机带到这里来维修的——很久之前是。现在这里落了一层灰……
+0x01000058000075E3	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Logic	This seems to be some kind of workshop. For fixing up pinball machines -- a long time ago. Everything is covered with dust now...	这里像是某种工坊。用来维修弹球机——很久之前是。现在这里落了一层灰……
+0x01000058000075F3	Alternate1	WHIRLING F3 ORB / pinball workshop	You	Looks like they gave up on fixing the pinball machines at some point.	看来他们在某个时候放弃修理弹球机了。
+0x01000058000075F3	Dialogue Text	WHIRLING F3 ORB / pinball workshop	You	"Looks like they gave up on fixing the pinball machines at some point."	“看来他们在某个时刻放弃维修弹球机了。”
+0x010000580000760E	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Kim Kitsuragi	"At some point -- twenty years ago? Fifteen maybe. Before pinball went out of vogue."	他表示赞同。“某个时刻——20年前吗？也许是15年前。在弹球变得不再流行之前。”
+0x010000580000762F	Alternate1	WHIRLING F3 ORB / pinball workshop	You	Doesn't look like that pinball machine will ever get fixed.	看来那个弹球机应该是修不好了。
+0x010000580000762F	Dialogue Text	WHIRLING F3 ORB / pinball workshop	You	"Doesn't look like that pinball machine will ever get fixed."	“看来那个弹球机应该是修不好了。”
+0x0100005800007657	Alternate1	WHIRLING F3 ORB / pinball workshop	You	This used to be a... pinball workshop.	这里曾经是个……弹球工坊。
+0x0100005800007657	Dialogue Text	WHIRLING F3 ORB / pinball workshop	You	"This used to be a... pinball workshop."	“这里曾经是个……弹球工坊。”
+0x01000058000076B7	Alternate1	WHIRLING F3 ORB / pinball workshop	You	 [Finish thought.]	[完成思维。]
+0x01000058000076B7	Dialogue Text	WHIRLING F3 ORB / pinball workshop	You	Not interested. [Discard thought.]	不感兴趣。[放弃思维。]
+0x0100007800010D64	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Kim Kitsuragi	"Looks like it. I'm guessing Martinaise North 22 used to be a pinball arcade before it became a hostel. There are machines left over..." He taps his foot.	“看起来是。我猜马丁内斯北街22号在变成一间旅社之前，曾经是个弹球游戏室。还有些留下来的机器……”他抬了抬脚。
+0x0100007800010D6B	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Perception (Hearing)	A creak, some dust falls off a shelf.	一阵嘎吱声响过，架子上落下一些灰尘。
+0x0100007800010D72	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Kim Kitsuragi	"Downstairs in the hall -- next to the main door. One of them even works. I've seen one of the Hardies bang away at it."	“楼下大厅——就在正门旁边。有一台还能用呢。我见过一个哈迪兄弟的人咚咚咚地玩个不停。”
+0x0100007800010D86	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Reaction Speed	Remember the *Dicemaker*?! Then that means...	还记得*骰子制造商*吗？！那也就是说……
+0x0100007800010D99	Dialogue Text	WHIRLING F3 ORB / pinball workshop	You	"Whirling-in-Rags was once the East Delta Pinball arcade. This is all left over from that."	“褴褛飞旋曾经是东德尔塔的弹球游戏室。这就的东西都是当时剩下的。”
+0x0100007800010DA6	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Kim Kitsuragi	"Ah, yes -- as the novelty dicemaker said." He makes a note in his notebook. "This has absolutely nothing to do with the case, I'm sure. But I do like a nice little *connection*."	“啊，是的——就像新奇骰子匠人说的。”他往本子里记了几笔。“这绝对跟案子无关，我很肯定。不过我确实喜欢有那么一点点*关系*。”
+0x0100007800010DBA	Alternate1	WHIRLING F3 ORB / pinball workshop	You	"Could this mean the Whirling-in-Rags really *is* part of the Doomed Commercial Area?"	这是不是意味着褴褛飞旋*真是*诅咒商业区的一部分？”
+0x0100007800010DBA	Dialogue Text	WHIRLING F3 ORB / pinball workshop	You	"Could this mean the Whirling-in-Rags really *is* part of the Doomed Commercial Area?"	“是不是说褴褛飞旋*真是*诅咒商业区的一部分？”
+0x0100007800010DC5	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Kim Kitsuragi	"If that's true then our *cafeteria manager* is not going to like it." He looks around. "We should tell him what we found up here -- *omitting* that suspicion."	“如果是真的，那我们的*餐厅经理*肯定不会喜欢的。”他看了看周围。“我们应该把这里的发现告诉他——*省略*掉其中怀疑的部分。”
+0x0100007800010DCB	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Inland Empire	But then it went bankrupt... your skin crawls from making the connection!	但是之后它破产了……你因为这种联想起了鸡皮疙瘩！
+0x0100007800010DE0	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Kim Kitsuragi	"He does not appear to be the kind of man who likes his establishment to be part of a neighbourhood ghost story. About *bankruptcy*."	“自己的产业曾经是坊间鬼故事的一部分……他不像喜欢这种事的人。特别是*破产*。”
+0x0100008F00003ED4	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Logic	Yes. Pinball hasn't enjoyed a heyday for fifteen or twenty years.	没错。弹球已经有15或者20年没有享受过全盛期了。
+0x0100008F00003EEA	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Logic	Yes. Martinaise North 22 used to be a pinball arcade.	是的。马丁内斯北街22号曾经是个弹球游戏室。
+0x0100008F00003EF8	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Logic	And it has been forgotten. Now, there is only one working machine in the main hall -- the rest is lost to dust.	而且它被遗忘了。现在大厅里只剩下一台可以运作的机器——其他的全都遗忘在灰尘之中。
+0x0100008F00003EFF	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Logic	As the Dicemaker said, yes; it all fits. Not that it has anything to do with the case, but it is a nice connection!	跟骰子匠人说的一样，是的；一切都对上了。并不是说和案子有什么关系，但确实是个很好的关联！
+0x0100008F00003F11	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Logic	Yes. It would mean that.	是的，也许是这个意思。
+0x0100008F00003F17	Dialogue Text	WHIRLING F3 ORB / pinball workshop	Logic	And Garte would not like that. He should probably be made aware that his establishment is part of the neighbourhood ghost story.	而且加尔特是不会喜欢的。也许应该告诉他，他的产业曾经是坊间鬼故事的一部分。
