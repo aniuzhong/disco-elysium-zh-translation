@@ -1,6 +1,6 @@
 ﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
 0x0100000400015B29	Dialogue Text	APT / CLEANING LADY	You	"What can you tell me about Cindy?"	“关于辛迪，你有什么能告诉我的吗？”
-0x0100000400015B30	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"The *artist*?" She scoffs. "Nothing I can do about her, I'm afraid. She ruins the walls faster than I can clean them. Still..." She leans on her broom.	“那个*艺术家*？”她奚落道。”恐怕我对她是无能无力了。她破坏墙壁的速度比我清洁的还要快。不过……”
+0x0100000400015B30	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"The *artist*?" She scoffs. "Nothing I can do about her, I'm afraid. She ruins the walls faster than I can clean them. Still..." She leans on her broom.	“那个*艺术家*？”她奚落道。“恐怕我对她是无能为力了。她破坏墙壁的速度比我清洁的还要快。不过……”
 0x0100000400015B3B	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"She leaves an old lady to her business. More than I can say for others..."	她靠在自己的扫帚上。“她不怎么打扰我做事。其他人我就不好说了……”
 0x0100000500003A0A	Dialogue Text	APT / CLEANING LADY	Kim Kitsuragi	"Thank you." He turns to you. "We should go check out his apartment on the balcony, see if he's home."	“谢谢。”他转向你。“我们应该去阳台上找找他的房间，看他在不在家。”
 0x010000060001B976	Dialogue Text	APT / CLEANING LADY	Endurance	This woman's health is failing her. There's not much to do, not in this damp.	女人的健康每况愈下。没什么可以做的，至少在这个潮湿的地方不行。
@@ -105,7 +105,7 @@
 0x0100005700026A8A	Dialogue Text	APT / CLEANING LADY	You	"First, I'm the policeman that asked you to open the door. Are you sure you don't want to see my badge?"	“首先，我是一个警察，要求你开门。你确定不想看看我的警徽吗？”
 0x0100005700026A92	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"Go ahead then. What do you want to know, policeman?"	“那就继续吧。你想知道什么，警官？”
 0x0100005700026A9C	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"I already told you I don't care about any badges."	“我已经说过了，我不在乎什么警徽。”
-0x0100005700026AA7	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"Now, what do you want from me, policeman?"	“那么，你有什么事情吗？，警官？”
+0x0100005700026AA7	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"Now, what do you want from me, policeman?"	“那么，你有什么事情吗，警官？”
 0x0100007000005A96	Dialogue Text	APT / CLEANING LADY	You	"He's wanted for murder. He's goin' away for life."	“他是个被通缉的杀人犯。他就要离开人世了。”
 0x0100007000005A9D	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"Murder!" The cleaning lady starts laughing, but it turns into a violent coughing spasm. She squeezes her broom, trying to catch her breath.	“杀人犯！”清洁女工笑了起来，结果却变成了一阵剧烈的咳嗽。她用力握紧了扫帚，想要喘口气。
 0x0100007000005AA4	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"I'd wager you've got the wrong man. But even so, you're out of luck, policeman -- I saw him leave the building just before you came in."	“我敢打赌，你找错人了。不过即便是这样，你也不太走运啊，警官——在你还没进来之前，我就看见他出去了。”
@@ -563,7 +563,7 @@
 0x0100000500003AC7	Dialogue Text	APT / SMOKER DOOR	Kim Kitsuragi	"Tomorrow 21.00, right here, apartment #28." He writes it down into his little notebook. "Good. Let's go."	“明天晚上9点，就在这里，28号公寓。”他记在自己的小笔记本上。“好了。我们走吧。”
 0x0100000500003ACF	Dialogue Text	APT / SMOKER DOOR	Kim Kitsuragi	"The smoker on the balcony. This is why we're here, right? He might know something about the murder. So, tomorrow 21.00?"	“阳台上的那个吸烟者。我们就是为这个来的，不是吗？他可能知道些凶杀案的事。所以要不明天晚上9点吧？”
 0x0100000500003AD6	Dialogue Text	APT / SMOKER DOOR	Kim Kitsuragi	"It's alright, we don't have to be here 21.00 sharp, I just need to write something down in my notebook." He has already opened the little blue book.	“没事的，没必要9点整赶到这里，我只要在笔记本里记下来就好。”他已经打开了自己的蓝色小笔记本。
-0x0100000500003AE9	Dialogue Text	APT / SMOKER DOOR	Kim Kitsuragi	"Looks like the young man we're looking for isn't home. I think our best chance to catch him is in the evening." He looks around, taking in the cold spring air.	“看来我们要找的年轻人不在家。我想最后抓到他的机会是在晚上。”他看了看周围，吸了一口春日料峭的空气。
+0x0100000500003AE9	Dialogue Text	APT / SMOKER DOOR	Kim Kitsuragi	"Looks like the young man we're looking for isn't home. I think our best chance to catch him is in the evening." He looks around, taking in the cold spring air.	“看来我们要找的年轻人不在家。我想最好抓到他的机会是在晚上。”他看了看周围，吸了一口春日料峭的空气。
 0x0100000500003AF2	Dialogue Text	APT / SMOKER DOOR	Kim Kitsuragi	"We should return tomorrow after we have finished with our day's work -- how about 21.00, sound good?"	“我们应该明天再来，等完成白天的工作之后——晚上9点，怎么样？”
 0x0100000500003AFD	Dialogue Text	APT / SMOKER DOOR	Kim Kitsuragi	"Tomorrow evening, right here, apartment #28. Good. Let's go."	“明天晚上，就在这里，28号公寓。好了，我们走吧。”
 0x0100000500003B05	Dialogue Text	APT / SMOKER DOOR	Kim Kitsuragi	"We should return tonight after we have finished with our day's work -- how about 21.00, sound good?"	“我们应该明天再来，等完成白天的工作之后——晚上9点，怎么样？”
@@ -1061,11 +1061,11 @@
 0x0100000F000099F3	Dialogue Text	APT / STUDENT COMMUNIST	You	Convince them you belong in the reading group.	说服他们你应当成为阅读小组的一员。
 0x0100000F000099F3	tooltip1	APT / STUDENT COMMUNIST	You	Sub-literate nematode.	亚文学线虫。
 0x0100000F000099F3	tooltip2	APT / STUDENT COMMUNIST	You	Harmless book slug.	无害的书本蛞蝓。
-0x0100000F000099F3	tooltip3	APT / STUDENT COMMUNIST	You	Somewhat bookish toad.	无害的书本蛞蝓。
-0x0100000F000099F3	tooltip4	APT / STUDENT COMMUNIST	You	Proud bookshop ruminant.	掉书袋的蟾蜍。
-0x0100000F000099F3	tooltip5	APT / STUDENT COMMUNIST	You	Voracious biblophilic teratorn.	掉书袋的蟾蜍。
-0x0100000F000099F3	tooltip6	APT / STUDENT COMMUNIST	You	UNSTOPPABLE LITERARY WÜRM.	骄傲的书店反刍动物
-0x0100000F000099F3	tooltip7	APT / STUDENT COMMUNIST	You	Standard Wirrâl Die.	骄傲的书店反刍动物
+0x0100000F000099F3	tooltip3	APT / STUDENT COMMUNIST	You	Somewhat bookish toad.	掉书袋的蟾蜍。
+0x0100000F000099F3	tooltip4	APT / STUDENT COMMUNIST	You	Proud bookshop ruminant.	骄傲的书店反刍动物。
+0x0100000F000099F3	tooltip5	APT / STUDENT COMMUNIST	You	Voracious biblophilic teratorn.	贪婪嗜书巨鸟。
+0x0100000F000099F3	tooltip6	APT / STUDENT COMMUNIST	You	UNSTOPPABLE LITERARY WÜRM.	无尽文学巨虫
+0x0100000F000099F3	tooltip7	APT / STUDENT COMMUNIST	You	Standard Wirrâl Die.	标准威勒尔骰子
 0x0100000F00009A2B	Dialogue Text	APT / STUDENT COMMUNIST	Composure	What's there to be scared of? You've really been cracking the books these last few days. You can go toe-to-intellectual-toe with any reading group in Martinaise...	有什么可怕的？这几天你可是博览群书。不管去马丁内斯的哪个阅读小组，你都能进行一番紧张刺激的学术对话……
 0x0100000F00009A30	Dialogue Text	APT / STUDENT COMMUNIST	Composure	Take a deep breath. You've done some reading these past few days. But you also know there's more to life than what you find in books...	深呼吸。这几天你读了一些书。但你知道生命的意义不仅在于书本……
 0x0100000F00009A35	Dialogue Text	APT / STUDENT COMMUNIST	Composure	Remember: Where most people go wrong is in thinking they have to hide what they don't know...	记住：大部分人不懂装懂的时候是会出问题的……
@@ -1352,7 +1352,7 @@
 0x0100000F0000A3A9	Dialogue Text	APT / STUDENT COMMUNIST	Rhetoric	What is it? Are you scared because you can't remember a single book you've read?	是什么？你是因为无法想起任何一本读过的书而感到恐慌吗？
 0x0100000F0000A3AF	Dialogue Text	APT / STUDENT COMMUNIST	Rhetoric	You're intimidated by all the books these kids have read, aren't you? Maybe a trip to the bookstore would do you some good.	你在这些孩子读过的书面前感到自惭形秽了，是吧？也许去一趟书店能帮到你。
 0x0100000F0000A3B5	Dialogue Text	APT / STUDENT COMMUNIST	Rhetoric	What are you worried about? You've read plenty of books. Why don't you take a little pause, come back once your mind's clear?	你在担心什么？你读了不少书了。何不暂停一会儿，等头脑清醒了再回来？
-0x0100000F0000A3BC	Dialogue Text	APT / STUDENT COMMUNIST	Kim Kitsuragi	"As in, 'No, everything is *not* in order'? Can you give me a negative, detective?"	“意思是‘不，一切都*不*好’吗？你能否确认一下，警官？”
+0x0100000F0000A3BC	Dialogue Text	APT / STUDENT COMMUNIST	Kim Kitsuragi	"As in, 'No, everything is *not* in order'? Can you give me a negative, detective?"	“意思是‘不，一切都*不*好’吗？你能否确认一下，警探？”
 0x0100000F0000A3D2	Dialogue Text	APT / STUDENT COMMUNIST	You	Shake your head no.	摇头表示你不好。
 0x0100000F0000A3D8	Dialogue Text	APT / STUDENT COMMUNIST	You	Nod again.	再点一次头。
 0x0100000F0000A3EE	Dialogue Text	APT / STUDENT COMMUNIST	Kim Kitsuragi	"It seems he's lost his words. A case of momentary aphasia, it looks like..." The lieutenant does not appear overly concerned.	“看起来他无法说话了。似乎是暂时性的失语症……”警督看起来并不十分担心。
