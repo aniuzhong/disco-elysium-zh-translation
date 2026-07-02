@@ -3,6 +3,13 @@
 - [概要](#概要)
   - [📖 政治术语](#-政治术语)
     - [意识形态](#意识形态)
+    - [虚构政治实体与地域](#虚构政治实体与地域)
+    - [政治符号](#政治符号)
+  - [👮 RCM 警阶体系](#-rcm-警阶体系)
+    - [警衔等级](#警衔等级)
+    - [特殊头衔](#特殊头衔)
+
+---
 
 ## 📖 政治术语
 
@@ -34,3 +41,61 @@
 | colonialism / colonialist / colonist | 殖民主义 / 殖民主义者 / 殖民者 |
 | reactionary | 反动 / 反动派 |
 | radical / radicalism | 激进 / 激进主义 |
+
+### 虚构政治实体与地域
+
+| 英文 | 中文译名 |
+|------|----------|
+| Kras Mazov | 卡拉斯·马佐夫 |
+| Dolores Dei / Her Innocence | 德洛莉丝·黛 / 无罪女王 |
+| Moralintern (MI) | 国际道德伦理委员会 |
+| Revachol / Revacholian | 瑞瓦肖 / 瑞瓦肖人 |
+| Commune of Revachol | 瑞瓦肖公社 |
+| Coalition | 联盟 |
+| Suzerain | 宗主 / 圣后 |
+| Insulinde | 伊苏林迪 |
+| Graad | 格拉德 |
+| Mesque | 梅斯克 |
+| Samaran | 萨马拉 |
+| Oranje | 奥兰治 |
+| Seol | 西奥 |
+| Sur-la-Clef | 苏拉菲 |
+| Mundi | 蒙迪 |
+| Katla | 卡特拉 |
+| Hjelmdall | 赫姆达尔 |
+| Gottwald | 戈特伍德 |
+| Krenel | 科奈尔 |
+
+### 政治符号
+
+| 英文 | 中文译名 | 说明 |
+|------|----------|------|
+| star-and-antlers | 五角星和鹿角 | 康米主义的图像标志 |
+| Crown of Immortality | 不朽王冠 | 德洛莉丝·黛的圣物 |
+| globe crucigère / scepter | 十字圣球 / 权杖 | 王权与神权象征 |
+| Infra-materialism | 亚唯物主义 | 游戏虚构哲学体系 |
+| race theory | 种族理论 | 测颅先生的极端种族学说 |
+
+---
+
+## 👮 RCM 警阶体系
+
+游戏中的 RCM（Revachol Citizens Militia / 瑞瓦肖市民民兵）采用与现实中不同的警衔体系。以下是 Kim Kitsuragi 在解释警徽时的原话整理：
+
+### 警衔等级
+
+| 等级 | 英文 | 中文译名 | 说明 |
+|:----:|------|----------|------|
+| 1 | Junior Officer | 初级警员 | 最低警衔，通常为青少年 |
+| 2 | Patrol Officer | 巡警 | 基层巡逻，如 Judit Minot |
+| 3 | **Sergeant** | **警司** | 如 Mack Torson |
+| 4 | **Lieutenant** | **警督** | 仍参与外勤的最高警衔，如 Kim Kitsuragi、Harrier Du Bois |
+| 5 | **Captain** | **警长** | 分局指挥官，如 Ptolemy Pryce |
+
+### 特殊头衔
+
+| 英文 | 中文译名 | 说明 |
+|------|----------|------|
+| Lieutenant Double-Yefreitor | 双重荣誉警督 | 两次拒绝晋升 Captain 后附加的荣誉称号（Harry 专属） |
+| Lieutenant-Yefreitor | 荣誉警督 | 拒绝一次晋升 Captain 后的头衔 |
+| Satellite-Officer | 随迁警官 | 搭档快速晋升时随之提升的附属头衔（如 Jean Vicquemare） |
