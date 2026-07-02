@@ -48,7 +48,7 @@
 0x010000570000A7E8	Dialogue Text	JAM / box of clothes	You	"Thanks for the advice, I'll try to be more economically conscious."	“感谢你的建议，我会努力多注意一些经济问题的。”
 0x010000570000A7FE	Dialogue Text	JAM / box of clothes	Siileng	"You keep coming back. That's good, officer! Keep browsing those clothes, keep saving that economy!"	“你又回来了。真的太棒了，警官！继续看看那些衣服，继续拯救经济吧！”
 0x010000570000A80F	Dialogue Text	JAM / box of clothes	Siileng	"Very cool. The economy thanks you, officer."	“太酷了。经济谢谢你，警官。”
-0x01000070000032D8	Dialogue Text	JAM / box of clothes	You	"Those socialists in academia."	“那些学术界的社会党。”
+0x01000070000032D8	Dialogue Text	JAM / box of clothes	You	"Those socialists in academia."	“那些学术界的工人主义者。”
 0x0100000F000149D9	Dialogue Text	JAM / box of sun glasses	Savoir Faire	Stylish shades, huh? They'd be even more stylish if you paid for them with net worth. Go over and ask him.	时尚的墨镜，是吧？如果你能用净资产买的话就更时尚了。过去问他。
 0x0100002B0003F1DF	Dialogue Text	JAM / box of sun glasses	Perception (Sight)	Alright, but these actually make your vision worse. It's like literally being under water.	好吧，但是这样确实让你的视力变得更差了。真的感觉像在水下一样。
 0x0100002B0003F1E5	Dialogue Text	JAM / box of sun glasses	Inland Empire	Yes, but they also make your soul quiver like jello. So deep.	是的，但是它们也会让你的灵魂像果冻一样颤抖。如此深的地方。
@@ -1900,7 +1900,7 @@
 0x0100002B0005D829	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"Good move, officer. You won't find a deal like this anywhere."	“你真高明，警官。在别处可找不到这种好货了。”
 0x0100002B0005D82F	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"These, officer? These speakers are Samaran garbage. I'm ashamed to even use them for props. Don't waste your time on them."	“这些吗，警官？这些扬声器是萨马拉的垃圾。用它们当支撑甚至都让我觉得有些丢脸。别在它们上面浪费时间了。”
 0x0100002B0005D836	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	You	"Can't I just buy the sad, conquered Samaran speakers?"	“那我就不能买下这些可怜又挫败的萨马拉扬声器吗？”
-0x0100002B0005D83D	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"No way, officer, these aren't for sale. They're bad speakers, low-fi socialist junk."	“不可以的，警官，它们是非卖品。这些都是垃圾，低保真社会党的垃圾。”
+0x0100002B0005D83D	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"No way, officer, these aren't for sale. They're bad speakers, low-fi socialist junk."	“不可以的，警官，它们是非卖品。这些都是垃圾，低保真工人主义的垃圾。”
 0x0100002B0005D84B	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"No, don't pity them, officer! These are old Samaran garbage. Don't even look at them! Check out these super-cool FALN 'Ultras,' instead."	“不，不要同情它们，警官！这是不过是些破旧的萨马拉垃圾。甚至都不要去看它们！还是看看这些超级拉风的FALN‘极致’运动鞋吧。”
 0x0100002B0005D855	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"Super cool! Now the premium lifestyle is yours, officer."	“酷毙了！现在这种高端生活方式是你的了，警官。”
 0x0100002B0005E922	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	You	"But I already looked at the sneakers."	“但是我已经看过运动鞋了。”
@@ -1908,7 +1908,7 @@
 0x0100002B0005E92E	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	You	"But I already *bought* the sneakers."	“但是我已经*买下*运动鞋了。”
 0x0100002B0005E934	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"So you did! Now put them on and look at them, officer! Make the people jealous of your premium lifestyle!"	“确实如此！那就赶紧穿上欣赏一下，警官！让大家羡慕一下你的高端生活方式！”
 0x0100002B0005E955	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	You	"But I need some speakers."	“但是我需要那些扬声器。”
-0x0100002B0005E95B	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	You	"That's why I want them. I think I might be low-fi socialist junk myself."	“这就是我需要它们的原因。我觉得自己可能就是个低保真社会党垃圾。”
+0x0100002B0005E95B	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	You	"That's why I want them. I think I might be low-fi socialist junk myself."	“这就是我需要它们的原因。我觉得自己可能就是个低保真工人主义垃圾。”
 0x0100002B0005E963	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	You	"You're right, I don't have time for junk, I lead a luxury life."	“你说得对，我没时间管这些垃圾，我的生活可奢侈了。”
 0x0100002B0005E96A	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"Well, if you *want* them..." He pauses for a moment, calculating.	“呃，如果你*想要*的话……”他停了一会儿，计算着。
 0x0100002B0005E977	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"No, officer, you're a high-class policeman who accepts nothing less than the best! Lucky for you, I've got the best on sale!"	“不，警官，你是一个高级警察，所以只能接受最好的东西！你走运了，我这里最棒的货物正在打折！”
@@ -1924,8 +1924,8 @@
 0x0100002B0005EA7C	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"Oh," he exclaims, appearing to wipe a tear from his eye. "They're so beautiful I can hardly look at them."	“哦，”他呼喊着，像是在擦拭眼角的泪水。“它们真是太漂亮了，我几乎都不敢看了。”
 0x0100002B0005EA8A	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	You	"You don't know what I am. I don't even know it myself." (Pause). "I want the speakers."	“你不知道我是什么人。甚至连我自己都不知道我是谁。”（停顿一下）。“我想要扬声器。”
 0x010000570000A829	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"I can see you've a taste for luxury, officer!" says the shopkeeper. "Can't keep your eyes off those sneakers?"	“我发现你的品味非常奢侈啊，警官！”店主说道。“已经不能把眼睛从那些运动鞋上移开了吗？”
-0x010000570000A842	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	You	"Wait, what if I *do* deserve more than a low-fi socialist sound system..."	“等等，如果我*确实*值得比低保真社会党音响系统更好的东西呢……”
-0x010000570000A849	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"You do, officer, you do! Remember -- we don't have to resort to socialism, we can have nice things too! At socialist *prices*." He pats the boxes tenderly.	“没错，警官，你值得的！要记住——我们诉诸工人主义，我们也可以拥有好东西！而且还是按照很*社会*的价格。”他温柔地拍了拍那些箱子。
+0x010000570000A842	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	You	"Wait, what if I *do* deserve more than a low-fi socialist sound system...”	“等等，如果我*确实*值得比低保真工人主义音响系统更好的东西呢……”
+0x010000570000A849	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"You do, officer, you do! Remember -- we don't have to resort to socialism, we can have nice things too! At socialist *prices*." He pats the boxes tenderly.	“没错，警官，你值得的！要记住——我们诉诸工人主义，我们也可以拥有好东西！而且还是按照*工人主义*的价格。”他温柔地拍了拍那些箱子。
 0x010000700000325C	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	FALN Sneakers on a Pedestal of Speakers	The sneakers seem to vibrate in your hands with an almost mystical energy.	运动鞋像是在你手中震动，散发着一股几乎可以说是神秘的能量。
 0x0100007000003270	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"If, on the other hand, you wanted to buy the *sneakers*, too, I could maybe throw in the speakers for a little extra -- 50 cents."	“换句话说，如果你也想买下这双*运动鞋*的话，也许我可以加点钱把扬声器算进去——50分。”
 0x01000070000032B1	Dialogue Text	JAM / faln sneakers on a pedestal of speakers	Siileng	"Okay, officer, they're yours. For 50 cents."	“好吧，警官，它们是你的了。50分。”
