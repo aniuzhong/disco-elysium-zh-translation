@@ -35,7 +35,7 @@
 0x0100002100001293	Dialogue Text	APT / CLEANING LADY	You	"Sure, I'll go see what I can find." (Take it on.)	“当然了，我去看看到底是怎么回事。”（接受。）
 0x0100002100001299	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"Great. Young people, they're worse than rats, you know -- always littering the hallways with trinkets and empty beer cans..."	“很好。年轻人，他们比老鼠还要糟糕，你知道的——总是把一些小玩意随手丢在走廊里，还有空啤酒罐……”
 0x01000021000012A2	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"Suit yourself, Mr. Important. No one cares about this building any way..."	“那就请便吧，重要先生。反正也没人在乎这个地方……”
-0x01000053000033C9	Dialogue Text	APT / CLEANING LADY	You	"Do you know anything about a *secret meeting* that's happening tonight?"	“昨夜发生的*秘密集会*，你有任何印象吗？”
+0x01000053000033C9	Dialogue Text	APT / CLEANING LADY	You	"Do you know anything about a *secret meeting* that's happening tonight?"	“今晚有场*秘密集会*，你有任何印象吗？”
 0x01000053000033D0	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"What?" She frowns. "No. Nobody tells me anything."	“什么？”她皱眉。“不。没人告诉我任何事。”
 0x01000053000033D7	Dialogue Text	APT / CLEANING LADY	You	"How about any unusual activity taking place after hours? Say after 22.00?"	“那你有没有注意到夜里有任何不同寻常的活动迹象？比如说晚上十点以后？”
 0x01000053000033E4	Dialogue Text	APT / CLEANING LADY	Logic	Would she understand if they did?	就算有，她会注意到吗？
