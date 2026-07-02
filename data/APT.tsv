@@ -2228,7 +2228,7 @@
 0x01000057000160D9	Dialogue Text	APT / TOMAS THE SPONSOR	You	"But what is a normal, stable world?"	“一个正常又稳定的世界是什么样的？”
 0x01000057000160E3	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"The Occident is part of the normal world. Oranje, Sur-la-Clef..."	“奥西登是正常世界的一部分。奥兰治，苏拉菲……”
 0x01000057000160E9	Dialogue Text	APT / TOMAS THE SPONSOR	You	"No, prosperity sounds like a lot of fun."	“不，繁荣听起来要更有趣一些。”
-0x01000057000160EF	Alternate1	APT / TOMAS THE SPONSOR	You	"Martinaise isn't very stable, even with the Moralintern giving us money."	“就算国际道德伦理委员给我们钱，马丁内斯也不稳定。”
+0x01000057000160EF	Alternate1	APT / TOMAS THE SPONSOR	You	"Martinaise isn't very stable, even with the Moralintern giving us money."	“就算国际道德伦理委员会给我们钱，马丁内斯也不稳定。”
 0x01000057000160EF	Dialogue Text	APT / TOMAS THE SPONSOR	You	"Martinaise doesn't seem very normal, or stable, to me."	“在我看来，马丁内斯好像不太平常，也不稳定。”
 0x01000057000160FB	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"Martinaise? No, Martinaise is... something else."	“马丁内斯？不，马丁内斯是……另一回事。”
 0x0100005700016101	Dialogue Text	APT / TOMAS THE SPONSOR	You	"No, peace sounds pretty good."	“不，和平听起来挺好的。”
@@ -2474,7 +2474,7 @@
 0x01000070000068DB	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"But rest assured: The Oranjese government has committed to producing a timetable that would lay out a path to transition to a professional army. Soon there'll be no need for mercenaries like this poor man."	“但是请放心：奥兰治政府已经决心制定出一个时间表，规划出一条将其过渡为职业军队的道路。很快就不需要像这个可怜男人一样的雇佣兵了。”
 0x01000070000068E2	Dialogue Text	APT / TOMAS THE SPONSOR	You	"What kind of a timetable are we talking about here?"	“我们这里说的时间表是什么样的？”
 0x01000070000068E8	Dialogue Text	APT / TOMAS THE SPONSOR	You	"Oh, well that solves that, then."	“哦，那样确实能解决问题。”
-0x01000070000068F0	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	The man nods. "See? That's the kind of progress that the Moralintern makes possible."	男人点点头。“明白了吧？当国际道德伦理委员会能给我们带来的进步。”
+0x01000070000068F0	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	The man nods. "See? That's the kind of progress that the Moralintern makes possible."	男人点点头。“明白了吧？这就是国际道德伦理委员会能给我们带来的进步。”
 0x01000070000068F7	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"Oh, it's hard to put an exact date on it. I believe the proposal for the timetable is due to be completed around '60 or '61."	“哦，很难说出个具体日期。我相信时间表的提案应该会在60或者61年完成。”
 0x01000070000068FE	Dialogue Text	APT / TOMAS THE SPONSOR	You	"What? That's like a decade from now!"	“什么？那差不多都要10年了吧！”
 0x0100007000006905	Dialogue Text	APT / TOMAS THE SPONSOR	You	"I guess that's better than nothing."	“我猜这样总比什么都不做的好。”
@@ -2688,7 +2688,7 @@
 0x0100000700019F71	Dialogue Text	APT / TOMAS THE SPONSOR barks apt	Sunday Friend	"A *politicien* is never off z'e clock."	“一名*政客*从来不会下班。”
 0x0100000700019F78	Dialogue Text	APT / TOMAS THE SPONSOR barks apt	Sunday Friend	"Moderacy in everything -- even in moderacy."	“一切都要节制——就算节制本身也是。”
 0x0100000700019F7F	Dialogue Text	APT / TOMAS THE SPONSOR barks apt	Sunday Friend	"Everyone needs to share z'e *responsabilité*."	“大家都需要分担自己的*责任*。”
-0x0100004000002C10	Dialogue Text	APT / TOMAS THE SPONSOR barks apt	Sunday Friend	"If *stabilité* is ensured, progress will naturally follow."	“如果能保证*稳定*，进展自然会随之而来。””
+0x0100004000002C10	Dialogue Text	APT / TOMAS THE SPONSOR barks apt	Sunday Friend	"If *stabilité* is ensured, progress will naturally follow."	“如果能保证*稳定*，进展自然会随之而来。”
 0x01000092000032DD	Dialogue Text	APT / WCW barks	Working Class Woman	"I'm alright, you can leave now..."	“我没事，现在你可以离开了……”
 0x01000092000032E4	Dialogue Text	APT / WCW barks	Working Class Woman	"Please just leave..."	“请离开吧……”
 0x01000092000032EF	Dialogue Text	APT / WCW barks	Working Class Woman	"Hello, detective."	“你好，警探。”
