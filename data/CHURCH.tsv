@@ -423,7 +423,7 @@
 0x0100000600015BF6	Dialogue Text	CHURCH / SOONA	You	"Tiago -- under the roof -- he said he's circling the spot, like a saeraff. He seemed to have lost his mind."	“蒂亚戈——屋顶下那个人——他说自己围绕着那个点转圈，就像一个祭司。他像是已经失去理智了。”
 0x0100000600015BFD	Dialogue Text	CHURCH / SOONA	Soona, the Programmer	"I told the producers we need to go and move to a normal office building, with amenities. But no -- the artists like the *milieu*. The writers like the *history*..." She shakes her head. "I told them."	“我告诉过制作人说我们需要搬去普通的办公大楼，有天线的那种。但是不行——设计师喜欢那个*环境*。作家喜欢*历史*……”她摇摇头。“我告诉过他们的。”
 0x0100000600015C04	Dialogue Text	CHURCH / SOONA	You	No -- It's better they don't know.	不——他们不知道更好。
-0x0100000600015C0A	Dialogue Text	CHURCH / SOONA	Soona, the Programmer	"I told them, but no -- normal office buildings are *bourgeois*..."	“我告诉过他们的，但是没用——普通的办公大楼太*世俗*了……”
+0x0100000600015C0A	Dialogue Text	CHURCH / SOONA	Soona, the Programmer	"I told them, but no -- normal office buildings are *bourgeois*..."	“我告诉过他们的，但是没用——普通的办公大楼太*资产阶级*了……”
 0x0100000600015C19	Dialogue Text	CHURCH / SOONA	Soona, the Programmer	"True, we never should have upgraded to Vox '50. And the spec kept changing. And those damn *Heads*... but still, the anomaly caused a massive data loss. So -- it had a part to play. It does *something*."	“是真的，我们根本就不应该升级到沃克斯50版。规格一直在变。还有那些该死的*头*……不过，那次异常还是导致了严重的数据损失。所以——这里面也有它的作用。它做了些*什么*。”
 0x0100000600015C20	Dialogue Text	CHURCH / SOONA	Empathy	She already made up her mind when she heard it. Some kind of great and uncaring force had to play a part... it wasn't *only* them.	当她听到这个的时候就已经下定决心了。某种强大而无情的力量肯定在里面起了作用……不*仅仅*是因为他们。
 0x0100000600015C35	Dialogue Text	CHURCH / SOONA	Soona, the Programmer	"The crab-man... From what I've heard, his state could be reminiscent of pale over-exposure. Time-perception related illnesses, memory malfunctions, thought insertion."	“蟹男……据我所知，他的状态可能会让人联想到灰域暴露过度。一种跟时间知觉有关的疾病，记忆机能失常，思维插入。
@@ -1525,7 +1525,7 @@
 0x01000021000013F1	Dialogue Text	CHURCH / TIAGO	You	"I see what you've done there. It's as if these figures are trying to become one with the church -- or perhaps with the Mother herself."	“我看见你在那里做了什么。就好像这些东西想要跟教堂融为一体——或者也许，是母亲本身。”
 0x01000021000013F7	Dialogue Text	CHURCH / TIAGO	You	(Rub your chin.) "You've got some nice... curves going there."	（抚摸自己的下巴。）“你有些……很漂亮的曲线。”
 0x01000021000013FD	Dialogue Text	CHURCH / TIAGO	You	(Squint your eyes.) "These seem a tad... derivative."	（斜着眼睛。）“这些看起来有一点像是……衍生物。”
-0x0100002100001403	Dialogue Text	CHURCH / TIAGO	You	"You're promoting the objectification of women with your reactionary depiction of female bodies."	“你这是在推动用女性身体的保守描述物化女性。”
+0x0100002100001403	Dialogue Text	CHURCH / TIAGO	You	“You're promoting the objectification of women with your reactionary depiction of female bodies.”	“你这是在用反动的方式描绘女性躯体来物化女性。”
 0x010000210000141E	Dialogue Text	CHURCH / TIAGO	Drama	*Sssurveys* are a good way to fish for personal information, especially in the name of public sssafety...	*调查*是一种搜寻个人信息的好方法，特别是以公共安全为名义的时候……
 0x0100002100001426	Dialogue Text	CHURCH / TIAGO	You	"Just tell me what's the password." (Step closer.)	“赶紧把密码告诉我吧。”（靠近一些。）
 0x010000210000142C	Dialogue Text	CHURCH / TIAGO	You	"Yes, it's for a first-degree murder investigation in Martinaise."	“是的，是为了调查马丁内斯发生的一起一级凶杀案。”
