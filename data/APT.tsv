@@ -1,7 +1,7 @@
 ﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
 0x0100000400015B29	Dialogue Text	APT / CLEANING LADY	You	"What can you tell me about Cindy?"	“关于辛迪，你有什么能告诉我的吗？”
-0x0100000400015B30	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"The *artist*?" She scoffs. "Nothing I can do about her, I'm afraid. She ruins the walls faster than I can clean them. Still..." She leans on her broom.	“那个*艺术家*？”她奚落道。“恐怕我对她是无能为力了。她破坏墙壁的速度比我清洁的还要快。不过……”
-0x0100000400015B3B	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"She leaves an old lady to her business. More than I can say for others..."	她靠在自己的扫帚上。“她不怎么打扰我做事。其他人我就不好说了……”
+0x0100000400015B30	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"The *artist*?" She scoffs. "Nothing I can do about her, I'm afraid. She ruins the walls faster than I can clean them. Still..." She leans on her broom.	“那个*艺术家*？”她奚落道。“恐怕我对她是无能为力了。她破坏墙壁的速度比我清洁的还要快。不过……”她靠在自己的扫帚上。
+0x0100000400015B3B	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"She leaves an old lady to her business. More than I can say for others..."	“她不怎么打扰我做事。其他人我就不好说了……”
 0x0100000500003A0A	Dialogue Text	APT / CLEANING LADY	Kim Kitsuragi	"Thank you." He turns to you. "We should go check out his apartment on the balcony, see if he's home."	“谢谢。”他转向你。“我们应该去阳台上找找他的房间，看他在不在家。”
 0x010000060001B976	Dialogue Text	APT / CLEANING LADY	Endurance	This woman's health is failing her. There's not much to do, not in this damp.	女人的健康每况愈下。没什么可以做的，至少在这个潮湿的地方不行。
 0x010000060001B980	Dialogue Text	APT / CLEANING LADY	Logic	She's the cleaning lady. She knows the floor plan and the residents.	她是清洁女工。她知道这里的平面图，也知道这里的住客。
