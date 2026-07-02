@@ -823,7 +823,7 @@
 0x0100000F000091D8	Dialogue Text	APT / STUDENT COMMUNIST	Drama	These two deserve the Order of Honour for Bullshitting. There's no way they've actually *read* all this stuff.	他们两个应该被授予胡说八道学的荣誉学位。他们绝对不可能*读*过这么多东西。
 0x0100000F000091E0	Dialogue Text	APT / STUDENT COMMUNIST	Echo Maker	"Obviously." He snorts.	“显而易见。”他从鼻子里出气。
 0x0100000F000091E7	Dialogue Text	APT / STUDENT COMMUNIST	Steban, the Student Communist	"But, of course, our *special emphasis* is on the theories of Ignus Nilsen and his followers, especially the infra-materialists."	“不过当然，我们的*重点*还是伊格纳斯·尼尔森和他的追随者，尤其是亚唯物主义者们的理论。”
-0x0100000F000091EE	Dialogue Text	APT / STUDENT COMMUNIST	Encyclopedia	One of Kras Mazov's closest associates, Ignus Nilsen was a leading political and military figure in the Antecentennial Revolution.	伊格纳斯·尼尔森卡拉斯·马佐夫最亲密的战友之一，世纪大革命时期的政治与军事领袖。
+0x0100000F000091EE	Dialogue Text	APT / STUDENT COMMUNIST	Encyclopedia	One of Kras Mazov's closest associates, Ignus Nilsen was a leading political and military figure in the Antecentennial Revolution.	伊格纳斯·尼尔森是卡拉斯·马佐夫最亲密的战友之一，世纪大革命时期的政治与军事领袖。
 0x0100000F000091FB	Dialogue Text	APT / STUDENT COMMUNIST	Half Light	Why do you always leave out the good parts? Tell him how he got his *true name*, right now!	为什么你总是省略最棒的部分？告诉他尼尔森的*真名*从何而来，立刻马上！
 0x0100000F00009204	Dialogue Text	APT / STUDENT COMMUNIST	Encyclopedia	Oh, right. During the disastrous retreat from Graad to Samara, Nilsen personally ordered up to 12,000 prisoners of war impaled on sharpened spruce trees in the Samaran backcountry. Thereafter his opponents began referring to him as the 'Apocalyptic Shrike'.	哦，没错。在那场从格拉德到萨马拉的灾难性的大撤退途中，伊格纳斯·尼尔森在萨马拉的荒郊野外下令，将12000名战犯钉在削尖的云杉树上。从那之后他的政敌就开始称呼他为“末日的伯劳鸟”。
 0x0100000F00009209	Dialogue Text	APT / STUDENT COMMUNIST	Encyclopedia	Today, Nilsen's reputation has waned in most parts of the developed world, with the exception of the People's Republic of Samara (SRV), where he is recognized as a founding father. His political philosophy is a variant of Mazovianism called Nilsenist-Mazovianism.	如今，尼尔森在绝大部分发达国家可谓臭名昭著，唯一的例外是萨马拉共和国。在萨马拉，尼尔森被认为是一名奠基人。他的政治哲学是马佐夫主义的发展，被称为尼尔森-马佐夫主义。
@@ -981,7 +981,7 @@
 0x0100000F0000970E	Dialogue Text	APT / STUDENT COMMUNIST	Steban, the Student Communist	Another sigh. “It's an unfortunate story. You see, our ex-comrade Maurice is something of an economist...”	又一声叹息。“这是个不幸的故事。你瞧，我们的前-同志莫里斯可以算是个经济学家……”
 0x0100000F00009717	Dialogue Text	APT / STUDENT COMMUNIST	Echo Maker	“He’s studying macro- *and* micro-economics.”	“他正在学习宏观*和*微观经济。”
 0x0100000F00009724	Dialogue Text	APT / STUDENT COMMUNIST	Kim Kitsuragi	"Wow, a *real* intellectual, it sounds like." The lieutenant arches his eyebrows.	“哇哦，听起来*真*是一位学者。”警督扬起眉毛。
-0x0100000F0000972A	Dialogue Text	APT / STUDENT COMMUNIST	Steban, the Student Communist	“Right, so a few weeks ago we were discussing the extra-physical capabilities of the revolutionary state, and Maurice said... what were his exact words, Ulixes?"	“是的几周前我们在讨论革命国家的超物理能力，然后莫里斯说……尤利西斯，他具体说了什么来着？”
+0x0100000F0000972A	Dialogue Text	APT / STUDENT COMMUNIST	Steban, the Student Communist	“Right, so a few weeks ago we were discussing the extra-physical capabilities of the revolutionary state, and Maurice said... what were his exact words, Ulixes?"	“是的，几周前我们在讨论革命国家的超物理能力，然后莫里斯说……尤利西斯，他具体说了什么来着？”
 0x0100000F00009733	Dialogue Text	APT / STUDENT COMMUNIST	Echo Maker	"It was unbelievable. He said, 'Turnips don't care if they're grown by communists, moralists, or welkin. They grow just the same'."	“我不敢相信。他居然说，‘萝卜才不在乎种它的人是康米主义者，道德家，还是精灵。它们长起来都一样。’”
 0x0100000F0000974E	Dialogue Text	APT / STUDENT COMMUNIST	Conceptualization	Just a minute. Steban... Ulixes... *why* do those names ring the faintest of bells?	等一下。史蒂文……尤利西斯……*为什么*这些名字给你一种隐隐的熟悉感？
 0x0100000F0000975A	Dialogue Text	APT / STUDENT COMMUNIST	Logic	Probably because they're the real names of 'Nasteb' and 'Exilus', the authors of that so-called essay about TipTop Tournée you read in *La Fumée*.	可能因为它们就是‘凡史蒂’和‘西利尤斯’的真名，也就是你之前在*化为轻烟*上读过的那篇所谓的大师巡回赛批判的作者。
@@ -1440,7 +1440,7 @@
 0x0100000F0000A688	Dialogue Text	APT / STUDENT COMMUNIST	Kim Kitsuragi	"However, if one were to strike a civilian, which again I would never recommend, one should at least follow the RCM manual's guidance on non-lethal strikes."	“但是，如果警官真的要攻击平民——虽然我永远不会支持这种举动——他们至少应当遵守RCM手册对非致命攻击手段的指导意见。”
 0x0100000F0000A68F	Dialogue Text	APT / STUDENT COMMUNIST	You	"What does the manual say?"	“手册怎么说？”
 0x0100000F0000A694	Dialogue Text	APT / STUDENT COMMUNIST	You	"I don't need a book to tell me how to deck a guy."	“我用不着一本书来教我怎么打人。”
-0x0100000F0000A69D	Dialogue Text	APT / STUDENT COMMUNIST	Kim Kitsuragi	"It advises officers in physical altercations to rely on the open-palm strike, as opposed to the backhand, in non-lethal situations."	“手册建议警官在发生冲突时，使用手掌而非守备进行攻击，以避免致命伤害。”
+0x0100000F0000A69D	Dialogue Text	APT / STUDENT COMMUNIST	Kim Kitsuragi	"It advises officers in physical altercations to rely on the open-palm strike, as opposed to the backhand, in non-lethal situations."	“手册建议警官在发生冲突时，使用手掌而非手背进行攻击，以避免致命伤害。”
 0x0100000F0000A6A3	Dialogue Text	APT / STUDENT COMMUNIST	Kim Kitsuragi	"You see, that attitude is precisely why the field manual's guidance is so valuable..."	“你瞧，这种态度就是为什么手册的指导意见对现场调查来说这么重要……”
 0x0100000F0000A6AC	Dialogue Text	APT / STUDENT COMMUNIST	Kim Kitsuragi	"I can't recall the exact explanation, but it has something to do with the kinetic energy stored in the elbow. Basically, you're less able to control a *backhanded* slap, and therefore more likely to cause serious injury."	“我记不清具体的解释了，但是这和肘部运动的动能有关。简单来说，你会更不能控制一个*反手的*耳光，也就因此更容易造成严重伤害。”
 0x0100000F0000A6B9	Dialogue Text	APT / STUDENT COMMUNIST	Kim Kitsuragi	"Or even death, if, say, you happen to be wearing a set of armoured ceramic gauntlets."	“在某些情况下，比如说你刚好戴着一双陶瓷装甲手套，那甚至可能造成死亡。”
@@ -1636,7 +1636,7 @@
 0x0100000F0000AD47	Dialogue Text	APT / STUDENT COMMUNIST	You	Say nothing.	什么也不说。
 0x0100000F0000AD59	Dialogue Text	APT / STUDENT COMMUNIST	Steban, the Student Communist	"Is it... it's holding... it's holding!"	“它是不是……它稳住了……它稳住了！”
 0x0100000F0000AD5E	Dialogue Text	APT / STUDENT COMMUNIST	Steban, the Student Communist	"Aaagh! Shit!"	“啊啊啊！干！”
-0x0100000F0000AD63	Dialogue Text	APT / STUDENT COMMUNIST	Steban, the Student Communist	"Alright, gendarme, your turn."	“好了，警探，轮到你了……”
+0x0100000F0000AD63	Dialogue Text	APT / STUDENT COMMUNIST	Steban, the Student Communist	"Alright, gendarme, your turn."	“好了，警官，轮到你了……”
 0x0100000F0000AD68	Dialogue Text	APT / STUDENT COMMUNIST	Echo Maker	"It's alright, Steban. That was still *very* close. One of our best performances yet."	“别难过，史蒂文。那已经*非常*接近了。是我们表现最好的一次了。”
 0x0100000F0000AD79	Dialogue Text	APT / STUDENT COMMUNIST	Interfacing	You've got this. Theories aside, they're only matchboxes.	你能做到的。别管理论怎么说，这些不过是一堆火柴盒而已。
 0x0100000F0000AD84	Dialogue Text	APT / STUDENT COMMUNIST	You	"Ghost of Mazov, give me strength..." (Proceed.)	“马佐夫的英魂，给予我力量吧……”
