@@ -1,6 +1,6 @@
 ﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
 0x0100000400015B29	Dialogue Text	APT / CLEANING LADY	You	"What can you tell me about Cindy?"	“关于辛迪，你有什么能告诉我的吗？”
-0x0100000400015B30	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"The *artist*?" She scoffs. "Nothing I can do about her, I'm afraid. She ruins the walls faster than I can clean them. Still..." She leans on her broom.	“那个*艺术家*？”她奚落到。“恐怕我对她是无能无力了。她破坏墙壁的速度比我清洁的还要快。不过……”
+0x0100000400015B30	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"The *artist*?" She scoffs. "Nothing I can do about her, I'm afraid. She ruins the walls faster than I can clean them. Still..." She leans on her broom.	“那个*艺术家*？”她奚落道。”恐怕我对她是无能无力了。她破坏墙壁的速度比我清洁的还要快。不过……”
 0x0100000400015B3B	Dialogue Text	APT / CLEANING LADY	Cleaning Lady	"She leaves an old lady to her business. More than I can say for others..."	她靠在自己的扫帚上。“她不怎么打扰我做事。其他人我就不好说了……”
 0x0100000500003A0A	Dialogue Text	APT / CLEANING LADY	Kim Kitsuragi	"Thank you." He turns to you. "We should go check out his apartment on the balcony, see if he's home."	“谢谢。”他转向你。“我们应该去阳台上找找他的房间，看他在不在家。”
 0x010000060001B976	Dialogue Text	APT / CLEANING LADY	Endurance	This woman's health is failing her. There's not much to do, not in this damp.	女人的健康每况愈下。没什么可以做的，至少在这个潮湿的地方不行。
@@ -315,7 +315,7 @@
 0x010000060001E64E	Dialogue Text	APT / CUNO DAD DOOR	Interfacing	You can just go in now...	现在你可以进去了……
 0x0100002F0000FEA5	Dialogue Text	APT / CUNO DAD DOOR	You	[Leave.]	[离开。]
 0x0100002F00012C85	Dialogue Text	APT / CUNO DAD DOOR	Interfacing	Like a goddamn maniac, you rip the chain off the door. The links lie on the floor, scattered.	你就像个该死的疯子，直接把链条从门上扯了下来。链条凌乱地掉落在地上。
-0x0100002F00012C9B	Dialogue Text	APT / CUNO DAD DOOR	Interfacing	Like a goddamn maniac, you rip the chain off the door. The links lie on the floor, scattered.	你就像个该死的疯子，直接把链条从门上扯了下来。链条凌乱地掉落在地上，。
+0x0100002F00012C9B	Dialogue Text	APT / CUNO DAD DOOR	Interfacing	Like a goddamn maniac, you rip the chain off the door. The links lie on the floor, scattered.	你就像个该死的疯子，直接把链条从门上扯了下来。链条凌乱地掉落在地上。
 0x0100008200008DBB	Dialogue Text	APT / CUNO DAD DOOR	Interfacing	The door is locked by a chain. If only you had some kind of standard police device for the cutting of chains. Something, perhaps, that could be found in an RCM motor carriage...	大门被一根链条锁住了。如果你有某种可以剪断链条的标准警用设备就好了。那种东西，也许可以在RCM的汽車里找到……
 0x0100008200008DC1	Dialogue Text	APT / CUNO DAD DOOR	Interfacing	You'll need to equip the chaincutters to enter. Snip right through the metal!	你必须装备切链钳才能进去。直接把金属剪断！
 0x0100008200008DD0	Dialogue Text	APT / CUNO DAD DOOR	Interfacing	Good thing you already have the chaincutters in your hand! Nothing left to do now but *snip-snip*!	还好你已经有切链钳了！现在只需要*咔擦-咔擦*一下就行了！
@@ -1135,7 +1135,7 @@
 0x0100000F00009C64	Dialogue Text	APT / STUDENT COMMUNIST	You	"Nah, it's just good escapist fun."	“那倒没有，它用来打发时间还不错。”
 0x0100000F00009C71	Dialogue Text	APT / STUDENT COMMUNIST	Steban, the Student Communist	"Ah, well there's certainly value in that kind of reading. Comrade Mazov says something on that note in his collected speeches..."	“啊，这种阅读当然还是有价值的。马佐夫同志在他的演讲中评论过这点……”
 0x0100000F00009C76	Dialogue Text	APT / STUDENT COMMUNIST	Steban, the Student Communist	"Ha! Of course you do. I just hope when you're reading it you've got a sturdy pair of gloves on..."	“哈！就知道你会这样。我只希望你在读的时候戴上一双厚实的手套……”
-0x0100000F00009C7B	Dialogue Text	APT / STUDENT COMMUNIST	Steban, the Student Communist	"Oh, sure, we don't mean to deny the value of *pleasure* in reading."	“哦，当然，我们没有想要否认阅读的*乐趣*。。”
+0x0100000F00009C7B	Dialogue Text	APT / STUDENT COMMUNIST	Steban, the Student Communist	"Oh, sure, we don't mean to deny the value of *pleasure* in reading."	“哦，当然，我们没有想要否认阅读的*乐趣*。”
 0x0100000F00009C80	Dialogue Text	APT / STUDENT COMMUNIST	Echo Maker	"'To find victory in the cultural war we must first scout the battlefield'."	“为了赢下这场文化战争，我们必须首先侦察战场。”
 0x0100000F00009C85	Dialogue Text	APT / STUDENT COMMUNIST	Echo Maker	"Can't let any of the dreck rub off on you."	“不能蹭到那些垃圾。”
 0x0100000F00009C97	Dialogue Text	APT / STUDENT COMMUNIST	Steban, the Student Communist	"In any case, I think we've heard enough. We could use someone with your perspective in the group. With just a bit more theoretical foundation, I think you'll be making real contributions."	“我想我们听得够多了。你的视角将会对我们的小组很有帮助。只要再多一些理论基础，我相信你会作出杰出的贡献。”
@@ -2131,7 +2131,7 @@
 0x0100005700015CCC	Dialogue Text	APT / TOMAS THE SPONSOR	Perception (Hearing)	A baby is crying in the neighbouring apartment.	隔壁公寓里传来婴儿的哭声。
 0x0100005700015CD2	Dialogue Text	APT / TOMAS THE SPONSOR	You	"What are you talking about? No one becomes friends that way."	“你在说什么呢？没人会通过那种方式变成朋友的。”
 0x0100005700015CD8	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"We're old friends, nothing's taboo between us. He comes and goes."	“我们是老朋友，彼此之间百无禁忌。他总是来来去去。”
-0x0100005700015CDE	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"Officer, you have to understand... I can't give you his personal information. I'm sure you have your own methods and databases, right? Please don't put me in this situation."	“警官，你得理解……我不能给你他的个人信息。我肯定你有自己的方法和数据库，对吗？请不要把我至于这种境地。”
+0x0100005700015CDE	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"Officer, you have to understand... I can't give you his personal information. I'm sure you have your own methods and databases, right? Please don't put me in this situation."	“警官，你得理解……我不能给你他的个人信息。我肯定你有自己的方法和数据库，对吗？请不要把我置于这种境地。”
 0x0100005700015CE4	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"Au contraire. It's how millions of people end up where they are, meeting the people they meet. It's how I came here, and my friend, too."	“相反。数百万人就是这样走到今天这一步的，遇到他们会遇到的人。我就是这么来的，我的朋友也是。”
 0x0100005700015CEA	Dialogue Text	APT / TOMAS THE SPONSOR	You	"Fine, but what's his real name?"	“好吧，那他的真名叫什么？”
 0x0100005700015CF6	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"One of the wonders of democracy is that everyone is allowed to have his own opinion." The man pats his pockets, looking for something. "And not just allowed, *encouraged* even. Have you ever tried debate?"	“民主的奇观之一就是允许每个人拥有自己的意见。”男人拍打着自己的口袋，寻找着什么。“不仅仅是允许，甚至是*鼓励*。你有试过辩论吗？”
@@ -2162,7 +2162,7 @@
 0x0100005700015DCE	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"I'm sure you'll see him around, he's very active."	“我肯定你会看见他的，他很活跃。”
 0x0100005700015DD4	Dialogue Text	APT / TOMAS THE SPONSOR	You	"So all you can tell me about him is that he's here to study the arts?"	“所以你唯一能告诉我的，就是他是来这里学习艺术的？”
 0x0100005700015DDA	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"He's a truly free spirit. He likes all the arts. Perhaps graphic design? Printmaking? Who knows? The world is open wide for a talented youth like him."	“他拥有真正自由的灵魂。他喜欢各种各样的艺术。也许是平面设计？版画复制？谁知道呢。对于他这种才华横溢的年轻人，世界是大张怀抱的。”
-0x0100005700015DE4	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"But I told you, officer. He's a bright young man here to pursue his education. Education is the foundation of our future, especially the arts. It is a cornerstone of our civilization."	“但是我告诉过你了，警督。他是一个来这里追求学业的聪明年轻人。教育是未来的根基，特别是艺术。它是人类文明的奠基石。”
+0x0100005700015DE4	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"But I told you, officer. He's a bright young man here to pursue his education. Education is the foundation of our future, especially the arts. It is a cornerstone of our civilization."	“但是我告诉过你了，警官。他是一个来这里追求学业的聪明年轻人。教育是未来的根基，特别是艺术。它是人类文明的奠基石。”
 0x0100005700015DEA	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"Sorry, who?" The man throws a quick glance at his watch.	“对不起，你说谁？”男人飞快地瞥了一眼手表。
 0x0100005700015DF6	Dialogue Text	APT / TOMAS THE SPONSOR	You	"Your friend, the smoker on the balcony. We were just talking about him."	“你的朋友，阳台上那个抽烟的人。我们刚刚还在聊他。”
 0x0100005700015DFC	Dialogue Text	APT / TOMAS THE SPONSOR	Sunday Friend	"This place used to be a luxury accommodation, before the Revolution. Apartments, of course, were much bigger then -- a few walls have been added here and there, leaving some of the tenants without a private bathroom or a kitchen..."	“在大革命之前，这里曾经是豪华住宅。当然了，那时的公寓要更大一些——后来到处加了些墙，结果有些租客就没有私人浴室或者是厨房了……”
