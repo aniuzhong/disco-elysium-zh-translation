@@ -556,9 +556,9 @@
 0x01000078000044F9	Dialogue Text	SEAFORT / DESERTER BONUS	Composure	A strange little engine seems to fire up in him again. It straightens his back.	他身体那个奇怪的小引擎好像又被点燃了，让他挺直了腰背。
 0x010000780000451B	Dialogue Text	SEAFORT / DESERTER BONUS	You	"How come?"	“怎么会这样？”
 0x0100007800004522	Dialogue Text	SEAFORT / DESERTER BONUS	The Deserter	"Because of the *racists*. Everyone is a racist in Martinaise, it's their favourite thing to do in the whole world -- listening to race-themed radio shows. In the ruins, in their lorries." He points inland.	“因为*种族主义者*。马丁内斯的每个人都是种族主义者，在这个世界上，他们最喜欢的东西——就是收听种族主题的广播节目。在废墟里，在他们的卡车上。”他指向内陆。
-0x010000780000452A	Dialogue Text	SEAFORT / DESERTER BONUS	The Deserter	"Pumped full of steroids and Radio Revachol '92. Race this, race that... It's all sanctioned by that social democratic Union and the farce of a social democrat who runs it..."	“满满的都是类固醇和瑞瓦肖92电台。种族这个，种族那个的……全都是那个工人主义的工会批准的，还有领导它的那个工人主义闹剧……”
+0x010000780000452A	Dialogue Text	SEAFORT / DESERTER BONUS	The Deserter	"Pumped full of steroids and Radio Revachol '92. Race this, race that... It's all sanctioned by that social democratic Union and the farce of a social democrat who runs it..."	“满满的都是类固醇和瑞瓦肖92电台。种族这个，种族那个的……全都是那个社会民主主义的工会批准的，还有领导它的那个社会民主主义闹剧……”
 0x0100007800004538	Dialogue Text	SEAFORT / DESERTER BONUS	You	"Mr. Claire?"	“克莱尔先生？”
-0x010000780000453E	Dialogue Text	SEAFORT / DESERTER BONUS	You	"Parody of a social democrat?"	“工人主义的拙劣模仿？”
+0x010000780000453E	Dialogue Text	SEAFORT / DESERTER BONUS	You	"Parody of a social democrat?"	“社会民主主义的拙劣模仿？”
 0x010000780000454C	Dialogue Text	SEAFORT / DESERTER BONUS	The Deserter	"Whores..." is all he says. Even that word has to be pushed through his teeth with great force. The rage seethes too hard.	“婊子……”他只说了这些。就算是那个词，他也是花了大力气从牙齿缝里挤出来的。怒火实在是烧得太猛烈了。
 0x0100007800004553	Dialogue Text	SEAFORT / DESERTER BONUS	The Deserter	"Yes -- *steroids*. A racist on steroids."	“是的——*类固醇*。一个打了类固醇的种族主义者。”
 0x0100007800004568	Dialogue Text	SEAFORT / DESERTER BONUS	The Deserter	"No," he answers for you. "The rich man's looking at real estate and fiddling his kids. Wading through the corpses..."	“不，”他替你做出回答。“有钱人只会看房地产，还有摆弄他的小孩。在尸体中跋涉前行……”
@@ -711,7 +711,7 @@
 0x0100007800004FB2	Dialogue Text	SEAFORT / DESERTER BONUS	You	"What did you talk about?"	“你们聊了些什么？”
 0x0100007800004FB9	Dialogue Text	SEAFORT / DESERTER BONUS	Suggestion	Don't go straight for the kill, exhaust everything else first, soften him up...	先别直接说杀人的事，先彻底探讨别的问题，软化他的态度……
 0x0100007800004FC2	Dialogue Text	SEAFORT / DESERTER BONUS	The Deserter	"Edgar did the talking. Paid his *respects*, like I were a fossil in a uniform. Offered platitudes about *the struggle*, flaunted his pink degree. Even quoted Mazov."	“埃德加说得多。表达他的*尊敬*，好像我是个穿着制服的古化石。说了一堆*奋斗*的陈腔滥调，炫耀自己的粉红学位。甚至还引用了马佐夫的理论。”
-0x0100007800004FC9	Dialogue Text	SEAFORT / DESERTER BONUS	The Deserter	"Never trust a social democrat who quotes Mazov..." he suddenly remembers: "Oh, and charity too. They love their charity -- offered me blankets and social housing. I still have the gas cooker he brought."	“永远也不要相信引用马佐夫理论的工人主义者……”他突然想起来了：“哦，还有慈善。他们喜欢慈善活动——承诺给我毛毯和社会住房*。我这里还有他带来的煤气炉呢。”
+0x0100007800004FC9	Dialogue Text	SEAFORT / DESERTER BONUS	The Deserter	"Never trust a social democrat who quotes Mazov..." he suddenly remembers: "Oh, and charity too. They love their charity -- offered me blankets and social housing. I still have the gas cooker he brought."	“永远也不要相信引用马佐夫理论的社会民主主义者……”他突然想起来了：“哦，还有慈善。他们喜欢慈善活动——承诺给我毛毯和社会住房*。我这里还有他带来的煤气炉呢。”
 0x0100007800004FE0	Dialogue Text	SEAFORT / DESERTER BONUS	Kim Kitsuragi	"Again? What have you done for Edgar before?"	“再也不做？你之前为埃德加做过什么？”
 0x0100007800004FE6	Dialogue Text	SEAFORT / DESERTER BONUS	You	"Again? What have you done for him before?"	“再也不做？你之前为他做过什么？”
 0x0100007800004FEE	Dialogue Text	SEAFORT / DESERTER BONUS	You	"And he let you be here?"	“然后他就让你待在这里？”
@@ -923,7 +923,7 @@
 0x0100007800005C2C	Dialogue Text	SEAFORT / DESERTER BONUS	Empathy	It doesn't look like he is. Okay.	看起来他不像。好吧。
 0x0100007800005C3D	Dialogue Text	SEAFORT / DESERTER BONUS	The Deserter	"Glad we talked about *what*?" Another erratic gesture. He's trembling...	“很高兴我们谈论了*什么*？”又是一个古怪的手势。他在颤抖……
 0x0100007800005C45	Dialogue Text	SEAFORT / DESERTER BONUS	The Deserter	"Who fucking cares?" It does not seem to strike a fire in him anymore...	“谁他妈在乎？”它似乎再也不能点燃他心中的那团火焰了……
-0x0100007800005C5A	Dialogue Text	SEAFORT / DESERTER BONUS	The Deserter	"I don't want to talk about god damn social democrats. Traitors is all they are. Brain dead..." He waves his arm, agitated and despondent at the same time.	“我不想提那些该死的工人主义者。他们全都是叛徒。脑死亡了……”他挥舞着胳膊，激动不安，同时又心灰意冷。
+0x0100007800005C5A	Dialogue Text	SEAFORT / DESERTER BONUS	The Deserter	"I don't want to talk about god damn social democrats. Traitors is all they are. Brain dead..." He waves his arm, agitated and despondent at the same time.	“我不想提那些该死的社会民主主义者。他们全都是叛徒。脑死亡了……”他挥舞着胳膊，激动不安，同时又心灰意冷。
 0x0100007800005C6F	Dialogue Text	SEAFORT / DESERTER BONUS	Empathy	René still presses on his mind.	雷内的事还压在他的心头。
 0x0100007800005C7B	Dialogue Text	SEAFORT / DESERTER BONUS	Half Light	The flame of anger dulls in him. He tires of it, all of it...	愤怒的火焰在他心中渐渐熄灭。他倦了，对一切都感到厌倦……
 0x0100007800005C81	Dialogue Text	SEAFORT / DESERTER BONUS	The Deserter	"Frissel the First, Filippe the Second, what's the difference? Syphilitic murderers the lot. I don't want to think about those things anymore. I'm tired of all of it!"	“弗里塞尔一世，菲利普二世，有什么区别？都是染上梅毒的杀人犯。我不想再提这些事了。我已经厌倦这一切了！”
@@ -1292,10 +1292,10 @@
 0x0100007800002A81	Dialogue Text	SEAFORT / DESERTER MURDER	The Deserter	"What are you talking about?"	“你在说什么？”
 0x0100007800002A89	Dialogue Text	SEAFORT / DESERTER MURDER	Volition	Not now!  Don't melt down now, you're so close. Rewind this back to the previous thought and just say that.	现在不行！现在不能崩溃，你已经很接近了。倒回到之前那个想法，那么说就好。
 0x0100007800002AAE	Dialogue Text	SEAFORT / DESERTER MURDER	The Deserter	"You're *desperate* to report something back to your masters." He squints at you, black pearls gleaming with hatred. "They must have really loved that dead fuck..."	他斜了他一眼，黑珍珠一样的眼睛散发出憎恶的光芒。“*不顾一切*地想要跟你的主人汇报吗。看来他们肯定很喜欢那个死掉的混账……”
-0x0100007800003405	Dialogue Text	SEAFORT / DESERTER MURDER	The Deserter	"The Débardeurs' Union is a social democratic piss-stain, and the fat bourgeois pig who keeps it..." He shakes his head.	“装卸工会是工人主义的污点，控制它的那头资产阶级肥猪……”他摇摇头。
+0x0100007800003405	Dialogue Text	SEAFORT / DESERTER MURDER	The Deserter	"The Débardeurs' Union is a social democratic piss-stain, and the fat bourgeois pig who keeps it..." He shakes his head.	“装卸工会是社会民主主义的污点，控制它的那头资产阶级肥猪……”他摇摇头。
 0x010000780000382B	Dialogue Text	SEAFORT / DESERTER MURDER	You	"You did it. You had the means *and* the motive. It's over."	“是你做的。你有手段*和*动机。一切都结束了。”
 0x0100007800003832	Dialogue Text	SEAFORT / DESERTER MURDER	You	"Mr. Claire? What about him?"	“克莱尔先生？他怎么了？”
-0x010000780000383A	Dialogue Text	SEAFORT / DESERTER MURDER	The Deserter	"Never trust a social democrat. Social democrats are pederasts -- and women. They're the real enemy."	“永远也不要相信工人主义者。他们都是同性恋——还有女人。他们是真正的敌人。”
+0x010000780000383A	Dialogue Text	SEAFORT / DESERTER MURDER	The Deserter	"Never trust a social democrat. Social democrats are pederasts -- and women. They're the real enemy."	“永远也不要相信社会民主主义者。他们都是同性恋——还有女人。他们是真正的敌人。”
 0x0100007800003841	Dialogue Text	SEAFORT / DESERTER MURDER	Rhetoric	There is *something* here for later, he knows his name. But don't let this break the pace now, push forward...	这里面好像有点*问题*，之后再细究，他知道他的名字。不过先不要因此打乱步调，再向前推进……
 0x0100007800003864	Dialogue Text	SEAFORT / DESERTER MURDER	You	How?	怎么会？
 0x010000780000386A	Dialogue Text	SEAFORT / DESERTER MURDER	You	But this *did* nothing.	不过这*并没有*起到任何作用。

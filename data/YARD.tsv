@@ -393,7 +393,7 @@
 0x01000082000068AF	Dialogue Text	YARD / CUNO BEFRIEND WC	Cuno	"Fuck knows -- she says it's the *song of her people* or some shit."	“鬼才知道——她说这是*她们族人的歌*什么的。”
 0x01000082000068B5	Dialogue Text	YARD / CUNO BEFRIEND WC	Cuno	"Crazy people? The fucking *näkkies*? I don't know..."	“一群疯子？该死的*女水妖*？我不知道……”
 0x01000082000068BC	Dialogue Text	YARD / CUNO BEFRIEND WC	You	"What people?"	“什么族人？”
-0x01000082000068CA	Dialogue Text	YARD / CUNO BEFRIEND WC	Encyclopedia	It's Suruese. The Suru are an indigenous ethnic minority in the social democratic powerhouse Vaasa, on the tundra and taiga covered isola of Katla. Far, far away from here -- as far as possible, really.	苏鲁人。苏鲁人是工人主义大国瓦萨的原住民，聚集在被苔原和针叶林覆盖的卡特拉洲上。距离这里非常，非常——极其遥远。
+0x01000082000068CA	Dialogue Text	YARD / CUNO BEFRIEND WC	Encyclopedia	It's Suruese. The Suru are an indigenous ethnic minority in the social democratic powerhouse Vaasa, on the tundra and taiga covered isola of Katla. Far, far away from here -- as far as possible, really.	苏鲁人。苏鲁人是社会民主主义大国瓦萨的原住民，聚集在被苔原和针叶林覆盖的卡特拉洲上。距离这里非常，非常——极其遥远。
 0x01000082000068D8	Dialogue Text	YARD / CUNO BEFRIEND WC	Encyclopedia	Sounds *boreal*, like something from the tundra- and taiga- covered Katla isola. Far, far away from here -- as far as possible, really.	听上去像*北边*，像是被苔原和针叶林覆盖的卡特拉洲。距离这里非常，非常——极其遥远。
 0x01000082000068F2	Dialogue Text	YARD / CUNO BEFRIEND WC	You	Do they have red-haired people there?	那里有红头发的人吗？
 0x01000082000068F8	Dialogue Text	YARD / CUNO BEFRIEND WC	You	"Cuno, could she be Suruese?"	“坤诺，她会是苏鲁人吗？”
@@ -735,8 +735,8 @@
 0x0100008200008227	Dialogue Text	YARD / CUNO FRIDGE	Suggestion	Now is the time to be humble. Say the *sir* thing.	是时候恭敬一点了，用上*先生*之类的吧。
 0x010000820000823C	Dialogue Text	YARD / CUNO FRIDGE	You	So not sure about this. Asking for *class solidarity* seems naive in this case.	我对此不太确定。在这种情况下要求*阶级团结*似乎过于天真了。
 0x0100008200008244	Dialogue Text	YARD / CUNO FRIDGE	Rhetoric	Can't you see his hair is red -- the colour of social democracy?	没看到他红色的头发吗——社会民主的代表色啊？
-0x010000820000824E	Dialogue Text	YARD / CUNO FRIDGE	You	Aren't social democrats traitors?	工人主义党派不都是叛徒吗？
-0x0100008200008255	Dialogue Text	YARD / CUNO FRIDGE	Rhetoric	Not all of them. Social democrats have their hearts in the right place. Some of them can be valuable *allies* if you turn them.	不完全是。工人主义党人的内心是正义的。如果你能改变他们，他们中的一些人就会成为你重要的*盟友*。
+0x010000820000824E	Dialogue Text	YARD / CUNO FRIDGE	You	Aren't social democrats traitors?	社会民主党不都是叛徒吗？
+0x0100008200008255	Dialogue Text	YARD / CUNO FRIDGE	Rhetoric	Not all of them. Social democrats have their hearts in the right place. Some of them can be valuable *allies* if you turn them.	不完全是。社会民主党人的内心是正义的。如果你能改变他们，他们中的一些人就会成为你重要的*盟友*。
 0x010000820000825E	Dialogue Text	YARD / CUNO FRIDGE	You	Am I sure about this? Sounds sort of weak...	确定吗？听上去好弱……
 0x0100008200008265	Dialogue Text	YARD / CUNO FRIDGE	Rhetoric	No, it's not weak. It's sincere. Do not confuse sincerity with weakness. Say it. Trust me.	不，一点都不弱，而是真诚。别把真诚和软弱混为一谈，说出来，相信我。
 0x010000820000826D	Dialogue Text	YARD / CUNO FRIDGE	You	"If you don't tell me, I'll have to go ask other people, and that will take too long... The body is decomposing..."	“如果你不告诉我，我就得去问别人，那要花很长时间……尸体已经开始腐烂了……”
