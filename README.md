@@ -4,7 +4,7 @@
 
 💃 *官方原版中文翻译已经非常出色，仅在其基础上对明显疏漏进行修补。* 💃
 
-![Skills](images/Skills_Grid.jpg)
+![Family_Portrait](images/Family_Portrait.jpg)
 
 </div>
 
