@@ -164,7 +164,7 @@
 0x0100005100001F79	Dialogue Text	WHIRLING F2 ORB / Faschist Quest Initiation	Endurance	The game was rigged from before you even knew how the pieces move, söldier. (The tightness spreads to your gut.)	你还不知道下哪步棋的时候，别人就已经将你的军了，士兵。（你的肚子感到一阵紧绷。）
 0x0100005100001FF8	Dialogue Text	WHIRLING F2 ORB / Faschist Quest Initiation	Rhetoric	And by 'longing' you meant 'blatantly racist', right?	你说的“渴望”是指“公开的种族主义”吗？
 0x010000510000200F	Dialogue Text	WHIRLING F2 ORB / Faschist Quest Initiation	Endurance	They're still all men, of course.	当然了，他们都是男人。
-0x0100005100002034	Dialogue Text	WHIRLING F2 ORB / Faschist Quest Initiation	Rhetoric	That is *not* a saying. It makes no sense.	那*不是*一句话。跟本毫无意义。
+0x0100005100002034	Dialogue Text	WHIRLING F2 ORB / Faschist Quest Initiation	Rhetoric	That is *not* a saying. It makes no sense.	那*不是*一句话。根本毫无意义。
 0x010000510000203B	Dialogue Text	WHIRLING F2 ORB / Faschist Quest Initiation	Endurance	Measurehead is *exactly* the kind of man who'd know how to step back into the past.	测颅先生*正是*那种可能知道如何回到过去的人。
 0x01000037000000EE	Dialogue Text	WHIRLING F2 ORB / messy room after lely tape	Kim Kitsuragi	"Of course." He nods, then looks longingly toward the exit.	“当然。”他点点头，然后热切地看着出口。
 0x01000037000000FE	Dialogue Text	WHIRLING F2 ORB / messy room after lely tape	You	"Well, crimes against myself anyway."	“其实，不过是我对自己犯下的罪。”
@@ -241,7 +241,7 @@
 0x0100000F0000BE7E	Dialogue Text	WHIRLING F2 ORB / Moralist Quest Initiation	Empathy	Most likely your findings will be collected in a report, which will be carefully reviewed by your superiors.	你的发现可能会整理成为一份报告，你的上级会仔细审阅这份报告。
 0x0100000F0000BE84	Dialogue Text	WHIRLING F2 ORB / Moralist Quest Initiation	Empathy	Good luck. Your report is eagerly anticipated.	祝你好运，一帆风顺。你的报告备受期待。
 0x0100000F0000BE8D	Dialogue Text	WHIRLING F2 ORB / Moralist Quest Initiation	Empathy	Once they've reviewed it, those same superiors will produce a set of recommendations to be taken up at the next meeting of the *standing committee*.	在你的上级审阅了报告后，他们便会提出一系列建议，并在下一次的*常务委员会*上提出来。
-0x0100000F0000BE92	Dialogue Text	WHIRLING F2 ORB / Moralist Quest Initiation	Empathy	Rest assured, no matter what happens it will be done through the proper channels.	放心，无论发生什么事情都，会通过正当途径来处理。
+0x0100000F0000BE92	Dialogue Text	WHIRLING F2 ORB / Moralist Quest Initiation	Empathy	Rest assured, no matter what happens it will be done through the proper channels.	放心，无论发生什么事情，都会通过正当途径来处理。
 0x0100000F0000BEA7	Dialogue Text	WHIRLING F2 ORB / Moralist Quest Initiation	Empathy	Don't run away from it now, Harry. You know it's the *right thing to do*.	别现在就逃避，哈里。你知道这是*应该做的事*。
 0x0100000F0000BEAC	Dialogue Text	WHIRLING F2 ORB / Moralist Quest Initiation	Empathy	This is a grave abdication of la responsabilité. A note will be appended to your personnel file.	这是对职责的严重逃避。你的个人档案上会有记录的。
 0x0100000F0000BEB1	Dialogue Text	WHIRLING F2 ORB / Moralist Quest Initiation	You	(Sigh.) You're right. Who's going to sit on this committee?	（叹气。）你说得对。谁会加入这个委员会呢？
