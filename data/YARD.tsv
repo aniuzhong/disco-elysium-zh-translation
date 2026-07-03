@@ -3388,7 +3388,7 @@
 0x010000450000349B	Dialogue Text	YARD / HANGED MAN AUTOPSY	Kim Kitsuragi	"KK57-0803.0815."	“KK57-0803.0815”
 0x01000045000034AD	Dialogue Text	YARD / HANGED MAN AUTOPSY	Logic	KK = Kim Kitsuragi; 57 = Precinct 57; followed by his date (08.03) and time of arrival (08:15) on the scene. He's indexed the case after himself, not you.	KK=金·曷城；57=第57分局；之后是他到达现场的日期（08.03）与时间（08：15）。案件编号采用了他的名字，而不是你的。
 0x01000045000034BF	Dialogue Text	YARD / HANGED MAN AUTOPSY	Rhetoric	That's because he doesn't want to bring up the messy question of your *initials*.	那是因为他不想提起关于你*姓名首字母*的糊涂问题。
-0x01000045000034C7	Dialogue Text	YARD / HANGED MAN AUTOPSY	You	"Shouldn't we file the coroner's case under *me*? Technically, I arrived at the scene before you."	“咱们应该把验尸官写成*我*才对。严格来说，我比你先到达现场。”
+0x01000045000034C7	Dialogue Text	YARD / HANGED MAN AUTOPSY	You	"Shouldn't we file the coroner's case under *me*? Technically, I arrived at the scene before you."	“验尸案不该记在我名下吗？严格来说，是我先到的。”
 0x01000045000034CD	Dialogue Text	YARD / HANGED MAN AUTOPSY	You	Write it down.	就这么写。
 0x01000045000034D5	Dialogue Text	YARD / HANGED MAN AUTOPSY	Kim Kitsuragi	"And what would that make the alphanumeric?"	“那样的话，字母和数字要怎么写？”
 0x01000045000034EE	Dialogue Text	YARD / HANGED MAN AUTOPSY	Electrochemistry	Lets say 13:00 -- a good time to start drinking.	就写成13：00吧——适合喝酒的好时候。
