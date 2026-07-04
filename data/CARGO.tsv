@@ -1,0 +1,80 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060001CB0D	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	"It's, uhm, needed for work and all that."	“这是，嗯，工作需要什么的。”
+0x010000060001CB1B	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Savoir Faire	Take it. It's just there. Who cares? It's not like anyone's gonna need it.	拿走它。它就放在那里。谁在乎呢？又不是说还会有人需要它。
+0x010000060001CB22	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Authority	Generally speaking, it would be *dishonourable* to take it. But then... it looks like a military uniform! And wearing that is very honourable. So, a conflict of honour. It's up to you.	一般来说，拿走它是很*可耻*的行为。不过……这看起来像是一件军装！穿上它肯定非常光荣。所以，这是一场关乎荣誉的冲突。决定权在你。
+0x010000070000EC52	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	Nothing incriminating catches your eye. The cabinets are clean and their sparse contents meticulously organized. There's a framed photograph on the table.	你并没有发现什么违法的东西。橱柜很整洁，里面的东西不多，但摆放地相当细致。桌子上有一个相框。
+0x010000070000EC5B	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	Nothing incriminating catches your eye. The cabinets are clean and their sparse contents meticulously organized. There's a framed photograph on the table.	你并没有发现什么违法的东西。橱柜很整洁，里面的东西不多，但摆放地相当细致。桌子上有一个相框。
+0x010000070000EC78	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	It's a black and white photo of a young couple out in a street fair. The man -- René -- is dressed in a Royal Carabineer uniform. The girl is young and very pretty. She is smiling playfully at the camera.	这是一张黑白相片，上面是一对站在街头集市的年轻情侣。里面的男人——雷内——穿着皇家卡宾枪手制服。那个女人年轻又漂亮，正朝着相机俏皮地微笑。
+0x010000070000EC87	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Empathy	René looks like he's about to smile. This photo must be tied to some good memories.	雷内看起来也有些笑意。这张相片背后一定维系着美好的记忆。
+0x010000070000EC90	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	"I'm gonna ask him about it."	“我要问问他这个。”
+0x010000070000EC97	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Kim Kitsuragi	"You're *really* interested in that old soldier," he remarks, surprised. "Not sure I understand your fascination, but sure -- as long as it doesn't take up a whole lot of time."	“你对老兵还*真是*很有兴趣啊，”他评论道。“我不太理解你为什么如此痴迷，但是有一点可以肯定——不占用太多时间就可以。”
+0x010000070000ECA5	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	"It's something to remember him by."	“这是用来纪念他的东西。”
+0x010000070000ECAC	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Kim Kitsuragi	"You really took an interest in that old soldier." The lieutenant sounds surprised. "I guess there's no harm taking the picture. The dockworkers would probably throw it in the trash anyway."	“你对那个老兵真的很感兴趣，”警督听起来有些惊讶。“想来拿走这张相片也没什么坏处。反正那些码头工人很可能会把它扔进垃圾堆。”
+0x0100004200000209	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Volition	Listen... It's okay to take a few minutes to yourself. Sit down and have a breather.	听着……给自己留几分钟是可以的。坐下来，喘口气。
+0x010000420000020E	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Endurance	You need to rest. Your body is aching. Getting in here has taken something out of you. Have a seat.	你需要休息。你的身体很痛苦。进来的功夫从你体内拿走了些什么。坐一会儿吧。
+0x0100004200000219	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	Have a seat. Rest.	坐下来。休息一会。
+0x010000420000021E	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	The chair is not as austere as the rest of the booth. A thin grey pillow is attached to the seat, secured to the stiles by black ribbons.	这把椅子不像岗亭的其余部分那么简朴。一个薄薄的灰色枕头连着座椅，用黑色丝带固定在扶手上。
+0x0100004200000224	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	Search for a little something-something to help you out.	寻找一些能帮到你的小东西。
+0x0100004200000229	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	Get up.	起身。
+0x0100004200000242	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	The drawers are empty save for old time sheets and receipts. One small box, however, does hold some cheap painkillers. They are slightly out of date.	抽屉里空荡荡的，只有些旧工作时间表和收据。不过，一个小盒子里倒是放着不少便宜的止痛药，都是刚过保质期的。
+0x010000420000024E	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	Take the painkillers.	拿走止痛药。
+0x0100004200000253	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	"Kim, would you mind if I helped myself to some meds?"	“金，你介意我拿点药吗？”
+0x0100004200000260	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Kim Kitsuragi	The lieutenant shrugs. "I'm not here to tell you what to do, detective."	警督耸耸肩。“我不是来告诉你该做什么的，警探。”
+0x010000420000026C	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	You take the painkillers. They are yours now.	你拿走了止痛药，现在它们是你的了。
+0x0100004200000278	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	Breathe deep.	深呼吸。
+0x0100004200000287	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	Stale air floods through your nostrils. Not a single mote of dust floats inside your lungs, though. The inside of the booth is immaculate.	陈腐的空气流进你的鼻孔。但却没有一粒尘埃漂浮在你的肺里。岗亭里面非常干净。
+0x010000420000029B	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	Read the side-effects.	查看副作用。
+0x01000042000002A1	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	Oh boy, where to start. Elevated risk of dementia? Mini-strokes? Prophet's disease? Sudden death? Hair death? Erectile malfunction? Critical flatulence? Watery blood? Black mucous? Uncontrollable weeping? Increased sensitivity to l'Opéra? Inoperable joint disorder? Total spinal collapse?	天啦，从哪开始好呢。痴呆症风险提高？轻微中风？先知疾病？猝死？脱发？勃起功能障碍？重度胀气？血液粘稠度低？黑色粘液？无法控制的落泪？歌剧敏感性增强？不能动手术的关节障碍？全脊椎萎缩？
+0x01000042000002BA	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	Maybe this was a bad idea...	也许这是个坏主意……
+0x01000042000002C7	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Reaction Speed	Don't think about that! Quick, think about something else!	别想了！快，想点别的！
+0x01000042000002DC	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	The imagined dazzle of light overwhelms any list of potential side-effects. Any negative thoughts are drowned out by the fantastic blast of *disco*.	想象的光辉压倒了任何潜在副作用的清单。所有消极想法都被*迪斯科*那不可思议的轰鸣声淹没了。
+0x01000042000002EB	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	Disco. Mirror balls. Kick-ass moves. Boogie beat.	迪斯科。反射球。活力四射的步伐。布吉乐的节拍。
+0x01000042000002F0	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	... oh my God, I went up to a woman and actually said *I want to have fuck with you* earlier. What the hell is wrong with me?	……天啦，之前我真的走到一个女人面前，直接说了一句*我想跟你啪啪啪*。我他妈是有什么毛病啊？
+0x01000042000002F5	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	I hope I'm not fucking René over by taking his painkillers.	希望拿走雷内的止痛药没给他带来太大麻烦。
+0x0100004200000303	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	I don't see what the big deal is. This sounds pretty normal to me.	我没觉得有什么大问题。在我听来这挺普通的。
+0x0100004200000309	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	I am scared I will never be held or loved in this world again.	我害怕，害怕这个世界上再也不会有人支持我，或者是爱我。
+0x0100004200000311	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	Your nihilistic humour renders the list of side-effects null and void. Just like everything else in this empty world.	你的虚无主义幽默宣告副作用清单无效。就像这个空虚世界里的一切。
+0x0100004200000326	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	I'm a cop. I have cop things to do. Murders to solve. People to help. Kim's counting on me.	我是个警察。我有警察的工作要做。我要破获凶杀案。人们需要帮助。金还指望我呢。
+0x010000420000032C	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	The enormity of the case before you dwarfs the list of side-effects. You can't even see the side-effects anymore. They're nothing to you.	在这起罪大恶极的凶案面前，副作用清单仿佛侏儒一般。你甚至看不见副作用了。在你眼里，它们什么也不是。
+0x0100004200000336	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	That's kind of sad, actually...	其实，这样有点伤感……
+0x010000420000033D	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	Moving along!	继续前进！
+0x0100004200000343	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	Yes. Moving along.	是的。继续前进。
+0x0100004200000351	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	Get up.	起身。
+0x0100004200000360	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	You stand and exit the booth.	你站起来，走出了岗亭。
+0x0100004200000368	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	You stand and exit the booth.	你站起来，走出了岗亭。
+0x0100008200010CD7	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	This is the nightwatchman's booth. The name on the door reads *René Arnoux*.	这是守夜人的岗亭。门上有一个名字：*雷内·阿诺克斯*。
+0x010000820001F449	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	This is the nightwatchman's booth. The name on the door reads *René Arnoux*. A colourful uniform lies neatly folded on the table.	这是守夜人的岗亭。门上有一个名字：*雷内·阿诺克斯*。桌子上放着一套整齐叠放的彩色制服。
+0x010000820001F450	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	This is the nightwatchman's booth. The name on the door reads *René Arnoux*.	这是守夜人的岗亭。门上有一个名字：*雷内·阿诺克斯*。
+0x010000820001F456	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	This is the nightwatchman's booth. The name on the door reads *René Arnoux*. René left his uniform neatly folded on the table.	这是守夜人的岗亭。门上有一个名字：*雷内·阿诺克斯*。雷内在桌子上放了一套整齐叠放的彩色制服。
+0x010000820001F461	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	"Kim, I'm gonna take a quick look inside." (Search the booth.)	“金，我进去看一眼，很快出来。”（在岗亭里搜查。）
+0x010000820001F468	Alternate1	CARGO / NIGHT WATCHMAN BOOTH	You	"So this is where René worked. I'm gonna look around." (Search the booth.)\n	“看来这里是雷内工作的地方。我四处看看。”（搜查岗亭。）
+0x010000820001F468	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	"So this is where René works. I'm gonna look around." (Search the booth.)	“看来这里是雷内工作的地方。我四处看看。”（在岗亭里搜查。）
+0x010000820001F46F	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	Let's see what the nightwatchman keeps in here. (Search the booth.)	让我来看看，守夜人在这里放了些什么。（在岗亭里搜查。）
+0x010000820001F475	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	Maybe René is hiding something interesting here. (Search the booth.)	也许雷内在这里藏了点有意思的东西。（在岗亭里搜查。）
+0x010000820001F47D	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	[Leave.]	[离开。]
+0x010000820001F486	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	Take the uniform.	拿走制服。
+0x010000820001F48D	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Kim Kitsuragi	"If you must." The lieutenant looks around. "But please hurry -- we're pretty easy to spot up here."	“如果你觉得有必要的话。”警督环顾四周。“但是麻烦你快一点——我们站在这里很容易被认出来。”
+0x010000820001F493	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	Nothing incriminating catches your eye. The cabinets are clean and their sparse contents meticulously organized. Apart from the uniform, the only noteworthy item is a framed photograph on the table.	你并没有发现什么违法的东西。橱柜很整洁，里面的东西不多，但摆放地相当细致。除了那套制服，唯一值得注意的就只有桌子上相框里的相片。
+0x010000820001F4AC	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Savoir Faire	Looks like the inhabitant is rather pedantic when it comes to order.	看来在规矩和秩序方面，这里的居民可以说是相当迂腐。
+0x010000820001F4B3	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	Take the picture.	拿走相片。
+0x010000820001F4BA	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	Leave the picture alone.	不管相片。
+0x010000820001F4C1	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	It's a black and white photo of a young couple out in a street fair. The man is young, dark-skinned, and dressed in a Royal Carabineer uniform. The girl is smiling playfully at the camera.	这是一张黑白相片，上面是一对站在街头集市的年轻情侣。深肤色的男人很年轻，穿着皇家卡宾枪手制服。女人朝着相机露出俏皮的微笑。
+0x010000820001F4CE	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Kim Kitsuragi	"Let's get going," the lieutenant says impatiently. "The entire neighbourhood can see us up here."	“我们快走吧，”警督不耐烦地开了口。“整个街坊都能看到我们在这里。”
+0x010000820001F4D5	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	The photo remains neatly placed on the edge of the table.	相片整洁地放在桌子的边缘。
+0x010000820001F503	Alternate1	CARGO / NIGHT WATCHMAN BOOTH	Kim Kitsuragi	"Why did you take that picture of René?" the lieutenant asks, glancing at the photo.\n	“你拿雷内的相片做什么？”警督瞥了一眼相片，询问到。
+0x010000820001F503	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Kim Kitsuragi	"Why did you take that?" the lieutenant asks, glancing at the photo.	“你拿它做什么？”警督瞥了一眼相片，询问到。
+0x010000820001F510	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	"I'm a cop. It's instinctual to collect evidence."	“我是警察。收集证据是我的本能。”
+0x010000820001F516	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	"*Something* about this man peaks my interest. I think this can be a side-thing."	“我也*说不上来*为什么，总之这个男人引起了我的兴趣。可能就是某种东西——某种感觉。”
+0x010000820001F51C	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	"I'm making an artistic photo collage, Kim."	“我在做艺术相片拼贴画，金。”
+0x010000820001F525	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Kim Kitsuragi	"Of course you are," he says matter-of-factly. "What murder investigation would be complete without an arbitrary photo collage."	“是啊是啊，”他实事求是地回应着。“如果没有一张随意的相片拼贴画，就算不上是一起完整的凶案调查。”
+0x010000820001F52C	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Kim Kitsuragi	"Fine." He nods. "But let's move. I don't want to be seen snooping around here."	“好吧。”他点点头。“不过我们还是走吧。我可不想被别人看见在这里偷鸡摸狗的。”
+0x010000820001F54E	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Kim Kitsuragi	"I suppose René is not going to be needing it anymore." He studies the uniform. "It's a bit too colourful for my taste, though."	“我猜雷内可能用不着它了吧。”他仔细研究着制服。“不过在我看来，它实在是有点太花哨了。”
+0x010000820001F55C	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Kim Kitsuragi	"I don't know about stealing people's *very colourful* clothes like that..." He looks on disapprovingly.	“我不知道该不该就这么偷走别人*那么鲜艳*的衣服……”他不以为然地看着。
+0x010000820001F56A	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	"This is gonna take my shit to the next level."	“这样我的混账程度就进化到下一阶段了。”
+0x010000820001F571	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	You	"I'm done here."	“我完事了。”
+0x010000820001F578	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Kim Kitsuragi	"Fantastic. Try not to wear it with other similarly colourful clothes, okay?"	“太好了。尽量不要和类似颜色的衣物一起穿，好吗？”
+0x010000970000422D	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Savoir Faire	Looks like the inhabitant was rather pedantic when it came to order.	看来在规矩和秩序方面，这里的居民可以说是相当迂腐。
+0x010000970000424F	Alternate1	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	As you take the colourful uniform, a few cookie crumbs fall to the floor. René must have had a sweet tooth.	你拿起彩色制服，一些饼干碎屑掉落在地面上。看来雷内肯定是个甜食爱好者。
+0x010000970000424F	Alternate2	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	As you take the colourful uniform, a few cookie crumbs fall to the floor. René must have a sweet tooth.	你拿起彩色的制服，一些饼干碎屑掉落在地面上。看来雷内肯定是个甜食爱好者。
+0x010000970000424F	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Nightwatchman's Booth	As you take the colourful uniform, a few cookie crumbs fall to the floor. The owner must have a sweet tooth.	你拿起彩色制服，一些饼干碎屑掉落在地板上。看来它的所有者应该是个甜食爱好者。
+0x010000970000425B	Dialogue Text	CARGO / NIGHT WATCHMAN BOOTH	Empathy	The young man looks happy as well. He's about to smile, right after this moment frozen in time. You're sure of that.	年轻男人看上去也很开心。他正要露出笑容，就在时间凝固的那一刻之后。这一点你非常肯定。
