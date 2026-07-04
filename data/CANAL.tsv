@@ -1,0 +1,223 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x01000007000199A5	Dialogue Text	CANAL / BARRY barks	Barry the Butcher	"This is outrageous."	“真是太离谱了。”
+0x0100004D00003B8A	Dialogue Text	CANAL / BARRY barks	Barry the Butcher	"If I ever get my hands on the idiot who broke that sign..."	“要是被我抓到那个弄坏广告牌的白痴……”
+0x0100004D00003B96	Dialogue Text	CANAL / BARRY barks	Barry the Butcher	“How am I supposed to get across now?"	“现在我该怎么过去啊？”
+0x0100005400000332	Dialogue Text	CANAL / BARRY barks	Barry the Butcher	"Can't wait till Wednesday, I got meat to sell."	“等不到周三了，我还要卖肉呢。”
+0x010000060001F718	Alternate1	CANAL / HAWTHORN	Hawthorn Tree	The tree looks by in silence. No doubt plotting its next move against humanity. 	山楂树默默地看着。毫无疑问，它正在策划下一步反人类行动。
+0x010000060001F718	Dialogue Text	CANAL / HAWTHORN	Hawthorn Tree	The tree looks by, in silence. No doubt plotting its next move against humanity. The bronze-coloured tape twists around its branches.	树一言不发地看着。毫无疑问，它正在策划反人类的下一步行动。青铜色的磁带还缠绕在它的枝丫上。
+0x010000060001F732	Dialogue Text	CANAL / HAWTHORN	Kim Kitsuragi	He looks at his wristwatch a little impatiently. "You know, since tape-spinning isn't really our day job. Solving murder investigations is."	他有些不耐烦地看着自己的腕表。“你知道的，卷磁带真的不是我们的日常工作。破获凶杀案才是。”
+0x010000060001F739	Dialogue Text	CANAL / HAWTHORN	Interfacing	Good idea. He might have the tools -- the tape projector in the pawn shop uses similar tape...	好主意。他可能有工具——-当铺里的磁带放映机用的好像是相同的磁带……
+0x010000060001F770	Dialogue Text	CANAL / HAWTHORN	You	"I'm too embarrassed to say."	“我不好意思说。”
+0x010000060001F777	Dialogue Text	CANAL / HAWTHORN	Kim Kitsuragi	"This is part of your church-thing, isn't it? Of course it is. It's too broken to play, you understand, right? It's not like Egg Head and his friends know how to fix it."	“这是你教堂计划的一部分，对吗？当然是了。它损坏的太严重，没办法播放，你应该明白的，对吧？又不是说爱凡客和他的朋友懂得怎么修理。”
+0x0100002100000036	Dialogue Text	CANAL / HAWTHORN	Logic	Maybe Roy from the pawnshop can help you with this?	也许当铺的罗伊能帮到你？
+0x0100002100000057	Dialogue Text	CANAL / HAWTHORN	Kim Kitsuragi	The lieutenant looks at the mess in your hands. Only after you've successfully cleaned up the branches does the curiosity get him: "What's the tape for?" he asks.	警督看着你手上那团乱七八糟的东西。等你成功清理完树枝之后，他的好奇心才起来了：“这磁带是做什么的？”他问到。
+0x010000210000005E	Dialogue Text	CANAL / HAWTHORN	You	"It's for Egg Head. I promised to make his van Eyck's jam hit a bit harder. Maybe this tape can help."	“这是给爱凡客的。我答应过他，让他最喜欢的凡·艾克的音乐变得更硬核一些。也许这盘磁带能帮上忙。”
+0x010000210000006D	Dialogue Text	CANAL / HAWTHORN	Kim Kitsuragi	"How? It's broken and unspooled. Do you think your new buddy knows how to fix it?"	“怎么帮？它已经坏了，还乱作一团。你觉得你那位新哥们知道怎么修吗？”
+0x0100002100000077	Dialogue Text	CANAL / HAWTHORN	You	"He has to -- he's the Master of Ceremonies after all."	“他必须会——毕竟他可是司仪。”
+0x0100002100000086	Dialogue Text	CANAL / HAWTHORN	You	"I'd think at least one of the ravers would know how to fix a broken tape if they want to set up a nightclub."	“我觉得至少有一个人懂得怎么修理破磁带，如果他们想开家夜总会的话。”
+0x010000210000008D	Dialogue Text	CANAL / HAWTHORN	You	"I'm not sure, but I'll find out. Maybe Egg Head can point me in the right direction."	“我不确定，但是我会搞清楚的。也许爱凡客能帮我指个正确的方向。”
+0x0100002100000094	Dialogue Text	CANAL / HAWTHORN	Kim Kitsuragi	"You could also get it fixed at the pawnshop across the street -- we shouldn't waste our time." He looks at his wristwatch a little impatiently.	“也可以拿到街上的那家当铺去修——我们还是别浪费时间了。”他看着手表，稍微有些不耐烦。
+0x01000021000000A0	Dialogue Text	CANAL / HAWTHORN	Kim Kitsuragi	"Alright." Looks like the lieutenant doesn't really know what that means. "You could also get it fixed at the pawnshop across the street -- we shouldn't waste our time."	“好吧。”看来警督真不知道是什么意思。“你也可以拿到街上的那家当铺去修——我们还是别浪费时间了。”
+0x0100005A0000B09C	Dialogue Text	CANAL / HAWTHORN	Hawthorn Tree	The hawthorn tree on Rue de Saint-Ghislaine. Bronze-coloured ribbons of magnetic tape are caught in its branches, fluttering in the breeze.	圣吉莱纳路上有一颗山楂树。青铜色的磁带缠绕在它的树枝上，在微风中飘舞着。
+0x0100005A0000B3F7	Dialogue Text	CANAL / HAWTHORN	You	Disentangle the tape.	解开磁带。
+0x0100005A0000B3F7	tooltip1	CANAL / HAWTHORN	You	Tape Release Calculations.	磁带解救行动计算。
+0x0100005A0000B3F7	tooltip2	CANAL / HAWTHORN	You	The multitool is truly multi.	多用工具还真是挺多用处的。
+0x0100005A0000B3F7	tooltip3	CANAL / HAWTHORN	You	Cast the Magnetic Dice Set.	铸造磁性骰子套组。
+0x0100005A0000B3F7	tooltip4	CANAL / HAWTHORN	You	Karaoke superstar.	卡拉OK巨星。
+0x0100005A0000B406	Dialogue Text	CANAL / HAWTHORN	Interfacing	With slow and deliberate motions, pulling, bending and unravelling -- you manage to extricate the magnetic tape from the branches.	你的动作缓慢而慎重，轻拉，缠绕，舒展——你成功从树枝上解救了磁带。
+0x0100005A0000B40B	Dialogue Text	CANAL / HAWTHORN	Interfacing	Like an immaculate labyrinth, the magnetic tape twists and turns around the branches...	磁带缠绕在树枝上，就像一座完美的迷宫……
+0x0100005A0000B413	Dialogue Text	CANAL / HAWTHORN	You	[Leave.]	[离开。]
+0x0100005A0000B41B	Dialogue Text	CANAL / HAWTHORN	You	"Good hawthorn." (Pat the tree.)	“真是棵好山楂树。”（轻拍山楂树。）
+0x0100005A0000B420	Dialogue Text	CANAL / HAWTHORN	You	"Piss off, nature!" (Punch the tree.)	“滚开，大自然！”（打一拳山楂树。）
+0x0100005A0000B439	Dialogue Text	CANAL / HAWTHORN	Hawthorn Tree	The hawthorn tree is not an inanimate object, it is a living thing. The thunk against the bark echoes with discontent.	山楂树不是静物，它是有生命的。树皮上的撞击发出回声，它的不满在周围荡漾。
+0x0100005A0000B43F	Dialogue Text	CANAL / HAWTHORN	Kim Kitsuragi	"Smooth move, operator." He looks to his wristwatch. "We done here?"	“动作轻一点，警官。”他看看手表。“这里完事了吗？”
+0x0100005A0000B445	Dialogue Text	CANAL / HAWTHORN	Physical Instrument	You tree-hugging pansy!	你个抱树的基佬！
+0x0100005A0000B450	Dialogue Text	CANAL / HAWTHORN	Inland Empire	Keep an eye on these trees. They're up to no good.	注意留心这些树。它们没安什么好心。
+0x0100005A0000B455	Dialogue Text	CANAL / HAWTHORN	Hawthorn Tree	Patting the tree reveals a small sticker which has almost been worn to oblivion. It reads: "RCM Emergencies Desk No. 8-100-2". Underneath, a slogan: "Mankind, be vigilant!"	轻轻拍打山楂树的你发现一张几乎磨到看不清的小贴纸。上面写着：“RCM紧急呼叫台8-100-2号。”底下还有一行标语：“人类，保持警惕！”
+0x0100005A0000B45B	Dialogue Text	CANAL / HAWTHORN	Hawthorn Tree	The hawthorn tree is disappointed by your betrayal and psychopathic tendencies. Also, your fist hurts. A little.	山楂树对你的背叛和精神变态的趋势感到失望。而且，你的拳头有点疼。只有一点点。
+0x0100005A0000B461	Dialogue Text	CANAL / HAWTHORN	Endurance	A little? It's awful! The pain surges through your knuckles and then lingers there... slowly pulsating, reminding you of your mistake.	一点点？简直糟糕透了好吗！痛楚涌向你的指关节，然后留在了那里……缓慢的颤动着，提醒你犯下的过错。
+0x0100005A0000B466	Dialogue Text	CANAL / HAWTHORN	Pain Threshold	The pain, it is nothing! Revel in it! Absorb it! Gain power from it!	这点疼痛算什么！陶醉其中！吸收它！从里面获取力量！
+0x0100005A0000B477	Dialogue Text	CANAL / HAWTHORN	Kim Kitsuragi	"Had enough assaulting *madre natura*?" He looks at his wristwatch. "We should get moving."	“袭击*大自然母亲*够了吗？”他看向手表。“我们该走了。”
+0x0100005A0000B482	Dialogue Text	CANAL / HAWTHORN	Hawthorn Tree	The hurt feelings of the tree are not alleviated by this sudden display of care and emotion, you manipulative bastard.	树的感情受到了伤害，并不能被这突如其来的关心和感情所抚平，你这个好指使人的混蛋。
+0x0100005A0000B498	Dialogue Text	CANAL / HAWTHORN	Shivers	Just like promised... You've stood here for what seem like aeons, guzzling the sickly fumes of lorries and carriages.	正如承诺过的……你在这里好像站了十亿年，大口吞噬着货車和马車那难闻的废气。
+0x0100005A0000B4C1	Dialogue Text	CANAL / HAWTHORN	Hawthorn Tree	The younger stems and branches are adorned with sharp thorns that scratch your hand.	年轻的根茎和树枝上长满尖刺，刮伤了你的手。
+0x0100005A0000B4C7	Dialogue Text	CANAL / HAWTHORN	Visual Calculus	The bronze ribbon twists around and within the branches in an intricately natural pattern... but there's something...	青铜色的丝带杂乱又自然地缠绕在树枝中间……但是好像有点什么……
+0x0100005A0000B4CD	Dialogue Text	CANAL / HAWTHORN	Physical Instrument	At first the destructive urge felt exhilarating, as if it added something to your persona... but the feeling swiftly receded, leaving you with a sad emptiness.	一开始，那股毁灭性的冲动让你感到兴奋，像是为你的伪装又增添了什么……但是这份感觉很快就衰弱下去，只给你留下一阵悲哀的空虚。
+0x0100005A0000B4DD	Dialogue Text	CANAL / HAWTHORN	You	"What the fuck, tree?"	“你他妈怎么了，树？”
+0x0100005A0000B4E2	Dialogue Text	CANAL / HAWTHORN	You	"My god, nature is plotting an uprising against us?"	“我的天，大自然要策划一场违抗我们的起义？”
+0x0100005A0000B4E9	Dialogue Text	CANAL / HAWTHORN	Inland Empire	Shhhh! You shouldn't say it out loud... they'll realize you know!	嘘！不要这么大声……它们会发现你已经知道了！
+0x0100005A0000B514	Dialogue Text	CANAL / HAWTHORN	You	God damn straight! Suck on that, *object*. My existence out-classes yours.	说的太他妈对了！吃瘪吧你，*物体*。我的存在远胜于你。
+0x0100005A0000B519	Dialogue Text	CANAL / HAWTHORN	You	I thought it would be cool, but instead all the violence made me feel sad and hollow...	我觉得应该会挺酷的，但是暴力只让我感觉到悲伤和空虚……
+0x0100005A0000B523	Dialogue Text	CANAL / HAWTHORN	Pain Threshold	Yes. Beat yourself up for it. Good. Everyone must suffer. You, the tree, everyone.	是的。为此而自责吧。很好。所有人都在忍受痛苦。你，这棵树，所有人。
+0x0100005A0000B529	Dialogue Text	CANAL / HAWTHORN	Pain Threshold	Yes, your pain is real. The pain of a tree is mute and base and uninteresting.	是的，你的痛苦是真实的。树的痛苦是无声、低劣而又乏味的。
+0x0100005A0000B547	Dialogue Text	CANAL / HAWTHORN	Inland Empire	It was a retaliation for your earlier assault... the trees... are they plotting something?	这是对你之前袭击行为的报复……那些树……是不是在密谋什么？
+0x0100005A0000B55C	Dialogue Text	CANAL / HAWTHORN	Kim Kitsuragi	"You put your hand on a tree with sharp thorns, what did you think was going to happen?"	“你自己把手放在长着尖刺的树上的，你觉得会发生什么？”
+0x0100005A0000B563	Dialogue Text	CANAL / HAWTHORN	Kim Kitsuragi	"Yes. 'One day, grass will grow over our cities' and so on..." He looks at the tree. "Very poetic. Better not to dwell on it -- what with a murder to solve and all."	“是的。‘总有一天，杂草会在我们的城市蔓延。’诸如此类的……”他看着那棵树。“很有诗意。还是别细想的好——还有一起凶杀案等着解决呢。”
+0x0100005A0000B56A	Dialogue Text	CANAL / HAWTHORN	You	What do I see?	我看见了什么？
+0x0100005A0000B576	Dialogue Text	CANAL / HAWTHORN	Pain Threshold	Oh, whatever. This barely registers as damage.	哦，没什么。反正也算不上什么伤害。
+0x0100005A0000B58F	Dialogue Text	CANAL / HAWTHORN	You	"Alright, tree. You got me, fair and square. We're even, for now."	“好吧，树。你明白我的意思，光明磊落。我们扯平了，暂时而已。”
+0x0100005A0000B59D	Dialogue Text	CANAL / HAWTHORN	Inland Empire	Trees likely do not understand the concept of fairness. Better watch your back from now on...	树好像不是很理解公正的概念。从今以后，你最好还是小心行事为妙……
+0x0100005A0000B5A2	Dialogue Text	CANAL / HAWTHORN	Kim Kitsuragi	The lieutenant looks at you mumbling at the tree, then at his wristwatch. "Maybe we should get back to the case."	警督看着对着一棵树喃喃自语的你，然后低头看了看手表。“也许我们该继续调查案子了。”
+0x0100005A0000B5C3	Dialogue Text	CANAL / HAWTHORN	Visual Calculus	There's a twisted logic in this mess... you see the ends of the ribbon, the way it flows, how it twists and turns... it's all starting to make sense. It'll be easier to remove now.	这一团乱麻中隐藏着扭曲的逻辑……你看见带状物的末端，看见它飘动的样子，看见它的那些弯弯折折……一切开始变得有意义起来。现在解开就会容易得多。
+0x0100005A0000B5CB	Dialogue Text	CANAL / HAWTHORN	You	Ignore thought.	忽略这个想法。
+0x0100005A0000B5D2	Alternate1	CANAL / HAWTHORN	Hawthorn Tree	The gnarled hawthorn tree on Rue de Saint-Ghislaine endures the wintry gusts with ease.	圣吉莱纳路上那棵多节山楂树能够毫不费力地扛住冰冷的狂风。
+0x0100005A0000B5D2	Dialogue Text	CANAL / HAWTHORN	Hawthorn Tree	The gnarled hawthorn tree on Rue de Saint-Ghislaine. A wintry breeze blows by, making the magnetic tape flutter.	圣吉莱纳路上有一棵多节的山楂树。寒冷的微风拂过，让挂在上面的磁带上下飞舞。
+0x0100005A0000B5FD	Dialogue Text	CANAL / HAWTHORN	You	Say nothing.	什么也不说。
+0x0100005A0000B64B	Dialogue Text	CANAL / HAWTHORN	Interfacing	You just can't get it loose. All you've done is make your fingers bleed from the thorns.	你就是没办法把它松开。你所做的一切，只是让自己的手指被尖刺扎破出血。
+0x0100005A0000B659	Dialogue Text	CANAL / HAWTHORN	Interfacing	It curls up into a mess inside your pocket. If only you could find a way to re-spool it, so that you could hear what's on the tape...	它胡乱地蜷缩在你的口袋里。如果你能想办法解开它，就能听到磁带里的东西了……
+0x01000002000013D6	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"'Fraid I can't hang out and chat." He looks west, across the water, chewing on a piece of salami. "Damned water lock's finally been fixed, so I've got to get going."	“恐怕我没功夫逛闲聊了。”他看向海岸另一头的西边，嘴里咀嚼着一片萨拉米香肠。“该死的水闸总算是修好了，我也得走了。”
+0x01000002000013DC	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Have you ever made a water lock move yourself?" he adds, gesturing toward the water lock control panel to his right. "It's quite the thing. Makes a man feel real powerful."	“你有没有试过操作水闸？”他向身体右侧的水闸控制台比划了一下。“还挺有意思的，让人感觉非常强大。”
+0x01000002000013F0	Alternate1	CANAL / MAN ON WATER LOCK	Man on water lock	"'Fraid I can't hang out and chat." He looks west, across the water. "High time I got moving up the coast. But, please, officer, after you."	“恐怕我没功夫逛闲聊了。”他看向西边，运河对面。“我应该到海岸边去了。不过，你们先请吧，警官。”
+0x01000002000013F0	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"High time I got moving up the coast. But please, officer, after you."	“我该到海岸那边去了。不过，还是你先请吧，警官。”
+0x0100000200001431	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"I'll get right to it." [Leave.]	“我马上就办。”[离开。]
+0x0100000200001437	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"Why don't you just do it yourself?"	“为什么你不自己做呢？”
+0x010000020000143E	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Bah! I've handled enough heavy machinery in my day."	“嗨！我那时候已经摸过够多重型机械的了。”
+0x0100000200001446	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Cheers!" He salutes you with a half-eaten piece of salami.	“干杯！”他用咬了一半的萨拉米香肠向你致敬。
+0x0100000200001454	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"So, wanna do the honours now?"	“所以，你想不想亲自*剪彩*呢？”
+0x010000020000146C	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"But what's further down the coast?"	“但是海岸那边有什么？”
+0x0100000200001473	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Yeah, not really much else. Just bombed-out ruins."	他想了一会儿。“是啊，其实也没什么了。只是片被轰炸后的废墟。”
+0x0100000200001479	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Well, there's the fishing village. An abandoned fish market. A bizarro church. Not much use to the congregation, though -- there always seems to be something wrong with it." He thinks for a moment.	“这个嘛，那边有个渔村。一个废弃的海鲜市场。一座比扎罗教堂，不过对大家来说没多大用处——那边好像老是出问题。”
+0x0100000200001482	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"Alrighty then." [Leave.]	“那好吧。”[离开。]
+0x0100000200001498	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"But, wait, what's further down the coast?"	“但是，等一下，海岸那边有什么？”
+0x010000020000149E	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Well, there's the fishing village. An abandoned fish market. A bizarro church. Not much use to the congregation, though -- there always seems to be something wrong with it." He thinks for a moment.	“这个嘛，那边有个渔村。一个废弃的海鲜市场。一座比扎罗教堂，不过对大家来说没多大用处——那边好像老是出问题。”
+0x01000002000014A4	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Yeah, not really much else. Just bombed-out ruins."	他想了一会儿。“是啊，其实也没什么了。只是片被轰炸后的废墟。”
+0x0100000600017503	Dialogue Text	CANAL / MAN ON WATER LOCK	Inland Empire	The words *daredevil driver* sound ominous to you.	*胆大妄为的司机*这个词，在你听来有些不祥的感觉。
+0x010000060001750F	Dialogue Text	CANAL / MAN ON WATER LOCK	Tutorial Agent	The coast part of the map is inaccessible until the third day.	地图上的海岸部分要到第三天才会开放。
+0x010000060001751B	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"My friend Barry the Butcher is stuck on the other side of the water lock. I'm keeping him company -- and eating his salami."	“我的朋友屠夫巴里就被困在水闸的另一边。我在陪他——吃他的萨拉米香肠。”
+0x01000006000175DF	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"You said the coast is closed off? This may be why Lena's husband Morell the cryptozoologist hasn't returned."	“你说海岸被关闭了？大概这就是莉娜的丈夫，神秘动物学家莫雷尔没有回来的原因。”
+0x01000006000175E6	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Uhm... I haven't seen any *cryptologists* around here, but sure -- if they're on the other side, they're stuck. Like my friend Barry."	“嗯……我没在附近见过什么*神秘动物学家*，不过当然了——如果他们在对岸，一定是被困住了。就像我的朋友巴里一样。”
+0x01000006000175F1	Dialogue Text	CANAL / MAN ON WATER LOCK	Kim Kitsuragi	"We should probably go tell Lena. Take a load off her mind."	“我们应该告诉莉娜。减轻她的精神负担。”
+0x01000006000175FD	Dialogue Text	CANAL / MAN ON WATER LOCK	Logic	You should probably tell Lena. It'll take a load off her mind.	你应该告诉莉娜。这样能减轻她的精神负担。
+0x0100001600008B53	Dialogue Text	CANAL / MAN ON WATER LOCK	Reaction Speed	This is the water lock on the Martinaise Canal. It has to be the same water lock Lena mentioned, the one her husband crossed on his "expedition."	这就是马丁内斯运河的水闸。应该就是莉娜提过的水闸，她的丈夫外出*探险*经过的那个。
+0x0100001600008B5D	Dialogue Text	CANAL / MAN ON WATER LOCK	Composure	He doesn't actually seem to be in a rush. It's not in his nature. Enviable calm.	他看起来不像很着急，他的本性里就没有。真是让人羡慕的镇静。
+0x010000210000268E	Dialogue Text	CANAL / MAN ON WATER LOCK	Barry the Butcher	From the corner of your eye you see a man in a yellow shirt and grey overalls waving at you from across the canal. He seems disappointed about the wreckage on the water lock -- *and* the salami.	通过眼角的余光，你看见一个穿着黄色衬衫和灰色工装裤的男人，正在运河对岸朝你挥手。他似乎对水闸的事故——*还有*萨拉米香肠感到很失望。
+0x0100004D00003A66	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	A burly man hangs out by the water lock, carving up a generous serving of salami with an old hunter's knife. His eyes are fixed on a man stranded on the other side of the water lock -- and on an enormous billboard that has fallen down into the canal between them.	一个壮硕的男人站在水闸边，用一把旧猎人刀分割一大片萨拉米香肠。他的眼睛紧盯着困在水闸另一边的男人——还有掉在两人之间那条运河里的巨大广告牌。
+0x0100004D00003A80	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"Do you know what caused this wreckage?" (Point at the smashed billboard in the canal.)	“你知道是什么造成这次事故的吗？”（指向运河里那块损坏的广告牌。）
+0x0100004D00003A8C	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"Can I have some of that salami?" (Point at his food.)	“能分我一点萨拉米香肠吗？”（指向他的食物。）
+0x0100004D00003AA0	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"I wasn't here to witness it, but those look like tyre tracks on that sign. Weird, huh? Then again, plenty of daredevil drivers in Revachol."	“我没有亲眼见到，但是广告牌上那些看起来像是轮胎印。很奇怪，是吧？不过，瑞瓦肖确实有很多胆大妄为的司机。”
+0x0100004D00003AAC	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Sure thing." He cuts off a slice of salami.	“当然可以。”他切下一片萨拉米香肠。
+0x0100004D00003AB3	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"First things first -- what are you doing here, man on the water lock?"	“首先，你在这里做什么，站在水闸上的男人？”
+0x0100004D00003ABA	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"*Very* good stuff. Anything I can do for you, officer?" The man on the water lock picks the skin off a slice of a salami and takes a sizeable bite.	他剥下萨拉米香肠的肠衣，嚼了一大口。“*非常*好的东西。有什么需要帮忙的吗，警官？”
+0x0100004D00003AE4	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Too bad it also takes a year and a day to repair anything 'round here -- especially a water lock. The rest of the coast is closed off till then."	“可惜啊，要花一年零一天才能修好附近的东西——特别是那个水闸。海岸的其他部分都关闭了，等到修完才能开放。”
+0x0100004D00003AEC	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"Do you know what's further down the coast?"	“你知道海岸再往下有什么吗？”
+0x0100004D00003B0B	Dialogue Text	CANAL / MAN ON WATER LOCK	You	[Leave.]	[离开。]
+0x0100004D00003B16	Alternate1	CANAL / MAN ON WATER LOCK	Man on water lock	"G'day to you, officers!"	“真是个好日子啊，警官！”
+0x0100004D00003B16	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"G'day to you, officer!"	“你好啊，警官！”
+0x0100004D00003B21	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"Right, bye." [Leave.]	“好吧，再见。”[离开。]
+0x0100004D00003B2E	Dialogue Text	CANAL / MAN ON WATER LOCK	Physical Instrument	His posture is relaxed. Despite his powerful build and the knife in his hand, this man resorts to physical intimidation only infrequently, if at all.	他的姿势很放松。虽然他身强体壮，手里还握着一把刀，但是如果真遇到事的话，这个男人很少会诉诸于肢体威胁。
+0x0100004D00003B3E	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Well, there's the fishing village. An abandoned fish market. A bizarro church. Not much use to the congregation, though -- there always seems to be something wrong with it." He thinks for a moment.	“这个嘛，那边有个渔村。一个废弃的海鲜市场。一座比扎罗教堂，不过对大家来说没多大用处——那边好像老是出问题。”
+0x0100004D00003B46	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Yeah, not really much else. Just bombed-out ruins."	他想了一会儿。“是啊，其实也没什么了。只是片被轰炸后的废墟。”
+0x0100004D00003B4D	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Want some too, officer?" he turns to the lieutenant.	“想来点吗，警官？”他转向警督。
+0x0100004D00003B54	Dialogue Text	CANAL / MAN ON WATER LOCK	Kim Kitsuragi	"Why not?" The lieutenant ponders the offer for a moment, then decides to go for it. He takes a slice of salami from the man and chews on it.	警督仔细考虑了一会儿，随后决定接受这份好意。“为什么不呢？”他从男人手中接过一片萨拉米香肠，放进口中咀嚼起来。
+0x0100004D00003B5D	Dialogue Text	CANAL / MAN ON WATER LOCK	Perception (Taste)	It is salty. It is savoury. It is chewy. The hangover only makes the salami *more* tasty.	香肠很咸，很可口，也很有嚼劲。宿醉让萨拉米香肠变得*更有*风味了。
+0x0100006B00007DF4	Alternate1	CANAL / MAN ON WATER LOCK	Man on water lock	"Welcome back, officers."	“欢迎回来，警官。”
+0x0100006B00007DF4	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Welcome back, officer."	“欢迎回来，警官。”
+0x0100006B00007E20	Alternate1	CANAL / MAN ON WATER LOCK	Man on water lock	"Good morning to you, officers!"	“早上好，警官！”
+0x0100006B00007E20	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Good morning to you, officer!"	“日安，警官！”
+0x0100006B00007E29	Alternate1	CANAL / MAN ON WATER LOCK	Man on water lock	"Evening, officers!"	“晚上好，警官！”
+0x0100006B00007E29	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Evening, officer!"	“晚安，警官！”
+0x0100006B00007E39	Alternate1	CANAL / MAN ON WATER LOCK	Man on water lock	"Evening, officers!"	“晚上好，警官！”
+0x0100006B00007E39	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Evening, officer!"	“晚安，警官！”
+0x0100006B00007E41	Alternate1	CANAL / MAN ON WATER LOCK	Man on water lock	"G'day to you, officers!"	“真是个好日子啊，警官！”
+0x0100006B00007E41	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"G'day to you, officer!"	“你好啊，警官！”
+0x0100006B00007E49	Alternate1	CANAL / MAN ON WATER LOCK	Man on water lock	"Good morning to you, officers!"	“早上好，警官！”
+0x0100006B00007E49	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Good morning to you, officer!"	“早上好，警官！”
+0x0100006B00007E58	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"What's with the lever that does nothing?" (Point at the control panel next to him.)	“那个控制杆是做什么的？”（指向他身边的控制面板。）
+0x0100006B00007E5E	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"It's supposed to operate the water lock, but as noted... it's all junk right now. Disabled because of the blockage."	“本来应该是操作水闸的，不过刚才说过了……现在的它只是一个废物。因为堵塞，不能用了。”
+0x0100006B00007E66	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"It'll be restarted on Wednesday morning." He nods his head towards the control panel. "You wanna do the honours when the time comes?"	“周三早晨会重新启动。”他朝着控制台的方向点点头。“到时间的时候，你想不想来*剪彩*呢？”
+0x0100006B00007E6D	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"Do I ever!" (Nod enthusiastically.)	“当然想！”（热情地点点头。）
+0x0100006B00007E72	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"We'll see... I'm not all that into manual labour."	“再看吧……我不太喜欢体力劳动。”
+0x0100006B00007E7B	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Suit yourself. Just drop by on Wednesday if you want to see the water lock work again." He cuts a fresh slice from his salami.	“你随意吧。如果想看水闸重新开始运作的话，周三就顺便过来看一眼。”他切下一片新鲜的萨拉米香肠。
+0x0100006B00007E81	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Great! Just drop in on Wednesday if you want to see the water lock at work. They say the canal crew will be here at 07.15." He cuts a fresh slice from his salami.	“太好了！如果想看水闸重新开始运作的话，周三就顺便过来一趟。他们说运河的员工7点15分会到。”他切下一片新鲜的萨拉米香肠。
+0x0100006B00007FB6	Dialogue Text	CANAL / MAN ON WATER LOCK	You	"Why is it disabled?"	“为什么不能用了？”
+0x0100006B00007FCF	Dialogue Text	CANAL / MAN ON WATER LOCK	Man on water lock	"Safety measure. Turns out the panel needs a special key to be re-activated. Wouldn't want anyone moving the water lock with debris still in the channel."	“为了安全起见。这个控制台需要一把特殊的钥匙才能重新激活。渠道里的杂物还没清理完，应该是不想让人动这个水闸吧。”
+0x010000070001999E	Dialogue Text	CANAL / MAN ON WATER LOCK barks	Man on water lock	"Can't believe no one's coming to fix this till Wednesday..."	“简直难以置信，等到周三才有人来修……”
+0x0100004D00003A56	Dialogue Text	CANAL / MAN ON WATER LOCK barks	Man on water lock	"Barry! Can you hear me, buddy?"	“巴里！能听到我说话吗，伙计？”
+0x0100004D00003A5D	Dialogue Text	CANAL / MAN ON WATER LOCK barks	Man on water lock	"My friend Barry is stuck on the other side."	“我的朋友巴里被困在另一边了。”
+0x0100004D00003B83	Dialogue Text	CANAL / MAN ON WATER LOCK barks	Man on water lock	"That butter sign is a write-off for sure."	“那个黄油广告牌肯定是报废了。”
+0x0100000600017345	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	"Yup -- *I* did this."	“是的——是*我*做的。”
+0x0100000600017357	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	"Yup -- *I* did this."	“是的——是*我*做的。”
+0x010000060001735E	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	Clearly. The motor carriage in question was a Coupris 40 -- mere minutes before it took a final voyage into the ocean.	很明显。正在讨论的那辆汽車是库普瑞斯40——不过数分钟后它就踏上了最后一趟前往大海的旅程。
+0x0100000600017365	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Kim Kitsuragi	"Clearly, yes. Dwelling on it longer only makes it worse."	“很显然，是的。总想着它只会让情况变得更糟。”
+0x0100000600017589	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Interfacing	The sign billboard has fallen on the water lock, keeping it open -- and thus out of order.	广告牌落入水闸，让它一直保持在开启状态——因此就发生了故障。
+0x01000007000097FF	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	These match the tyre tracks you saw earlier -- *your* tyre tracks.	这些跟你之前看到的轮胎印是一致的——*你的*轮胎印。
+0x0100002F00010082	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	These look like the same tyre tracks I saw earlier -- in front of the Whirling-in-Rags.	这些轮胎印跟我之前看见的基本上是一样的——就在褴褛飞旋的前面。
+0x0100002F000100C0	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	Now? You'd have to follow the tracks to be sure.	现在？肯定是跟着痕迹走啊。
+0x0100004D000038D7	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Conceptualization	The SAMARAN BUTTER billboard still looks freshly painted, suggesting it took the plunge recently.	萨马拉黄油的广告牌看起来像是新粉刷的一样，说明它是最近才落水的。
+0x0100004D000039C8	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Perception (Sight)	A crumpled billboard reading "SAMARAN BUTTER" soaks in the canal. Two ugly lines mar the bright countenance of the blond boy depicted.	一张褶皱的广告牌泡在运河里，上面写着“萨马拉黄油”。两条丑陋的线条破坏了画上金发男孩那张明媚的脸。
+0x0100004D000039D5	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	What is Samaran Butter?	萨马拉黄油是什么？
+0x0100004D000039DB	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Perception (Sight)	Whatever it is, the boy on the billboard seems very happy about it.	不管是什么，广告牌上的那个男孩好像挺开心的。
+0x0100004D000039EE	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Encyclopedia	Goat milk butter. The Samaran terrain makes it easier to raise goats than cows, and the local goat farmers produce high-quality meat and dairy staples that add variety to other nations' diets.	山羊奶黄油。相比奶牛，萨马拉的地形更容易养育山羊，所以当地养殖山羊的农民能够提供高质量的羊肉和乳制品，为其他国家的饮食增加点变化。
+0x0100004D000039F8	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Perception (Taste)	It's an acquired taste.	这是一种嗜好。
+0x0100004D00003A03	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	Attempt to reconstruct what happened here.	尝试重构这里发生的一切。
+0x0100004D00003A03	tooltip1	CANAL / SAMARAN BUTTER SIGN VISCAL	You	Found sunken motor carriage.	找到沉没的汽車。
+0x0100004D00003A03	tooltip2	CANAL / SAMARAN BUTTER SIGN VISCAL	You	Ominous daredevil feeling.	这种胆大妄为有种不详的预感。
+0x0100004D00003A03	tooltip3	CANAL / SAMARAN BUTTER SIGN VISCAL	You	Magnetic Dice Set.	磁性骰子套组。
+0x0100004D00003A12	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	Just some tasteless advertising at the bottom of a canal. No use rubbernecking now.	只是些乏味的广告牌沉在运河底部。用不着专门伸长脖子去看。
+0x0100004D00003A18	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	Judging by the size of the impact and the parallel lines of burnt rubber, the cause was probably a motor vehicle.	从撞击痕的大小以及两条焦黑的平行轨迹来看，来源很可能是一辆机动車。
+0x0100004D00003A2B	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	Look at the crater.	看着坑洞。
+0x0100004D00003A31	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	Look at the roof of the shack.	看着棚屋的屋顶。
+0x0100004D00003A37	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	Look at the broken posts.	看着坏掉的杆子。
+0x0100004D00003A3D	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	Look at the sign.	看着广告牌。
+0x0100004D00003BA2	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	Look at the opposite bank.	看着河对岸。
+0x0100004D00003BA8	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	What was the model of this phantom vehicle?	这辆幽灵汽車是什么型号的？
+0x0100004D00003BAE	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	Nothing more to see here. [Leave.]	没什么好看的了。[离开。]
+0x0100004D00003BBF	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	There are two good candidates: the Coupris 40 and the Linnea G22.	有两个很好的候选人：库普瑞斯40和林内亚G22。
+0x0100004D00003BCB	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	Why the Coupris 40?	为什么是库普瑞斯40？
+0x0100004D00003BD1	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	Why the Linnea G22?	为什么是林内亚G22？
+0x0100004D00003BD7	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	It's about the right size, and the tyre marks look like they came from the skinny tyres frequently found on that motor carriage.	尺寸差不多，而且从轮胎印来看，应该是那种汽車上常见的细轮胎。
+0x0100004D00003BDD	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	Very sturdy but light motor carriage. More likely than most to survive that jump.	结实轻巧的汽車。比大多数車更有可能在那次跳跃中幸存下来。
+0x0100004D00003BEF	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	Blink. [Leave.]	眨眼。[离开。]
+0x0100004D00003BF7	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	What now?	现在怎么样呢？
+0x0100004D00003C09	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	How recently?	多近？
+0x0100004D00003C0F	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Conceptualization	Within the past 72 hours.	过去的72小时以内。
+0x0100004D00003C15	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	The black marks on the roof indicate that the vehicle *vaulted* from the crater to the roof of the shack.	顶上的黑印说明这台汽車是从坑洞*跳到*棚户屋顶的。
+0x0100004D00003C1D	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	Side slip marks indicate that the vehicle was travelling up the crater at 35 km/h.	侧滑的痕迹说明这台汽車是以35公里/小时的速度开进坑洞的。
+0x0100004D00003C23	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	The vehicle soared through the air, hitting the billboard and upsetting the posts. Then it continued its flight, taking the billboard with it.	汽車从空中掠过，撞倒广告牌和那根杆子，然后继续带着广告牌一起飞行。
+0x0100004D00003C29	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	The sign broke the vehicle's fall into the canal.	广告牌坏掉了，汽車坠入运河。
+0x0100004D00003C32	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	You	Look at the sloping metal roof panel.	看着倾斜的金属面板。
+0x0100004D00003C38	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	The panel served as a take-off ramp.	这块面板充当了起飞的跳板。
+0x0100004D00003C44	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Visual Calculus	Still speeding, the vehicle made a loop and vanished into the fog along the coast.	汽車仍在高速行驶，它打了个圈，然后消失在海岸的浓雾中。
+0x0100004D00003C5D	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Encyclopedia	The Coupris 40 is a very popular model with bank clerks, topping-pie delivery drivers, secondary school teachers, cops, strippers dressed as cops, undressed strippers...	库普瑞斯40是一种非常流行的型号：银行职员，馅饼配送员，中学老师，警察，假扮警察的脱衣舞娘，没穿衣服的脱衣舞娘都很喜欢……
+0x0100004D00003C63	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Encyclopedia	The Linnea G22 is not a particularly popular model due to its peculiar proportions, which the manufacturer's design team probably thought about for too long.	林内亚G22的大小比较特殊，所以不是特别流行的型号，也许是生产商的设计团队想的时间太长了吧。
+0x0100005A0000143D	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Perception (Sight)	The crumpled SAMARAN BUTTER billboard still soaks in the canal, marked by tyre tracks.	褶皱的萨马拉黄油广告牌还泡在运河里，上面还残留着显眼的轮胎印。
+0x0100005A00007E65	Dialogue Text	CANAL / SAMARAN BUTTER SIGN VISCAL	Kim Kitsuragi	The lieutenant looks on, waiting for you to wrap up your analysis.	警督在一旁观看，等着你的分析总结。
+0x01000002000013B0	Dialogue Text	CANAL / WATERLOCK LEVER	Perception (Sight)	Isn't there a sign over there saying functionality will be restored on Wednesday morning?	那不是有个标志说星期三早上才会修好吗？
+0x0100000600017524	Dialogue Text	CANAL / WATERLOCK LEVER	You	Pull the lever -- again.	拉动控制杆——再来一次。
+0x0100000600017532	Alternate1	CANAL / WATERLOCK LEVER	Kim Kitsuragi	"All right." The lieutenant looks across the canal. "We can go to the coast now. Expect rugged terrain -- and drunks. And if you wanted to forge that document for Evrart, now you can..." 	“好吧，”警督看向运河对岸。“现在我们可以去海岸了。只不过，那边到处崎岖不平——还有不少醉汉。还有，如果你想伪造艾弗拉特的文件，现在可以动手了……”
+0x0100000600017532	Dialogue Text	CANAL / WATERLOCK LEVER	Kim Kitsuragi	"All right." The lieutenant looks across the canal. "We can go to the coast now. Expect rugged terrain -- and drunks."	“好吧，”警督看向运河对岸。“现在我们可以去海岸了。只不过，那边到处崎岖不平——还有不少醉汉。”
+0x010000060001753D	Dialogue Text	CANAL / WATERLOCK LEVER	Perception (Sight)	Wasn't there a sign over there saying functionality will be restored on Wednesday morning?	那不是有个标志说星期三早上才会修好吗？
+0x0100000600017623	Dialogue Text	CANAL / WATERLOCK LEVER	You	"So the coast is closed off. This may be why Lena's husband Morell the cryptozoologist hasn't returned."	“所以海岸被隔绝了。大概这就是莉娜的丈夫，神秘动物学家莫雷尔没有回来的原因。”
+0x0100000600017634	Dialogue Text	CANAL / WATERLOCK LEVER	Kim Kitsuragi	"Looks like it, yes. We should probably go tell Lena. Take a load off her mind."	“应该是这样没错。我们应该告诉莉娜，帮她减轻精神负担。”
+0x010000060001764D	Dialogue Text	CANAL / WATERLOCK LEVER	You	So the coast is closed off. Is this why Lena's husband Morell the cryptozoologist hasn't returned?	所以海岸被隔绝了。大概这就是莉娜的丈夫，神秘动物学家莫雷尔没有回来的原因。
+0x0100000600017654	Dialogue Text	CANAL / WATERLOCK LEVER	Water Lock Control Panel	The Water Lock Control Panel doesn't make for much of a partner, but yeah -- why not.	水闸控制台应该不会成为一个好搭档，不过管它呢——为什么不试试。
+0x010000060001765A	Dialogue Text	CANAL / WATERLOCK LEVER	Logic	You should probably tell Lena. It'll take a load off her mind.	你应该告诉莉娜。这样会减轻她的精神负担。
+0x0100000600017683	Dialogue Text	CANAL / WATERLOCK LEVER	Empathy	She *was* quite worried...	她*还是*挺担心的……
+0x010000060001AD3F	Dialogue Text	CANAL / WATERLOCK LEVER	Logic	Could this be why Morell hasn't returned to Lena?	也许这就是莫雷尔没有回去找莉娜的原因？
+0x010000060001AD4D	Dialogue Text	CANAL / WATERLOCK LEVER	Reaction Speed	Wait... Could this be why Morell hasn't returned to Lena?	等等……难道这就是莫雷尔没有回去找莉娜的原因？
+0x010000060001AD60	Alternate1	CANAL / WATERLOCK LEVER	Kim Kitsuragi	"All right." the lieutenant looks across the canal. "We can go to the coast now. Expect rugged terrain -- and drunks. And if you wanted to forge that document for Evrart, now you can..." 	“好吧，”警督看向运河对岸。“现在我们可以去海岸了。只不过，那边到处崎岖不平——还有不少醉汉。还有，如果你想伪造艾弗拉特的文件，现在可以动手了……”
+0x010000060001AD60	Dialogue Text	CANAL / WATERLOCK LEVER	Kim Kitsuragi	"Okay..." The lieutenant looks across the canal. "If we ever need to get to the coast, then this is the way. But please, contain your *wanderlust* for now. I don't want us to get sidetracked. Not with everything that's going on."	“好吧……”警督看向运河对岸。“如果我们需要到海岸去，就可以走这条路。不过拜托你，暂时收敛一下你的*流浪癖*。我可不想分心。遇到什么事都这样可不行。”
+0x010000060001AD7E	Dialogue Text	CANAL / WATERLOCK LEVER	Esprit de Corps	Focus on one thing, achieve it, then the next... he thinks. That's the task chain.	集中在一件事情上，完成它，然后再继续下一件……他想到。这才叫任务链。
+0x0100006B00007E94	Dialogue Text	CANAL / WATERLOCK LEVER	Water Lock Control Panel	A couple of indicator lights are missing from this control panel. Loose wires dangle from the now-vacant holes. In the middle is a lever -- beneath it, a small metal plaque.	控制台上少了几对指示灯。松散的电线从空洞里伸了出来。中间有一个控制杆——在它下面，是一块小金属板。
+0x0100006B00007EAC	Dialogue Text	CANAL / WATERLOCK LEVER	You	Pull the lever up.	拉动控制杆。
+0x0100006B00007EB1	Dialogue Text	CANAL / WATERLOCK LEVER	You	[Leave.]	[离开。]
+0x0100006B00007F06	Dialogue Text	CANAL / WATERLOCK LEVER	Visual Calculus	This panel usually closes the water lock, turning it into a bridge that lets you cross the canal -- but there's a crashed "Samaran butter" sign in the way. Pulling the lever *probably* won't do anything.	这个控制台经常用来关闭水闸，把它变成一座桥，让大家前往运河对岸——但是却被一块坏掉的“萨马拉黄油”招牌卡住了。拉动控制杆*也许*没什么用。
+0x0100006B00007F0E	Dialogue Text	CANAL / WATERLOCK LEVER	Water Lock Control Panel	A rusting control panel with loose wires dangling out from the hole where an indicator light used to be, and a mechanical lever sitting in the middle.	这是一个锈蚀的控制台，原来指示灯的位置变成了空洞，松散的电线从里面伸了出来。中央有一个机械控制杆。
+0x0100006B00007F36	Dialogue Text	CANAL / WATERLOCK LEVER	Water Lock Control Panel	You pull the lever all the way up until the metal clicks against the contact pins. You hear a soft *clunk*, then...	你把控制杆一路推上去，直到金属碰撞到接片。你听到一阵轻微的*咔哒*声，然后……
+0x0100006B00007F44	Dialogue Text	CANAL / WATERLOCK LEVER	Water Lock Control Panel	Nothing happens.	什么也没发生。
+0x0100006B00007F4B	Dialogue Text	CANAL / WATERLOCK LEVER	Water Lock Control Panel	A spring brings the lever back to its original position. You still need to close the water lock to get across the canal -- some other way.	弹簧把控制杆推回到原来的位置上。不过你还是需要关闭水闸到运河对岸去——只是可能得换个别的方法。
+0x0100006B00007F68	Dialogue Text	CANAL / WATERLOCK LEVER	Water Lock Control Panel	You grab the handle and pull the lever up. As soon as the metal connects against the contact pins you hear a loud *clunk*, then...	你抓住把手，把控制杆推了上去。金属与接片碰触的瞬间，你听到一阵响亮的*咔哒*声，然后……
+0x0100006B00008019	Dialogue Text	CANAL / WATERLOCK LEVER	You	Push it HARDER.	用力点推。
+0x0100006B0000801E	Dialogue Text	CANAL / WATERLOCK LEVER	You	Release the lever.	松开控制杆。
+0x0100006B00008028	Dialogue Text	CANAL / WATERLOCK LEVER	Water Lock Control Panel	Nothing happens. A cold gust of wind blowing in from the sea interrupts the silence of the situation.	什么也没发生。海面吹来一阵刺骨的寒风，打破了这个沉默的局面。
+0x0100006B00008068	Dialogue Text	CANAL / WATERLOCK LEVER	Water Lock Control Panel	The water lock starts moving...	水闸开始动了……
+0x0100006B00008078	Dialogue Text	CANAL / WATERLOCK LEVER	Kim Kitsuragi	"Mm-hmm." The lieutenant hums to himself while staring at your activities.	“嗯。”警督紧盯着你的动作，自顾自的哼哼着。
+0x0100006B0000807D	Dialogue Text	CANAL / WATERLOCK LEVER	Man on water lock	The man watches you in silence, very slowly cutting off another slice of his salami and putting it in his mouth.	男人静静地看着你，慢慢切下又一片萨拉米香肠，放进自己口中。
+0x0100002F0000EF50	Dialogue Text	CANAL / WORKER barks	Canal Crew	"Good day, officer."	“日安，警官。”
+0x0100002F0000EF55	Dialogue Text	CANAL / WORKER barks	Canal Crew	"So... where's the next broken water lock?"	“所以……下一个坏水闸在哪？”
+0x0100002F0000EF5A	Dialogue Text	CANAL / WORKER barks	Canal Crew	"Good job, boys. Now who wants to flick it?"	“干得漂亮，小伙子们。现在谁想去推动它呢？”
+0x0100002F0000EF5F	Dialogue Text	CANAL / WORKER barks	Canal Crew	"Fixin' the world one water lock at a time."	“一次解决一个水闸。”
+0x0100004000002CC5	Dialogue Text	CANAL / WORKER barks	Canal Crew	"Morning, officer."	“早上好，警官。”
+0x0100004000002CCE	Dialogue Text	CANAL / WORKER barks	Canal Crew	"Let's run out the clock. Lunch is at 14 anyway."	”我们拖下时间吧。反正午饭要等到14点。“
+0x0100006B00007DD7	Dialogue Text	CANAL / WORKER barks	Canal Crew	"Hey, let the police flick the switch!"	“喂，让警察去推开关！”
+0x0100008900003FD8	Dialogue Text	CANAL / WORKER barks	Canal Crew	"Guess we're done here."	“看来这里没我们的事了。”
