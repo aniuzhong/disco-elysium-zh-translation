@@ -1,0 +1,89 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x0100000200005AF6	Dialogue Text	HQ / EXIT BULLET difficult	Empathy	Think what you want, but, in your gut, you know otherwise.	想想你要什么，但是你的直觉告诉你，你知道不是这么回事。
+0x0100000200005B02	Dialogue Text	HQ / EXIT BULLET difficult	Kim Kitsuragi	"Either way," he looks at the bullet again, "this is enough to confront her with."	“不管怎么说，”他又看了一眼子弹，“这已经足够跟她当面对峙了。”
+0x0100000200005B0A	Dialogue Text	HQ / EXIT BULLET difficult	Kim Kitsuragi	"That's a big leap, but from what I've heard, this Ruby sounds pretty desperate. Either way," he looks at the bullet again, "this is enough to confront the washerwoman."	“这是个重大突破，但是根据我听到的消息，这位露比好像很绝望。不管怎么说，”他又看了一眼子弹，“这已经足够跟那位洗衣女工当面对峙了。”
+0x0100000200005B10	Dialogue Text	HQ / EXIT BULLET difficult	Kim Kitsuragi	"That's something of a leap -- but we should be on our guard. Either way," he looks at the bullet again, "this is enough to confront the washerwoman."	“这是个重大突破——但是我们应该警惕些。不管怎么说，”他又看了一眼子弹，“这已经足够跟那位洗衣女工当面对峙了。”
+0x01000016000091B6	Dialogue Text	HQ / EXIT BULLET difficult	You	"Possibly."	“有可能。”
+0x010000160000A429	Dialogue Text	HQ / EXIT BULLET difficult	Kim Kitsuragi	"See anything interesting?"	“发现什么有意思的东西了吗？”
+0x010000160000A430	Dialogue Text	HQ / EXIT BULLET difficult	Kim Kitsuragi	The lieutenant nods.	警督点点头。
+0x010000160000A438	Dialogue Text	HQ / EXIT BULLET difficult	Visual Calculus	The edge of a floorboard next to it looks scratched.	旁边地板的边缘好像被划过。
+0x010000160000A44A	Dialogue Text	HQ / EXIT BULLET difficult	You	What is it?	是什么？
+0x010000160000A466	Dialogue Text	HQ / EXIT BULLET difficult	You	"Look, a bullet! Not for a breechloader, though..."	“看，一颗子弹！不过不是后膛枪的……”
+0x010000160000A46C	Dialogue Text	HQ / EXIT BULLET difficult	You	"Lieutenant, a bullet!"	“警督，是一颗子弹！”
+0x010000160000A472	Dialogue Text	HQ / EXIT BULLET difficult	You	This bullet isn't for a breechloader like the murder weapon?	这颗子弹不是凶器那种后膛枪用的？
+0x010000160000A478	Dialogue Text	HQ / EXIT BULLET difficult	You	A bullet, interesting.	一颗子弹，有意思。
+0x010000160000A483	Dialogue Text	HQ / EXIT BULLET difficult	Kim Kitsuragi	The lieutenant studies the bullet in your hand. "Still, interesting."	警督仔细研究手中的子弹。“不过，还是很有意思。”
+0x010000160000A48A	Dialogue Text	HQ / EXIT BULLET difficult	Kim Kitsuragi	"Yes, for muzzleloaders like the ones officers of the RCM carry. Interesting."	“是啊，RCM警官配的那种前膛枪用的。有意思。”
+0x010000160000A491	Dialogue Text	HQ / EXIT BULLET difficult	You	"What do you think it's doing here?"	“你觉得它为什么会在这里？”
+0x010000160000A499	Dialogue Text	HQ / EXIT BULLET difficult	Kim Kitsuragi	"Someone hid it as extra ammunition?"	“有人藏起来，当做备用弹药？”
+0x010000160000A4A0	Dialogue Text	HQ / EXIT BULLET difficult	You	"Ruby?"	“露比？”
+0x010000160000A4A7	Dialogue Text	HQ / EXIT BULLET difficult	Kim Kitsuragi	"I don't know, could be. The washerwoman was clearly withholding something -- and she *does* rent this place out to people."	“不清楚，也许吧。那个洗衣女工肯定有所隐瞒——她*确实*把这个地方租给了别人。”
+0x010000160000A4AE	Dialogue Text	HQ / EXIT BULLET difficult	You	"Let's go, then." [Leave.]	“那我们走吧。”[离开。]
+0x010000160000A4B8	Dialogue Text	HQ / EXIT BULLET difficult	Loose Floorboard	The floorboard isn't interested -- maybe the Washerwoman is? You have enough to confront her with.	这块地板不感兴趣——也许洗衣女工会呢？现在掌握的信息已经足够和她对峙了。
+0x010000160000A4BE	Dialogue Text	HQ / EXIT BULLET difficult	Loose Floorboard	The floorboard doesn't care -- but maybe the Washerwoman does? You have enough to confront her with.	这块地板没什么好关注的——也许应该去找那个洗衣女工？现在掌握的信息已经足够和她对峙了。
+0x010000160000A4C6	Dialogue Text	HQ / EXIT BULLET difficult	Hand/Eye Coordination	It's extra ammunition. She's locked and loaded, ready to fight some cops.	这是备用弹药。她已经锁定目标，准备跟警察对着干了。
+0x010000160000A4DF	Dialogue Text	HQ / EXIT BULLET difficult	Empathy	Holding the bullet, you get the feeling -- this isn't ammunition against you. It's for herself.	握着手中的子弹，你有一种感觉——这枚子弹不是用来对付你的。是她留给自己的。
+0x010000160000A4F5	Dialogue Text	HQ / EXIT BULLET difficult	You	Seems to me like someone is armed and waiting for us.	看来有人全副武装，就等着我们了。
+0x010000160000A4FB	Dialogue Text	HQ / EXIT BULLET difficult	You	"Kim, I think this is extra ammunition against us."	“金，我觉得这些备用弹药是用来对付我们的。”
+0x010000160000A501	Dialogue Text	HQ / EXIT BULLET difficult	You	"I think this is a last resort -- a bullet in case suicide becomes an option."	“我觉得这是最后一招——如果到了必要关头，这颗子弹可以用来自杀。”
+0x010000160000AA7E	Dialogue Text	HQ / EXIT BULLET difficult	Empathy	Holding the bullet, you get the feeling -- this isn't ammunition against *you*. It's for herself.	握着手中的子弹，你有一种感觉——这枚子弹不是用来对付*你*的。是她留给自己的。
+0x0100005A0000DB02	Dialogue Text	HQ / EXIT BULLET difficult	You	Move the board aside.	把木板移到一边。
+0x0100005A0000DB07	Dialogue Text	HQ / EXIT BULLET difficult	Loose Floorboard	As you look at the floorboards in this corner of the shack, it's clear one of them isn't quite level with the others.	你看着棚屋角落的地板，很显然，其中有一块没有跟其它的对齐。
+0x0100005A0000E02C	Dialogue Text	HQ / EXIT BULLET difficult	Loose Floorboard	The hollow space underneath the floorboards is dark and damp. You can barely make out the mixture of sand and sawdust below.	地板下的空洞黑暗而潮湿。你勉强辨认出下面是一滩沙子和锯末的混合物。
+0x0100005A0000E031	Dialogue Text	HQ / EXIT BULLET difficult	Loose Floorboard	You stick your hand in and start combing through the sand. Dry, not like outside. Fine dust... and then -- something hard, wrapped in paper.	你把手探进去，开始在沙子里面仔细搜寻。干燥，跟外面的不一样。细细的尘土……然后——你摸到一个包在纸里的硬东西。
+0x0100005A0000E036	Dialogue Text	HQ / EXIT BULLET difficult	Loose Floorboard	You return the board to its original position.	你把木板移回到原来的位置。
+0x0100005A0000E03B	Dialogue Text	HQ / EXIT BULLET difficult	You	Search through the sand and sawdust.	仔细翻遍沙子和锯末。
+0x0100005A0000E041	Dialogue Text	HQ / EXIT BULLET difficult	You	Oh, I don't want to stick my hand in there. [Leave.]	呃，我不想把手伸进去。[离开。]
+0x0100005A0000E049	Dialogue Text	HQ / EXIT BULLET difficult	You	It's nothing. [Leave.]	没什么有意思的。[离开。]
+0x0100005A0000E050	Dialogue Text	HQ / EXIT BULLET difficult	Loose Floorboard	In time, dust will settle upon the wooden boards, covering up all tracks.	灰尘及时地落在了木板上，掩盖了所有痕迹。
+0x0100005A0000E05B	Dialogue Text	HQ / EXIT BULLET difficult	You	What's in here?	里面是什么？
+0x0100005A0000E062	Dialogue Text	HQ / EXIT BULLET difficult	Loose Floorboard	Nothing particular catches your eye. Looks like more reeds. There might be something hidden inside the sand, though.	你的眼睛没发现什么特别的东西，看起来像是芦苇。不过，也许沙子里藏了些什么。
+0x0100005A0000E069	Dialogue Text	HQ / EXIT BULLET difficult	Inland Empire	Something bad. Someone's night thoughts. A last resort. A bad idea.	不好的东西。某人在深夜里的突发奇想。最后一招。一个坏主意。
+0x0100005A0000E07D	Dialogue Text	HQ / EXIT BULLET difficult	Loose Floorboard	A small cylindrical object. You pull it out -- a bullet.	一个小型的柱状体。你把它取了出来——是一颗子弹。
+0x0100005A0000E084	Dialogue Text	HQ / EXIT BULLET difficult	Encyclopedia	A 9mm bullet to be exact. Fit for all muzzleloaders of that calibre, like your own Villiers pistol, for example.	准确的说，是9毫米的子弹。所有那种口径的前膛枪都适用，打个比方：你的维利耶手枪就可以。
+0x0100005A0000E092	Dialogue Text	HQ / EXIT BULLET difficult	Encyclopedia	A 9mm bullet to be exact. Fit for all muzzleloaders of that calibre.	准确的说，是9毫米的子弹，所有那种口径的前膛枪都适用。
+0x0100000200005ADE	Dialogue Text	HQ / WASHBASIN	Washbasin	On the table you see a bowl of water, a rough soap, and next to it a small hand mirror. A straight razor soaks inside the wash basin.	桌上有一碗水，一块粗糙的肥皂，旁边还放着一支小手镜。洗手盆底部沉着一支刮胡刀。
+0x0100000200005AE4	Dialogue Text	HQ / WASHBASIN	Esprit de Corps	Please attend to personal hygiene on your own time.	有空闲的时候，记得注意个人卫生。
+0x0100000200005AEC	Dialogue Text	HQ / WASHBASIN	Kim Kitsuragi	The lieutenant throws you an embarrassed glance as you consider the washbasin.	当你考虑用洗手盆的时候，警督尴尬地看了你一眼。
+0x0100000700012221	Dialogue Text	HQ / WASHBASIN	You	Leave it for now.	暂时先不管。
+0x0100000700012228	Dialogue Text	HQ / WASHBASIN	Hand/Eye Coordination	Thank god, I would have cut your throat.	谢天谢地，我差点就割破你的喉咙了。
+0x010000070001222F	Dialogue Text	HQ / WASHBASIN	Volition	The centipede is exaggerating -- people don't actually cut their own throats when they're shaving. At least not accidentally.	那只蜈蚣太夸张了——谁会在刮胡子的时候把喉咙割破啊。至少不可能是意外。
+0x0100000700012244	Alternate1	HQ / WASHBASIN	You	First wash the smell of death off yourself.	先洗掉自己身上死亡的味道。
+0x0100000700012244	Dialogue Text	HQ / WASHBASIN	You	Wash the smell of death off yourself.	洗掉自己身上死亡的味道。
+0x0100000700012255	Dialogue Text	HQ / WASHBASIN	Washbasin	Thank god you didn't go in there barehanded! Death smell is notoriously difficult to get off yourself and your clothes though and cleaning up takes a while...	谢天谢地，你没有空手进去！众所周知，死亡的味道一旦沾上身，还有衣服，就要花很久才能清洗掉……
+0x010000070001225C	Dialogue Text	HQ / WASHBASIN	Washbasin	But man persists and after fifteen minutes pass, you look almost presentable. Sort of. The sudden absence of the morbid dead tissue smell instantly lifts your spirit.	但是人类很能坚持，15分钟之后，你看起来可以见人了。差不多吧。突然没了病变坏死组织的味道，你的精神顿时振奋起来。
+0x010000070001227C	Dialogue Text	HQ / WASHBASIN	Washbasin	But man persists and finally your bruised hands look clean and presentable... sort of. The sudden absence of the morbid dead tissue smell is uplifting.	但是人类很能坚持，最终你那双青肿的手变得整洁中看起来……勉强是吧。突然没了病变坏死组织的味道，让人感觉神清气爽。
+0x0100000700012282	Dialogue Text	HQ / WASHBASIN	Washbasin	Scrubbing all the necrotic tissue off your hands takes a while. The fingernails are especially hard. Death has made it's way into every nook and cranny...	你花了好长一会儿才洗掉了手上的坏死组织。手指甲的部分是最艰难的。死亡渗入了每一条缝隙，每一处角落……
+0x010000070001228F	Dialogue Text	HQ / WASHBASIN	Interfacing	Should have used gloves. Detectives use gloves, when they go rummaging around in someone's dead brain...	早知道应该用手套的。警探都会用手套，特别是在死人大脑里到处翻找的时候……
+0x0100000700013401	Dialogue Text	HQ / WASHBASIN	Physical Instrument	You don't have a face anymore. It's all baby-ass now.	你已经没有脸了，现在全是婴儿屁股一样。
+0x0100000700013409	Dialogue Text	HQ / WASHBASIN	Physical Instrument	Yeah, purified yourself right back to infancy. You look like a baby!	是啊，净化自己，一路回到婴儿时期。你看起来就像个婴儿！
+0x0100002900001F06	Dialogue Text	HQ / WASHBASIN	Hand/Eye Coordination	Your hand shakes so hard you can't even muster up the courage to *try*. Maybe you're just too *wild* at heart?	你的手抖地厉害，甚至无法鼓足*尝试*的勇气。也许是因为你的内心太过*狂野*？
+0x0100002900001F13	Dialogue Text	HQ / WASHBASIN	You	*Was* shaving the right call?	刮胡子*是*正确的决定吗？
+0x0100002900001F19	Dialogue Text	HQ / WASHBASIN	You	Is shaving the right call?	刮胡子是正确的决定吗？
+0x0100002F0000F9F6	Dialogue Text	HQ / WASHBASIN	Washbasin	On the table you see a bowl of water, a rough soap, and next to it a small hand mirror. A straight razor soaks inside the wash basin.	桌上有一碗水，一块粗糙的肥皂，旁边还放着一支小手镜。洗手盆底部沉着一支刮胡刀。
+0x0100002F0000F9FD	Dialogue Text	HQ / WASHBASIN	You	[Leave.]	[离开。]
+0x0100002F0000FA0B	Dialogue Text	HQ / WASHBASIN	Washbasin	The water reflects back a vague image of your face -- nose bulbous and red, hair unkempt, wrinkles lining the eyes and forehead. The 'stache is gigantic.	水面映照出你模糊的轮廓——鼻子红彤彤的，像个圆球；头发蓬乱，眼角和前额爬满皱纹。还有一把巨大的胡子。
+0x0100002F00013356	Dialogue Text	HQ / WASHBASIN	Washbasin	How would you know? You haven't even seen your face! Go take a peek in the mirror, then decide for yourself.	你怎么知道？你甚至都没看见过自己那张脸！去镜子里瞄一眼，然后自己决定。
+0x0100005A0000DB17	Dialogue Text	HQ / WASHBASIN	You	Time to shave. Get these mutton chops off.	该刮胡子了。把这把络腮胡全剃掉吧。
+0x0100005A0000DB17	tooltip1	HQ / WASHBASIN	You	Dresscode: True man.	着装要求：真男人。
+0x0100005A0000DB25	Dialogue Text	HQ / WASHBASIN	Hand/Eye Coordination	Like an artist with a brush or a master swordsman, you use the small mirror and the straight razor -- with some soap -- to remove all that unkempt hair from below the nose-line.	像是手握画笔的艺术家，又或者是手握宝剑的剑神，你拿起小镜子和刮胡刀——沾了点肥皂——把鼻子下面那团乱七八糟的毛发刮了个干净。
+0x0100005A0000DB2B	Dialogue Text	HQ / WASHBASIN	Hand/Eye Coordination	Your hand trembles as you scratch at your cheek... oh no, that's not how a grown man shaves!	刮到脸颊的时候，你的手微微颤抖……哦不，一个成年男人可不是这样刮胡子的。
+0x0100005A0000E0D7	Dialogue Text	HQ / WASHBASIN	Hand/Eye Coordination	They feel so smooth, surprisingly so. A feeling of freshness overcomes you, as if you just came from a cold bath.	出人意料的是，它们感觉特别光滑。你感觉一阵神清气爽，就好像刚洗了个冷水澡。
+0x0100005A0000E0DD	Dialogue Text	HQ / WASHBASIN	You	This isn't sharp enough. Scrape harder.	这个不够锋利，下手再重点。
+0x0100005A0000E0E2	Dialogue Text	HQ / WASHBASIN	Hand/Eye Coordination	Stop, for crying out loud! You're gonna cut your own throat.	拜托，快住手！你快把自己的脖子划开了。
+0x0100005A0000E0E8	Dialogue Text	HQ / WASHBASIN	You	I *need* to shave the chops!	我*需要*把胡子刮干净！
+0x0100005A0000E0EF	Dialogue Text	HQ / WASHBASIN	Physical Instrument	You'll be lookin' like a pansy without the chops! A fuckin' pansy!	没胡子的话你跟那些基佬有什么区别！基佬懂吗！
+0x0100005A0000E0F4	Dialogue Text	HQ / WASHBASIN	Composure	A fresh start looms ahead. Clean yourself up and be born anew.	一个新开始在你眼前隐隐若现。收拾好自己，重获新生。
+0x0100005A0000E113	Dialogue Text	HQ / WASHBASIN	Washbasin	The water reflects back a vague image of your clean-shaven face. Despite the bulbous nose, unkempt hair and persistent swelling, you look... a little younger, maybe?	水面隐约映照出一张没有胡子的脸庞。虽然鼻子像圆球，头发乱蓬蓬，脸也一如既往的肿胀，你看起来……年轻了一些，也许吧？
+0x0100005A0000E120	Dialogue Text	HQ / WASHBASIN	Logic	You almost look like a professional.	你差不多有点专业人士的样子了。
+0x0100005A0000E125	Dialogue Text	HQ / WASHBASIN	Suggestion	Your face, such as it is. A regular human face. Sans expression.	你的脸，不过如此。一张普通人的脸。毫无表情。
+0x0100005A0000E136	Dialogue Text	HQ / WASHBASIN	Suggestion	The beardless nature of your cheeks makes The Expression seem even more like a terrifying grimace.	你那没了胡须遮掩的面庞变得越发像一张恐怖的鬼脸。
+0x0100005A0000E1A8	Dialogue Text	HQ / WASHBASIN	Volition	There's no way to salvage this.	已经无法挽救了。
+0x0100005A0000E1AE	Dialogue Text	HQ / WASHBASIN	You	Drop the razor in the water basin.	把剃须刀扔进洗手盆。
+0x0100005A0000E1B3	Dialogue Text	HQ / WASHBASIN	Hand/Eye Coordination	Your hand refuses to move another millimetre. A small trickle of blood runs down your cheek.	你的手不愿再移动分毫。一滴血珠慢慢从你的脸颊滑落。
+0x0100005A0000E1B8	Dialogue Text	HQ / WASHBASIN	Hand/Eye Coordination	The razor lands with a *clang*. A red trickle begins to spread in the water.	剃须刀*叮当*一声落下了。一抹鲜红在水中扩散开来。
+0x0100005A0000E1BD	Dialogue Text	HQ / WASHBASIN	You	Feel your clean-shaven cheeks.	摸摸没有胡子的面颊。
+0x0100005A0000E1C2	Dialogue Text	HQ / WASHBASIN	You	Hope this was the right decision.	希望这是正确的决定。
+0x0100005A0000E1C7	Dialogue Text	HQ / WASHBASIN	Hand/Eye Coordination	Beneath the doubt sprouts a new vigour, like you've discarded some bad decisions. It feels as though you've passed through a ritual. Emerged from cold water, even...	疑问之下，一股新的活力生根发芽，就像是抛弃了一些错误决定。你感觉自己好像经历了一场仪式。甚至是刚从冰水中浮了上来……
+0x0100005A0000E1E2	Dialogue Text	HQ / WASHBASIN	Hand/Eye Coordination	The sharp blade chafes against your skin, producing a scratching sound. The surface underneath the beard feels tender, the air brushing against it chilly.	锋利的刀片划过你的皮肤，发出嘶啦的声响。胡须下面的皮肤摸起来很柔软，拂过面颊的空气略显冰凉。
+0x010000950000028D	Dialogue Text	HQ / WASHBASIN	Hand/Eye Coordination	The sharp blade chafes against your skin, producing a scratching sound. The surface underneath the beard feels tender, the air brushing against it chilly.	锋利的刀片划破你的皮肤，发出嘶啦的声响。胡须下面的皮肤摸起来很柔软，拂过面颊的空气略显冰凉。
