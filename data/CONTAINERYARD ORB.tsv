@@ -1,0 +1,32 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x0100000F000120D2	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Savoir Faire	There! In that container you moved. There's *something* rich in there. We've got to get inside.	那儿！那个你移动过的集装箱。里面有*钱*的味道。我们得想办法进去。
+0x0100000F000120D8	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	You	But I already tried to convince it to open for me and failed.	可是我已经尝试过要打开它了，但是失败了。
+0x0100000F000120E2	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	You	What do you suggest?	你有什么建议？
+0x0100000F000120EE	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Savoir Faire	Then it's time to show you how a *master* does it. No lock survives a round with Savvy. Get me up close.	是时候展现*大师*风范了。在鬼鬼面前，没有任何门锁能够撑过一回合。带我去看看。
+0x0100000F000120F3	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Savoir Faire	Opening the door? C'mon, I shouldn't have to tell you that. Get me up close and I'll show you how it's done.	开门？得了，我本来不该告诉你的。带我去看看，让我来给你演示怎么开门。
+0x0100000F0001618F	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Savoir Faire	Here we are. Whoever is in there definitely has money, so let's convince them to part with it for our *exclusive* piece of art.	好了。无论那里面的人是谁，他肯定很有钱。那么就让我们来说服他们买下我们的*独家*艺术画作吧。
+0x010000580001D70F	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Savoir Faire	Psst, hear that?	嘘，你听见了吗？
+0x010000580001D715	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	You	Hear what?	听见什么？
+0x010000580001D71B	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	You	I don't hear anything.	我什么也没听见。
+0x010000580001D728	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Savoir Faire	The ominous hum of a preposterously affluent individual... It seems to be coming from above us.	似乎是超级大富豪发出的噪音……好像就在我们上面。
+0x010000580001D736	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Logic	Hold up a minute... why should a preposterously affluent individual be hiding themselves in a container?	等等……为什么超级大富豪要躲在集装箱里呢？
+0x010000580001D73C	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	You	(Look up.)	（往上看。）
+0x010000580001D743	Alternate1	CONTAINERYARD ORB / ultraliberal dream quest	You	Still nothing. Are you sure?	还是没有。你确定？
+0x010000580001D743	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	You	I don't see anyone. Are you sure?	我一个人也没看见。你确定吗？
+0x010000580001D74A	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Savoir Faire	Yes, I'm sure. *Someone* here has assets stacked away in OFCs. Look up.	是的，我确定。*有人*把财产装在这些OFC里。
+0x010000580001D751	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	You	Wait, OFCs?	等等，什么是OFC？
+0x010000580001D76C	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Savoir Faire	See that massive container there, held up by that humongous crane? That's it! We need to get that box of treasures down. Try using that control panel over there.	看到那个巨大的集装箱了吗，就是那个巨大机械臂吊起来的那个？没错，就是它！我们得把那个宝贝集装箱弄下来。用那边的操纵杆试试吧。
+0x010000580001D774	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Perception (Hearing)	You hear dock water quietly lapping against seaweed-slimed concrete, but definitely no ominous hums.	你听到码头上海水拍打已被海藻侵蚀的混凝土的声音，但绝对没有什么大富豪的噪音。
+0x010000580001D77E	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Encyclopedia	OFCs or Offshore Financial Centres -- that's another word for tax havens. EPIS has adopted the OFFNET approach into their frameworks for addressing OFCs, but it's still a problem.	OFC就是离岸财务中心 —— 也就是避税天堂。EPIS已经启用了离岸网络来对抗这些OFC，但这个问题仍然很普遍。
+0x010000580001D785	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	You	Let's slow down here. Why would we search for rich people in containers?	先等等。我们为什么要去集装箱里找富人呢？
+0x010000580001D790	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	You	Wait, you mean tax havens?	等等，你是说避税天堂？
+0x010000580001D796	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Savoir Faire	Tax havens, OFCs, Sinks, Conduits, *heavens*... Get with the terms, hustler-boy. Now look up!	避税天堂，OFC，洗涤池，导管，*天堂*……把这些术语记住了，骗子小哥。现在往上看！
+0x010000580001D79E	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	You	No problemo, boss-man. On my way to lower that crane... [Leave.]	没问题，老大。我这就去把机械臂弄下来……[离开。]
+0x010000580001D7B5	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Savoir Faire	*Slow down*? We don't have time to slow down -- it's *crunch time*! Get your ass moving and control that crane! We've got sales to make.	*等等*？我们可没时间等等——已经*迫在眉睫*了！还不赶快去把那机械臂弄下来？我们要去做买卖了。
+0x010000580001D7BC	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Savoir Faire	Great *work* ethic, friend. No one should be scared to get their hands dirty on the road to brilliant *success*.	你的职业道德很*高*嘛，朋友。没有人会拒绝为了巨大*成功*而脏一脏手的。
+0x010000580001D7CE	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	You	Yes, but...	没错，可是……
+0x010000580001D7D5	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Savoir Faire	No 'buts', I want to see your *can-do* attitude shine this time. Get moving!	我不要‘可是’，我要‘可以’。动起来！
+0x010000580001D7ED	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	You	You mean the rain?	你在说雨吗？
+0x010000580001D7F3	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	You	Everything gets so quiet when it snows.	下雪的时候一切都安静了下来。
+0x010000580001D7F9	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Savoir Faire	No, not the rain -- the ominous hum of a *preposterously affluent individual*... It seems to be coming from above us.	不，不是雨——是是超级大富豪发出的噪音……好像就在我们上面。
+0x010000580001D801	Dialogue Text	CONTAINERYARD ORB / ultraliberal dream quest	Savoir Faire	No, not the snow -- the ominous hum of a *preposterously affluent individual*... It seems to be coming from above us.	不，不是雪——是是超级大富豪发出的噪音……好像就在我们上面。
