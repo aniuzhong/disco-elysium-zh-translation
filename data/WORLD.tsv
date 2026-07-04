@@ -1,0 +1,124 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060001C560	Dialogue Text	WORLD / WAITING BENCH	Bench	The cold stone slab of the bench looks rather uncomfortable. There are cigarette stubs all around.	冰冷的石凳看起来一点也不舒适。烟头散落地到处都是。
+0x010000060001C56B	Dialogue Text	WORLD / WAITING BENCH	Bench	The worn and beaten wooden planks of the bench do not look overly comforting.	长凳上破败的木板看起来一点也不舒适。
+0x010000060001C576	Dialogue Text	WORLD / WAITING BENCH	Kim Kitsuragi	"Hmh..." The lieutenant looks down the street. "We can sit on benches after we've solved the murder. Let's go."	“嗯……”警督望向街道。“解决这起凶杀案之后，也许我们可以坐下来。好了，走吧。”
+0x0100002100001387	Dialogue Text	WORLD / WAITING BENCH	Tutorial Agent	You can revisit the bench if you ever need to pass the time when Lieutenant Kitsuragi is gone.	等曷城警督不在的时候，如果你需要消遣时间，再回到长凳这里来也不迟。
+0x0100002100001391	Dialogue Text	WORLD / WAITING BENCH	Kim Kitsuragi	"A rather uninviting bench," the lieutenant notes. "I'm not one for sitting on benches anyway -- before the murder investigation is solved."	“这个长凳确实不是很吸引人，”警督开口到。“再说了，反正我也不想坐在长凳上——在凶杀案调查结束之前不想。”
+0x0100002F00012B7E	Dialogue Text	WORLD / WAITING BENCH	Bench	It is the dead of night. Now is not the time for sitting, but for sleeping. It is time to find a bed.	夜深人静。现在应该睡觉，而不是坐下。该去找张床了。
+0x0100008900001D1F	Dialogue Text	WORLD / WAITING BENCH	Bench	You sit on the cold stone slab of the bench. It feels rough, yet comforting.	你坐在冰冷的石凳上。虽然有些粗糙，但还算舒适。
+0x0100008900001D2E	Dialogue Text	WORLD / WAITING BENCH	Bench	You sit on the wind-worn wooden planks of the bench. Your feet ache.	你坐在被风腐蚀的长木凳上，脚感觉有些痛。
+0x0100008900001D3B	Dialogue Text	WORLD / WAITING BENCH	You	Twiddle your thumbs. [Wait 15 minutes.]	捻弄自己的拇指。[等待15分钟。]
+0x0100008900001D40	Dialogue Text	WORLD / WAITING BENCH	You	Stare into the sky. [Wait 30 minutes.]	盯着天空发呆。[等待30分钟。]
+0x0100008900001D45	Dialogue Text	WORLD / WAITING BENCH	You	Think deep thoughts. [Wait 1 hour.]	深入思考。[等待1小时。]
+0x0100008900001D4A	Dialogue Text	WORLD / WAITING BENCH	You	[Get up.]	[站起来。]
+0x0100008900001D5A	Dialogue Text	WORLD / WAITING BENCH	Bench	A flock of seagulls flies overhead, heading towards... who knows where. Soon enough they are out of sight...	一群海鸥掠过头顶，朝着……鬼知道什么地方飞去。很快，它们离开了你的视线……
+0x0100008900001D65	Dialogue Text	WORLD / WAITING BENCH	Bench	You squint your eyes, attempting to find something of interest... No, there is nothing up there except the sky.	你眯起双眼，试着寻找有趣的东西……没有，除了天空之外，这里什么也没有。
+0x0100008900001DD0	Dialogue Text	WORLD / WAITING BENCH	Bench	You try to concentrate on the sky above, but this time around, the stone underneath you feels uncomfortable...	你试着集中精神看着头顶的天空，但是这次，脚下的石头变得不再舒适……
+0x0100008900001E27	Dialogue Text	WORLD / WAITING BENCH	Bench	Your eyes are caught on the towers of La Delta across the bay... it sure makes a pretty skyline...	你的眼睛落在海湾对面德尔塔的高楼上……确实算得上是一道美丽的天际线……
+0x0100008900001E2E	Dialogue Text	WORLD / WAITING BENCH	Bench	What is that nigh-unnoticeable dot in the sky? Huh... odd.	空中那个极不起眼的小点是做什么的？嗯……有点奇怪。
+0x0100008900001E33	Dialogue Text	WORLD / WAITING BENCH	Bench	You're hoping the sky on the coast looks different, more interesting... but in truth, it doesn't...	你希望海岸上的天空看起来会有所不同，应该更有趣些……但事实是，并非如此……
+0x0100008900001EB9	Alternate1	WORLD / WAITING BENCH	Bench	Sitting on a bench on the coast... it's like a performance piece. But a performance of what?	坐在海岸边的长凳上……就像一场演出。不过，是什么样的演出呢？
+0x0100008900001EB9	Dialogue Text	WORLD / WAITING BENCH	Bench	You try to come up with something fresh and exciting, but the endeavour only gives you a slight headache.	你试着想些新鲜有趣的点子，但努力尝试结果只换来了轻微的头痛。
+0x0100008900001ED4	Dialogue Text	WORLD / WAITING BENCH	Bench	Is Time flat and linear in nature... or is it cyclical? It feels as if you're *so close* to figuring out the answer.	时间的本质到底是平面的，还是线性的……又或者是循环的？你觉得自己*很快*就要找出答案了。
+0x0100008900001EF0	Alternate1	WORLD / WAITING BENCH	Bench	Oh man, if we invited Guillaume le Million here, we could create a wave-crashing beach-party of unimaginable proportions... Speechless!	我的天，如果能把纪尧姆・列米利翁邀请过来，我们就能举办一场规模空前、兴风作浪的海滩派对……我已经无法用言语来表达了！
+0x0100008900001EF0	Alternate2	WORLD / WAITING BENCH	Bench	What could be more exciting than sitting on this bench on this beach? Nothing, you conclude. This is the maximum excitement possible.	还有什么能比坐在海滩边的长凳上更激动人心的呢？绝对没有了，这就是你的结论。这就是极致的快乐。
+0x0100008900001EF0	Alternate3	WORLD / WAITING BENCH	Bench	This case is unsolvable... you should just give up right now and apologize to the whole town.	案子还没有解决……你应该现在放弃，然后向城里所有人道歉。
+0x0100008900001EF0	Alternate4	WORLD / WAITING BENCH	Bench	Come, darlings of the night sky, bringeth down upon these feckless beasts the cleansing fire! The Gloaming beckons.	来吧，亲爱的夜空，在这群软弱无能的野兽头顶降下净化之火！黄昏在召唤。
+0x0100008900001EF0	Dialogue Text	WORLD / WAITING BENCH	Bench	What if... Dick Mullen and Man from Hjelmdall existed in the same world... in like... a... crossover?	如果……迪克·马伦和来自赫姆达尔的男人存在于同一个世界……就像是……一个……交错的空间？
+0x0100008900001EFE	Dialogue Text	WORLD / WAITING BENCH	Bench	Time passes....	时间一分一秒过去……
+0x0100008900001F1B	Dialogue Text	WORLD / WAITING BENCH	Bench	You wonder if it could rain so much that it drowns all of Martinaise... then everyone would have to go on about their day in diving suits.	你开始想，要是雨下的足够大，淹没整个马丁内斯……然后所有人都得穿着潜水服度日了。
+0x0100008900001F22	Dialogue Text	WORLD / WAITING BENCH	Bench	Time passes...	时间一分一秒过去……
+0x0100008900001F57	Dialogue Text	WORLD / WAITING BENCH	Bench	Your thumbs have started to hurt from the twiddling... after a while, you stop.	拇指被你捻的有些生疼……过了一会儿，你停下了手。
+0x0100008900001F67	Dialogue Text	WORLD / WAITING BENCH	Bench	You've mastered the art of thumb-twiddling. If there were such a thing as competitive thumb-twiddling, you'd be the undeniable champion.	你已经精通了捻拇指的艺术。如果有捻拇指比赛，你一定会成为无可争辩的冠军。
+0x0100008900001F7B	Dialogue Text	WORLD / WAITING BENCH	Bench	Your hands are getting more dexterous with every attempt. Still, after a while, you give up.	每次尝试都会让你的双手变得更加灵活。但是过了一会儿，你还是放弃了。
+0x0100008900001F82	Dialogue Text	WORLD / WAITING BENCH	Bench	Twiddling is surprisingly difficult... your thumbs keep getting tangled. After a while, you give up.	捻拇指还真是惊人的困难……你的拇指老是缠绕在一起。过了一会儿，你放弃了。
+0x0100008900001F87	Dialogue Text	WORLD / WAITING BENCH	Bench	Could you twiddle your thumbs so hard that they come off your hands? You try... but nothing happens. You give up.	如果捻的足够用力，会不会把拇指从手上捻下来？你试了一下……但什么也没发生。你决定放弃。
+0x0100008900001F8E	Dialogue Text	WORLD / WAITING BENCH	Bench	The twiddling barely keeps your hands warm against the frigid wind blowing from the coast... After a while you've had enough.	捻拇指也无法为你的双手抵御海岸边吹来的寒风……不消一会儿，你就受不了了。
+0x0100008900001F9D	Dialogue Text	WORLD / WAITING BENCH	Bench	The sun slowly rises ever higher... the morning light makes the air feel glittery...	太阳缓缓升起……早晨的阳光让空气都变得闪闪发亮……
+0x0100008900001FA2	Dialogue Text	WORLD / WAITING BENCH	Bench	You more hear than see the large drops of rain fall upon the slowly darkening mosaic...	相比看见的，你听到的更多，大滴大滴的雨降落在逐渐变暗的地砖上……
+0x0100008900001FA7	Dialogue Text	WORLD / WAITING BENCH	Bench	It's both dark and cold... ultimately not the best time for sitting on a stone bench.	这里黑暗又冰冷……根本不是坐在石凳上的最佳时间。
+0x0100008900001FAC	Dialogue Text	WORLD / WAITING BENCH	Bench	You try to make out some shapes in the clouds above. Through the rain, one looks a bit like a potato...	你试着辨认头顶云朵的形状。透过雨水望去，有一朵看起来像土豆一样……
+0x0100008900001FB1	Dialogue Text	WORLD / WAITING BENCH	Bench	Slowly and lazily, snow drifts down through the morning haze...	雪花慢慢穿过清晨的薄雾，洋洋洒洒的飘落下来……
+0x0100008900001FC5	Dialogue Text	WORLD / WAITING BENCH	Bench	Every so often you catch a glimpse of the sun still shining, somewhere behind the clouds of rain...	你经常会在乌云背后的细雨线后，隐约瞥见一抹依然灿烂的阳光……
+0x0100008900001FCA	Alternate1	WORLD / WAITING BENCH	Bench	Slowly, snowflakes fall on your cheeks... you try to catch a few with your tongue. They are cold.	雪花慢慢落在你的脸颊上……你伸出舌头去迎接它们，感觉冰冰凉凉。
+0x0100008900001FCA	Dialogue Text	WORLD / WAITING BENCH	Bench	Slowly, snowflakes fall on your mutton-chops... you try to catch a few on your tongue. They are cold.	雪花慢慢落在你的络腮胡上……你伸出舌头去迎接它们，感觉冰冰凉凉。
+0x0100008900001FED	Dialogue Text	WORLD / WAITING BENCH	Bench	You gaze at the shadows deepening all around you... it's almost unnerving.	你凝视着身边逐渐厚重的阴影……让你开始有些紧张。
+0x0100008900001FF3	Dialogue Text	WORLD / WAITING BENCH	Bench	You can barely look up into the sky, the sun is bright and powerful... it blinds...	你勉勉强强仰望天空，明亮耀眼的太阳挂在天上……几乎要刺瞎你的双眼……
+0x0100008900001FFE	Dialogue Text	WORLD / WAITING BENCH	Bench	The sun does its best to ward off the chill of the coast... it barely helps. As if the world itself has turned against you...	太阳拼尽全力，想要抵挡海岸的寒意……但效果微乎其微。就好像整个世界都在与你为敌……
+0x0100008900002012	Dialogue Text	WORLD / WAITING BENCH	Bench	The sun slowly rises above the waves... each beam of light reflecting off the water into a million directions.	太阳渐渐从浪尖升起……每一道光芒都将水花反射到百万个不同的方向。
+0x0100008900002017	Dialogue Text	WORLD / WAITING BENCH	Bench	Darkness ahead. You don't even know what you are waiting for anymore...	前方一片黑暗。你甚至已经不明白自己在等待什么了……
+0x010000890000201C	Dialogue Text	WORLD / WAITING BENCH	Bench	It's getting so dark you can barely make out the snowflakes drifting down from the sky...	天越来越黑，黑到你几乎无法辨认空中飘落的雪花……
+0x0100008900002021	Dialogue Text	WORLD / WAITING BENCH	Bench	The sky is overcast, rain pours onto the sand and the reeds...	天空一片阴霾，雨滴倾落在沙子和芦苇上……
+0x0100008900002026	Dialogue Text	WORLD / WAITING BENCH	Bench	The snow tells of a winter that has not yet fully passed... was this your final winter?	雪花述说着还未完全过去的冬季……这会是你的最后一个冬季吗？
+0x0100008900002035	Dialogue Text	WORLD / WAITING BENCH	Bench	The glacial gusts from the sea do not a pleasant rest make... you should probably move before you freeze.	海面吹来一阵冰冷的狂风，在这里休息可算不上是愉快……在你被冻僵之前，也许应该离开。
+0x010000890000203F	Dialogue Text	WORLD / WAITING BENCH	Bench	What events led you to sitting on a bench, completely drenched? The coast is bleak, the rain is bleak, your soul is bleak.	是什么让你坐在了完全湿透的长凳上？荒凉的海岸，阴冷的雨丝，还有你的灵魂——黯淡无光。
+0x0100008900002044	Dialogue Text	WORLD / WAITING BENCH	Bench	The sun draws ever closer to the horizon; the sky is a panorama of intense colours...	太阳越来越接近地平线；天空就是一副五彩缤纷的全景图……
+0x01000089000020AB	Dialogue Text	WORLD / WAITING BENCH	Bench	Time passes...	时间一分一秒过去……
+0x01000089000020B2	Dialogue Text	WORLD / WAITING BENCH	Bench	Time passes...	时间一分一秒过去……
+0x01000089000020C3	Dialogue Text	WORLD / WAITING BENCH	Bench	It's getting late... time to head off. The plaza is not for sleeping bums.	天色不早了……差不多还是离开吧。广场可不是流浪汉睡觉的地方。
+0x01000089000020D1	Dialogue Text	WORLD / WAITING BENCH	Bench	It's getting late... time to head to sleep. Best not stay outside on the wind-stricken coast.	天色已晚……该休息了。最好不要在岸边，这里风太大了。
+0x01000089000020F8	Dialogue Text	WORLD / WAITING BENCH	Kim Kitsuragi	"Getting late. We should call it a day... best not sleep outside on the wind-stricken coast."	“天色不早了。今天就到这里吧……最好别睡在岸边，风太大了。”
+0x01000089000020FE	Dialogue Text	WORLD / WAITING BENCH	Kim Kitsuragi	"Getting late. We should call it a day... no point in lingering here on the plaza."	“天色不早了。今天就到这里吧……继续在广场磨蹭也无济于事。”
+0x0100008900002113	Dialogue Text	WORLD / WAITING BENCH	Bench	You ponder upon an endless winter that covers everything in ice and snow. What a struggle it would be...	你沉思着——一个永无止境的冬季，冰雪掩盖了一切。那将会是多么地艰难啊……
+0x010000890000212D	Alternate1	WORLD / WAITING BENCH	Bench	There has to be a way to find the way home... it feels far, but it can't be *that* far. It can't be gone.	一定有办法找到回家的路……感觉很遥远，但也不可能*那么*遥不可及。不会就这么消失不见的。
+0x010000890000212D	Alternate2	WORLD / WAITING BENCH	Bench	Everything hinges upon the roll of the dice... the world teeters, balanced precariously on the edge. And it all seems to be leaning towards failure.	一切都交给掷骰子来决定……这个世界摇摇欲坠，在边缘勉强地保持着平衡。一切似乎都倾向于失败的方向。
+0x010000890000212D	Alternate3	WORLD / WAITING BENCH	Bench	You miss the grind of the jaw... the excessive pumping of blood... the rush, the speed of it all!	你想念牙齿的研磨……想念奔搏的血液……想念那股冲动，还有思必得带来的快感！
+0x010000890000212D	Dialogue Text	WORLD / WAITING BENCH	Bench	What if the sun just one day turned off... the world thrown into an eternal darkness. A grim future indeed.	如果有一天，太阳不再发光……整个世界陷入永恒的黑暗。未来一定会变得无比糟糕。
+0x0100008900002132	Alternate1	WORLD / WAITING BENCH	Bench	The sand reminds you of the dusty plains. Man, if only you could roam upstream... wild ranges call your name, boiadeiro. 	沙子让你想到了尘土飞扬的平原。天啦，要是你能向上漫游……野性在呼唤你的名字，牛仔。
+0x0100008900002132	Alternate2	WORLD / WAITING BENCH	Bench	You wonder how your gun is doing... hopefully it's okay. You're really starting to regret the poor way you handled your own sidearm.	你想到你的枪……希望它一切安好。你真心开始后悔自己对待随身武器的糟糕方式。
+0x0100008900002132	Alternate3	WORLD / WAITING BENCH	Bench	Contact Mike truly is an unparalleled champion, a paragon of physical and mental prowess with the most inspirational story imaginable.	一击即溃·迈克确实是个无与伦比的冠军，他的体力和精神是绝对完美的典范，不仅如此，他还拥有你能所能想象到的、最鼓舞人心的故事。
+0x0100008900002132	Alternate4	WORLD / WAITING BENCH	Bench	You know... the sunset would look even more impressive if you had even more pyrholidon flowing through your veins...	你知道……如果你的静脉中流淌着更多吡嚯浣酮，日落也会变得更让人印象深刻……
+0x0100008900002132	Dialogue Text	WORLD / WAITING BENCH	Bench	The evening shade on the sand makes you think of a place which is all sand... nothing but the sand, as far as the eye can see.	夜色在沙子上投下阴影，让你想到一个全部由沙子构成的地方……一眼望去——除了沙子之外，一无所有的地方。
+0x0100008900002137	Alternate1	WORLD / WAITING BENCH	Bench	I am the Law. I am *the Law*. *I am* The Law.	我是法律。我就是*法律*。*我*就是法律。
+0x0100008900002137	Alternate2	WORLD / WAITING BENCH	Bench	How well would a melody complement Egg Head's aggressive beat? Can he truly craft something extremely new and exciting?	一首旋律能在多大程度上填补爱凡客那咄咄逼人的节拍？难道他真的捣鼓出了什么特别有趣的新鲜玩意？
+0x0100008900002137	Alternate3	WORLD / WAITING BENCH	Bench	There has to be a way to open that fucking door. Unbelievable. There's no such thing as a door cops can't get into! This sucks.	一定有办法打开这扇该死的门。简直难以置信。难道还有警察进不去的门吗！真是够了。
+0x0100008900002137	Dialogue Text	WORLD / WAITING BENCH	Bench	The bright sun blazing overhead is making it difficult to concentrate on deep thoughts.	头顶耀眼的阳光让你很难集中精神思考。
+0x0100008900002140	Alternate1	WORLD / WAITING BENCH	Bench	What if you are a member of the radical homo-sexual underground? You never even fully considered this option!	如果你是激进的地下同性恋组织的一员呢？你甚至从来没考虑过这个选项！
+0x0100008900002140	Alternate2	WORLD / WAITING BENCH	Bench	Hmm, the Race Enigma... if only you could answer Measurehead for this provocation.	嗯，种族之谜……如果你能回应测颅先生的挑衅就好了。
+0x0100008900002140	Alternate3	WORLD / WAITING BENCH	Bench	Ugh, the buzz keeps wearing off... your mind deeply considers the philosophical concept of drinking-more-of-that-sweet-liquor.	啊，蜂鸣声逐渐消逝……你的大脑开始深入思考*多喝点甜酒*这个哲学理念。
+0x0100008900002140	Dialogue Text	WORLD / WAITING BENCH	Bench	You wonder what would happen if you tried to set foot on the sun... it would likely not be pleasant.	你很好奇，如果自己登上太阳会怎么样……应该不会是什么愉快的经历。
+0x0100008900002145	Alternate1	WORLD / WAITING BENCH	Bench	Is there a life after death? What could it be? You could go and find out... you've been close enough times already. Wipe the slate clean.	死后的世界真实存在吗？那会是什么样的？你可以亲自去寻找答案……而且你本就已经多次接近那个存在。还是让往事一笔勾销吧。
+0x0100008900002145	Alternate2	WORLD / WAITING BENCH	Bench	Look at yourself, Kras Mazov. It has to be you... it all fits. Everything about it. The revolutionary heart beats within.	看看你自己，卡拉斯・马佐夫。一定是你……一切都合情合理。所有一切都能说通。一颗革命的心脏还在你胸口跳动。
+0x0100008900002145	Alternate3	WORLD / WAITING BENCH	Bench	Mm, sweet tar... flowing down your throat, deep into those lungs... the immaculate taste...	嗯，甜蜜的焦油……沿着你的喉咙滚落……深入到肺里……完美的味道……
+0x0100008900002145	Dialogue Text	WORLD / WAITING BENCH	Bench	The sun slowly setting behind the horizon only brings to mind the sadness of loss.	太阳渐渐落到地平线之后，却只让人想起失去的痛楚。
+0x010000890000214A	Alternate1	WORLD / WAITING BENCH	Bench	Hard core! Are there limits above *hyper*? How out of this world can you get, man?! Ultra beyond-the-barrier hardest core, motherfuckers!	硬核！还有超越*亢奋*的限制吗？你还能变得多么的人世罕有，伙计？！超越障碍的极端硬核存在，狗杂种们！
+0x010000890000214A	Alternate2	WORLD / WAITING BENCH	Bench	How would it be possible to make Egg Head's beat even harder core?! There's got to be a new, highly experimental way.	怎么可能让爱凡客的节拍变得更硬核？！肯定有更新、更有实验性的方法。
+0x010000890000214A	Alternate3	WORLD / WAITING BENCH	Bench	Narcomania is rampant in this town... someone's really going to clean this shit up. That someone -- is You. Believe it, narcomaniacs!	麻醉药在这座镇子里泛滥……真得有人清理这一团乱麻。那个人——就是你。相信这一点吧，你这个麻醉药疯子！
+0x010000890000214A	Dialogue Text	WORLD / WAITING BENCH	Bench	The midday sun showers you with the warm rays of the spring. It does not give you many thoughts, but it feels peaceful...	正午的太阳朝你洒下温暖的春日阳光。虽然没能给你带来太多想法，但却让你感到平和安宁……
+0x010000890000214F	Dialogue Text	WORLD / WAITING BENCH	Bench	You gaze at the snowflakes falling from the sky, wondering about the intricate patterns their structures take.	你凝视着天空飘落的雪花，对它们错综复杂的结构模式感到十分疑惑。
+0x0100008900002168	Dialogue Text	WORLD / WAITING BENCH	Bench	You try to come up with a few deep thoughts, but the rain beating against your face is extremely distracting.	你试着探寻出更深层次的想法，但拍打在脸上的雨滴实在是太让人分心了。
+0x0100008900002186	Alternate1	WORLD / WAITING BENCH	Bench	Would it be possible to acquire this whole coast? All this real estate... completely underdeveloped. Imagine all the tourists!	有没有可能拿下整个海岸？这整片不动产……完全处在未开发状态。想想那些游客！
+0x0100008900002186	Alternate2	WORLD / WAITING BENCH	Bench	Grains of sand remind you of downtrodden people. Multitudes suffering under the harsh and unforgivable heel of capital...	点点沙粒让你想到被压迫的人们。许多人在资本严酷无情的践踏下受苦挣扎……
+0x0100008900002186	Alternate3	WORLD / WAITING BENCH	Bench	Sand... just look at it. The same tone, the same consistency... this is where the strength of Revachol lies. Uniformity.	沙子……你看看它们。同样的色调，同样的稳定……这就是瑞瓦肖的力量所在。团结一致的力量。
+0x0100008900002186	Alternate4	WORLD / WAITING BENCH	Bench	Perhaps a firmer grasp from the Coalition is necessary for maintaining order in Revachol... it's always good to have a moderating force.	为了维持瑞瓦肖的秩序，联盟国牢固的管控也许是必要的……拥有一支缓和力量总是好的。
+0x0100008900002186	Dialogue Text	WORLD / WAITING BENCH	Bench	Couldn't everyone just get along? If they really put their minds to it...?	难道大家就不能和谐相处吗？他们真的有放心思在里面吗……？
+0x01000089000021BC	Alternate1	WORLD / WAITING BENCH	Bench	Affecting austerity and deregulating the markets could lift Revachol out from this post-war limbo. It surely cannot fail.	感人的财政紧缩和放松市场管制能将瑞瓦肖从战后的绝境中拯救出来。它肯定不能失败。
+0x01000089000021BC	Alternate2	WORLD / WAITING BENCH	Bench	Stronger unionization and nationalization of the assets could lift Revachol out from this post-war limbo. And perhaps we should also eat the rich.	强大的工会和资产国有化能将瑞瓦肖从战后的绝境中拯救出来。也许我们应该吃掉有钱人。
+0x01000089000021BC	Alternate3	WORLD / WAITING BENCH	Bench	We ought to kick out all the work-stealing foreigners, and women too, for that matter. That could lift Revachol out from this post-war limbo.	我们应该赶走所有偷走工作的外国人，既然说到这一点，那女人也一样。这样就能将瑞瓦肖从战后的绝境中拯救出来。
+0x01000089000021BC	Alternate4	WORLD / WAITING BENCH	Bench	Moderation and balance are the keystones on this occasion... a straight median path of non-interference helps the status quo prevail.	在这种情况下，节制和平衡才是基本原则……一条笔直的中间不干涉路线有助于维持当下的现状。
+0x01000089000021BC	Dialogue Text	WORLD / WAITING BENCH	Bench	After a while of staring ahead into nothingness, you decide it's better to just move on.	你凝视着眼前的虚无，过了好一会儿，你决定最好还是继续前进。
+0x01000089000021C8	Alternate1	WORLD / WAITING BENCH	Bench	What if it's possible to take superstardom to a whole new level? Upgrade the Expression and your swaggering suave...	要是有可能将明星气质提升到一个崭新的层次呢？将那个表情还有那份神气活现的文雅再升一级……
+0x01000089000021C8	Alternate2	WORLD / WAITING BENCH	Bench	It is perfectly normal to take a quick break during police work. It will help against possible over-exertion, in case you need to run after a crook or something...	警察在工作的时候稍作休息是十分正常的。这样能帮助预防过度劳累，以防你需要追捕骗子或者什么之类的……
+0x01000089000021C8	Alternate3	WORLD / WAITING BENCH	Bench	How is it possible to be such an unbelievable fuck-up?! Every single thing ends in failure... you just can't get anything right.	怎么还有这种让人难以置信的智障？！每件事最后都以失败告终……你就是什么都做不好。
+0x01000089000021C8	Alternate4	WORLD / WAITING BENCH	Bench	The rending. It draweth ever nearer. Your blood almost boils with the anticipation...	撕裂的痛楚。它越来越靠近。你的血液因为期待沸腾起来……
+0x01000089000021C8	Dialogue Text	WORLD / WAITING BENCH	Bench	You try to think of something substantial, but your mind keeps getting caught on all the paperwork you have to do... later... eventually...	你试着去想一些更实质的事情，但你的思绪总是被手上的文书工作打断……之后再说吧……总有时间的……
+0x01000089000021D4	Dialogue Text	WORLD / WAITING BENCH	Bench	You churn through thoughts for a while, but nothing comes up...	你思考了一会儿，但是什么也没想到……
+0x01000089000021DD	Dialogue Text	WORLD / WAITING BENCH	Bench	You finally stop picking your nose...	你终于不再挖鼻孔了……
+0x01000089000021F7	Dialogue Text	WORLD / WAITING BENCH	Physical Instrument	Perseverance and success... feels so good. Feels *inspiring*.	毅力和成功……感觉很不错。十分*鼓舞人心*。
+0x0100008900002202	Dialogue Text	WORLD / WAITING BENCH	Perception (Sight)	It looks like an aerostatic, very high above...	看起来像是一艘静风舰，挂在高高的天上……
+0x0100008900002239	Dialogue Text	WORLD / WAITING BENCH	Physical Instrument	Why are you sitting around on your fat ass?! Do some push-ups, for gods' sake!!	为什么你那团大屁股又坐下了？！看在上帝的份上，做几个俯卧撑吧！
+0x0100008900002243	Dialogue Text	WORLD / WAITING BENCH	Bench	You try to twiddle your thumbs, but ever since you've become a grandmaster the old passion just isn't there. Instead, you put your hands in your lap and wait...	你试着捻弄自己的拇指，但在成为这方面的大师之后，往日的热情就不复存在了。相反，你把手放在了膝盖上，静静等待着……
+0x0100008900002271	Dialogue Text	WORLD / WAITING BENCH	Inland Empire	It's because of all the money. Even the sky gets an aura of glistening lucre.	全都是因为钱。就连天空都闪耀着财富的光环。
+0x0100008900002486	Dialogue Text	WORLD / WAITING BENCH	Bench	The cold stone slab of the bench does not look welcoming at all at all. Your shoulder aches.	冰冷的石凳看起来一点也不舒适。你的肩膀开始隐隐作痛。
+0x010000890000248C	Dialogue Text	WORLD / WAITING BENCH	Bench	The worn and beaten wooden planks of the bench do not look comforting. Your shoulder aches.	长凳上破败的木板看起来一点也不舒适。你的肩膀开始隐隐作痛。
+0x010000890000249E	Dialogue Text	WORLD / WAITING BENCH	You	[Leave.]	[离开。]
+0x01000089000024A5	Dialogue Text	WORLD / WAITING BENCH	You	Sit and rest.	坐下休息。
+0x01000089000024AC	Dialogue Text	WORLD / WAITING BENCH	Bench	As you gaze upon the rough stone of the bench, the plaza around you still covered with the bloodstains from the battle... you wish you could sit and alleviate the pain of your flesh.	当你凝视着石凳那粗糙的表面，周围的广场上还残留着战争留下的血痕……你希望自己能坐下，减轻肉体的疼痛。
+0x01000089000024BF	Dialogue Text	WORLD / WAITING BENCH	Bench	As you gaze upon the wooden planks, the sea breeze blowing through your hair, you wish you could sit and alleviate the pain in your body...	当你凝视着木板，海风吹拂过你的头发，你希望自己能坐下，减轻肉体的疼痛……
+0x01000089000024CB	Dialogue Text	WORLD / WAITING BENCH	Bench	But realize now you do not have time to wait... the clock is ticking towards the final hour.	但你意识到已经没时间等待了……时钟正朝着最后的时刻嘀嗒前行。
+0x01000089000024D3	Dialogue Text	WORLD / WAITING BENCH	Bench	But you know you do not have the luxury to wait... the clock ticks towards the final hour.	但是你知道，等待一种奢望……时钟正朝着最后的时刻嘀嗒前行。
+0x0100008900002525	Dialogue Text	WORLD / WAITING BENCH	Bench	You try to twiddle your thumbs, but ever since you've become a grandmaster the old passion just isn't there. Instead, you put your hands in your lap and wait...	你试着捻弄自己的拇指，但在成为这方面的大师之后，往日的热情就不复存在了。相反，你把手放在了膝盖上，静静等待着……
+0x0100008900002533	Dialogue Text	WORLD / WAITING BENCH	Bench	It's getting there, but it's just not enough. Maybe you just need a change of venue.	感觉很接近，但是这样还是不够。也许你只是需要换一个地方。
+0x010000890000253C	Dialogue Text	WORLD / WAITING BENCH	Hand/Eye Coordination	You're so close! Almost there. Ultimate dexterity is within reach...	你很接近了！就快到了。极限的灵巧近在咫尺……
+0x010000890000254B	Dialogue Text	WORLD / WAITING BENCH	Bench	Your fingers feel stuck. Your mind, uninspired. This place... this bench, it just lacks the right... atmosphere...	你的手指好像卡住了。你的脑子里毫无灵感。这个地方……这张长凳，就是少了一种正确的……氛围……
+0x010000890000255B	Dialogue Text	WORLD / WAITING BENCH	Hand/Eye Coordination	You're so close! Almost there. Ultimate dexterity is within reach...	你很接近了！就快到了。极限的灵巧近在咫尺……
