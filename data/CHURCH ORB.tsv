@@ -1,0 +1,115 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x0100000500000205	Dialogue Text	CHURCH ORB / cone of silence	Tiago	Maybe it's possible to... talk to it?	也许可以……跟它说话？
+0x010000050000020D	Dialogue Text	CHURCH ORB / cone of silence	Kim Kitsuragi	"Officer, what are you looking at?" He follows your gaze, attempting to see whatever it is that you are seeing.	“警官，上面有什么东西吗？”警督追随者你的目光，试着辨认你看到的东西。
+0x010000050000022A	Dialogue Text	CHURCH ORB / cone of silence	Inland Empire	It's like you see your own face reflected back at you in the vanishing geometry -- a strange, alien image that's supposed to be you.	就好像在消失的几何图形中看见你自己反射出来的脸庞——本应是你的一种奇怪又陌生的图像。
+0x01000005000016D2	Dialogue Text	CHURCH ORB / cone of silence	Tiago	Maybe it's possible to... talk to it?	也许可以……跟它说话？
+0x010000060001E3EE	Dialogue Text	CHURCH ORB / cone of silence	Encyclopedia	But to what? There is almost nothing.	但是，跟什么说话呢？那里几乎什么也没有啊。
+0x010000060001E3FB	Dialogue Text	CHURCH ORB / cone of silence	You	"Can't hear shit."	“什么狗屁都听不见。”
+0x010000060001E40B	Dialogue Text	CHURCH ORB / cone of silence	Volition	Relax. It'll be okay.	放松，会没事的。
+0x010000060001E414	Dialogue Text	CHURCH ORB / cone of silence	Physical Instrument	It's *climbing*. Climbing down, holding on the beams.	它正在*攀爬*。爬下来，抓在横梁上。
+0x01000021000004F1	Dialogue Text	CHURCH ORB / cone of silence	You	"It's probably nothing, just our imagination."	“可能什么也不是，只是我们的想象。”
+0x01000021000004FA	Dialogue Text	CHURCH ORB / cone of silence	Kim Kitsuragi	The lieutenant doesn't reply, but you can sense him tense up next to you.	警督没有回应，但你能感到身边的他变得有些紧张。
+0x0100002100000507	Dialogue Text	CHURCH ORB / cone of silence	Rhetoric	He doesn't seem entirely convinced, though.	不过他好像没有完全信服。
+0x010000580000F8C4	Dialogue Text	CHURCH ORB / cone of silence	You	"Not really, but it's extraordinary. I've never experienced anything like this."	“不算吧，不过真的很特别。我从来没有过这种经历。”
+0x010000580000F8CB	Dialogue Text	CHURCH ORB / cone of silence	Kim Kitsuragi	"I wonder why the... church was built with such strange acoustics..."	“不知道为什么……教堂要搞出这么奇怪的音响效果……”
+0x010000580000F8D2	Dialogue Text	CHURCH ORB / cone of silence	Empathy	His detached tone conceals how uncomfortable he is.	他用冷漠的语气掩饰着自己的不安。
+0x010000580000F8DC	Dialogue Text	CHURCH ORB / cone of silence	Conceptualization	Maybe the church was designed in this way to prevent boisterous activity -- singing and dancing -- on its premises?	也许教堂这么设计是为了防止喧闹的活动——不让别人在这个地盘上载歌载舞？
+0x010000580000F8E6	Dialogue Text	CHURCH ORB / cone of silence	You	"Maybe they wanted to discourage singing and dancing."	“也许他们不想别人在这里载歌载舞。”
+0x010000580000F901	Dialogue Text	CHURCH ORB / cone of silence	You	"Hey, what if it's something *paranatural*?"	“喂，我说，如果是*超自然现象*会怎么样？”
+0x010000580000F90C	Dialogue Text	CHURCH ORB / cone of silence	You	"Whatever it is, it's definitely real. Something odd is happening around us."	“不管是什么，它肯定是真实的。我们周围确实发生了很奇怪的事情。”
+0x010000580000F912	Dialogue Text	CHURCH ORB / cone of silence	Kim Kitsuragi	"Hmm, could be..."	“嗯，也许吧……”
+0x010000580000F91A	Dialogue Text	CHURCH ORB / cone of silence	Kim Kitsuragi	"Please, detective, not this again."	“拜托，警探，别又来这一套。”
+0x010000580000F921	Dialogue Text	CHURCH ORB / cone of silence	Suggestion	He's trying to act dismissive, but at this particular moment, he's more open than usual to the idea of paranatural phenomena.	“拜托，警探，别又来这一套。”
+0x010000580000F934	Dialogue Text	CHURCH ORB / cone of silence	Perception (Hearing)	Maybe if you were to stand in just the right spot, even your footsteps would be completely silent...	如果站在正确的点上，说不定连你的脚步声都会完全消失不见……
+0x010000580000F93C	Dialogue Text	CHURCH ORB / cone of silence	Logic	It seems that sound here is detached from its source somehow, if not blotted out outright. Truly unusual.	看来这里的声音以某种方法挣脱了它的源头，如果没有被彻底清除的话。真的很不寻常。
+0x010000580000F973	Dialogue Text	CHURCH ORB / cone of silence	Encyclopedia	Sounds like the pale.	听起来很像灰域。
+0x010000580000F986	Dialogue Text	CHURCH ORB / cone of silence	Half Light	It's unnerving.	让人感觉很不安。
+0x010000580000F9A8	Dialogue Text	CHURCH ORB / cone of silence	You	How do I know what the pale sounds like?	我怎么知道灰域是什么声音？
+0x010000580000F9B4	Dialogue Text	CHURCH ORB / cone of silence	You	No. Let me just listen.	不。让我听听。
+0x010000580000F9C9	Dialogue Text	CHURCH ORB / cone of silence	Encyclopedia	From recordings. Of the far pale. You've heard them. We all have.	从录音里。遥远的灰域。你听过它们的声音。我们全都听过。
+0x010000580000F9E6	Dialogue Text	CHURCH ORB / cone of silence	Perception (Hearing)	You can hardly hear your own breathing.	你几乎听不见自己的呼吸声了。
+0x010000580000F9FC	Dialogue Text	CHURCH ORB / cone of silence	Encyclopedia	You know, in the middle of the last century, there was a group of Revacholian painters who famously disdained the use of black.	你知道吗，在上世纪中叶，有一群瑞瓦肖的画家就是因为鄙视使用黑色闻名的。
+0x010000580000FA13	Dialogue Text	CHURCH ORB / cone of silence	You	What did they have against black?	他们对黑色有什么意见吗？
+0x010000580000FA19	Dialogue Text	CHURCH ORB / cone of silence	You	Why only Revacholian?	为什么只有瑞瓦肖人？
+0x010000580000FA2C	Dialogue Text	CHURCH ORB / cone of silence	You	Can I use this to see through the darkness up there, somehow? (Proceed.)	这些信息能帮我看穿周围的黑暗吗？（继续。）
+0x010000580000FA33	Dialogue Text	CHURCH ORB / cone of silence	Encyclopedia	No, this is just an intellectual musing. In fact, it's probably dangerous to waste time like this. You should stop.	不，这只是一种智力的冥想。事实上，这样浪费时间可能是很危险的。你应该停下来。
+0x010000580000FA3F	Dialogue Text	CHURCH ORB / cone of silence	Encyclopedia	Revachol was an overwhelmingly colourful place back then. They made most of the world's dyes here.	那个时候的瑞瓦肖是一个极为色彩艳丽的地方。世界上绝大多数染料都是在这里生产的。
+0x010000580000FA45	Dialogue Text	CHURCH ORB / cone of silence	Encyclopedia	They wanted to capture what it really felt like to look at the world -- to be *inside* colour, to be blinded by early afternoon light glittering on the crests of sea waves.	他们真的很想捕捉到看着这个世界的真实感受——*深入*色彩内部，为午后浪尖的闪光而盲目。
+0x010000580000FA57	Dialogue Text	CHURCH ORB / cone of silence	Encyclopedia	Such an effect is best achieved by using the juxtaposition of complementary colours -- rather than the addition of black -- to create contrast.	这种效果最好是使用并置的互补色实现——而不是增加黑色——来创造对比。
+0x010000580000FA65	Dialogue Text	CHURCH ORB / cone of silence	You	Hmm, maybe I should take up painting.	嗯，也许我应该开始画画。
+0x010000580000FA6B	Dialogue Text	CHURCH ORB / cone of silence	You	Seems unfair to black. I like black, look at it!	好像对黑色不太公平。我喜欢黑色，看看它！
+0x010000580000FA80	Dialogue Text	CHURCH ORB / cone of silence	Encyclopedia	It's unclear if you have enough years left in you to make up for your lack of technique...	不清楚你余下的人生是否足够填补技术的鸿沟……
+0x010000580000FA88	Dialogue Text	CHURCH ORB / cone of silence	Encyclopedia	Sometimes an encounter with an opposing aesthetic is required for one to truly grow into one's tastes and preferences.	有时候，遇到一种对立的审美理念是真正提升自我品味和偏好的必要条件。
+0x010000580000FA90	Dialogue Text	CHURCH ORB / cone of silence	Encyclopedia	It would likely be easier to explain with a hands-on demonstration. Alas!	要是有亲身实践的案例，那解释起来就容易多了。哎！
+0x010000580000FA96	Dialogue Text	CHURCH ORB / cone of silence	You	Sounds complicated.	听起来很复杂。
+0x010000580000FAB2	Dialogue Text	CHURCH ORB / cone of silence	Half Light	Prepare for an attack!	准备迎战！
+0x010000580000FABA	Dialogue Text	CHURCH ORB / cone of silence	Kim Kitsuragi	"Officer, is there something up there?" The lieutenant follows your gaze, attempting to see whatever it is that you are seeing.	“警官，上面有什么东西吗？”警督追随者你的目光，试着辨认你看到的东西。
+0x0100005A0000CB2C	Dialogue Text	CHURCH ORB / cone of silence	Perception (Hearing)	The silence in this part of the church -- it's almost palpable. All the shifting matter and shuffling of living things is gone. Nothing seems to exist beyond the church anymore.	教堂里这个部分的寂静——几乎是可以感知的。所有不断变化的物质和活物的动静——全都消失不见。似乎除了教堂之外，一切都不复存在。
+0x0100005A0000CB33	Dialogue Text	CHURCH ORB / cone of silence	You	Wait, I think I still hear something...	等等，我好像还是听到了什么……
+0x0100005A0000CB3A	Dialogue Text	CHURCH ORB / cone of silence	Perception (Hearing)	And then it's gone. Almost all of it -- but for the faintest of hums.	然后又没了。基本上都没了——只剩下最微弱的嗡嗡声。
+0x0100005A0000CB47	Dialogue Text	CHURCH ORB / cone of silence	You	Yell as loud as you can.	用尽全力大喊。
+0x0100005A0000CB4C	Dialogue Text	CHURCH ORB / cone of silence	You	(Turn to Kim.) "What's happening?"	（转向金。）“出什么事了？”
+0x0100005A0000CB51	Dialogue Text	CHURCH ORB / cone of silence	You	Look up into the bell tower.	抬头仰望钟楼。
+0x0100005A0000CB5C	Dialogue Text	CHURCH ORB / cone of silence	Perception (Sight)	The orderly rows of ceiling panels become barely visible, then disappear completely in the darkness of the tower overhead.	顶上那排整整齐齐的天花板本来就很难辨认，不久便完全消失在塔楼上方那漆黑的阴影之中。
+0x0100005A0000CB72	Dialogue Text	CHURCH ORB / cone of silence	Perception (Sight)	It's like there's something moving up there -- a shadow has emerged from the tower and is making its way *toward* you through all the other shadows.	上面好像有什么东西在动——塔楼上冒出一个阴影，它正穿越重重阴影*朝着*你的方向移了过来。
+0x0100005A0000CB77	Dialogue Text	CHURCH ORB / cone of silence	You	Try to see beyond the shadows.	试着看穿阴影。
+0x0100005A0000CB77	tooltip1	CHURCH ORB / cone of silence	You	Is someone watching?	有人在看你吗？
+0x0100005A0000CB7C	Dialogue Text	CHURCH ORB / cone of silence	Perception (Sight)	Just darkness without end -- it makes your head spin.	只有无边无际的黑暗——让你的脑袋天旋地转。
+0x0100005A0000CB8E	Dialogue Text	CHURCH ORB / cone of silence	You	(Blink.)	（眨眼。）
+0x0100005A0000CB97	Dialogue Text	CHURCH ORB / cone of silence	Tiago	You see something hanging from the rafters, looking straight at you with dark eyes.	你看见有什么东西挂在房椽上，用漆黑的眼睛直直地盯着你。
+0x0100005A0000CB9E	Dialogue Text	CHURCH ORB / cone of silence	Perception (Sight)	It's not a shadow anymore -- becoming more substantial as it gets closer. The shape of an *animal* descends.	它不再是一个阴影——越来越靠近的它变得更像个实体。一个*动物*的形状落了下来。
+0x0100005A0000CBA5	Dialogue Text	CHURCH ORB / cone of silence	Perception (Sight)	Oh no! You've lost sight of it. Where did it go?	不！你看不见它了。到底去哪了？
+0x0100005A0000CBB6	Dialogue Text	CHURCH ORB / cone of silence	Kim Kitsuragi	The lieutenant points to his ears and shakes his head. Then he leans closer.	警督指了指自己的耳朵，摇了摇头。随后又靠近了一点。
+0x0100005A0000CBBD	Dialogue Text	CHURCH ORB / cone of silence	Perception (Hearing)	Your voice is barely audible -- not a howl, but the softest of whimpers.	几乎无法听见你的声音——不是一声嚎叫，而是最轻柔的低语。
+0x0100005A0000CBC9	Dialogue Text	CHURCH ORB / cone of silence	You	Stomp your feet and clap your hands.	跺跺脚，拍拍手。
+0x0100005A0000CBD0	Dialogue Text	CHURCH ORB / cone of silence	Perception (Hearing)	You produce a few muffled thumps, after which the silence feels even more... *total* somehow.	你制造出一些沉闷的声响，但是不知怎么地，随之而来的寂静甚至变得更加……*完整*了。
+0x0100005A0000CBD8	Dialogue Text	CHURCH ORB / cone of silence	Kim Kitsuragi	"Can you hear anything?"	“你听见什么了吗？”
+0x0100005A0000CBDF	Dialogue Text	CHURCH ORB / cone of silence	You	"Almost nothing, and it's beginning to worry me."	“几乎什么也听不见，我有些担心了。”
+0x0100005A0000CBE6	Dialogue Text	CHURCH ORB / cone of silence	Kim Kitsuragi	"The church just has... strange acoustics -- some engineering trick."	“这座教堂有一种……奇怪的音响效果——某种工程学上的技巧。”
+0x0100005A0000DE34	Dialogue Text	CHURCH ORB / cone of silence	You	On the ceiling?	在天花板上？
+0x0100005A0000DE39	Dialogue Text	CHURCH ORB / cone of silence	You	Follow the shadow's movements.	追踪阴影的行动。
+0x0100005A0000DE43	Dialogue Text	CHURCH ORB / cone of silence	Perception (Sight)	Yes. The darkness makes the ceiling feel infinitely far away...	是的。黑暗让天花板变得似乎遥不可及……
+0x0100005A0000DE51	Dialogue Text	CHURCH ORB / cone of silence	You	Try to make out something -- anything.	尝试辨认出什么——任何东西都可以。
+0x0100005A0000DE56	Dialogue Text	CHURCH ORB / cone of silence	Perception (Sight)	There's nothing. You're dizzy and disoriented as you see dark and more dark -- rising...	什么也没有。你看着那片黑暗，感到一阵眩晕和迷失，而且还有更多黑暗——正在升起……
+0x0100005A0000DE61	Dialogue Text	CHURCH ORB / cone of silence	You	What's the darkness like?	黑暗是什么样的？
+0x0100005A0000DE70	Dialogue Text	CHURCH ORB / cone of silence	Perception (Sight)	Filled with vague shapes of woodwork. The sense of a great height.	满是木制品的模糊阴影。很高的感觉。
+0x0100005A0000DE79	Dialogue Text	CHURCH ORB / cone of silence	Tiago	You see something hanging from the rafters, looking straight at you with dark eyes.	你看见有什么东西挂在房椽上，用漆黑的眼睛直直地盯着你。
+0x0100005A0000DE81	Dialogue Text	CHURCH ORB / cone of silence	You	(Blink.)	（眨眼。）
+0x0100005A0000DE88	Dialogue Text	CHURCH ORB / cone of silence	You	What if I don't *want* to know what's up there?	如果我*不想*知道上面有什么呢？
+0x0100005A0000DE8F	Dialogue Text	CHURCH ORB / cone of silence	Perception (Hearing)	The silence, the darkness -- they've enveloped you, as in a cocoon. You cannot move anymore.	寂静，黑暗——编织成一个黑茧将你笼罩。你再也动不了了。
+0x0100006200000027	Dialogue Text	CHURCH ORB / cone of silence	You	Look up into the bell tower.	抬头仰望钟楼。
+0x010000620000002F	Dialogue Text	CHURCH ORB / cone of silence	Kim Kitsuragi	"Hmm, maybe. Darkness often has that effect on people."	“嗯，也许吧。黑暗经常会对人造成影响。”
+0x0100001600008C28	Dialogue Text	CHURCH ORB / drug lab realization	Conceptualization	They really have an interesting set up here. Like kids preparing for a school science fair. It's pretty neat.	他们这里布置的确实很有意思。就像孩子们在准备学校的科学展览，非常整洁。
+0x0100001600008C3A	Dialogue Text	CHURCH ORB / drug lab realization	You	Are we sure about this? Something smells fishy...	你确定吗？感觉好像有些可疑……
+0x0100001600008C40	Dialogue Text	CHURCH ORB / drug lab realization	You	"Hey Andre, what's all this?" (Continue.)	“我说，安德烈，这是在干什么？”（继续。）
+0x0100001600008C46	Dialogue Text	CHURCH ORB / drug lab realization	Andre	"This? Oh, we're trying to see if we can come up with some cool new special effects to add to the visual aspect of our club experience..." He gestures toward the set-up proudly.	“这个？哦，我们想看看能不能想出什么酷炫的新效果，给俱乐部增加点视觉体验……”他骄傲地朝装饰品比了个手势。
+0x0100001600008C4D	Dialogue Text	CHURCH ORB / drug lab realization	Noid	"We tinker with things. Art, music... chemistry."	“我们喜欢摆弄东西。艺术啊，音乐啊……还有化学。”
+0x0100001600008C5F	Dialogue Text	CHURCH ORB / drug lab realization	Andre	"Some chemicals when mixed can, you know, change colour, or sort of -- blow up..."	“你也知道，有些化学品混合的时候可以变色，或者是——爆炸……”
+0x0100001600008C66	Dialogue Text	CHURCH ORB / drug lab realization	Egg Head	"BLOW UP! BLOW UP!" The young man with the large head pumps his fist in the air.	“爆炸！爆炸！”那个大头年轻人朝空中挥舞着拳头。
+0x0100001600008C6C	Dialogue Text	CHURCH ORB / drug lab realization	Andre	"Not, like, you know, in a dangerous way," he throws Egg Head an uneasy glance, "or, well, we're not going to do it in a dangerous way."	“不是，比如说，你也知道的，比较危险的方法，”他不安地瞥了一眼爱凡客，“或者，那个，我们会用不怎么危险的方法。”
+0x0100001600008C7E	Dialogue Text	CHURCH ORB / drug lab realization	Kim Kitsuragi	"Yes, chemistry has many uses. In police work, too," the lieutenant says, deadpan.	“是的，化学有很多用途。警察的工作也是，”警督面无表情地开了口。
+0x0100001600008C84	Dialogue Text	CHURCH ORB / drug lab realization	Soona, the Programmer	The lead programmer turns to look at you for a moment, her gaze impassive, then returns to her work.	主程序员回头看了你一会儿，目光冷漠，随后又转头继续工作。
+0x0100001600008C91	Dialogue Text	CHURCH ORB / drug lab realization	Andre	"I hope you get to experience one of our light-smell shows sometime, sir," he says with a smile, nodding his blond, spiked head vigorously. "It'll be a blast."	“希望你有空能来体验一下我们的声光秀，长官。”他微笑着，用力点着那颗长满金发的尖头。“一定会很震撼的。”
+0x0100001600008CA8	Dialogue Text	CHURCH ORB / drug lab realization	Kim Kitsuragi	"Feel free to come back later and 'have a blast' with these exemplars of youthful avant-gardism. But we really need to return to the present now."	“你之后随时可以回来，跟这帮年轻的先锋派先驱一起感受*震撼*。不过现在我们真的应该回归当下了。”
+0x0100001600008CAF	Dialogue Text	CHURCH ORB / drug lab realization	Conceptualization	Nah, that's just the smell of healthy experimentation. And lots of chemicals.	不，那只是健康实验的味道。还有很多化学物质的味道。
+0x0100001600008CB7	Dialogue Text	CHURCH ORB / drug lab realization	Andre	The young man looks startled for a moment, but then flashes you his most winsome smile.	那个年轻人惊讶了一会儿，但是很快朝你露出了最迷人的微笑。
+0x0100001600008CBF	Dialogue Text	CHURCH ORB / drug lab realization	Andre	"I hope you get to experience one of our light-smell shows sometime, sir," he says, nodding his blond, spiked head vigorously. "It'll be a blast."	“希望你有空能来体验一下我们的声光秀，长官。”他微笑着，用力点着那颗长满金发的尖头。“一定会很震撼的。”
+0x0100001600008CCD	Dialogue Text	CHURCH ORB / drug lab realization	You	I hope I did stuff like this when I was a kid.	要是我的孩提时代也做过这种事就好了。
+0x0100001600008CD3	Dialogue Text	CHURCH ORB / drug lab realization	Conceptualization	I'm sure you did. You have an exploratory, creative streak -- just like them.	我肯定你做过。你拥有充满探究精神、富有创造力的性格——就像他们一样。
+0x0100001600008CE8	Dialogue Text	CHURCH ORB / drug lab realization	You	"I'm not sure I'm buying what you're selling. What kind of effects?"	“我不确定吃不吃你这套。是什么样的效果？”
+0x0100001600008CEE	Dialogue Text	CHURCH ORB / drug lab realization	You	"Okay, sounds cool." (Nod along.)	“好吧，听起来挺牛掰的。”（点点头。）
+0x0100001600008CF8	Dialogue Text	CHURCH ORB / drug lab realization	Andre	"Besides, did you know that *smell experiences* are all the rage now at the most forward-thinking venues?"	“再说了，你知道现在*气味体验*在最前卫的地方火的一塌糊涂吗？”
+0x0100001600008D00	Dialogue Text	CHURCH ORB / drug lab realization	Acele	"Very big in *art circles*." She looks up for a moment.	她抬头看了一眼。“在*艺术圈*火爆了。”
+0x0100007200003D53	Dialogue Text	CHURCH ORB / figurine	Reaction Speed	Hey! Her Innocence Dolores Dei liked little figurines, right? Liked holding little men between her fingers, remember?	哈！无罪女王德洛莉丝·黛喜欢小雕像，对吗？喜欢把小人夹在她得手指之间，还记得吗？
+0x0100007200003D60	Dialogue Text	CHURCH ORB / figurine	You	What?	什么？
+0x0100007200003D66	Dialogue Text	CHURCH ORB / figurine	You	No, I don't remember anything, I don't want to think about this. Good bye. [Discard thought.]	没，我什么也不记得。我不想考虑这件事。再见。[放弃思维。]
+0x0100007200003D79	Dialogue Text	CHURCH ORB / figurine	Reaction Speed	You have the Headless FALN Rider figurine. You should give it to her. Win her back!	你手上有无头FALN骑士雕像啊。你应该送给她。把她的心赢回来！
+0x0100007200003D87	Dialogue Text	CHURCH ORB / figurine	Reaction Speed	You have the revolutionary soldier figurine. You should give it to her. Win her back!	你手上有革命战士雕像啊。你应该送给她。把她的心赢回来！
+0x0100007200003D91	Dialogue Text	CHURCH ORB / figurine	Reaction Speed	No... it would have been *beautiful*. Really tiny. Thoughtful. Clever!	不……它应该是*美丽的*。非常小巧。体贴。聪明！
+0x0100007200003D97	Dialogue Text	CHURCH ORB / figurine	Volition	Whatever this was, it feels like you made the right choice not to peek into it.	不管是什么，看来没有深入窥探是个正确决定。
+0x0100007200003DA7	Dialogue Text	CHURCH ORB / figurine	You	What? (Look around.) Win who back? I can't win her back, she's a long dead historical figure.	什么？（环顾四周。）把谁赢回来？我不能把她赢回来，她可是个早就已经去世的历史人物。
+0x0100007200003DAD	Dialogue Text	CHURCH ORB / figurine	You	I should yes. This is a TASK of mine now.	我应该回答说是。现在这是我的任务了。
+0x0100007200003DB3	Dialogue Text	CHURCH ORB / figurine	You	Forget about this... [Discard thought.]	还是忘了吧……[放弃思维。]
+0x0100007200003DBA	Dialogue Text	CHURCH ORB / figurine	Reaction Speed	Don't be so pessimistic. Love doesn't die that easily!	别这么悲观。爱情是不会轻易磨灭的！
+0x0100007200003DC1	Dialogue Text	CHURCH ORB / figurine	Inland Empire	This isn't funny... you have a bad feeling about this one.	这不好笑……你感觉不太好。
+0x0100007200003DCC	Dialogue Text	CHURCH ORB / figurine	Reaction Speed	So very, very, *very* nifty... nifty and mysterious. This is surely what the figurines are for!	真是那么，那么，*那么*的漂亮……俏皮又神秘。雕像肯定就是这么用的！
