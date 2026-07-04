@@ -1,0 +1,247 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000570001D98A	Dialogue Text	BACKYARD / KIM APT DOOR barks	Kim Kitsuragi	"There must be another way into the building."	“肯定有别的办法能进到里面去。”
+0x0100002B00023893	Dialogue Text	BACKYARD / KIM barks	Kim Kitsuragi	"Look, a smoker on the balcony."	“看，有个人在阳台上抽烟。”
+0x0100002B00023898	Dialogue Text	BACKYARD / KIM barks	Kim Kitsuragi	"This could be our witness."	“说不定是我们的目击证人。”
+0x01000004000151E6	Dialogue Text	BACKYARD / KIM BREAKING AND ENTERING barks	Kim Kitsuragi	"Make this quick, detective."	“动作快一点，警探。”
+0x010000060001DB09	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Conceptualization	You already have the heavy fuel oil to use as paint -- it's red! -- and Cindy the SKULL has a paintbrush. This is on.	你已经得到了用作颜料的重燃油——红色的！——而且骷髅头辛迪有一只漆刷。可以开工了。
+0x0100000B0000295A	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Empathy	He sounds tired of it all.	听起来他已经厌倦了这一切。
+0x0100000B000029E2	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Conceptualization	Your loss. Farewell, rain-washed wall at the end of the world.	你的损失。再见，世界尽头这堵被雨水冲刷的墙。
+0x010000160000321E	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Rhetoric	Blank, conveying nothing.	空的，没有传达任何信息。
+0x010000160000322A	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	Why am I looking at this wall?	我为什么要看着这堵墙？
+0x010000160000322A	tooltip1	BACKYARD / MOTHER OF ALL WALLS	You	In the dimming light, some things become clearer.	在昏暗的灯光下，有些东西越来越清晰。
+0x010000160000322A	tooltip2	BACKYARD / MOTHER OF ALL WALLS	You	Dodge ball, really? You don't even have a ball for that.	躲避球游戏，真的吗？你连球都没有。
+0x010000160000322A	tooltip3	BACKYARD / MOTHER OF ALL WALLS	You	You have a keen aesthetic sensibility.	你的美学感受性相当敏锐。
+0x010000160000322A	tooltip4	BACKYARD / MOTHER OF ALL WALLS	You	Cindy's artistic impulses are infectious.	辛迪的艺术冲动很有感染力。
+0x010000160000322A	tooltip5	BACKYARD / MOTHER OF ALL WALLS	You	Dresscode: Pseudo-SKULL.	着装要求：伪骷髅头。
+0x0100001600003230	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	[Leave.]	[离开。]
+0x010000160000326A	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Conceptualization	You have no clue. It's just a wall.	你没有任何线索。它只是一堵墙。
+0x0100001600003270	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Conceptualization	Yeah, why? It's a wall, an ordinary wall.	是吗，为什么？它是一堵墙，普通的墙。
+0x010000160000327C	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Conceptualization	Because -- you see it, finally -- this wall is *sublime*! LOOK AT IT! The shadows, the colours...	因为——你总算是看见了——这堵墙代表着*顶点*！看看它！那些阴影，那些色彩…
+0x0100001600003282	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Hand/Eye Coordination	Maybe this would be a good wall for dodge ball?	也许这面墙很适合玩躲避球游戏？
+0x0100001600003288	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Shivers	So many walls all over Martinaise -- weatherworn, cracked, their paint peeling...	马丁内斯有那么多面墙——被风雨侵蚀的，残破不堪的，油漆脱落的…
+0x0100001600003294	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Kim Kitsuragi	The lieutenant sighs. "Why must we stop to look at this wall every time we pass by? We have business to attend to."	警督叹了口气。“为什么每次路过这堵墙都要停下来看？我们还有别的事要做。”
+0x010000160000329D	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	(Let the conceptual joy flow into your pupils and blossom into thoughts in your brain.)	（让概念上的欢乐流入你的瞳孔，在你的大脑里开花结果。）
+0x01000016000032CD	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	More!	还不够！
+0x01000016000032D6	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Conceptualization	O WALLFATHER!	哦，墙壁之父！
+0x01000016000032E2	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	"Kim! I *must* paint this wall, add even MORE beauty to it."	“金！我*必须*粉刷这面墙，为它增添更多美丽。”
+0x01000016000032E8	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	Yes, I must paint this wall, ADD to it! (Get task.)	是的，我必须粉刷这面墙，再加点东西！（接受任务。）
+0x01000016000032EE	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	No. There is nothing to add to perfection. (Back off.)	不。这么完美的东西已经没什么好加的了。（离开。）
+0x0100001600003331	Alternate1	BACKYARD / MOTHER OF ALL WALLS	You	"I changed my mind. I *will* paint this wall." 	“我改变主意了。我*会*粉刷这面墙的。”
+0x0100001600003331	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	Look the wall over again, carefully. Think about what you could paint there...	看着这面墙，再仔细一点。想想你能在上面画什么…
+0x0100001600003343	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	[Leave.]	[离开。]
+0x010000160000335D	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Backyard Wall	This is a wall on the side of an apartment building.	这是公寓大楼侧面的一堵墙。
+0x0100001600003364	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Backyard Wall	Just an ordinary wall. Nothing to see here.	只是一堵普通的墙。没什么好看的。
+0x010000160000336B	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Backyard Wall	The wall waits mutely.	墙静静地等待着。
+0x0100001600003382	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	[Leave.]	[离开。]
+0x010000160000338C	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Conceptualization	Absolutely. Now you just need the materials.	当然了。现在你只要找到材料就行。
+0x0100001600003393	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Kim Kitsuragi	"Huh?"	“嗯？”
+0x0100001600003399	Alternate1	BACKYARD / MOTHER OF ALL WALLS	You	I already have heavy fuel oil, and Cindy the SKULL has a paintbrush...	我已经有重燃油了，而且骷髅头辛迪那里有一只漆刷…
+0x0100001600003399	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	Cindy the SKULL has what I need.	骷髅头辛迪有我需要的东西。
+0x010000160000339F	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	I'm sure I'll find them. And then I'll return to this wall.	我肯定能找到的。然后再回到墙这里来。
+0x01000016000033C8	Alternate1	BACKYARD / MOTHER OF ALL WALLS	You	"I already have the paint. Just need to get a paintbrush from Cindy the SKULL."	“颜料已经准备好了。只需要从骷髅头辛迪那里拿到漆刷就好。”
+0x01000016000033C8	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	"I must talk to Cindy. Get the necessary *materials* from her."	“我得跟辛迪聊聊。从她那里拿到必要的*材料*。”
+0x01000016000033CE	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	"I'm sure I'll find the materials. Then we can come back to this magnificent wall."	“我肯定能找到材料的。到时候我们再回到这堵壮丽的墙边。”
+0x01000016000033D4	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Kim Kitsuragi	He sighs, then adds in a resigned tone: "If you must."	他叹了口气，然后用一种听天由命的口吻补充了一句，“如果你非要这么做的话。”
+0x01000016000033DA	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Kim Kitsuragi	"I suppose we'll have to pass by it again at some point anyway," he says in a tone of resignation.	“反正我们之后可能还会路过这个地方，”他的口吻有一种听天由命的味道。
+0x01000016000033E0	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Conceptualization	Yes, great thinking, go talk to her. The wall will be waiting.	是的，这想法不错，去跟她聊聊。这堵墙会一直等着的。
+0x01000016000033E6	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Conceptualization	Yes, do that. The wall will be waiting.	是的，就这么做。这堵墙会一直等着的。
+0x01000016000033F0	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	[Leave.]	[离开。]
+0x01000016000033FD	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	You	"First, I know you're tired, Kim, but take another look at this wall. Draw *nourishment* from its beauty."	“首先，我知道你累了，金，但是再看一眼这堵墙。从它的美丽中汲取*营养*。”
+0x0100001600003403	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Kim Kitsuragi	"Mhm, sure." The lieutenant looks up at the wall reluctantly, then back at you.	“嗯，当然了。”警督不情愿地抬头看了一眼墙，然后又看向你。
+0x010000160000340A	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Electrochemistry	Your hands shake as they reach for the wall...	你的手颤抖地碰触着墙面…
+0x010000160000341B	Alternate1	BACKYARD / MOTHER OF ALL WALLS	Backyard Wall	The pastels of the wall seem still more luminous in the falling snow.	飘落的雪花中，这面墙的色彩似乎更加明亮了。
+0x010000160000341B	Alternate2	BACKYARD / MOTHER OF ALL WALLS	Backyard Wall	Rain darkens the surface of the most beautiful of all walls, but does not in any way diminish its beauty.	雨滴让这幅最美丽的墙面变得昏暗起来，然而它的美丽却没有减弱分毫。
+0x010000160000341B	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Backyard Wall	There it is -- the most beautiful of walls. Stop and admire it for a moment.	这就是——最美丽的墙。在这里驻足片刻，欣赏它的美丽。
+0x0100001600003436	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Conceptualization	Because this is no ordinary wall. It is *sublime*! LOOK AT IT! The shadows, the colours...	因为这不是一堵普通的墙。它代表着*顶点*！看看它！那些阴影，那些色彩…
+0x010000160000346B	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Logic	Cindy the SKULL has a paintbrush and paint. Talk to her.	骷髅头辛迪手上有漆刷和颜料。去跟她聊聊吧。
+0x0100001600003471	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Logic	You already have the heavy fuel oil to use as paint, and Cindy the SKULL has a paintbrush. This is completely doable.	你手上的重燃油可以作为颜料，骷髅头辛迪手上有漆刷。这样完全是可行的。
+0x0100001600003499	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Conceptualization	All the other walls on all the other houses must make a pilgrimage in adoration of this, the uncontested pinnacle of wall-craft. Colour peeled from the very face of god.	其他房子上的墙一定会专门来这里朝圣，朝拜这个造墙工艺里毫无争议的顶点。只是神明脸上的色彩有些脱落。
+0x010000580000B4D9	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Conceptualization	Your loss. Farewell, light-drenched wall at the end of the world.	你的损失。再见，世界尽头这堵沐浴在光芒之下的墙。
+0x010000580000B4E0	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Conceptualization	Your loss. Farewell, snow-flecked wall at the end of the world.	你的损失。再见，世界尽头这堵雪花斑驳的墙。
+0x010000580000B4EA	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Conceptualization	Your loss. Farewell, wall at the end of the world, draped in shadow.	你的损失。再见，世界尽头这堵笼罩在阴影之下的墙。
+0x01000081000022E0	Dialogue Text	BACKYARD / MOTHER OF ALL WALLS	Logic	Cindy the SKULL has all the necessary materials. Talk to her?	骷髅头辛迪有所有必要的材料。去找她聊聊？
+0x0100000400014FD5	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"I'll come back to this later." [Leave.]	“我一会儿再回来。”[离开。]
+0x0100000500002CB1	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Half Light	Someone hides behind a curtain: those windows have eyes and those eyes are watching, spying on you three.	有人躲在窗帘背后：那些窗户长了眼睛，那些眼睛正在看着你，监视你们三个。
+0x010000060001B8EC	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Empathy	Please don't go, I'll even stop smoking inside.	请不要走，我甚至可以在心里也把烟戒掉。
+0x0100002100002400	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Kim Kitsuragi	"There has to be a way of getting inside the building -- let's go check out the door near the pier again. Once we've found the way in, we can ask around for his apartment."	“一定能有办法进去——我们再去码头附近的那扇大门看看。等我们进去之后，可以问问他的房间在哪里。”
+0x010000570000D05F	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Why are you whispering? It sounds like you're *already* in trouble."	“你为什么这么小声？听起来你*已经*遇到麻烦了。”
+0x010000570000D065	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Can you tell me your name?"	“能告诉我你的名字吗？”
+0x010000570000D071	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Son, do you train?"	“小子，你训练过吗？”
+0x010000570000D078	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"There's no trouble, I'm just speaking in a *lowered voice*," he says sotto voce.	“没什么麻烦，我只是声音*很低*而已，”他的声音更低了。
+0x010000570000D081	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Alright, we'll talk later." [Leave.]	“好吧，我们稍后再聊。”[离开。]
+0x010000570000D089	Alternate1	BACKYARD / SMOKER ON THE BALCONY	You	"Actually, the gendarmerie *really* needs to talk to you."	“其实吧，我这个宪兵*真的*需要跟你谈谈。”
+0x010000570000D089	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Actually, the police *really* needs to talk to you."	“其实，警察*真的*需要跟你聊聊。”
+0x010000570000D090	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"I don't want to be seen talking to the *gendarmerie*, if that's okay. I just want to finish my cigarette."	“如果可以的话，我不想别人看见我跟*宪兵队*的人说话。我只想抽完这支烟。”
+0x010000570000D0A6	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Kim Kitsuragi	"We will remove the body as soon as possible. Now tell us, where were you last Sunday?"	“我们会尽快移走这具尸体。现在请告诉我们，你上周天在哪？”
+0x010000570000D0B8	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Looks like you've got a good view of the Whirling's backyard. Can you tell me anything about the hanging?"	“你那里似乎能看清飞旋旅社的后院。能不能跟我说说吊人的事？”
+0x010000570000D0C2	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Oh..." He waves lazily with his cigarette. "You already asked me that, didn't you?"	“哦……”他懒洋洋地摇晃着指尖的香烟。“你已经问过我这个了，不是吗？”
+0x010000570000D0C9	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Logic	Wait, is someone else investigating the lynching?	等等，难道还有人在调查私刑的事？
+0x010000570000D0D0	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Did I?"	“我有吗？”
+0x010000570000D0D6	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"I'm pretty sure I didn't."	“我很肯定我没有。”
+0x010000570000D0DD	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"No, not you." He gestures idly. "Some more *muscular* type."	“不，不是你。”他懒散地比了个手势。“是个*肌肉更发达*的家伙。”
+0x010000570000D0EA	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Kim Kitsuragi	"And when did you speak to this more *muscular* gentleman?" The lieutenant takes out his little blue notebook and writes something down.	警督拿出蓝色的小笔记本，在上面记了几笔。“你是什么时候跟这位*肌肉*绅士聊天的？”
+0x010000570000D0F8	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Rhetoric	He's deflecting. He's young, with a sharp memory. He hasn't had time to drown it in booze and chemicals.	他在转移话题。他很年轻，记忆力很好。他还没时间把它浸泡在酒精和化学药品里。
+0x010000570000EDC7	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Electrochemistry	It's the God of Cigarettes and Youth -- ask him if he's got anything to spare.	它是香烟和年轻之神——问问他能不能分你点。
+0x010000570000EDDD	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Physical Instrument	By god, this young man has the body of a *decathlete*. His lithe form was practically made for vaulting over the high bar!	天啦，这个年轻人有一幅*十项全能运动员*的身躯。他那轻盈的身段应该是专门为跃过高杆准备的！
+0x010000570000EDE2	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Composure	There's something about the way he carries himself... Something enviable, mysterious, attractive...	他的举止有些说不出的感觉…很让人羡慕，很神秘，很迷人…
+0x010000570000EDF8	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Hold on... Can I at least have a cigarette?"	“等一下…能分我一根烟吗？”
+0x010000570000EDFF	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Apologies, but this is my last one." He takes another drag and shivers.	“抱歉，这是最后一根了。”他又吸了一口，打了个寒颤。
+0x010000570000EE06	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"No problem. We'll talk more next time." [Leave.]	“没关系。我们下次再聊。”[离开。]
+0x010000570000EE0F	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Half Light	Like a nervous cat, he keeps stealing looks at the neighbouring windows.	他就像只紧张的猫，一直偷瞄着邻居家的窗户。
+0x010000570000EE1A	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"I can *tell* that you finally got him down. Thank you -- it was quite a disturbing sight, even by Martinaise standards."	“我能*看出来*，你总算是把他放下来了。谢谢——就算以马丁内斯的标准来看，这幅景象也实在是有些令人不安。”
+0x010000570000EE27	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Kim Kitsuragi	"What were you doing last Sunday?"	“上周日你在做什么？”
+0x010000570000EE35	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"I'm working on it."	“我正在努力。”
+0x010000570000EE3B	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"What did you do last Sunday?"	“上周日你在做什么？”
+0x010000570000EE42	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Thank you."	“谢谢。”
+0x010000570000EE5B	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Kim Kitsuragi	"You didn't answer the question. What were you doing last Sunday?"	“你还没回答我的问题。上周日你在做什么？”
+0x010000570000EE63	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"You still haven't answered my question. What were you doing last Sunday?"	“你还没回答我的问题。上周日你在做什么？”
+0x010000570000EE6A	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	He sighs. "I had a friend over."	他叹了口气。“我有个朋友来了。”
+0x010000570000EE72	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"What kind of friend?"	“什么样的朋友？”
+0x010000570000EE80	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Electrochemistry	A *Sunday friend*? How intriguing...	一个*周日朋友*？真有趣…
+0x010000570000EE87	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Authority	Makes sense. Friends are nice on Sunday. You don't have to work, you can just spend time with pals, watching rugby and drinking beer.	有道理。周日有朋友陪伴挺好的。不用工作，你可以跟朋友们待在一起，看看橄榄球赛，喝点啤酒。
+0x010000570000EE9C	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	He doesn't reply, gesturing 'no' with his cigarette. Under the dull and darkening sky the neighbouring windows stand silent.	他没有回应，用香烟比出了“拒绝”的意思。在阴沉黯淡的夜空下，邻居的窗户也寂静无声。
+0x010000570000EEA8	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"When was that?"	“那是什么时候？”
+0x010000570000EEB2	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"My name? My name is Martin Martinaise."	“我的名字？我叫马丁·马丁内斯。”
+0x010000570000EEBF	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Rhetoric	That's definitely not his real name.	这肯定不是他的真名。
+0x010000570000EECD	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"You're not actually called Martin Martinaise, are you?"	“马丁·马丁内斯不是你的真名，对吧？”
+0x010000570000EEDC	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"No, of course not. Could you please lower your voice?" He scans the courtyard. It's silent like the bottom of a well, every sound captured and reflected back.	“不，当然不是。你能不能小点声？”他扫视着院子。这里安静的就像井底，每一道声音都会被捕捉到，然后反射回去。
+0x010000570000EEE4	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Authority	Ask him again.	再问他一次。
+0x010000570000EEF1	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Listen, I really need your name."	“听着，我真的需要知道你的名字。”
+0x010000570000EEFE	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"And I *really* need to finish this cigarette," he replies with a subtle smile.	“我*真的*需要抽完这根烟，”他回应着，笑容让人难以捉摸。
+0x010000570000EF05	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Empathy	But he hasn't left yet.	但是他还没离开。
+0x010000570000EF0D	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Was it someone from the police?"	“是警察局的人吗？”
+0x010000570000EF14	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"I couldn't tell you," he says, exhaling a little puff of smoke. "We don't usually see much of the *gendarmerie* around here."	“我不能告诉你，”他吐出一口烟，说到。“我们这儿*宪兵队*可不常见。”
+0x010000570000EF1C	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Occasionally." He takes another drag, filling his lungs with nicotine. "Why?"	“偶尔吧。”他又吸了一口，用尼古丁填满自己的肺部。“为什么这么问？”
+0x010000570000EF23	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Are you on the track team?"	“你是田径队的吗？”
+0x010000570000EF29	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Nothing. You should give up smoking, son. It's not good for your health."	“没什么。你应该戒烟，小子。这对你的健康不好。”
+0x010000570000EF30	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"No, I just like to look good." A light breeze pulls back a flap of shirt.	“不，我只是想让自己看起来好一点。”微风抚平了衬衫上的一道褶皱。
+0x010000570000EF38	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"You're right, it's horrible for the skin. Very ageing." He takes another drag, before shaking off the ash.	“你说得对，而且对皮肤不好。容易变老。”他又吸了一口，随后弹了弹烟灰。
+0x010000570000EF44	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"A shame. Young man like you, with a body like yours, you'd be a credit to any track team."	“可惜啊。像你这样的年轻人，就凭你这幅身体，肯定会成为任何田径队的荣耀。”
+0x010000570000EF5E	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Trust me, I'm *not* a team player," he says with a honeyed smile.	“相信我，我*不是*适合团队行动的人，”他满脸笑容的说到。
+0x010000570000EF6C	Alternate1	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"No, we won't." He takes one last drag of his cigarette, before stubbing it out on the snowy balcony with a dying hiss. 	“不，不用。”他吞下最后一口香烟，随后把烟蒂扔在雪花覆盖的阳台上，发出一丝垂死的嘶嘶声。
+0x010000570000EF6C	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"No, we won't." He takes one last drag of his cigarette, before stubbing it out on the balcony.	“不，不会的。”他吞下最后一口香烟，然后把掐灭的烟蒂扔在阳台上。
+0x010000570000EF7B	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	Let him go. [Leave.]	让他走吧。[离开。]
+0x010000570000EF81	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	Convince him to stay.	说服他留下来。
+0x010000570000EF81	tooltip1	BACKYARD / SMOKER ON THE BALCONY	You	Workout talk.	锻炼的话题。
+0x010000570000EF81	tooltip2	BACKYARD / SMOKER ON THE BALCONY	You	Bumming a cigarette.	讨要一根烟。
+0x010000570000EF96	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Suggestion	This isn't the place or time for questions: Who knows who might be watching from the distance, hidden behind the curtains.	这里不是提问的好地方，也不是好时候：谁知道会不会有人躲在窗帘后面，从远处暗中观察。
+0x010000570000EF9D	Alternate1	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	For a moment the man on the balcony seems almost vulnerable. Something moves in the depths of his feline eyes: compassion, and a hint of understanding. There's snow gathering on his hair and on his shoulders, a speckle of white against the purple that hangs loose on his slender frame.	片刻之间，阳台上的男子看起来几乎有些脆弱。他那双猫一样的眼睛深处有什么东西在游移着：怜悯，还有一丝理解。雪花堆积在他的头发和肩膀上，比他那纤细身躯上挂着的衬衫还要更白一些。
+0x010000570000EF9D	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	For a moment the man on the balcony seems almost vulnerable. Something moves in the depths of his feline eyes: compassion, and a hint of understanding.	片刻间，阳台上的男孩看起来几乎有些脆弱。他那双猫一样的眼睛深处有什么东西在游移着：怜悯，还有一丝理解。
+0x010000570000EFB2	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Good luck with the investigation." He walks away.	“祝你调查顺利。”他走开了。
+0x010000570000EFC1	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Rhetoric	Martin Martinaise? Good local name. Let's go with that.	马丁·马丁内斯？本地人叫这名字还真是够应景的。就叫这个吧。
+0x010000570000EFD5	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Endurance	Not that he has to worry about getting old yet -- he's sparkling with youth, a radiant demi-god.	并不是说他现在就要开始担心变老的问题——他周身散发着闪闪发光的年轻气息，就像个光芒四射的半神。
+0x010000570000F04F	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"It was my Sunday friend."	“是我的周日朋友。”
+0x010000570000F064	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Kim Kitsuragi	"He's gone." The lieutenant puts away his notebook and turns to you.	“他走了。”警督收回笔记本，转向了你。
+0x010000570000F070	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"We should run after him, see where he went!"	“我们应该跟上他，看看他去哪了！”
+0x010000570000F078	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Kim Kitsuragi	"No point in running. Tenements like these often have multiple exits. If he doesn't want to talk to us, then he'll know how to hide himself."	“跑也是无济于事。这种公寓一般都会有好几个出口。如果他不想跟我们说话，肯定知道藏在什么地方。”
+0x010000570000F07F	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"So we just give up?"	“所以我们就这么放弃吗？”
+0x010000570000F085	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"You're right, he probably didn't have anything important to say anyway."	“你说的对，他可能也没什么重要的话要说。”
+0x010000570000F093	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Kim Kitsuragi	"He could be a witness, him or his *Sunday friend*. Either way we need to look into that *muscular type* who's asking about our case..."	“他可能是个目击证人，他，或者是他那位*周日朋友*。不管怎么说，我们都要调查一下那个*肌肉男*，看看是谁在打探我们的案子…”
+0x010000570000F0AE	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Kim Kitsuragi	"He could be a witness, him or his *Sunday friend*. It's worth looking into..."	“他可能是个目击证人，他，或者是他那位*周日朋友*。值得调查一下……”
+0x010000570000F0B4	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Kim Kitsuragi	"He could be a witness. And either way we need to look into that *muscular type* who's asking about our case..."	“他可能是个目击证人，不管怎么说，我们都要调查一下那个*肌肉男*，看看是谁在打探我们的案子…”
+0x010000570000F0BA	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Kim Kitsuragi	"He could be a witness. We shouldn't rule out the possibility..."	“他可能是个目击证人。我们不应该排除这种可能性……”
+0x010000570000F0D2	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Kim Kitsuragi	"There has to be a way of getting inside the building. Once we've found the way in, we can ask around for his apartment."	“一定能有办法进去。等我们进去之后，可以问问他的房间在哪里。”
+0x010000570000F0D7	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Kim Kitsuragi	"He did leave us a sign, did you see that? He wanted to draw our attention to that stone right over there." The lieutenant nods towards a small rock on a soggy patch of grass.	“他确实给我们留了个信号，你没看见吗？他想让我们注意那块石头。”警督指向躺在潮湿草地上的一块小石头。
+0x010000570000F0DF	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Great, let's do that." [Leave.]	“太好了，就这么干吧。”[离开。]
+0x01000057000157A2	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"What's your friend's real name? Did he see something?"	“你那位朋友的真名叫什么？他看见什么了吗？”
+0x01000057000157AC	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Kim Kitsuragi	"If we find a way inside the building, we can ask around for his apartment."	“如果我们能想办法进到里面去，就能问出他的房间在哪里。”
+0x0100005700016782	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Suggestion	Time to bring out your secret charm: tears and begging! Show him your *emotional* side, throw yourself before his very feet like a dog!	是时候拿出你的秘密法宝了：眼泪和乞求！把你*情绪化*的一面展现给他看，像狗一样扑倒在他的脚边！
+0x0100005700023AEF	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Is it really that important?" he asks you, adjusting his shirt.	“真有那么重要吗？”他整理了一下身上的衬衫，开口问到。
+0x0100005700023C6F	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Not looking for any trouble, officer..." he says in a quiet voice. Despite the cold, his shirt hangs unbuttoned on his frame.	“我不想惹什么麻烦，警官…”他小声说到。尽管很冷，但是他身上的衬衫没有扣上。
+0x0100005700023C79	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"You hiding something? Speak up, this is the police."	“你在隐瞒什么吗？说出来吧，我们是警察。”
+0x0100005700023C85	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Drama	It's the voice of someone who has something to *hide* my liege.	这种声音就代表某人有什么东西想要*隐藏*，大人。
+0x0100005700023CB5	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"I'm not throwing anything."	“我什么也不会扔的。”
+0x0100005700023CBD	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Electrochemistry	The God Himself has denied you absolution.	神明本尊拒绝了你的告解。
+0x0100005700023CCB	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"I get it. Nothing wrong with looking good."	“我明白。外形好没什么错。”
+0x0100005700023CD2	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	He gives you a honeyed smile, before shaking off the cigarette ash.	他露出甜美的微笑，随后弹掉了烟灰。
+0x0100005700023CDD	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"I'd even go so far as to say that the view is a little *too good*, my dear gendarme. Do you have an estimate of when the body will be taken away?"	“我甚至可以说眼前这幅景象有些*太好了*，尊敬的宪兵大人。你估计这具尸体什么时候能被带走？”
+0x0100005700023CEF	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Conceptualization	A downy blanket of white to cover up the miserable poverty of the scene.	一张柔软的白毯盖住了这幅悲惨的景象。
+0x0100005700023CF8	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Did you?" (Look at Kim.)	“是你吗？”（看着金。）
+0x0100005700023CFF	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"No, not you two." He gestures idly. "Some more *muscular* type."	“不，不是你们俩。”他懒洋洋地靠着。“是个*肌肉发达*的家伙。”
+0x0100005700023D10	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Alright, but make it quick. Once I finish this cigarette I have to run."	“好吧，但是麻烦快一点。等我抽完这根烟就要跑路了。”
+0x0100005700023E93	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	You see a young man on a balcony nursing a cigarette. His eyes have been following you for a while.	你看见一个年轻人倚靠在阳台上，指尖还夹着一支香烟。他盯了你好一会儿了。
+0x0100005700023EA6	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"There won't *be* a next time." He takes a last drag of his cigarette, before stubbing it out in the balcony snow. "I really need to get going."	“*不会*再有下次。”他吞下最后一口烟，然后把它掐灭在阳台的积雪里。“我真的要走了。”
+0x0100007000002EFA	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"No trouble from me, I just want to know what's going on here."	“我不想找麻烦，只想知道到底发生了什么事。”
+0x0100007000002F00	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Too late, young man. Trouble's found you."	“太晚了，年轻人。麻烦找上你了。”
+0x0100007000002F10	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Sorry, I don't have time for this. I just want to finish my cigarette and be gone."	“抱歉，我没时间管这个。我只想抽完这根烟，然后离开。”
+0x0100007000002F23	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Can't you just like, toss that one down?"	“你就不能把它扔下来吗？”
+0x0100007000002F28	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"I need absolution!"	“我需要告解！”
+0x0100007000002F31	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"I'm not sure that's a good idea."	“我不觉得这是个好主意。”
+0x0100007000002F38	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Absolution? I don't know that brand, but I'm pretty sure you can get Astras at the Frittte."	“告解？我不知道那个牌子，不过我很肯定，你能在弗利多弄到阿斯特拉。”
+0x0100007000002F40	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Shut up and throw, kid!"	“闭上你的嘴，快点扔下来，小子！”
+0x0100007000002F46	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"You're right, that was obviously a bad idea. Forget I said anything."	“你是对的，这显然是个坏主意。忘了我说的话吧。”
+0x0100007000002F4E	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Hand/Eye Coordination	There's no way you'd catch that cigarette anyway.	这样你是不可能接住香烟的。
+0x0100007000002F55	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	What, really?	什么，真的吗？
+0x0100007000002F62	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Hand/Eye Coordination	Yes, really. Don't even try. You'll just embarrass yourself.	是的，真的。连试都不要试。你只会让自己蒙羞的。
+0x0100007000002F6A	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"As you wish." He takes another drag.	“如你所愿。”他又抽了一口。
+0x0100007000002F7E	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Suggestion	It's a sign!	是个信号！
+0x0100007000002F88	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Electrochemistry	Ah, there it goes -- *wasted*! You would have gotten at least a few good drags out of it.	啊，看到了吧——*浪费*！你本来还能好好抽上几口的。
+0x01000070000059D4	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Last week? I don't know, look..." He looks around the courtyard again. Snow blankets the old patio chairs and dead house plants, and all the neighbouring windows are black.	“上周？我不知道，你看…”他又环视了一下后院。雪花覆盖在破旧的露台椅和枯萎的盆栽上，所有邻居的窗户都是漆黑一片。
+0x01000070000059DC	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Last week? I don't know, look..." He looks around the courtyard again. Rain patters on the window sills and dead house plants, too late to do them any good.	“上周？我不知道，你看…”他又环视了一下后院。雨滴拍打在窗台板和枯萎的盆栽上，不过已经太迟，对它们来说没太大用场。
+0x01000070000059E3	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Last week? I don't know, look..." He looks around the courtyard again. Old patio chairs and dead house plants litter the scene.	“上周？我不知道，你看…”他又环视了一下后院。破旧的露台椅和枯萎的盆栽散落地到处都是。
+0x01000070000059EA	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Conceptualization	It'll take more than rain to bring this place back to life.	要想让这里重新恢复生机，光凭雨水是远远不够的。
+0x01000070000059F3	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Drama	He's an actor declaiming a soliloquy. See how you hang on his every word?	他是个在唱独白的演员，你没发现他说的每个词都很吸引你吗？
+0x0100007000005A14	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	He doesn't reply, gesturing 'no' with his cigarette. Under the grey sky the neighbouring windows are streaked with rain.	他没有回应，用香烟比出了“拒绝”的意思。灰暗的天空下，邻居的窗户上布满雨点。
+0x0100007000005A23	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	He doesn't reply, gesturing 'no' with his cigarette. Under the grey sky snow continues to pile on the neighbouring window sills.	他没有回应，用香烟比出了“拒绝”的意思。灰暗的天空下，雪花堆积在邻居的窗台板上。
+0x0100007000005A38	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	He doesn't reply, gesturing 'no' with his cigarette. In the neighbouring windows you can see faint reflections of his silhouette, all from different angles.	他没有回应，用香烟比出了“拒绝”的意思。邻居的窗户上隐约映照出他的轮廓，每一个的角度都有所不同。
+0x0100007000005A3F	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Half Light	Someone hides behind a curtain: those windows have eyes and those eyes are watching, spying on you two.	有人躲在窗帘背后：那些窗户长了眼睛，那些眼睛正在看着你，监视你们俩。
+0x0100007000005A4F	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Now, if you'll excuse me, I really need to get going."	“请原谅，但我真的得走了。”
+0x0100007000005A5B	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Hey, listen..." (Lower your voice.) "I am just trying to make things okay again. Can we meet again somewhere else?"	“喂，听我说…”（压低你的声音。）“我只想让一切都回归正轨。我们能不能换个别的地方见面？”
+0x010000750000113B	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Good luck with the investigation."	“祝你调查顺利。”
+0x0100007500001C76	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"I am sorry, but I really don't have the information you're looking for." His voice is soft and deliberate. With a flick of his wrist, he sends the cigarette butt sailing over the rail...	他再次开了口，声音柔软而又从容：“很抱歉，但我真的没有你需要的信息。”他挥舞手腕，把烟蒂扔过栏杆…
+0x0100007500001C7C	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	But hold on, what's that? For a split second his hand lingers... as though gesturing towards a stone placed right next to the front door...	等一下，那是什么？有那么一瞬间，他的手停留了一下…好像指向了前门旁边的一块石头…
+0x0100007500001C95	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"Please don't go! I'll stop drinking, I'll... take the trash out, just... please don't leave me."	“别走！我会戒酒的，我会…把垃圾带出去，只要…别离开我。”
+0x0100007500001C9C	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"What do you want from me? Do you want me to *cry*?! Huh?"	“你想让我怎么样？让我*哭*吗？！哈？”
+0x0100007500001CBA	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Listen, I really have to go." With a flick of his wrist he sends the extinguished cigarette sailing over the rail.	“听着，我真的要走了。”他挥舞手腕，把熄灭的烟蒂扔过栏杆…
+0x0100007500001CC0	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"No, for god's sake, I don't want you to cry!" He takes a quick step back and looks around, clearly disturbed.	“没有，看在老天的份上，我可不想你哭啊！”他猛地往后退了一步，看了看四周，显然有些不安。
+0x0100007500001CC8	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"*Trash*?" The young man shakes his head in confusion.	“*垃圾*？”年轻男子困惑的摇摇头。
+0x01000075000037EC	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	You	"I need to get inside this apartment building. Can you help me?"	“我需要进到公寓里面去。你能帮我吗？”
+0x01000075000037F2	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Smoker on the Balcony	"Help you? No, sorry, gendarme..." He shakes his charming head. "I have to run."	“帮你？不，对不起，宪兵先生…”他摇了摇那颗迷人的脑袋。“我得跑路了。”
+0x0100009200000117	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY	Visual Calculus	Don't let him go! This could be your witness -- the balcony has a great view of the whole thing.	别让他走！他可能是目击证人——那个阳台视野很好，很可能目睹了一切。
+0x010000070001ABF3	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks apartment	Smoker on the Balcony	"Of course I've thought about quitting but... for what?"	“我当然想过退出了，但是…为了什么呢？”
+0x010000070001ABF9	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks apartment	Smoker on the Balcony	"Not everything that needs to be said, needs to be heard."	“不是所有事都要说出来，都要被听到的。”
+0x010000070001ABFF	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks apartment	Smoker on the Balcony	"Deep down everyone is lonely."	“每个人内心深处都是孤独的。”
+0x010000070001AC05	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks apartment	Smoker on the Balcony	"All *real* connections begin in the mind."	“所有*真正*的关系都是从心里开始的。”
+0x010000070001AC0B	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks apartment	Smoker on the Balcony	"Scary how many people don't have *anyone* to talk to."	“其实挺吓人的，有那么多人没有可以*倾述的对象*。”
+0x010000070001AC11	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks apartment	Smoker on the Balcony	"I don't have clients, only friends."	“我没有客户，只有朋友。”
+0x0100000700019F02	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks balcony	Smoker on the Balcony	"Hey, what's that noise down there?"	“喂，下面吵吵闹闹的在干什么？”
+0x0100000700019F08	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks balcony	Smoker on the Balcony	"It's been a week and now they show up?"	“都过去一星期了，现在他们出现了？”
+0x0100000700019F0E	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks balcony	Smoker on the Balcony	"I can't get involved in this..."	“我不想被卷进来…”
+0x0100000700019F14	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks balcony	Smoker on the Balcony	"So much for a quiet smoke."	“我就想安静的抽根烟。”
+0x0100000700019F1A	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks balcony	Smoker on the Balcony	"I *knew* I should've quit..."	“我就*知道*我应该退出…”
+0x010000070001A3FB	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"*How* can a bar be out of vermouth?"	“酒吧*怎么会*没有苦艾酒呢？”
+0x010000070001A401	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"Can't do it with class? Don't do it at all."	“不能有风度地做这件事吗？那就干脆别做了。”
+0x010000070001A407	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"Could I get a refill here, please?"	“麻烦，我这里再来一杯？”
+0x010000070001A410	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"Don't even get me started on beauty..."	“不要在我面前挑起美的话题…”
+0x010000070001A417	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"I'm practically a shrink minus the diploma."	“我基本就是个没文凭的心理医生。”
+0x010000070001A41E	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"Yes, yes, I'm very attractive. Great, thank you."	“是啊，是啊。我是很有吸引力。很好，谢谢你。”
+0x010000070001A425	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"Okay, *you* tell me this doesn't taste like shit..."	“好吧，*你*告诉我这玩意的味道没那么糟糕…”
+0x010000070001A42C	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"*Obviously* I'm gonna quit some day."	“*显然*我总有一天会退出。”
+0x010000070001AC51	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"*How* can a bar be out of vermouth?"	“酒吧*怎么会*没有苦艾酒呢？”
+0x010000070001AC57	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"Can't do it with class? Don't do it at all."	“不能有风度地做这件事吗？那就干脆别做了。”
+0x010000070001AC5D	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"Could I get a refill here, please?"	“麻烦，我这里再来一杯？”
+0x010000070001AC63	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"Yes, yes, I'm very attractive. Great, thank you."	“是啊，是啊。我是很有吸引力。很好，谢谢你。”
+0x010000070001AC69	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"*Obviously* I'm gonna quit some day."	“*显然*我总有一天会退出。”
+0x010000070001AC6F	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"Okay, *you* tell me this doesn't taste like shit..."	“好吧，*你*告诉我这玩意的味道没那么糟糕…”
+0x010000070001AC75	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"Don't even get me started on beauty..."	“不要在我面前挑起美的话题…”
+0x010000070001AC7B	Dialogue Text	BACKYARD / SMOKER ON THE BALCONY barks whirling	Smoker on the Balcony	"I'm practically a shrink minus the diploma."	“我基本就是个没文凭的心理医生。”
+0x0100004000002900	Dialogue Text	BACKYARD / STONE	Stone	A stone like any other, lying in a whorl of sleet and mud. Maybe there's something under it?	很普通的石头，躺在冻雨和泥泞的漩涡里。也许下面有什么东西？
+0x010000400000290C	Dialogue Text	BACKYARD / STONE	You	Turn it over.	把它翻过来。
+0x0100004000002912	Dialogue Text	BACKYARD / STONE	You	Ignore it. [Leave.]	无视它。[离开。]
+0x010000400000291C	Dialogue Text	BACKYARD / STONE	Stone	There's a key beneath it, rusty from the dirt.	下面有一把钥匙，因为尘土的腐蚀有些生锈。
+0x0100004000002953	Dialogue Text	BACKYARD / STONE	You	Put the stone back. [Leave.]	把石头放回去。[离开。]
+0x010000570000F148	Dialogue Text	BACKYARD / STONE	Kim Kitsuragi	"This must be for the front door. Pity it doesn't have the apartment number on it. This building has many apartments and the man can be in any of them..."	“这肯定是前门的钥匙。可惜上面没有公寓号码。这栋建筑里有很多套公寓，那个人可能住在其中任意一间…”
+0x010000570000F14D	Dialogue Text	BACKYARD / STONE	Logic	Looks like it could belong to the building's front door.	看来是建筑前门的钥匙。
+0x010000570001638C	Dialogue Text	BACKYARD / STONE	You	"How are we going to find the right one?"	“我们怎么找到正确的那一个呢？”
+0x0100005700016771	Dialogue Text	BACKYARD / STONE	Kim Kitsuragi	"This must be for the front door. Let's see if it works."	“这肯定是前门的钥匙。我们试试能不能用吧。”
+0x010000570001677B	Dialogue Text	BACKYARD / STONE	Kim Kitsuragi	"We'll just have to go in and see."	“我们得进去看了。”
+0x010000570001DDD2	Dialogue Text	BACKYARD / STONE PERC	Stone	A stone like any other, lying in a whorl of sleet and mud. Maybe there's something under it?	很普通的石头，躺在冻雨和泥泞的漩涡里。也许下面有什么东西？
+0x010000570001DDD9	Dialogue Text	BACKYARD / STONE PERC	You	Turn it over.	把它翻过来。
+0x010000570001DDE0	Dialogue Text	BACKYARD / STONE PERC	You	Ignore it. [Leave.]	无视它。[离开。]
+0x010000570001DDE7	Dialogue Text	BACKYARD / STONE PERC	Stone	There's a key beneath it, rusty from the dirt.	下面有一把钥匙，因为尘土的腐蚀有些生锈。
+0x010000570001DDEE	Dialogue Text	BACKYARD / STONE PERC	You	Put the stone back. [Leave.]	把石头放回去。[离开。]
+0x010000570001DDFB	Dialogue Text	BACKYARD / STONE PERC	Kim Kitsuragi	"This must be for the front door. Pity it doesn't have the apartment number on it. This building has hundreds of apartments."	“这肯定是前门的钥匙。可惜上面没有公寓号码。这栋建筑有上百套公寓。”
+0x010000570001DE01	Dialogue Text	BACKYARD / STONE PERC	Logic	Looks like it could belong to the building's front door.	看来是建筑前门的钥匙。
+0x010000570001DE0D	Dialogue Text	BACKYARD / STONE PERC	You	"How are we going to find the right one?"	“我们怎么找到正确的那一个呢？”
+0x010000570001DE1B	Dialogue Text	BACKYARD / STONE PERC	Kim Kitsuragi	"This must be for the front door. Let's see if it works."	“这肯定是前门的钥匙。我们试试能不能用吧。”
+0x010000570001DE24	Dialogue Text	BACKYARD / STONE PERC	Kim Kitsuragi	"We'll just have to go in and see."	“我们得进去看了。”
