@@ -1,0 +1,61 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x0100005A0001371B	Dialogue Text	BACKYARD ORB / more bullet thoughts	Pain Threshold	The spread pattern of these bullet holes makes your chest ache. Your breath grows heavier.	四周密布的弹孔让你的胸口感到一阵疼痛。你的呼吸变得沉重起来。
+0x0100005A00013721	Dialogue Text	BACKYARD ORB / more bullet thoughts	You	"Kim, look... more bullet holes. Someone has been shot here."	“金，看…还有好多弹孔。有人在这里中枪了。”
+0x0100005A00013738	Dialogue Text	BACKYARD ORB / more bullet thoughts	Visual Calculus	Another set of awfully old bullet holes.	又是一连串可怕的陈旧弹孔。
+0x0100005A0001373E	Dialogue Text	BACKYARD ORB / more bullet thoughts	Visual Calculus	More old bullet holes, at least half a century. A different era altogether.	更多的弹孔，至少已经存在了半个世纪。那是一个完全不同的时代。
+0x0100005A00013744	Dialogue Text	BACKYARD ORB / more bullet thoughts	You	[Discard thought.]	[放弃思维。]
+0x0100005A00013752	Dialogue Text	BACKYARD ORB / more bullet thoughts	Kim Kitsuragi	The lieutenant inspects the wall, then nods. "Another set of old bullet holes from the Revolution."	警督查看了墙壁，然后点点头。“又是大革命时期留下的旧弹孔。”
+0x0100005A00013758	Dialogue Text	BACKYARD ORB / more bullet thoughts	You	"Man, how many people got shot during that Revolution?"	“我的天，到底有多少人在大革命的时候被杀了？”
+0x0100005A0001375E	Dialogue Text	BACKYARD ORB / more bullet thoughts	You	"Figured as much." [Discard thought.]	“我也这么觉得。”[放弃思维。]
+0x0100005A00013772	Dialogue Text	BACKYARD ORB / more bullet thoughts	Visual Calculus	More old bullet holes, half a century at least, from the Revolution.	更多的弹孔，至少已经存在了半个世纪，应该是大革命时期留下的。
+0x0100005A0001379F	Dialogue Text	BACKYARD ORB / more bullet thoughts	Kim Kitsuragi	"A history of violence streaking all across Revachol."	“瑞瓦肖本身就是一部暴力史。”
+0x0100005A000137A6	Dialogue Text	BACKYARD ORB / more bullet thoughts	Kim Kitsuragi	"Plenty."	“很多。”
+0x0100005A000137AD	Dialogue Text	BACKYARD ORB / more bullet thoughts	Shivers	The streets ran red with blood. Dust swirled above the ruins. The pressure change from artillery fire ripped people apart in the top floors of the building above you...	街道被鲜血染红。尘土在废墟上方盘绕。炮火引起气压变化，将上方建筑顶层的人们撕成了碎片…
+0x0100005A000137B5	Dialogue Text	BACKYARD ORB / more bullet thoughts	You	Examine closer.	仔细靠近查看。
+0x0100005A000137BD	Dialogue Text	BACKYARD ORB / more bullet thoughts	Pain Threshold	You peer into the faded marks in the stone... they peer back like an endless row of tiny black holes. Sweat starts trickling down your brow.	你凝视着石头上褪色的痕迹…它们就像一排无穷无尽的小黑洞回望着你。汗水渐渐从你的额角滑落。
+0x0100005A000137C4	Dialogue Text	BACKYARD ORB / more bullet thoughts	You	"These bullet holes look like the bullet holes we saw before."	“这些弹孔跟我们之前看到的弹孔很像。”
+0x0100005A000137CA	Dialogue Text	BACKYARD ORB / more bullet thoughts	Kim Kitsuragi	"Bullet holes generally look the same, so... probably." He leans in to inspect the wall. "But you are right, more old bullet holes from the Revolution."	“一般来说，弹孔都长得很像，所以…也许是吧。”他倾身向前，查看着墙壁。“不过你是对的，确实是大革命时期留下的旧弹孔。”
+0x0100005A000137D3	Dialogue Text	BACKYARD ORB / more bullet thoughts	You	"What's with all these bullet holes? I've seen a lot of them around."	“这些弹孔到底是怎么回事？我在附近看到不少。”
+0x0100005A000137DA	Dialogue Text	BACKYARD ORB / more bullet thoughts	Kim Kitsuragi	The lieutenant looks at the wall. "Remnants from the Revolution. These are over half a century old."	警督看着墙。“大革命的残留品，应该有大半个世纪了。”
+0x0100005A000137E1	Dialogue Text	BACKYARD ORB / more bullet thoughts	You	"Okay. But what can you tell me about the Revolution?"	“好吧。那你能跟我说说这个大革命吗？”
+0x0100005A000137EC	Dialogue Text	BACKYARD ORB / more bullet thoughts	Kim Kitsuragi	"Not much. I don't have a *fresh perspective* on it. Should we go?"	“没什么可说的。毕竟我不能提供什么*新鲜的视角*。可以走了吗？”
+0x0100005A000137F3	Dialogue Text	BACKYARD ORB / more bullet thoughts	Kim Kitsuragi	"No, we're not constructors and renovators. And these bullet holes do not warrant an investigation."	“不，我们不是建筑工人，也不是翻修工人。再说这些弹孔跟调查也没什么关系。”
+0x0100005A000137F9	Dialogue Text	BACKYARD ORB / more bullet thoughts	You	"So, no crime has happened here?"	“所以说，这里没有发生罪案了？”
+0x0100005A00013800	Dialogue Text	BACKYARD ORB / more bullet thoughts	Kim Kitsuragi	"Perhaps *a* crime of a sort, ages ago... but no, these do not warrant an investigation."	“也许很久以前，有过*某种*罪案…不过没有，这跟调查没什么关系。”
+0x0100005A00013806	Dialogue Text	BACKYARD ORB / more bullet thoughts	You	"Is there something we should do about these?"	“我们应该做点什么吗？”
+0x0100005A00013810	Dialogue Text	BACKYARD ORB / more bullet thoughts	You	"Never mind, then. Let's go." [Discard thought.]	“那没事了。我们走吧。”[放弃思维。]
+0x0100005A0001381A	Dialogue Text	BACKYARD ORB / more bullet thoughts	Kim Kitsuragi	The lieutenant nods.	警督点点头。
+0x0100005A00013828	Dialogue Text	BACKYARD ORB / more bullet thoughts	Horrific Necktie	This is bad mojo, man! Fuckin' horrible mojo. The end draws near!	这是可怕的咒语，伙计！该死的恐怖咒语！末日就要降临了！
+0x0100005A0001382F	Dialogue Text	BACKYARD ORB / more bullet thoughts	Pain Threshold	Your chest feels tight, looking at them. It's closing in... caving in, ever tighter. Your breathing grows even heavier.	眼前的景象让你胸口发紧。越来越近…越来越深，越揪越紧。你的呼吸变得沉重起来。
+0x0100005A00013836	Dialogue Text	BACKYARD ORB / more bullet thoughts	Kim Kitsuragi	"You okay there?" The lieutenant's sudden voice cuts like a blade, bringing you out of the stupor.	“你没事吧？”警督突然开口，他的声音就像一柄利刃，将你带出了恍惚状态。
+0x0100005A0001383D	Dialogue Text	BACKYARD ORB / more bullet thoughts	You	(Breathe out sharply.) "Huh, yeah-yeah, I'm fine."	（大呼一口气。）“哈，嗯嗯，我没事。”
+0x0100005A00013845	Dialogue Text	BACKYARD ORB / more bullet thoughts	You	"Man, I started feeling really bad for a second."	“天，刚才有那么一瞬间我感觉非常糟糕。”
+0x0100005A0001384C	Dialogue Text	BACKYARD ORB / more bullet thoughts	Kim Kitsuragi	"You were looking pale there for a second. What are you looking at?"	“刚才你的脸色很苍白。你在看什么呢？”
+0x0100005A00013853	Dialogue Text	BACKYARD ORB / more bullet thoughts	Kim Kitsuragi	"Might be the after-effects of your... past escapades. What are you looking at?"	“可能是你过去越轨行为的一种…副作用。你在看什么呢？”
+0x010000040001100F	Dialogue Text	BACKYARD ORB / painting the wall	Conceptualization	The paintbrush in your hand is like a loaded revolver. What will it be, desperado? Quite a few things come to mind...	你手中的漆刷就是一把上膛的手枪。你想画什么呢，亡命之徒？你的脑子里冒出了好几个想法……
+0x010000040001101C	Dialogue Text	BACKYARD ORB / painting the wall	You	"MOTHER OF ALL WALLS"	“墙壁之母”
+0x0100000400011028	Dialogue Text	BACKYARD ORB / painting the wall	You	"RENE LIVES!"	“雷内永生！”
+0x010000040001108F	Dialogue Text	BACKYARD ORB / painting the wall	You	Let the wall remain blank. For now. [Leave.]	还是让墙就这么空着吧。暂时如此。[离开。]
+0x01000004000110D1	Dialogue Text	BACKYARD ORB / painting the wall	You	"WHAT SHADOW LIES THERE, BENEATH THE BRIGHT GLEAM"	“有光才有影”
+0x010000060001DD35	Dialogue Text	BACKYARD ORB / painting the wall	Kim Kitsuragi	"Very poetic." The lieutenant nods in appreciation -- it doesn't sound sincere. "Real poetry. Should we return to our murder investigation? I hear there's a really *bad* one we're supposed to solve."	“很有诗意。”警督赞赏地点点头——但听起来并不真诚。“货真价实的诗歌。我们可以继续回去调查了吗？听说有一个真心*糟糕*的案件正等着我们去解决。”
+0x010000060001DD3F	Dialogue Text	BACKYARD ORB / painting the wall	Kim Kitsuragi	"Hmh..." Just a hum. No reply.	只是哼了一声。没有回应。
+0x010000110000163F	Dialogue Text	BACKYARD ORB / painting the wall	You	"FUCK THE POLICE"	“警察去死”
+0x0100001100001655	Dialogue Text	BACKYARD ORB / painting the wall	Kim Kitsuragi	The lieutenant looks at the wall in dismay:	警督沮丧地看着墙壁：
+0x0100001100001663	Dialogue Text	BACKYARD ORB / painting the wall	Kim Kitsuragi	"But we *are* the police..."	“但是我们*就是*警察啊……”
+0x010000110000166B	Dialogue Text	BACKYARD ORB / painting the wall	You	"Yeah -- fuck us."	“是啊——我们该死。”
+0x0100001100001671	Dialogue Text	BACKYARD ORB / painting the wall	You	"You're right, you're right. Is it too late to change it?"	“对啊，你说得对啊。现在想改是不是太晚了？”
+0x0100001100001679	Dialogue Text	BACKYARD ORB / painting the wall	Kim Kitsuragi	"But why? We work twelve-hour shifts. We get shot at, spat on..."	“但是为什么呢？我们要轮班12小时。更别提还会中枪，会被吐口水……”
+0x0100001100001680	Dialogue Text	BACKYARD ORB / painting the wall	Kim Kitsuragi	The lieutenant raises his eyebrows, then sighs.	警督扬起眉头，然后叹了口气。
+0x0100001100001689	Dialogue Text	BACKYARD ORB / painting the wall	Rhetoric	Hah! Maybe there's a *reason* for that!	哈！也许这都是有*原因*的！
+0x010000110000168F	Dialogue Text	BACKYARD ORB / painting the wall	Conceptualization	The wall towers over you with its indelible message.	墙上那难以磨灭的信息高出了你一大截。
+0x0100001100001697	Dialogue Text	BACKYARD ORB / painting the wall	You	"But what do we work on? KEEPING EVERYTHING THE WAY IT IS."	“但是我们在做什么呢？就是要让一切保持应有的样子。”
+0x010000110000169D	Dialogue Text	BACKYARD ORB / painting the wall	You	Keep it to yourself.	保守这个秘密吧。
+0x01000011000016B4	Dialogue Text	BACKYARD ORB / painting the wall	Conceptualization	You've spoken. The wall will now silently repeat the message -- for a decade or so, until the sea air degrades the paint.	你开了口。现在墙壁会安静地重复这条信息——持续大约10年左右，直到海风降解了油漆。
+0x01000016000034D7	Dialogue Text	BACKYARD ORB / painting the wall	You	"THIS IS REALLY A MIRROR"	“这真的是面镜子”
+0x010000210000105A	Dialogue Text	BACKYARD ORB / painting the wall	Conceptualization	Paintbrush -- check, heavy fuel oil -- check... Now the only thing left to do is paint the wall.	漆刷——检查完毕，重燃油——检查完毕…现在唯一要做的，就是粉刷墙壁。
+0x0100002D0000963C	Dialogue Text	BACKYARD ORB / painting the wall	Conceptualization	You've spoken. The wall will now silently repeat the message. For a decade or so, until the sea air degrades the paint, adding another layer of *detritus* to the city.	你开了口。现在墙壁会安静地重复这条信息，持续大约10年左右，直到海风降解了油漆，给这座城市再增添一层*残渣*。
+0x010000580000B531	Dialogue Text	BACKYARD ORB / painting the wall	You	"I LOVE YOU CUNO"	“我爱坤诺”
+0x010000580000B538	Dialogue Text	BACKYARD ORB / painting the wall	You	(Draw a 3,500 year old pictogram of a human being.)	（画一个3500岁的人类象形图）
+0x010000580000B55A	Dialogue Text	BACKYARD ORB / painting the wall	You	"SOMETHING BEAUTIFUL IS GOING TO HAPPEN"	“好事即将到来”
+0x010000580000B577	Dialogue Text	BACKYARD ORB / painting the wall	Conceptualization	You've spoken. The wall will now silently repeat the message. For a decade or so, until the sea air degrades the paint, adding another layer of *detritus* to the city.	你开了口。现在墙壁会安静地重复这条信息，持续大约10年左右，直到海风降解了油漆，给这座城市再增添一层*残渣*。
+0x01000081000022EB	Dialogue Text	BACKYARD ORB / painting the wall	You	"NO PARKING"	“禁止停车”
