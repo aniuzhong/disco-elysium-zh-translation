@@ -1,0 +1,71 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000040001505A	Dialogue Text	APT ORB / abandoned apt shivers	Shivers	A shift in temperature. The air chills around you. Dust settles on the stony floor.	周围的温度突然变化，冰冷的空气将你包围。灰尘静静地躺在石头地板上。
+0x010000040001505F	Dialogue Text	APT ORB / abandoned apt shivers	You	[Discard thought.]	[放弃思维。]
+0x0100000400015067	Dialogue Text	APT ORB / abandoned apt shivers	You	Rub your sides for warmth.	摩擦自己的身体来取暖。
+0x010000570001E06D	Dialogue Text	APT ORB / abandoned apt shivers	Shivers	A former architect stands before a slice of window, a room plan in her hand. A cold wave has made the air in the building stand still and frozen, with temperatures falling down to -20°C.	一位前建筑师站在一扇窗户前，手中握着一份房间的平面图。寒潮让这栋建筑里的空气凝固下来，冰冷刺骨，温度已经下降到零下20度。
+0x010000570001E07A	Dialogue Text	APT ORB / abandoned apt shivers	You	Her face...	她的脸……
+0x010000570001E080	Dialogue Text	APT ORB / abandoned apt shivers	You	The plan...	那张平面图……
+0x010000570001E086	Dialogue Text	APT ORB / abandoned apt shivers	You	Shiver. [Finish thought.]	颤抖。[完成思维。]
+0x010000570001E090	Dialogue Text	APT ORB / abandoned apt shivers	Shivers	...is red from the cold. She's breathing on her fingers clasping the plan. Traces of sadness are visible in her expression.	……被冷空气冻得通红。她不停地朝握着平面图的手指哈气。从她的表情里，你捕捉到悲伤的痕迹。
+0x010000570001E096	Dialogue Text	APT ORB / abandoned apt shivers	Shivers	... faint pencil lines on paper depict the same place, but a missing eastern wall connects the room with the neighbouring apartment. Ideas for arranging the furniture have been jotted down.	……纸上模糊的铅笔线描绘出相同的地点，但是少了一堵与隔壁公寓连接的东墙。家具的布置方案已经记录下来了。
+0x010000570001E09E	Dialogue Text	APT ORB / abandoned apt shivers	Shivers	It's clean and empty, with new tapestry embellishing the walls. A standard HB graphite pencil has fallen off a three-legged stool in the middle of the room.	这里空旷而整洁，墙上装饰着新挂毯。一支标准的HB石墨铅笔从屋子中央的三腿凳上滚落了下来。
+0x010000570001E0A6	Dialogue Text	APT ORB / abandoned apt shivers	You	Look around yourself...	看看自己周围……
+0x010000570001E2C0	Dialogue Text	APT ORB / abandoned apt shivers	Conceptualization	She had an eye for beauty.	她的审美眼光不俗。
+0x0100008F0000053C	Dialogue Text	APT ORB / electrochem after picking up speed	Electrochemistry	Take the speed. Take that glorious stuff. You have it now. You've got it! TAKE IT!	拿走思必得。拿走那份光辉与荣耀。现在它是你的了。你拥有它了！快拿走！
+0x0100008F00000549	Dialogue Text	APT ORB / electrochem after picking up speed	You	Let's get fucked up.	让我们一起见鬼去吧。
+0x0100008F0000054F	Dialogue Text	APT ORB / electrochem after picking up speed	You	No. Not right now, anyway. [Discard thought.]	不行。反正现在不行。[放弃思维。]
+0x0100008F00000558	Dialogue Text	APT ORB / electrochem after picking up speed	Electrochemistry	Come on. Come on! A little! Just a little bit! Whaddya say, huh?	拜托，来啊！一点点！只要一点点而已！你觉得怎么样，嗯？
+0x0100008F0000055E	Dialogue Text	APT ORB / electrochem after picking up speed	Electrochemistry	FUCKING RIGHT! PUT THAT BOTTLE IN YOUR HAND AND PARTY DOWN!	这他妈才对啊！快伸手，抓住那个酒瓶，一起狂欢，一起摇摆！
+0x0100008F000005A3	Dialogue Text	APT ORB / electrochem after picking up speed	You	Maybe just a little...	也许可以只来一点……
+0x0100008F000005A9	Dialogue Text	APT ORB / electrochem after picking up speed	You	I said I discard the thought! [Discard thought.]	我说，抛弃这个念头！[放弃思维。]
+0x0100008F00000B66	Dialogue Text	APT ORB / electrochem after picking up speed	Electrochemistry	Fuck you. You used to be cool. Why can't you just take the bottle and snort snort snort?	去你的吧。你以前挺酷的。你为什么就不能拿起瓶子稍微吸那么一小下呢？
+0x0100008F00000B6D	Dialogue Text	APT ORB / electrochem after picking up speed	Electrochemistry	Just a little. Then a lot. Come on, party boy! Let's get FUCKED!	开始是一点点，然后是很多。来啊，派对动物！让一切滚蛋去吧！
+0x01000008000012F6	Dialogue Text	APT ORB / encyclo logo of communism	You	"Look out, Kim: There are communists around here."	“小心，金：这里有康米党人。”
+0x01000008000012FD	Dialogue Text	APT ORB / encyclo logo of communism	Encyclopedia	Even today, half a century after, the star-and-antlers retains the ability to evoke hope, disappointment, and fear in equal measure.	就算到了今天，半个世纪之后，五角星和鹿角还保留着唤起同等程度的希望、失望和恐惧的能力。
+0x0100000800001304	Dialogue Text	APT ORB / encyclo logo of communism	Kim Kitsuragi	"I'll keep my Armistice handy, detective."	“我会把止战者放在手边的，警探先生。”
+0x010000080000130F	Dialogue Text	APT ORB / encyclo logo of communism	Rhetoric	He doesn't actually reach for his gun.	他并没有真的去拿枪。
+0x010000570001E0BF	Dialogue Text	APT ORB / encyclo logo of communism	Encyclopedia	That isn't *just* a five-pointed star -- it's an inverted white pentagram cradled in a wreath of antlers. The iconography of communism, in other words.	那*不只是*一颗五角星——是一颗颠倒的白色五角星，周围环绕着鹿角花冠。换句话说，是代表康米主义的图像。
+0x01000070000066CF	Dialogue Text	APT ORB / encyclo logo of communism	You	Inspect the symbol closer.	仔细检查符号。
+0x01000070000066D5	Dialogue Text	APT ORB / encyclo logo of communism	You	[Discard thought.]	[放弃思维。]
+0x01000070000066DD	Dialogue Text	APT ORB / encyclo logo of communism	Encyclopedia	The star-and-antlers was developed in the sixth decade of the last century and quickly adopted by Mazov and the communards during the Revolution...	五角星和鹿角是上世纪六十年代发展而来的，很快就被马佐夫和公社社员用在了大革命中……
+0x01000070000066E4	Dialogue Text	APT ORB / encyclo logo of communism	You	Why is the star upside down?	为什么五角星是颠倒的？
+0x01000070000066EA	Dialogue Text	APT ORB / encyclo logo of communism	You	What's the deal with the antlers?	鹿角是怎么回事？
+0x01000070000066F0	Dialogue Text	APT ORB / encyclo logo of communism	You	Why white?	为什么是白色的？
+0x01000070000066F8	Dialogue Text	APT ORB / encyclo logo of communism	Encyclopedia	To symbolize the toppling of the old order.	象征着要颠覆旧的秩序。
+0x0100007000006700	Dialogue Text	APT ORB / encyclo logo of communism	You	What does it evoke in me? [Finish thought.]	它让我想起了什么吗？[完成思维。]
+0x0100007000006707	Dialogue Text	APT ORB / encyclo logo of communism	Encyclopedia	The wreath of antlers represents a natural crown. It was about building a society that could exist in accord with the natural world -- and at the same time above it.	鹿角花冠代表自然的王冠。代表想要建立一个能与自然世界协调共存——同时也能超越其上的社会。
+0x010000700000670E	Dialogue Text	APT ORB / encyclo logo of communism	Encyclopedia	Also, some social democrats were already using it.	此外，有些社会民主党人也在使用。
+0x0100007000006730	Dialogue Text	APT ORB / encyclo logo of communism	Encyclopedia	Because white is the colour of peace.	因为白色是和平的颜色。
+0x0100007000006751	Dialogue Text	APT ORB / encyclo logo of communism	Encyclopedia	Gone. Gone is the glory. Of hope, only the scribblings of impoverished students remain. In dirty hallways...	不复存在。荣耀逝去，希望不在，只剩下那帮穷学生的涂鸦。在那些肮脏的走廊里……
+0x01000070000067C7	Dialogue Text	APT ORB / encyclo logo of communism	Rhetoric	You are the Big Communism Builder now. It's you or no one.	现在你是大康米主义的建设者了。只有你，否则别无其他。
+0x01000070000067CE	Dialogue Text	APT ORB / encyclo logo of communism	Encyclopedia	You see noble aims but also mountains upon mountains of corpses. They should've taken a more *measured* approach. Also, you're really smart.	你看见崇高的目标，还有堆积如山的尸体。他们应该采用更加*慎重*的方法。而且，你真的很聪明。
+0x01000070000067D5	Dialogue Text	APT ORB / encyclo logo of communism	Encyclopedia	Smug superiority? Esthetic musings? The triumph of Capital is undeniable, but... maybe the guns were sort of cool? Revolutionaries had loads of guns.	自以为是的优越感？美学冥想？资本家的胜利是不可否认的……但是……也许枪还挺酷的？革命分子的手里有很多枪。
+0x01000070000067DC	Dialogue Text	APT ORB / encyclo logo of communism	Encyclopedia	Nothing at all yet. Right now it's just meaningless shapes on a wall.	还没看出什么。目前只是墙上毫无意义的图形罢了。
+0x01000070000067E5	Dialogue Text	APT ORB / encyclo logo of communism	Rhetoric	The price of idealism unrestrained by humanism. Never again.	不受人道主义约束的唯心主义的代价。再也不要了。
+0x01000070000067EC	Dialogue Text	APT ORB / encyclo logo of communism	Encyclopedia	Communism is the ideology of gutless intellectuals and clueless university students. They don't care about the *real* wörking man.	康米主义是怯弱知识分子和无知大学生的意识形态。他们根本不在乎*真正*的工人。
+0x01000070000067F3	Dialogue Text	APT ORB / encyclo logo of communism	Endurance	In other words, it doesn't mean a thing to *trüe* Revacholians.	换句话说，对于*真正的*瑞瓦肖人来说，它毫无意义。
+0x01000070000067FA	Dialogue Text	APT ORB / encyclo logo of communism	Savoir Faire	Whatever kid drew this graffito will get it one day. You just can't beat FREEDOM and hustle-jiggling all the time.	不管这是哪个孩子的涂鸦作品，他或是她总有一天会明白。自由和成天到晚的忙碌是无法被打败的。
+0x010000570001E0B2	Dialogue Text	APT ORB / foreclosed apt logic	Logic	What happened here?	这里出了什么事？
+0x010000570001E16F	Dialogue Text	APT ORB / foreclosed apt logic	You	You can't foreclose on an apartment with a hole in the wall.	墙上有个洞的公寓，是不能取消赎回权的。
+0x010000570001E175	Dialogue Text	APT ORB / foreclosed apt logic	You	[Discard thought.]	[放弃思维。]
+0x010000570001E17E	Dialogue Text	APT ORB / foreclosed apt logic	Logic	It will still be accessible through the apartment next to it. That one didn't have a door... Sadly, nothing of great value remains here.	还是可以通过旁边的公寓进来。那边连门都没有……很可惜，这里没剩下什么很有价值的东西。
+0x010000570001E2DC	Dialogue Text	APT ORB / foreclosed apt logic	You	Except the stuff in the fridge.	除了冰箱里的那些东西。
+0x010000570001E2E2	Dialogue Text	APT ORB / foreclosed apt logic	You	There's always a little something in the fridge.	冰箱里总是有那么一点东西的。
+0x010000570001E2EA	Dialogue Text	APT ORB / foreclosed apt logic	You	This looks so sad...	看起来真是太悲哀了……
+0x010000570001E2F2	Dialogue Text	APT ORB / foreclosed apt logic	Logic	Put your emotions aside. Try to focus on abstract, impersonal things.	把你的情绪先放在一边。试着集中在抽象客观的事情上。
+0x010000570001E2F8	Dialogue Text	APT ORB / foreclosed apt logic	Inland Empire	But this reeks of sadness!	但谁能忽视这四处蔓延的悲伤！
+0x010000570001E307	Dialogue Text	APT ORB / foreclosed apt logic	Logic	Indeed!	的确！
+0x0100008F0000295C	Dialogue Text	APT ORB / rugcoat	Shivers	I am yours... So nearly...	我是你的……如此的密切……
+0x0100008F00002961	Dialogue Text	APT ORB / rugcoat	You	That's great. Tell me what circle I've got to run into this time.	那很好啊。告诉我，这次我会
+0x0100008F00002968	Dialogue Text	APT ORB / rugcoat	You	I will be there soon. Wherever it is!	我很快就过去。不管到底是在哪里！
+0x0100008F0000296D	Dialogue Text	APT ORB / rugcoat	You	You better be ready when I find you, weird voice! I'm going to hurt you!	当我找到你的时候，你最好做好准备，诡异声音的主人！我一定会狠狠揍你一顿！
+0x0100008F00002972	Dialogue Text	APT ORB / rugcoat	Shivers	Yes... Reunion...! Listen within the circles that capture the electrical world… If you can hear me then, we will be united…	是的……团聚……！在俘虏了这个电子世界的圆环中倾听……如果你能听到我的声音，我们将再度重逢……
+0x0100008F0000297C	Dialogue Text	APT ORB / rugcoat	Shivers	So near... Listen within the circles that capture the electrical world… If you can hear me then, we will be united…	如此靠近……在俘虏了这个电子世界的圆环中倾听……如果你能听到我的声音，我们将会团聚……
+0x0100008F00002986	Dialogue Text	APT ORB / rugcoat	Shivers	Please do not... Just listen within the circles that capture the electrical world… If you can hear me then, we will be united…	请不要这样做……在俘虏了这个电子世界的圆环中倾听……如果你能听到我的声音，我们将会团聚……
+0x0100000400015078	Dialogue Text	APT ORB / wearing fancy loafers	You	Oops, it's a fashion faux pas! [Discard the thought -- and the shoes!]	哎呀，真是对时尚太失礼了！[抛弃这个想法——还有这双鞋！]
+0x010000060001BB7A	Dialogue Text	APT ORB / wearing fancy loafers	Rhetoric	They're either a gateway drug -- or a booster pack -- to get you *deeper* into free market ideology.	它们也许是诱导性毒品——又或者是增强包——能让你*更深入*地了解自由市场的意识形态。
+0x01000021000009C2	Dialogue Text	APT ORB / wearing fancy loafers	Savoir Faire	Mm, the luxury of fine things. Just look at those black monk straps! After spending an entire day hustling, who's to say that you *didn't* deserve a pair of ridiculously expensive shoes on your tired feet?	嗯，奢侈的精品。看看这双黑色的搭扣鞋！忙碌一整天之后，谁能说你疲惫的双脚*配不上*一双贵到离谱的好鞋呢？
+0x01000021000009C9	Dialogue Text	APT ORB / wearing fancy loafers	You	You're right, beautiful things do make people happy...	你说得对，漂亮的东西确实会让人心情愉悦……
+0x01000021000009D0	Dialogue Text	APT ORB / wearing fancy loafers	Savoir Faire	Beautiful things give you a *rush*. It's power -- crafting your style, draping your flesh in silk and leather, deciding how to present yourself to the world.	漂亮东西能*刺激*你的精神。它是一种力量——能打造出属于你的风格，用丝绸和皮革包裹你的身体，决定将怎样的你展现给全世界。
+0x01000021000009D7	Dialogue Text	APT ORB / wearing fancy loafers	Savoir Faire	Remember, when they come to take it *away* from you -- you *worked* for those shoes. Whether you like it or not, wearing these shoes has made you more liberal -- *ultra*liberal.	记住，当他们打算从你这里*夺走*它的时候——这是你*辛苦*换来的。不论是否喜欢，穿上这双鞋能让你更自由——*极端的*自由。
+0x01000021000009FB	Dialogue Text	APT ORB / wearing fancy loafers	Savoir Faire	Let's hope no one saw you wearing these outrageously expensive -- and ultraliberal! -- shoes.	希望没人看见你穿着这双贵到凶残——而且象征着极端自由的！——鞋子。
