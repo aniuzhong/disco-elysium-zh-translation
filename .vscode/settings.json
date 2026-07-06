@@ -1,0 +1,13 @@
+{
+    "[tsv]": {
+        "editor.wordWrap": "off",
+        "editor.guides.indentation": false,
+        "editor.renderWhitespace": "none",
+        "editor.occurrencesHighlight": "off",
+        "editor.selectionHighlight": false,
+        "editor.matchBrackets": "never",
+        "editor.minimap.enabled": false,
+        "editor.smoothScrolling": false,
+        "editor.links": false
+    },
+}
