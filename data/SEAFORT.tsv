@@ -1076,7 +1076,7 @@
 0x0100007800000864	Dialogue Text	SEAFORT / DESERTER MURDER	Authority	Now. Push him now.	现在。现在推他一把。
 0x010000780000086B	Dialogue Text	SEAFORT / DESERTER MURDER	You	(Step closer:) "Did you fucking shoot him?"	（靠近一些：）“是你射杀他的吗？”
 0x0100007800000871	Dialogue Text	SEAFORT / DESERTER MURDER	You	"What does that mean? Did you kill him?"	“那是什么意思？是你杀了他吗？”
-0x0100007800000883	Dialogue Text	SEAFORT / DESERTER MURDER	You	"I don't need your cooperation. I've got this." (Show him the Triangong 4-46.)	“我不需要你的合作。我有这个。”（把特里安戈4-46拿给他看。）
+0x0100007800000883	Dialogue Text	SEAFORT / DESERTER MURDER	You	"I don't need your cooperation. I've got this." (Show him the Triangong 4-46.)	“我不需要你的合作。我有这个。”（把特里安戈4-46给他看。）
 0x0100007800000889	Alternate1	SEAFORT / DESERTER MURDER	You	"We've done the ballistics." (Point to the tower.) "The shot came from this island." 	“我们做过弹道学分析了。”（指向塔楼。）“子弹是从这座小岛射出去的。”
 0x0100007800000889	Dialogue Text	SEAFORT / DESERTER MURDER	You	"I've done the ballistics." (Point to the tower.) "The shot came from this island."	“我做过弹道学分析了。”（指向塔楼。）“子弹是从这座小岛射出去的。”
 0x010000780000088F	Dialogue Text	SEAFORT / DESERTER MURDER	You	"You're a communist. I talked to the dead man, he *told* me communism killed him."	“你是一个康米主义者。我跟死人聊过了，他*告诉*我是康米主义杀了他。”
