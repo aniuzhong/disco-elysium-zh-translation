@@ -1,0 +1,115 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x0100000600017C37	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Rhetoric	And so *fun*.	而且还很*有趣*。
+0x010000060001B5DF	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Inland Empire	Perhaps you should break into apartments more often?	也许以后你应该经常闯进别人的公寓？
+0x0100000700000A51	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Logic	You could ask Evrart who this person is? Once you're done here...	你可以找艾弗拉特问问这个人是谁？等处理完这边的事之后……
+0x010000290000022B	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Logic	An interesting little clue. Let's see where this goes. Clues have a way of magically connecting to other clues -- down the road.	一条有趣的小线索。看看会把我们引向何方。线索总是以一种神奇的方式与其他线索相连——未来出现的线索。
+0x0100005800005A29	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Colonial Mug Collection	A row of mugs sits on the shelf. Each one depicts a human figure: a dark-skinned woman grinning amidst mysterious symbols, a broad-shouldered man shovelling potatoes, and others.	一排马克杯安静地坐在架子上。每只上面都描画了一幅人像：一个黑皮肤的女人微笑着，周围环绕着神秘的符号；一个宽肩的男人在铲土豆，如此之类的。
+0x0100005800005A3F	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	Tap on the mugs.	轻轻敲打马克杯。
+0x0100005800005A45	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	Whip out your Yellow Man mug and compare.	掏出你手中的黄种人马克杯对比一下。
+0x0100005800005A51	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	Recall the Yellow Man mug you found in the Whirling trash container.	想起你在飞旋旅社的垃圾箱里找到的黄种人马克杯。
+0x0100005800005A5F	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	Move on from the mugs. [Leave.]	不管马克杯了。[离开。]
+0x0100005800005A6C	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Colonial Mug Collection	A little ring. Though cheerful, the images on the ceramic make you vaguely uncomfortable.	一阵清脆的声音。虽然满面笑容，但是陶瓷上的图像让你隐约感觉不太舒服。
+0x0100005800005A73	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Conceptualization	There's something disdainful in the way the curves and lines of the bodies were drawn.	在描绘身体轮廓和线条的时候，充满了一股轻蔑的味道。
+0x0100005800005A7A	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Empathy	The images betray a lack of interest in human beings. They are merely unflattering caricatures.	上面的图案暴露出作者缺乏对人类的兴趣。不过是些不好看的滑稽漫画而已。
+0x0100005800005A8C	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Colonial Mug Collection	Yes, your broken mug friend would feel very much at home here. The same humour, the same mocking lines...	是的，你那位破马克杯朋友在这里找到了家的感觉。相同的幽默感，相同的嘲弄线条……
+0x0100005800005A94	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Colonial Mug Collection	Yes, your broken mug friend would have felt very much at home here.	是的，你那位破马克杯朋友在这里找到了家的感觉。
+0x0100005800005AD4	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	What do I mean *uncomfortable*?	我觉得*不舒服*是什么意思？
+0x0100005800005AE1	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Empathy	The owner of these mugs doesn't like people of other ethnicities very much.	这些马克杯的所有者不是很喜欢其他种族的人。
+0x0100005800005AEE	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Conceptualization	It looks like the artist is celebrating diversity, but underneath he's just making fun of these people.	这位艺术家好像是在庆祝多元化，但他心底只是在嘲弄这些人。
+0x0100005800005AF6	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	Typical asshole.	标准的混蛋。
+0x0100005800005AFC	Alternate1	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	C'mon, it's just a bit of *fun* -- with a pinch of truth. People have the right to make fun of each other in a *free world*.	拜托，只是*开个玩笑*而已——说点无伤大雅的实话。在这个*自由的世界*，人们有权取笑其他人。
+0x0100005800005AFC	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	So what? They can think what they want. This is a free world.	那又怎样？他们爱怎么想就怎么想。这是个自由的世界。
+0x0100005800005B02	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	Thanks, good to know. I have no opinion on this.	谢谢，很高兴知道这一点。我对此没有什么意见。
+0x0100005800005B08	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Empathy	This person is unhappy.	这个人不开心。
+0x0100005800005B0E	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Empathy	Of course. So very free.	当然了。自由的不得了。
+0x0100005800005B14	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Empathy	Anytime.	随时吩咐。
+0x0100005800005B1A	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	Cynical slippery bastard.	愤世嫉俗又狡猾的混账。
+0x0100005800005B20	Alternate1	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	The artist must be free to do what he wants. The artist must be free to tell the *truth* about what these guys look like. 	艺术家应该有随心行事的自由。他们应该自由地表达对这些人的*真实*相貌。
+0x0100005800005B20	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	I don't see these as stereotypes. I think they are honest acknowledgements of difference.	我不觉得这是刻板印象，而是诚实地认识到差异性的存在。
+0x0100005800005B26	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	I don't think I like the owner of this apartment.	我不太喜欢这间公寓的主人。
+0x0100005800005B39	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Conceptualization	You ain't gonna change someone's mind by calling them a bastard.	叫人混账是没办法改变他们想法的。
+0x0100005800005B3F	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Conceptualization	Of course... You slippery bastard.	当然了……你这个狡猾的混账。
+0x0100005800005B45	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Conceptualization	No one's telling you to like him. You might learn something from him, though.	没人让你喜欢他。不过你也许能从他身上学到点什么。
+0x0100005800005B74	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Kim Kitsuragi	The lieutenant picks up one of the mugs, then puts it back down with a look of disdain.	警督拿起一个马克杯，然后满脸鄙夷地把它放了回去。
+0x0100005800005B87	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Kim Kitsuragi	"I'm beginning to feel better about breaking into this man's apartment."	“现在闯进这人的公寓让我感觉好多了。”
+0x0100005800005BA1	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Kim Kitsuragi	"There's the missing tin soldier," the lieutenant looks at the mugs next to each other. "Whoever lives here might have used the Whirling's container to dump his trash..."	“这位就是那个不见了的锡兵，”警督扫了一眼相邻的马克杯。“不管谁住在这儿，可能把飞旋旅社的垃圾箱当成了自己家的……”
+0x0100005800005BA7	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Kim Kitsuragi	"And now they've drawn the ire of the Union. The plot thickens, as they say."	“而且现在还激怒了工会。正如大家说的，事情变得越来越复杂了。”
+0x0100008200021ACD	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Logic	The owner of this collection could be dumping his trash in the Whirling's container.	这件藏品的主人可能把垃圾都倒进了飞旋旅社的垃圾箱。
+0x0100008200021ADE	Alternate1	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	Is this really the same person who put the dead man's clothes in the trash?	难道跟把死者的衣服扔进垃圾箱的是同一个人？
+0x0100008200021ADE	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	You	"Do you really think it's the same person who put the dead man's clothes in the trash?"	“你真觉得他跟把死者的衣服扔进垃圾箱的是同一个人吗？”
+0x0100008200021AE5	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Kim Kitsuragi	"Who knows?" The lieutenant opens his notebook. "I'm not expecting too much from this *clothes in the trash* lead either way. It might turn out to be some random local matter. But still -- a nice coincidence."	“谁知道呢。”警督打开了笔记本。“再说了，我对*垃圾箱里的衣服*这条线索也没多大期待。也许只是当地特色。不过——仍然是个不错的巧合。”
+0x0100008200021AF0	Dialogue Text	GARYS APARTMENT / COLONIAL MUG COLLECTION	Logic	Who knows? Could be, but this 'clothes in the trash' lead doesn't really seem like it's going anywhere. Still, good thing to keep in mind.	谁知道呢。也许吧。不过*垃圾箱里的衣服*这条线索好像真没太大作用。不过，先记在心里总是好的。
+0x010000060001B5A3	Dialogue Text	GARYS APARTMENT / DOOR	Savoir Faire	You're *pretty* sure the owner of the apartment isn't here. It's safe-ish.	你*非常*肯定，公寓的主人不在这里。很安全。
+0x010000060001B5AE	Dialogue Text	GARYS APARTMENT / DOOR	Perception (Hearing)	In fact, it's oddly silent in the yard around you. No birds chirp.	事实上，院子中的你被诡异的寂静包围着。连鸟儿的叽喳声都没有听见。
+0x010000060001B5B7	Dialogue Text	GARYS APARTMENT / DOOR	Drama	I don't know... you're a *pretty* good liar. Are you as good an *infiltrator* as you are a liar?	我不知道……您是一位*很厉害*的撒谎高手。不知道您的*潜入*技巧相比如何呢？
+0x01000007000009F5	Dialogue Text	GARYS APARTMENT / DOOR	Inland Empire	You feel eyes on you, watching you from the windows overlooking the yard.	你感觉有人在看你，就在那扇可以俯瞰整个院子的窗户后面。
+0x01000007000009FD	Dialogue Text	GARYS APARTMENT / DOOR	You	"Lie to Evrart? That's also an option?"	“跟艾弗拉特撒谎？这也算一种选择吗？”
+0x0100000700000A04	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	"Yes, presenting a fabrication is known to get results here and there." He crosses his arms. "You took this task. You make the call."	“是的，通过弄虚作假来获取各种各样的结果是可行的。”他抱起双臂。“你接受了这个任务。你来决定。”
+0x0100000700000A0B	Dialogue Text	GARYS APARTMENT / DOOR	Interfacing	The door is right here. You can just open it and be done with this.	门就在这里。你只需要打开它就可以了。
+0x0100000700000A19	Dialogue Text	GARYS APARTMENT / DOOR	Inland Empire	Besides, if you never open it, you're never gonna find out, what's *behind* the door.	再说了，如果你永远不打开它，就永远不会知道，这扇门*背后*有什么。
+0x0100000700000A22	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	You try to be as silent as you can. It takes a bit of rattling of the handle to loosen the bolt.	你尽可能地小声一些。你花了一会儿功夫晃动把手，松开了上面的螺栓。
+0x0100000700000A2A	Dialogue Text	GARYS APARTMENT / DOOR	Logic	There *might* be important information in the apartment... I mean... there *might*...	这栋公寓里面*可能*有什么重要信息……我是说……有这个*可能*……
+0x0100000700000A48	Dialogue Text	GARYS APARTMENT / DOOR	Inland Empire	Only *curiosity* could account for stepping over that threshold. Maybe there's treasure in there? A white alligator? A fountain of quicksilver?	只有*好奇心*能够跨越这个极限。也许里面有宝藏？一只白色的短吻鳄？还是一个水银喷泉？
+0x0100000700012F6E	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	"But we do need to get the key from this 'Mañana' Evrart mentioned." The lieutenant glances at the door. "Cause we are *not* gonna break the lock."	“不过我们确实要找艾弗拉特口中的‘马列拉’拿钥匙。”警督瞥了一眼大门。“因为我们*不会*破门而入的。”
+0x0100000700012F77	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	The lieutenant merely nods in response.	警督只是点点头作为回应。
+0x0100000700012FAF	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	"It is," the lieutenant remarks. "However, we should definitely get the key from this 'Mañana' Evrart mentioned. That would drastically increase our credibility."	“是的，”警督补充道。“不过，我们应该从艾弗拉特口中的‘马列拉’那里拿到钥匙。这样才能大幅增加我们的可信度。”
+0x0100000700012FDE	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	The door to the 'Weasel's' Den', guarded by the lionhead-knocker. Both have seen better days.	通往“黄鼠狼老巢”的大门，被狮头门环守卫着。它们都见证过曾经的好时光。
+0x010000070001548D	Dialogue Text	GARYS APARTMENT / DOOR	Endurance	The Royal Lion. Guillaume's Kitten. This knocker will last a lifetime and then some.	皇家雄狮。纪尧姆的小猫咪。这个门环可以持续一辈子，甚至是更久。
+0x0100000700015493	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	The door has braved the elements for decades. The copper nails holding the upholstery in place have turned green from sea air and so is the knocker, shaped like a lion's head.	几十年来，这扇门经历了多少风吹雨打。固定在上面的铜钉被海风吹成了绿色，那个狮子头状的门环也是一样。
+0x01000007000154A3	Dialogue Text	GARYS APARTMENT / DOOR	You	Press your ear against the door.	把耳朵贴在门上。
+0x01000007000154A9	Dialogue Text	GARYS APARTMENT / DOOR	You	Knock on the door.	敲门。
+0x01000007000154B0	Dialogue Text	GARYS APARTMENT / DOOR	You	[Leave.]	[离开。]
+0x01000007000154B6	Dialogue Text	GARYS APARTMENT / DOOR	You	Use Mañana's key to unlock the door.	用马列拉的钥匙开锁。
+0x01000007000154C4	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	Someone is moving around in the apartment. You hear the water being turned off and the sound of dishes clinking together.	有人在公寓里走来走去。你听见水流关闭的声音，还有碗碟清脆的碰撞声。
+0x01000007000154CA	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	Not a sound. The silence is eerie.	没有声音。里面安静的可怕。
+0x01000007000154D2	Dialogue Text	GARYS APARTMENT / DOOR	Logic	The tenant must be cleaning up. That means you're too late. Nothing more to do here, better report back to Evrart.	租客一定是打扫过了。这就意味着你太迟了。这里已经没什么可以做的，你最好回报给艾弗拉特。
+0x01000007000154DE	Dialogue Text	GARYS APARTMENT / DOOR	Inland Empire	Even the darkness is holding it's breath inside the apartment.	在这栋公寓里，就连黑暗也紧紧屏住呼吸。
+0x01000007000154E6	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	Something hits the ground and shatters inside the apartment.	公寓里传出什么东西掉落在地上碎裂的声音。
+0x01000007000154ED	Dialogue Text	GARYS APARTMENT / DOOR	Perception (Hearing)	A plate, glass or a mug.	一只盘子，玻璃制品或者是杯子。
+0x01000007000154FA	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	Then a running tap is turned off and the complete absence of sounds feels... tense.	然后是水龙头关闭的声音，这股完全的寂静让人感觉……异常紧张。
+0x0100000700015508	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	The key stops mid-way in the lock. Something's blocking its path. You hear a dish smashing and shattering inside the apartment, then everything falls very silent.	钥匙伸进锁眼一半的时候卡住了。有什么东西堵住了它的通道。你听见公寓里传出碟子粉碎的声音，然后一切重归寂静。
+0x0100000700015517	Dialogue Text	GARYS APARTMENT / DOOR	Interfacing	The tenant's key is in the lock.	租客的钥匙还在锁里。
+0x0100000700015523	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	The key stops mid-way in the lock. Something's blocking its path. Not a sound is coming from the apartment.	钥匙伸进锁眼一半的时候卡住了。有什么东西堵住了它的通道。公寓里没有发出任何声响。
+0x01000007000193F6	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	No answer.	没有回应。
+0x0100000700019401	Dialogue Text	GARYS APARTMENT / DOOR	You	"I know you're in there!"	“我知道你在里面！”
+0x0100000700019408	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	"That already defeats the point, doesn't it?" The lieutenant glances at the surrounding windows. "Let's get out of here."	“这样已经算是颠覆了那个观点，不是吗？”警督撇了眼周围的窗户。“我们离开这里吧。”
+0x0100000700019415	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	No answer.	没有回应。
+0x0100000700019442	Dialogue Text	GARYS APARTMENT / DOOR	Logic	You're too late -- the weasel's already back in its den. Let's see what Evrart thinks about it.	你太迟了——那只黄鼠狼已经回到了它的老巢。不知道艾弗拉特对此有什么看法。
+0x01000021000033FD	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	As you turn to leave, you hear footsteps on the other side -- yes, someone's definitely home.	正打算离开的时候，你听见另一侧传来脚步声——没错，肯定有人在家。
+0x0100002100003407	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	"We should leave," the lieutenant whispers, "and go talk with Evrart, tell him what happened -- that we couldn't open the door. Maybe there's a workaround."	“我们该走了，”警督低语到，“回去跟艾弗拉特聊聊，告诉他发生了什么事情——我们打不开这扇门。也许还有替代方案。”
+0x0100002100003410	Dialogue Text	GARYS APARTMENT / DOOR	Logic	Maybe it's a good thing you didn't get to open this stranger's door? Go talk with Evrart, tell him what happened.	也许你打不开这扇陌生人的门是一件好事？去找艾弗拉特聊聊，把发生的事情告诉他。
+0x010000210000342D	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	The lieutenant looks first at the door, then back at you, then signals you to back off from the door.	警督先看了看门，然后看向你，示意你离开门边。
+0x0100002100003436	Dialogue Text	GARYS APARTMENT / DOOR	Half Light	You should leave. Leave! Before anything happens...	你应该离开。走吧！在事情发生之前……
+0x0100002100003443	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	The door is closed again. Nothing to do here anymore.	门又关上了。这里没什么可以做的了。
+0x010000210000344F	Dialogue Text	GARYS APARTMENT / DOOR	Perception (Hearing)	You hear someone inside, walking from room to room... whoever lives here must be back home.	你听见里面有人，在房间里走来走去……不管是谁住在里面，肯定已经回家了。
+0x0100004000002E06	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	This must be the door Evrart mentioned. You still need to get the key from Mañana first though.	这肯定就是艾弗拉特提到的那扇门。不过你需要从马列拉那里拿到钥匙。
+0x0100004000002E0F	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	"That's probably the door Evrart mentioned. We still need to get the key from this Mañana first though."	“那个也许就是艾弗拉特提到的那扇门。不过首先我们需要从马列拉那里拿到钥匙。”
+0x0100004000002E1D	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	This must be the door Evrart mentioned. You still need to get the key from Mañana first though.	这肯定就是艾弗拉特提到的那扇门。不过你需要从马列拉那里拿到钥匙。
+0x0100004000002E28	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	"That's probably the door Evrart mentioned. We still need to get the key from this Mañana first though."	“那个也许就是艾弗拉特提到的那扇门。不过首先我们需要从马列拉那里拿到钥匙。”
+0x010000580001B502	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	This must be it. The basement door is weather-worn. The copper nails holding the upholstery in place have turned green from sea air and there's a knocker, shaped like a lion's head.	一定就是这里了。地下室的门被风雨侵蚀。固定在门上的铜钉被海风吹成了绿色，上面还有一个狮子头状的门环。
+0x010000580001B517	Dialogue Text	GARYS APARTMENT / DOOR	You	Carefully knock.	小心敲击。
+0x010000580001B523	Dialogue Text	GARYS APARTMENT / DOOR	You	Use Mañana's key to unlock the door.	用马列拉的钥匙开锁。
+0x010000580001B529	Dialogue Text	GARYS APARTMENT / DOOR	You	[Leave.]	[离开。]
+0x010000580001B532	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	You knock silently. The upholstery muffles the sound. No response comes from the apartment.	你轻轻敲击着。门环发出沉闷的声响。公寓里面没有回应。
+0x010000580001B53D	Dialogue Text	GARYS APARTMENT / DOOR	You	Press your ear against the door.	把耳朵贴在门上。
+0x010000580001B54A	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	The door is slick with rain. You don't hear any movement inside.	大门被雨洗刷的十分光滑。你没有听到里面有什么动静。
+0x010000580001B550	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	The leather upholstery is worn and rough against your jaw. You don't hear any movement.	皮垫磨破了，粗糙地摩挲着你的下巴。你没有听到什么动静。
+0x010000580001B570	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	Finally, the door unlocks with a small clack. Thoughts race through your head...	一声轻微的噼啪声后，大门终于打开了。思绪飞快地在你脑海中掠过……
+0x010000580001B582	Dialogue Text	GARYS APARTMENT / DOOR	Perception (Hearing)	The sound of the key turning still echoes in the yard. Hopefully no one heard.	钥匙旋转的声音还在院子里回荡。希望没有人听到。
+0x0100006B00009D22	Dialogue Text	GARYS APARTMENT / DOOR	Door, Basement Apartment	The door to cryptofascist's shabby apartment. It has been locked again.	通往法西斯支持者破败公寓的大门，又重新上锁了。
+0x010000820002168F	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	"I guess no one is in." The lieutenant looks uncomfortable.	“我猜里面没人。”警督看上去不太舒服。
+0x010000820002169E	Dialogue Text	GARYS APARTMENT / DOOR	You	"Lieutenant, what is your opinion of this task we're undertaking?"	“警督，你对我们手上的任务有什么看法？”
+0x01000082000216AE	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	"As I already said," the lieutenant replies, adjusting his glasses. "I understand this can't be avoided."	“我已经说过了，”警督推了推眼镜，再次重复到。“我能理解难免会这样。”
+0x01000082000216B3	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	"Let's be honest, this isn't what I joined the RCM for. But -- every day tells you something new about yourself..." the lieutenant replies, still inspecting the padded door.	“老实说，我不是为此加入RCM的。不过——每一天，你都会了解到更新的自己……”警督回了话，但眼睛仍然盯在软垫门上。
+0x01000082000216BC	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	"Apparently, working with the local Union boss to get info on an investigation is not something I'm squeamish about."	“很明显，跟当地的工会老大合作来获取调查信息，没有让我觉得太过反感。”
+0x01000082000216D9	Dialogue Text	GARYS APARTMENT / DOOR	You	"So you don't mind if I unlock the door?"	“所以你不介意我打开这扇门了？”
+0x01000082000216E0	Dialogue Text	GARYS APARTMENT / DOOR	You	"Got it!"	“明白！”
+0x01000082000216E8	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	"If the merc tribunal happens before we solve this..." His eyes meet yours. "We're looking at casualties. What's one unlocked door compared to that?"	“如果在我们解决案件之前就发生雇佣兵宣判的话……”他的眼神与你交汇。“那就可能会出现人员伤亡。相比之下，开个门锁又算得上什么呢？”
+0x01000082000216EF	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	"I mind that a local thug is using the RCM for his busywork, but if this gets us to the bottom of this hanging then I'm willing to look over it."	“我介意的是一个本地暴徒利用RCM来消遣时间，不过如果这样能让我们查出上吊案的真相，我愿意对此表示谅解。”
+0x01000082000216F6	Dialogue Text	GARYS APARTMENT / DOOR	Kim Kitsuragi	"On the other hand..." He looks at the surrounding windows uncomfortably. "We *could* just leave and tell Evrart we opened the door. No one seems to be tailing us to see if we actually did it."	“话又说回来……”他不自在地看着周围的窗户。“我们*可以*告诉艾弗拉特，就说我们打开门然后离开了。再说也没人偷偷跟踪我们，看我们是不是真的这么做了。”
+0x0100008200021732	Dialogue Text	GARYS APARTMENT / DOOR	Suggestion	Well buddy, you opened it. No need to go inside. It would be *rude*.	我说伙计，你打开了，不过没必要进去。要不就太*失礼*了。
+0x0100008200021739	Dialogue Text	GARYS APARTMENT / DOOR	Physical Instrument	Good job. Let's go now. I'm sure there's *nothing* interesting in there.	做得好。现在我们走吧。我肯定里面*没什么*有意思的东西。
+0x0100008200021740	Dialogue Text	GARYS APARTMENT / DOOR	Interfacing	There's *nothing* else to do than leave and tell Evrart. No *conceivable* reason for you to intrude on the premises.	除了离开这里，然后告诉艾弗拉特以外，你*没什么*可以做的了。私闯民宅可找不到什么*令人信服*的理由。
+0x0100008200021747	Dialogue Text	GARYS APARTMENT / DOOR	Shivers	As you hold the opened door you can feel the air moving. A little draft. A whistle...	你的手扶住打开的大门，感觉到空气在流动。一股微弱的气流。一阵口哨声……
+0x0100008200021B1C	Dialogue Text	GARYS APARTMENT / DOOR	Endurance	The Royal Lion. Guillaume's Kitten. This knocker will last a lifetime and then some.	皇家雄狮。纪尧姆的小猫咪。这个门环可以持续一辈子，甚至是更久。
+0x0100005800005BC6	Dialogue Text	GARYS APARTMENT / KIM barks	Kim Kitsuragi	"I'm really not sure we should be in here."	“我真不确定我们是不是应该待在这里。”
