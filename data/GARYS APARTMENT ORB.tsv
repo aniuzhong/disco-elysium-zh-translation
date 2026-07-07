@@ -1,0 +1,17 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060001B5C0	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	Inland Empire	It is but one of the many strange *optic-atmospheric* phenomenon on this wondrous archipelago. You're sure you once saw sundogs -- in your youth. And blue flares....	不过是这个奇妙岛屿上众多*大气光学*异象的其中之一。你确定自己看见过幻日——年轻的时候见过。还有蓝色的耀斑……
+0x010000060001B5CA	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	Esprit de Corps	It is not my flag, he thinks -- my flag is the signal blue of the Zone of Control.	这不是我的旗帜，他暗自思忖——我的旗帜是控制区的信号蓝。
+0x0100000700000333	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	Encyclopedia	The flag doesn't seem to mind, it's just a colourful fabric with a sun sewn onto it. Like all feudal flags, it looks like a children's drawing.	旗帜好像不是很介意，毕竟它只是一块绣着太阳的彩色布料而已。就像所有的封建旗帜一样，看起来宛如孩童的画作。
+0x0100008200021A42	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	Encyclopedia	This is the flag of Revachol the Suzerainty.	这是瑞瓦肖宗主国的旗帜。
+0x0100008200021A4B	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	You	What's with the sun?	上面的太阳是什么意思？
+0x0100008200021A51	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	You	That's good to know. [Discard thought.]	幸好知道了这个。[放弃思维。]
+0x0100008200021A5C	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	Encyclopedia	This isn't just one sun, but there are little suns dancing around the big sun. This is the Sevenfold Sun Miracle.	不是只有一个太阳，在大太阳周围还有舞动的小太阳。就是所谓的七日奇迹。
+0x0100008200021A63	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	You	What's the Sevenfold Sun Miracle?	什么是七日奇迹？
+0x0100008200021A6B	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	Encyclopedia	It's an optical atmospheric anomaly the first settlers saw. Happens in cold weather: six small suns around the big one. This complex halo-phenomena is how old Revachol got its flag.	那是第一批定居者看到的大气光学异象。天冷的时候就会发生：有6个小太阳把一个大太阳围在中央。这种复杂的光晕现象就是旧瑞瓦肖旗帜的灵感来源。
+0x0100008200021A83	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	Kim Kitsuragi	"Mhm." He looks around the apartment. "The tenant is an *old fashioned* guy."	“嗯。”他看了看这间公寓。“这个租客应该是个*作风老派*的家伙。”
+0x0100008200021A91	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	You	"Lieutenant -- the old flag of the Suzerain." (Point)	“警督——是宗主国的旧旗帜。”（指向它。）
+0x0100008200021A97	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	You	Bow down before the flag. [Finish thought.]	对着旗帜鞠上一躬。[完成思维。]
+0x0100008200021A9C	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	You	Don't bow to the flag. [Finish thought.]	不要对旗帜鞠躬。[完成思维。]
+0x0100008200021AA5	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	Rhetoric	By 'old fashioned' he means 'very right wing'.	他口中的“作风老派”，其实指的是“极右翼派”。
+0x0100008200021AB0	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	Encyclopedia	The flag accepts your honourable salute with quiet dignity.	旗帜庄严肃穆地接受了你诚挚的敬意。
+0x0100008200021ABE	Dialogue Text	GARYS APARTMENT ORB / revacholian flag2	Kim Kitsuragi	The lieutenant does not bow to the flag -- it accepts your salute with quiet dignity.	警督没有向旗帜鞠躬——它庄严肃穆地接受了你诚挚的敬意。
