@@ -1,0 +1,283 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000040001501A	Dialogue Text	FRITTE / APOTHECARY	Encyclopedia	Their logo is the bloodless rose -- pure white, untouched by harm.	他们的商标是毫无血色的玫瑰——纯白，不受一点伤害。
+0x0100000500002971	Dialogue Text	FRITTE / APOTHECARY	Frittte clerk	"Mkay, here. I hope Saint-Batiste makes you feel better or something."	“好的，给你。希望圣巴蒂斯特会让你感觉好受一些。”
+0x0100000500002977	Dialogue Text	FRITTE / APOTHECARY	Frittte clerk	"Mkay, here. I hope Saint-Batiste makes you feel better or something."	“好的，给你。希望圣巴蒂斯特会让你感觉好受一些。”
+0x010000050000297D	Dialogue Text	FRITTE / APOTHECARY	Frittte clerk	"Mkay, here. I hope Saint-Batiste makes you feel better or something."	“好的，给你。希望圣巴蒂斯特会让你感觉好受一些。”
+0x0100000600018421	Dialogue Text	FRITTE / APOTHECARY	Tutorial Agent	NOSAPHED heals +1 Health. DROUAMINE heals +3 Health. MAGNESIUM heals +1 Morale. HYPNOGAMMA heals +3 Morale.	鼻通灵+1点生命值。多巴宁+3点生命值。镁+1点意志。海普伽叮+3点意志。
+0x010000060001A6D8	Dialogue Text	FRITTE / APOTHECARY	Saint-Batiste Pharmaceutics	A small cabinet on the wall is filled with various medicine bottles, nasal sprays and blister packs. They all bear the Saint-Batiste Pharmaceutics logo.	墙上有一个小橱柜，里面装满了各式各样的药瓶，鼻用喷雾和吸塑装。上面全都有圣巴蒂斯特制药的商标。
+0x0100002B000869F2	Dialogue Text	FRITTE / APOTHECARY	Saint-Batiste Pharmaceutics	A small cabinet on the wall is filled with various medicine bottles, nasal sprays and blister packs. They all bear the Saint-Batiste Pharmaceutics logo.	墙上有一个小橱柜，里面装满了各式各样的药瓶，鼻用喷雾和吸塑装。上面全都有圣巴蒂斯特制药的商标。
+0x0100002B00086A16	Dialogue Text	FRITTE / APOTHECARY	You	[Leave.]	[离开。]
+0x0100002B00086DD9	Dialogue Text	FRITTE / APOTHECARY	You	"I want to buy some ammonia."	“我想买点氨。”
+0x0100002B00086DE0	Dialogue Text	FRITTE / APOTHECARY	You	"A bottle of magnesium, please."	“来一瓶镁片，谢谢。”
+0x0100002B00086DE6	Dialogue Text	FRITTE / APOTHECARY	You	"I need Drouamine."	“我需要多巴宁。”
+0x0100002B00086DEE	Dialogue Text	FRITTE / APOTHECARY	Frittte clerk	"Mkay, here. I hope Saint-Batiste makes you feel better or something."	“好吧，给你。希望圣巴蒂斯特能让你感觉好受一点。”
+0x0100002B00086E2C	Dialogue Text	FRITTE / APOTHECARY	You	"I'll take some Hypnogamma."	“给我来点海普伽叮。”
+0x0100005700022E25	Dialogue Text	FRITTE / APOTHECARY	Frittte clerk	"Uhm, just ask me if you need anything from Saint-Batiste. We don't stock prescription meds, but we do have nosaphed, drouamine, magnesium and hypnogamma."	“呃，如果你需要圣巴蒂斯特的产品，只要找我就可以了。我们不备处方药，但是我们有鼻通灵，多巴宁，镁还有海普伽叮。”
+0x0100005700022F42	Dialogue Text	FRITTE / APOTHECARY	You	"What do those products do?"	“这些产品有什么功效？”
+0x0100005700022F48	Dialogue Text	FRITTE / APOTHECARY	Frittte clerk	"Uhm... I don't know, let's see... Nosaphed is a nasal spray. Drouamine is a really good painkiller. Magnesium is a dietary supplement. Hypnogamma is..." She stops.	“呃……我不知道，我看看……鼻通灵是一种鼻用喷雾。多巴宁是一种很好的止痛剂。镁是膳食补充剂。海普伽叮是……”她停了下来。
+0x0100005700022F5F	Dialogue Text	FRITTE / APOTHECARY	Frittte clerk	"I don't really know what Hypnogamma is. I guess it makes you feel less shit? It's recommended to use after lots of partying, studying, or exercising."	“我也不知道海普伽叮是什么。我猜它能让你感觉没那么糟糕？推荐说是在大量派对、学习或者锻炼之后使用。”
+0x0100005700022F65	Dialogue Text	FRITTE / APOTHECARY	You	"Can I have Nosaphed?"	“能给我鼻通灵吗？”
+0x0100006B0000AE4E	Dialogue Text	FRITTE / APOTHECARY	Frittte clerk	"M'kay." She hands you a small capsule. "Don't, like... over-do it or something."	“好的。”她递给你一个小胶囊。“别，比如说……太过火了或者之类的。”
+0x0100008900000003	Dialogue Text	FRITTE / APOTHECARY	You	"Do you have any ammonia?"	“你这儿有氨吗？”
+0x010000890000000A	Dialogue Text	FRITTE / APOTHECARY	Frittte clerk	"Yeah... there's like an ampoule somewhere." She waves her hand in the air absent-mindedly.	“有的……这里好像有安瓿。”她的手心不在焉的在空中挥舞。
+0x0100008F0000307D	Dialogue Text	FRITTE / APOTHECARY	You	"Can you be a little more... specific?"	“你能不能再……详细点？”
+0x0100008F00003083	Dialogue Text	FRITTE / APOTHECARY	You	"Thank you for explaining, miss."	“谢谢你的说明，小姐。”
+0x0100008F0000308B	Dialogue Text	FRITTE / APOTHECARY	Frittte clerk	"Uhm..." She chews her bubblegum absent-mindedly. "No, sorry. I'm not, like, a doctor or anything."	“呃……”她心不在焉地嚼着口香糖。“不行，对不起。我不是，呃，医生什么之类的。”
+0x0100008F00003126	Dialogue Text	FRITTE / APOTHECARY	Frittte clerk	Her nose is already back in her magazine. "Uh-huh."	她又埋头看向杂志。“嗯嗯。”
+0x0100008F0000313F	Dialogue Text	FRITTE / APOTHECARY	You	"Who is Saint-Batiste?"	“圣巴蒂斯特是谁？”
+0x0100008F00003146	Dialogue Text	FRITTE / APOTHECARY	Frittte clerk	"Saint-Batiste? You know..." She nods slowly at the cabinet. "The pharmaceuticals company?"	“圣巴蒂斯特？你知道的……”她朝着橱柜慢慢点点头。“制药公司？”
+0x0100008F00003165	Dialogue Text	FRITTE / APOTHECARY	Frittte clerk	"Saint-Batiste Pharmaceuticals? The one that sells meds out of Saint-Batiste?" She points to the cabinet. "That one? There?"	“圣巴蒂斯特制药？就是那个从圣巴蒂斯城往外买药的公司吗？”她指着橱柜。“就是那个？就在那边？”
+0x0100008F0000316B	Dialogue Text	FRITTE / APOTHECARY	Encyclopedia	She is right! Saint-Batiste the company derives its name from Saint-Batiste the city, itself so named... because that's what it is. A rare case where that really is the full etymological history -- as far as almost anyone knows, at least.	她说的没错。圣巴蒂斯特公司起源于圣巴蒂斯特城……也因此得名……因为它就是如此。一个罕见的案例，完整的词源学历史——几乎所有人……至少都应该知道这个。
+0x0100000600019163	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Anything else I can do for you?"	“还有什么能帮你的吗？”
+0x01000006000196C7	Dialogue Text	FRITTE / FRITTE CLERK	You	"Pity. It would've been so beautiful."	“可惜了。不然应该会很美的。”
+0x01000006000196CE	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Yeah, I don't know..." She returns to her magazine.	“是啊，我不知道……”她又转头看向杂志。
+0x010000060001F640	Dialogue Text	FRITTE / FRITTE CLERK	Composure	She blinks at you, confused as to why you'd ask such an obvious thing.	她朝你眨眨眼，很困惑你为什么会问这么明显的事。
+0x010000060001F64F	Dialogue Text	FRITTE / FRITTE CLERK	Kim Kitsuragi	"Businesses often hire private security this side of the river. It's an unfortunate state of affairs, but not unheard of."	“河流这一边的企业经常会雇佣私人安保。这是一种很遗憾的情势，但也不是前所未闻。”
+0x010000060001F662	Dialogue Text	FRITTE / FRITTE CLERK	Half Light	You better behave yourself in this Frittte. Or who knows what will happen.	你最好在弗利多里表现地规矩点。不然谁知道会发生什么呢。
+0x0100000F00012E14	Dialogue Text	FRITTE / FRITTE CLERK	You	"What kind of discounts can a man with net worth get in here?"	“在这儿有净资产的人能打多少折？”
+0x0100001F000000FF	Dialogue Text	FRITTE / FRITTE CLERK	You	"I need to exchange this novelty cheque for cash." (Give her the novelty cheque and gain 25 reál.)	“我要用这张兑奖支票换点现金。”（把支票交给她，换回25雷亚尔。）
+0x0100001F00000105	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Uh, wow, I didn't know you worked for the Union, sir." She rolls up the giant novelty cheque -- looks like she's seen it before -- and slips it under the counter.	“呃，哇哦，我不知道你是为工会工作的，先生。”她卷起支票——看起来她以前见过这个——然后把它塞到了柜台下面。
+0x0100001F00000114	Dialogue Text	FRITTE / FRITTE CLERK	Reaction Speed	That was easy! Worryingly so...	这么简单吗！白担心了那么久……
+0x0100001F00000123	Dialogue Text	FRITTE / FRITTE CLERK	Electrochemistry	Blow the whole thing on speed and gin, right now. Speed -- AND GIN. Great combo. Ask some local dealers maybe...	现在就用思必得和金酒把整件事搞砸吧。思必得——还有金酒。很好的组合。也许可以问问本地的贩子……
+0x0100001F0000012B	Dialogue Text	FRITTE / FRITTE CLERK	Rhetoric	No, you don't work for the Union, the Union works for you -- by supplying you with *cash*.	不，你不为工会工作，是工会为你工作——专门为你提供*现金*。
+0x0100002B00029DC1	Dialogue Text	FRITTE / FRITTE CLERK	You	"Why is it written with three T-s?"	“为什么名字里有三个字母T？”
+0x0100002B00029DD3	Dialogue Text	FRITTE / FRITTE CLERK	You	[Leave.]	[离开。]
+0x0100002B0002AEC8	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Welcome to Frittte! Feel free to look around or something, everything is out on the shelves." She returns to her magazine.	“欢迎来到弗利多！请随意看，东西都在架子上。”她又转回到杂志上。
+0x0100002B0002AED0	Dialogue Text	FRITTE / FRITTE CLERK	You	"What magazine are you reading?"	“你在看什么杂志？”
+0x0100002B0002AED7	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"You mean this?" She looks at the cover boasting a colourful photo of two girls kissing.	“你说这个吗？”她看着封面，上面是两个女孩拥吻的彩色照片。
+0x0100002B0002AEF1	Dialogue Text	FRITTE / FRITTE CLERK	Composure	Looks like it also has something called 'Police De La Mode' featured on page 34. This speaks to you.	看来第34页上还有种叫时尚警察的东西。这不就是在说你吗。
+0x0100002B0002AF05	Dialogue Text	FRITTE / FRITTE CLERK	You	"Forget about all that -- what this is *fashion police* feature?" (Point at the cover.)	“别管那些了——这个*时尚警察*是什么？”（指向封面。）
+0x0100002B00050A94	Dialogue Text	FRITTE / FRITTE CLERK	Conceptualization	What's that magazine she's reading?	她看的是什么杂志？
+0x0100002B00086561	Dialogue Text	FRITTE / FRITTE CLERK	You	"Can you tell me anything about the dead body?"	“关于那个死者，你能告诉我点什么吗？”
+0x0100002B00086568	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Uhm, I don't really know anything? I mean, I know it's there? But I haven't seen it, so..."	“嗯，我真的什么都不知道？我是说，我知道他在那儿？但是我没见过，所以……”
+0x0100002B00086575	Dialogue Text	FRITTE / FRITTE CLERK	You	"Can you tell me anything about this reality we're in?"	“你能说说我们现在身处的现实吗？”
+0x0100002B0008657C	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Reality? You mean... what reality? Economic reality? Or..."	“现实？你指的是……什么现实？经济现实？还是……”
+0x0100002B00086589	Dialogue Text	FRITTE / FRITTE CLERK	You	"Yes, tell me about the economic reality."	“是的，跟我说说经济现实吧。”
+0x0100002B0008658F	Dialogue Text	FRITTE / FRITTE CLERK	You	"No, I meant the physical reality."	“不，我说的是物理现实。”
+0x0100002B00086596	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"I don't really know anything? I mean, I'm fifteen."	“我真的什么都不知道？我的意思是，我才15岁。”
+0x0100002B0008659D	Dialogue Text	FRITTE / FRITTE CLERK	You	"Fifteen is an *excellent* time to learn about the economic reality."	“15岁是了解经济现实*极好的*时段。”
+0x0100002B000865A3	Dialogue Text	FRITTE / FRITTE CLERK	You	"What about the physical reality then?"	“那物理现实呢？”
+0x0100002B000865AA	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Yeah." She looks at the clock on the wall. "That's why I'm working my ass off in Frittte. So I guess, like, that's economic."	“是啊。”她看着墙上的时钟。“所以我才会拼命在弗利多工作。所以我觉得，这就是经济吧。”
+0x0100002B000865B2	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"I don't know. What about it?"	“我不知道。它怎么了？”
+0x0100002B000865D5	Dialogue Text	FRITTE / FRITTE CLERK	You	"Where are we?"	“我们在哪？”
+0x0100002B000865DB	Dialogue Text	FRITTE / FRITTE CLERK	You	"What time is it?"	“现在什么时间？”
+0x0100002B000865E1	Dialogue Text	FRITTE / FRITTE CLERK	You	"What is the Revolution?"	“大革命是什么？”
+0x0100002B000865E7	Dialogue Text	FRITTE / FRITTE CLERK	You	"The Coalition -- what's that? Someone told me there is one."	“联盟国——是什么？有人跟我提过这个。”
+0x0100002B000865F1	Dialogue Text	FRITTE / FRITTE CLERK	You	"What is pale?"	“灰域是什么？”
+0x0100002B000865F8	Dialogue Text	FRITTE / FRITTE CLERK	You	"I won't bother you with this non-sense anymore."	“我不会再说些废话来烦你了。”
+0x0100002B000865FF	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Cool." She seems happy to return to her reading.	“太好了。”她好像很开心，又埋头看起了杂志。
+0x0100002B0008660E	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"We're in Frittte?"	“我们在弗利多？”
+0x0100002B00086615	Dialogue Text	FRITTE / FRITTE CLERK	You	"No, I meant -- where *are* we, on a larger scale?"	“不，我是说——我们*在哪*，从大范围上来说？”
+0x0100002B00086622	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"As mankind or... as a nation or..."	“作为人类还是……国家……”
+0x0100002B00086636	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"I don't know, look at the clock. It's right behind you on the wall."	“我不知道，你看看时钟吧。就在你背后的墙上。”
+0x0100002B00086645	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Our government?"	“我们的政府？”
+0x0100002B0008664C	Dialogue Text	FRITTE / FRITTE CLERK	You	"As a mankind."	“作为人类。”
+0x0100002B00086652	Dialogue Text	FRITTE / FRITTE CLERK	You	"As a nation."	“作为国家。”
+0x0100002B00086658	Dialogue Text	FRITTE / FRITTE CLERK	You	"Like... where in the world?"	“比如……世界的什么地方？”
+0x0100002B00086661	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"We're in Revachol? Like, on the Insulindian isola?"	“我们在瑞瓦肖？呃，在伊苏林迪洲上？”
+0x0100002B00086668	Dialogue Text	FRITTE / FRITTE CLERK	You	"Thank you."	“谢谢你。”
+0x0100002B0008666E	Dialogue Text	FRITTE / FRITTE CLERK	You	"I was just testing your knowledge."	“我只是想测试一下你的学识。”
+0x0100002B0008667C	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"That wasn't very hard." She folds her magazine back.	“那倒不是很难。”她合起了杂志。
+0x0100002B00086689	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"In a good place?"  She rubs her face, thinking.	“在一个好地方？”她摩挲着脸颊，沉思着。
+0x0100002B00086690	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Uhm, we're in a.... we're in a..." She rubs her face, thinking.	“呃，我们在……在……”她摩挲着脸颊，沉思着。
+0x0100002B0008669E	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"I think science still doesn't know? There's only speculation."	“我觉得科学还不知道？还停留在推测阶段。”
+0x0100002B000866CF	Dialogue Text	FRITTE / FRITTE CLERK	You	"Did you know the man who died?"	“你认识那个死去的男人吗？”
+0x0100002B000866D5	Dialogue Text	FRITTE / FRITTE CLERK	You	"How long has it been there?"	“尸体挂在那儿多久了？”
+0x0100002B000866E1	Dialogue Text	FRITTE / FRITTE CLERK	You	"What do you think happened?"	“你觉得发生了什么事？”
+0x0100002B000866E7	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Not really?"	“算不上？”
+0x0100002B000866F2	Dialogue Text	FRITTE / FRITTE CLERK	You	"Thank your for your help."	“多谢你的帮助。”
+0x0100002B000866F9	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Uh-uh." She brushes a strand of hair off her face and tries to return to her magazine.	“嗯。”她拨开脸上的发丝，想要继续看杂志。
+0x0100002B00086704	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"I don't know. Really *long*?"	“我不知道。真的*很久了*？”
+0x0100002B00086714	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Uhm... I don't know?"	“呃……我不知道？”
+0x0100002B00086720	Dialogue Text	FRITTE / FRITTE CLERK	Kim Kitsuragi	"No need to worry." The lieutenant's voice is soothing and professional. "It's just standard procedure for us to ask around. If you hear anything, let us know. Okay?"	“不用担心。”警督的声音让人宽心，听起来也很专业。“四处询问只是我们的标准程序。如果你听到什么，就告诉我们。好吗？”
+0x0100002B0008672E	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"M'kay." She scratches her nose.	“好的。”她挠了挠鼻子。
+0x0100002B00086739	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Not that they would know anything about being high, it's just an expression." The girl adjusts her hat.	“并不是说他们知道嗑嗨是什么感觉，只是一种表达方式。”女孩调整了一下头上的帽子。
+0x0100002B0008679A	Dialogue Text	FRITTE / FRITTE CLERK	You	"Do you have a fridge?"	“你这里有冰箱吗？”
+0x0100002B000867A0	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Mhmh, right behind you." She nods towards the buzzing machine in the corner.	“嗯，就在你背后。”她朝着角落里那台嗡嗡作响的机器点了点头。
+0x0100002B000867AD	Dialogue Text	FRITTE / FRITTE CLERK	You	"I need to store a corpse there."	“我要在那里保存一具尸体。”
+0x0100002B000867B3	Dialogue Text	FRITTE / FRITTE CLERK	You	"You're right, this *is* a fridge! Wicked."	“你说的对，这*是*一个冰箱！真顽皮。”
+0x0100002B000867BB	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Uhm..." She keeps chewing on her gum. "You're joking, right?"	“嗯……”她继续嚼着口香糖。“你是在开玩笑，对吧？”
+0x0100002B000867C2	Dialogue Text	FRITTE / FRITTE CLERK	You	"No, I'm not joking. I need to store the corpse of the hanged man in your fridge."	“不，我没有开玩笑。我要把那个吊人的尸体放在你的冰箱里。”
+0x0100002B000867C8	Dialogue Text	FRITTE / FRITTE CLERK	You	(Measure the fridge with your fingers, one eye closed.) "Never mind... It would never fit."	（闭上一只眼，用手指测量冰箱的尺寸。）“没事了……反正也不合适。”
+0x0100002B000867D2	Dialogue Text	FRITTE / FRITTE CLERK	You	"Yes, this was just a joke." (Cough.) "A bad joke."	“是的，只是开个玩笑。”（咳嗽。）“一个糟糕的玩笑。”
+0x0100002B000867D8	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Yeah..." She's not really paying attention to you anymore.	“是啊……”她的注意力不再放在你身上了。
+0x0100002B000867E0	Dialogue Text	FRITTE / FRITTE CLERK	You	"Well, enough about the fridge then."	“好吧，别说冰箱的事了。”
+0x0100002B000867E8	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	She's playing with her hair, engrossed in a magazine.	她玩弄着自己的头发，一心铺在了杂志上。
+0x0100002B000867F5	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Uhm, okay..." she looks at the fridge. "It wouldn't even fit you know."	“嗯，好吧……”她看着冰箱。“你知道的，其实根本不合适。”
+0x0100002B000867FB	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Yeah, super funny." She returns to her magazine, seemingly not impressed by the joke.	“是啊，很有意思。”她好像对这个玩笑不是很感冒，又转回到杂志上。
+0x0100002B0008680B	Dialogue Text	FRITTE / FRITTE CLERK	Kim Kitsuragi	"Now that I'm looking at it... maybe a glass-doored fridge in a public grocery store isn't the best option for storing a corpse."	“现在我这么看着它……也许公共杂货店里的玻璃门冰箱不是储存尸体的最佳选择吧。”
+0x0100002B00086812	Dialogue Text	FRITTE / FRITTE CLERK	Logic	Maybe a glass-doored fridge in a public grocery store really isn't the best option for storing a corpse.	也许公共杂货店里的玻璃门冰箱不是储存尸体的最佳选择吧。
+0x0100002B00086820	Dialogue Text	FRITTE / FRITTE CLERK	You	"I guess you're right, plus the fridge is too small anyway."	“我想你说得对，再说这个冰箱也太小了。”
+0x0100002B00086826	Dialogue Text	FRITTE / FRITTE CLERK	You	"Well, thanks, Frittte clerk."	“好吧，谢谢了，弗利多的店员。”
+0x0100002B00086832	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"M'kay..." She returns to her magazine.	“没事……”她又转回到杂志上。
+0x0100005700022CD5	Dialogue Text	FRITTE / FRITTE CLERK	You	[Leave.]	[离开。]
+0x0100005700022CFB	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Uhm, it's where they rate different outfits famous people wear? It's kinda funny. They're kinda mean." She stops to think. "It's about who's the most stylish."	“嗯，他们好像给名人的不同着装打分？其实挺好笑的。他们有点刻薄。”她停下来想了一会儿。“就是想要评出谁是最时尚的那个。”
+0x0100005700022D07	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Yeah, they're kind of boring, but, you know..." She never finishes the sentence.	“是的，，名人都挺无聊的，但是你也知道……”她从来没说过一句完整的话。
+0x0100005700022D22	Dialogue Text	FRITTE / FRITTE CLERK	You	"So who is the most stylish there? It can't be anyone from here."	“所以谁是最时尚的？应该不是这里的人吧。”
+0x0100005700022D29	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Benita. She's a model. Usually it's a model. Or a singer-songwriter. Or a model."	“贝妮塔。她是个模特。一般都是模特，或者是创作歌手。或者是模特。”
+0x0100005700022D36	Dialogue Text	FRITTE / FRITTE CLERK	You	"Let's proceed, I have some questions for you." (Continue.)	“我们继续吧，我还有些问题要问你。”（继续。）
+0x0100005700022D3D	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Um, okay. I'm not really supposed to be chatting to anyone, but..." She puts down the magazine.	“呃，好吧。我真的不应该跟别人闲聊，但是……”她放下杂志。
+0x0100005700022D47	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"I think they think that extra T makes it *funkier*..." She chews on her gum with disgust. "It doesn't."	“我想他们是觉得多个T能让这名字更*时髦*一点……”她不悦地嚼着口香糖。“但其实没有。”
+0x0100005700022D7C	Dialogue Text	FRITTE / FRITTE CLERK	Conceptualization	She is like a student unexpectedly called upon by a teacher. Can she answer the classroom question?	她就像一个被老师突然点到名的学生。她能回答出课堂问题吗？
+0x0100005700022D84	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"You're welcome?" She folds her magazine back.	“不客气？”她合上了杂志。
+0x0100005700022D8D	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"We're in a *transition*! You know, transitioning from, uh... monarchy to democracy, all that stuff." She nods, then folds her magazine back.	“我们正在*过渡*！你也知道，从那个，呃……君主制过渡到民主制之类的。”她点点头，然后合上了杂志。
+0x0100005700022D96	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"When ordinary people take over the government and, uhm... demand democracy?"	“当普通人接管政府，然后，呃……要求民主？”
+0x0100005700022D9C	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Though some of my friends from school have actually *travelled* through pale on their trip to Mundi. They said it was like being high." She smiles widely, then catches herself.	“不过我学校里有些朋友在去蒙迪的路上确实*穿过了*灰域。他们说感觉就像是嗑嗨了。”她笑得很开心，随后突然住嘴了。
+0x0100005700022DA4	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Or do you mean something else...? Sorry, I really need to finish this article." She taps the magazine on the counter.	“或者你是指别的……？抱歉，我真的得看完这篇文章。”她拍了拍柜台上的杂志。
+0x0100005700022DAB	Dialogue Text	FRITTE / FRITTE CLERK	You	"What about the one we had here in Revachol?"	“那发生在瑞瓦肖的这个呢？”
+0x0100005700022DB2	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Yeah, it happened like 50 years ago or so. Sorry, I'm not very good at this. At history, I mean."	“是啊，好像差不多是50年前发生的吧。抱歉，我不太擅长这个。我是说，历史。”
+0x0100005700022DCF	Dialogue Text	FRITTE / FRITTE CLERK	You	(Point to her hat.) "I bet your hat would take the prize."	（指着她的帽子。）“我打赌你的帽子会拿奖。”
+0x0100005700022DDD	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Uhm..." Her lazy eyes scan up and down your body, assessing the situation.	“呃……”她的眼睛懒洋洋地上下打量你的身体，评估者眼下的状况。
+0x0100005700022DE4	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Uhm, no. I don't like it, I hate it."	“呃，不。我不喜欢它，我恨它。”
+0x0100005700022DF3	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"No, I don't think so."	“不，我不这么觉得。”
+0x0100005700022E4E	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Uhm, you kicked the tare machine. Please don't kick the tare machine. This is Frittte -- and you don't want to fuck with Frittte."	“呃，你踢了那台回收机。请不要踢回收机。这里是弗利多——你可不想去招惹弗利多。”
+0x0100005700022E65	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"This is Pop-Stars, it's got, like, famous people in it? It's not for sale."	“这是《流行明星》，里面说的好像是，呃，名人？这个是不卖的。”
+0x0100005700022E6D	Dialogue Text	FRITTE / FRITTE CLERK	You	"You said I wouldn't want to 'fuck with Frittte'. Why?"	“你说我不会想去‘招惹弗利多’。为什么？”
+0x0100005700022E73	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Because Frittte has an army?"	“因为弗利多有军队？”
+0x0100005700022F95	Dialogue Text	FRITTE / FRITTE CLERK	You	"Before we go on, what is this Frittte?"	“在我们继续之前，这个弗利多是什么？”
+0x0100005700022F9B	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"I don't know -- Frittte?" She shrugs.	“我不知道——弗利多？”她耸耸肩。
+0x0100005700022FB1	Dialogue Text	FRITTE / FRITTE CLERK	Encyclopedia	The story goes that normal Fritte with two T-s (a men's workwear shop in Vredefort) was already taken, so when Fritte Retail, Inc. grew into a multinational corporation they had to add an extra letter to avoid trademark infringement.	故事是这样的，普通的写法，就是单词里有两个T的已经被占用了（伍德福特的一间男性工装商店）。所以当弗利多零售有限公司发展成为一个跨国公司时，他们就在名字里多加了一个字母T，来避免商标侵权。
+0x0100005700022FBD	Dialogue Text	FRITTE / FRITTE CLERK	You	"And what *is* Frittte?"	“弗利多*是什么*？”
+0x0100005700022FC4	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"A 7-to-11 grocery store?"	“一间7-11杂货店？”
+0x0100005700022FD4	Dialogue Text	FRITTE / FRITTE CLERK	You	"Stupid famous people."	“愚蠢的名人。”
+0x0100005700022FDA	Dialogue Text	FRITTE / FRITTE CLERK	You	"I approve of this, very futuristic." (Tap on the girls kissing.)	“我赞成这个，很未来主义。”（指着女孩亲吻的照片。）
+0x0100005700022FE0	Dialogue Text	FRITTE / FRITTE CLERK	You	"I'm not even interested in that magazine. I don't know why I asked about it."	“我对这本杂志完全没兴趣。我都不知道为什么要问这个。”
+0x0100005700022FE6	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Yeah, me neither."	“是啊，我也一样。”
+0x0100005700022FF0	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	She pops her raspberry-flavoured bubblegum and nods.	她嘭的一声吹破了树莓味的泡泡糖，点了点头。
+0x0100005700022FFB	Dialogue Text	FRITTE / FRITTE CLERK	You	"Who's the numero uno guy in there right now -- and does he look like *this*?" (Point at yourself.)	“现在里面的头号人物是谁——看起来是不是像*这样*的？”（指着你自己。）
+0x010000570002300B	Dialogue Text	FRITTE / FRITTE CLERK	Kim Kitsuragi	"We are not the fashion police." The lieutenant looks at you. "We're the real police."	“我们不是时尚警察，”警督看着你解释到，“我们是真警察。”
+0x0100005700023022	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Um, is this about the questions again? 'Cause I don't really know anything..." She puts down the magazine.	“呃，又是关于那些问题的吗？因为我真的什么都不知道……”她放下了杂志。
+0x0100005700023144	Dialogue Text	FRITTE / FRITTE CLERK	You	"Hold on, an army? You mean like... *mercenaries*? Ready to *kill people*?"	“等一下，军队？你是指……*雇佣兵*吗？随时准备*杀人*的那种？”
+0x010000570002314A	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Yeah, like two thousand or so." She says it as if it's completely natural.	“是啊，差不多2000人左右吧。”她的语气好像这是一件非常自然的事。
+0x0100005700023151	Dialogue Text	FRITTE / FRITTE CLERK	You	"But why would Frittte need an army? It's just a corner shop."	“但是弗利多为什么需要军队呢？它不就是一家街角小店吗？”
+0x010000570002315A	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"I dunno." She shrugs. "It stops people from robbing Frittte, I guess? If they know there's an army, I mean... I wouldn't want to fuck with them, anyway."	“我不知道。”她耸耸肩。“这样就不会有人抢劫弗利多了，我猜？如果他们知道有一支军队，我是说……反正我是肯定不会招惹他们的。”
+0x0100005700023161	Dialogue Text	FRITTE / FRITTE CLERK	You	"Yeah, good point... Actually, I had other questions as well."	“是啊，说得好……其实，我还有个问题。”
+0x010000570002316E	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"M'kay." She's chewing on her bubblegum again. "What do you want to know?"	“好吧。”她又嚼起了泡泡糖。“你想知道什么？”
+0x010000570002317A	Dialogue Text	FRITTE / FRITTE CLERK	You	"Hold on, so it's true? Frittte has actual *mercenaries*, ready to *kill people*?"	“等一下，所以这是真的了？弗利多真的有一支*雇佣兵*，随时准备好*杀人*？”
+0x010000570002318C	Dialogue Text	FRITTE / FRITTE CLERK	You	"Not really? Does it mean you knew him *a little*?"	“算不上？那是不是说你*稍微*知道那么一点？”
+0x0100005700023192	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Uhm, no. I didn't know him at all."	“呃，不。我完全不认识他。”
+0x010000570002319B	Dialogue Text	FRITTE / FRITTE CLERK	Conceptualization	What will her essay prompt be?	她的论文题目会是什么？
+0x01000057000231A5	Dialogue Text	FRITTE / FRITTE CLERK	You	"You know what? Never mind."	“你知道吗？还是不要记在心上吧。”
+0x01000057000231AC	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"M'kay. I won't." She folds her magazine back and starts to read.	“没事，我不会的。”她翻开杂志，开始阅读。
+0x01000057000231B8	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"I mean, science is doing great... and this radiocomputer thing seems to be kinda big? I don't know." She shrugs, then folds her magazine back.	“我是说，科学挺不错的……这个无线电脑什么的好像挺了不起的？我也不知道。”她耸耸肩，然后又翻开了杂志。
+0x010000580000898B	Dialogue Text	FRITTE / FRITTE CLERK	You	"Does Frittte have a warehouse in the back of the Whirling-in-Rags?"	“褴褛飞旋背后有没有弗利多的仓库？”
+0x010000580000899C	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"A warehouse? I don't know. Maybe. I don't really care what Frittte does."	“仓库？我不知道。也许吧。我真的不在乎弗利多在做什么。”
+0x01000058000089A3	Dialogue Text	FRITTE / FRITTE CLERK	You	"Come on, give me something to work with here."	“拜托，给我提供点线索吧。”
+0x01000058000089A9	Dialogue Text	FRITTE / FRITTE CLERK	You	"This is *important*."	“这个*很重要*。”
+0x01000058000089B1	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	She looks up from under her brow.	她扬起眉毛。
+0x01000058000089B8	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	She scrunches up her face into an expression of consummate adolescent scepticism.	她的脸皱成一团，完美地展现出青春期怀疑主义的表情。
+0x01000058000089BF	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Fine -- Frittte doesn't have a warehouse. Just a little back room here. M'kay?" She turns back to her magazine without waiting for you to respond.	“好吧——弗利多没有仓库。只有一间小密室。可以了吗？”她低头看向杂志，完全没有等待你的回应。
+0x010000580001FCE2	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Uhm..." She looks up from her magazine, not really sure how to reply.	“啊……”她从杂志后面抬起头来，不知如何作答。
+0x010000580001FCF5	Dialogue Text	FRITTE / FRITTE CLERK	Kim Kitsuragi	"Excuse us -- my partner here of course knows that net worth is not *legal tender*." The lieutenant gives you a quick glance.	“抱歉——我的搭档当然明白净资产不是*法定货币*。”警督赶紧瞥了你一眼。
+0x010000580001FD07	Dialogue Text	FRITTE / FRITTE CLERK	Composure	She couldn't be more unbothered by your question if she tried.	她完全不关心你的询问。
+0x010000580001FD0D	Dialogue Text	FRITTE / FRITTE CLERK	Rhetoric	That's teen-speak for 'no' -- *no discounts*.	年轻人就是这么说“不”的——*不打折*。
+0x0100006B0000AE16	Dialogue Text	FRITTE / FRITTE CLERK	You	"But that's what the cops are for..."	“但这是警察的工作……”
+0x0100006B0000AE1D	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"You think the police, like... bother catching shoplifters?" She rolls her eyes. "Frittte polices themselves, so... Yeah. Anything else you wanted?"	“你觉得警察会不会，比如说……抓扒手抓烦了？”她翻了个白眼。“弗利多自己给自己当警察，所以…………得了，你还有什么需要的吗？”
+0x0100006B0000AE27	Dialogue Text	FRITTE / FRITTE CLERK	Perception (Sight)	The clock shows the time at 10:09. The hands seem to be still. It's apparent the clock doesn't work.	时钟上显示着10:09分。不过指针好像没有动。显然时钟已经坏掉了。
+0x01000089000011D8	Dialogue Text	FRITTE / FRITTE CLERK	You	"Do you have any ammonia for sale?"	“你这里有卖氨吗？”
+0x01000089000011DF	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	She looks up from her magazine, eyes filled with tired ennui.	她抬起头，眼里写满了不耐烦。
+0x01000089000011EB	Dialogue Text	FRITTE / FRITTE CLERK	Frittte clerk	"Yes." She hitches her thumb toward the end of the counter. "What we have is there, in the medicine cabinet -- go take a look yourself..."	“有的。”她用拇指按住柜台的一端。“东西都在那里，在药柜里——你自己去看看吧……”
+0x0100008F000033CC	Dialogue Text	FRITTE / FRITTE CLERK	Composure	Her shoulders tense. She shuffles back only slightly; bewilderment and repulsion root her in place.	她的双肩有些紧张，稍微往后挪了几步；困惑和排斥让她原地不动。
+0x0100008F000033D8	Dialogue Text	FRITTE / FRITTE CLERK	Kim Kitsuragi	The lieutenant frowns at you, before turning to the clerk with an apologetic half-smile.	警督朝你皱皱眉，随后转向店员，脸上露出歉意的微笑。
+0x010000060001F627	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Interfacing	Oh no! I said *don't* let it fall out with a thump! What did you do?	哦不！我说*不要*让它啪的一声掉出来！你在搞什么鬼？
+0x010000060001F62F	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Endurance	This will keep you nice and warm out there. Good choice, if a bit goofy looking...	这样你在外面就会感觉温暖又舒适。很不错的选择，只是看起来有些傻傻的……
+0x010000060001F638	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Rhetoric	She says 'fuck with Frittte' like it's a saying, or like she's quoting someone. Maybe you can ask her about this later?	她的那句‘招惹弗利多’就像一句谚语，或者她是在引用别人的话。也许之后你可以问问她？
+0x0100002B000869E7	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Knick-knacks Stand	You see several packaged raincoats fill a low shelf beneath a display of croissants and juice bottles. The raincoats are transparent, except for the big 'FRITTTE' slogan on the back.	你看见一些包装好的雨衣摆在低矮的货架中，其上展列着牛角面包和果汁瓶。雨衣是透明的，只是背后印着一个巨大的‘弗利多’标语。
+0x0100002B00086B7D	Dialogue Text	FRITTE / KNICK-KNACKS STAND	You	[Leave.]	[离开。]
+0x0100006B0000ACD7	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Interfacing	The sloppy stacking makes it more difficult to discern the missing one. You will be safe.	东西杂乱地堆积在一起，很难看出到底丢了什么。应该挺安全的。
+0x0100006B0000ACE2	Dialogue Text	FRITTE / KNICK-KNACKS STAND	You	"What's that?" (Point to the raincoat.)	“那是什么？”（指着雨衣。）
+0x0100006B0000ACEE	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Interfacing	The girl delves into the magazine, hair covering her face... vision obscured, she cannot see your hand move.	女孩埋头钻研杂志，头发盖住了她的脸庞……视线被阻挡，她肯定看不见你的手在动。
+0x0100006B0000ACF4	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Frittte clerk	"What is what?" The girl leans over the counter to see what you're referring to. "Uhm, it's a raincoat?"	“那是什么？”女孩靠在柜台上，看着你手指的方向。“嗯，是雨衣？”
+0x0100006B0000AD00	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Kim Kitsuragi	"Really? A *plastic poncho*?" The lieutenant sighs and looks away.	“真的吗？一件*塑料雨披*？”警督叹了口气，望向别处。
+0x0100006B0000AD06	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Interfacing	Down onto one knee. Pretending to do up a shoelace. Take a loose package from the bottom. Slip it in the old sleeve. The girl doesn't notice *a thing*.	单膝跪下。假装在系鞋带。从底部拿一包散装的。把它塞进袖子里。女孩*什么*也没注意到。
+0x0100006B0000AD0C	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Frittte clerk	"I mean, I didn't just see a middle-aged man try to steal a four reál raincoat, did I?"	“我说，我不会是看到一个中年男人想要偷走一件价值4雷亚尔的雨衣吧？”
+0x0100006B0000AD12	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Frittte clerk	"Fucking with Frittte is *dangerous*, you know." She scratches her cheek, thinking. "Just leave it there, I'll put it away later."	“你知道吗，招惹弗利多是很*危险*的。”她摩挲着自己的脸庞，沉思着。“把东西放在那儿吧，我一会儿再把它收起来。”
+0x0100006B0000AD18	Dialogue Text	FRITTE / KNICK-KNACKS STAND	You	Steal a raincoat.	偷一件雨衣。
+0x0100006B0000AD18	tooltip1	FRITTE / KNICK-KNACKS STAND	You	Asked what is it	询问这是什么
+0x0100006B0000AD18	tooltip2	FRITTE / KNICK-KNACKS STAND	You	Shivers	颤抖
+0x0100006B0000AD18	tooltip3	FRITTE / KNICK-KNACKS STAND	You	Tare machine incident	回收机事件
+0x0100006B0000AD26	Dialogue Text	FRITTE / KNICK-KNACKS STAND	You	"I'm sorry... I'm such a mess lately..."	“抱歉……我最近状态很糟糕……”
+0x0100006B0000AD36	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Pain Threshold	She's like 14! You're humiliated in front of a minor, what's *wrong* with you, son?!	她大概14岁吧！你居然在一个未成年人面前丢脸，你到底有什么*毛病*啊，小子？！
+0x0100006B0000AD3C	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Frittte clerk	"Um, did you..." The girl stares at the package lying on the floor. It looks a little sad as it lies in the dusty floor.	“呃，你是不是……”女孩盯着地上的东西。躺在灰扑扑的地面上的它，看起来有些悲伤。
+0x0100006B0000AD42	Dialogue Text	FRITTE / KNICK-KNACKS STAND	You	"Don't judge me. I needed it for an official police investigation."	“不要评判我。我需要征用它参与正式的警方调查。”
+0x0100006B0000AD48	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Frittte clerk	"If you want to buy one then it's only four reál." She taps on the glass counter. The raincoats patiently await purchase.	“如果你想买的话，只需要4雷亚尔。”她拍了拍玻璃柜台。雨衣耐心地等着被人购买。
+0x0100006B0000AD4E	Dialogue Text	FRITTE / KNICK-KNACKS STAND	You	"No, you didn't. I didn't do it!"	“不，你没看见。我没有做！”
+0x0100006B0000AD5F	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Interfacing	The girl delves into the magazine, hair covering her face... vision obscured, she cannot see your hand move.	女孩埋头钻研杂志，头发盖住了她的脸庞……视线被阻挡，她肯定看不见你的手在动。
+0x0100006B0000AD74	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Frittte clerk	"I mean, it doesn't even cost that much... like, why would you want to 'fuck with Frittte' over something like this?"	她接着说到：“我是说，其实它花不了多少钱……所以，你为什么会想因为它去招惹弗利多呢？”
+0x0100006B0000AD7A	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Frittte clerk	The clerk stares at you, but doesn't say a thing for a moment or two.	店员盯着你，但是一时间没有说话。
+0x0100006B0000AD86	Dialogue Text	FRITTE / KNICK-KNACKS STAND	You	Try to grab a package. Any one of them. Slip it up your sleeve and...	试着抓一包。随便哪个都可以。把它藏进你的袖子里，然后……
+0x0100006B0000ADC1	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Frittte clerk	"Here you go." The clerk removes the garment from the lower shelf and hands it over.	“好了。”店员从矮架子上拿出衣服，然后递给了你。
+0x0100006B0000ADF2	Dialogue Text	FRITTE / KNICK-KNACKS STAND	You	"I want to buy a raincoat."	“我想买一件雨衣。”
+0x0100006B0000ADF9	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Interfacing	The packages are small. Discreet. Sloppily stacked, making them easier to take unnoticed -- no need to worry about knocking over a display.	“我想买一件雨衣。”
+0x0100008F00002FCE	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Knick-knacks Stand	To the left of some croissants and juice bottles, you see several packaged raincoats fill a low shelf. One is missing: the one you legally purchased.	左边是一些牛角面包和果汁瓶，一个矮架子上堆满了好几包雨衣。其中有一包不见了：就是你合法买下的那一包。
+0x0100008F00002FD4	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Knick-knacks Stand	To the left of the croissants and juice bottles, several packaged raincoats fill a low shelf. One, however, lies in the dusty floor: the one you tried and failed to steal.	左边是一些牛角面包和果汁瓶，一个矮架子上堆满了好几包雨衣。然而，有一包躺在了肮脏的地板上：就是你试着偷走，但是失败的那一包。
+0x0100008F00002FDA	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Knick-knacks Stand	To the left of the croissants and juice bottles, several packaged raincoats fill a low shelf. One is missing. No one need be any wiser.	左边是一些牛角面包和果汁瓶，一个矮架子上堆满了好几包雨衣。其中有一包不见了。某人已经再聪明不过了。
+0x0100008F00002FEE	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Volition	Look at it, detective. And be ashamed. Until you make it right by *legally purchasing* that raincoat, I'll make sure you feel guilty every time you see it.	看着它，警探。你应该感到羞愧。除非你*合法买下*那包雨衣，挽回这一切，不然我保证你每次看见它都会感到有罪。
+0x0100008F00003017	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Frittte clerk	"What is what?" The girl leans over the counter to see what you're referring to. "Uhm... a raincoat? You know -- like the one you bought earlier?"	“什么是什么？”女孩靠在柜台上，看着你手指的方向。“呃……是雨衣？你知道的——就是你刚才买的那种？”
+0x0100008F00003040	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Interfacing	Her attention is drawn to the raincoats. Stealing one undetected will now be more difficult.	她的注意力被雨衣吸引了，想要偷窃不被察觉就变得更加困难。
+0x0100008F00003051	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Knick-knacks Stand	To the left of the croissants and juice bottles, several packaged raincoats fill a low shelf. One is missing: the one you tried to steal, but then legally purchased.	左边是一些牛角面包和果汁瓶，一个矮架子上堆满了好几包雨衣。其中有一包不见了：你尝试偷走，最后又合法买下的那一包。
+0x0100008F0000306A	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Volition	A wrong has been made right. You may rest easy now.	错误已经挽回。现在你可以放松地休息了。
+0x0100008F0000318D	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Frittte clerk	"What is what?" The girl leans over the counter to see what you're referring to. "Uhm... a raincoat? You know -- like the one you tried to steal earlier?"	“什么是什么？”女孩靠在柜台上，看着你手指的方向。“呃……是雨衣？你知道的——就是你刚才打算偷的那种？”
+0x0100008F00003196	Dialogue Text	FRITTE / KNICK-KNACKS STAND	Frittte clerk	"Yes -- buy it, please, don't steal it..." The clerk removes the garment from the dusty floor and hands it over.	“是的——请买下它，不要偷……”店员从肮脏的地板上拿起衣服，然后递给你。
+0x010000040001502F	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Electrochemistry	Good thing you're an *unrecovering* alcoholic then!	还好你是个*不清醒*的酒鬼！
+0x010000040001504D	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	Not right now. [Leave.]	现在不行。[离开。]
+0x0100000500002989	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"Here you go, mister."	“给你，先生。”
+0x010000050000298F	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"Here you go, mister."	“给你，先生。”
+0x0100000500002995	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"Here you go, mister."	“给你，先生。”
+0x0100000600018434	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	"What is pale?"	“灰域是什么？”
+0x010000060001843A	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"You know..." She shrugs, uninterested in explaining it further.	“你知道的……”她耸耸肩，没兴趣做进一步解释。
+0x010000060001F67E	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Perception (Sight)	The bottles wink at you in the light. The smokes too glitter in their wrapping. It's like looking into a kind of heaven. Your knees are weak...	灯光下，酒瓶在朝你眨眼。包装好的香烟也在闪闪发光。就好像是在窥视某种天堂。你的膝盖有些无力……
+0x010000060001F685	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Electrochemistry	There, in that dark green glass, a world of ruby, all in vain! The great flowing river of warmth: Wine-alcohol. Beer-alcohol. Love-alcohol.	就在那儿，深绿色的玻璃瓶里，一个红宝石的世界，沉入空虚！是温热的大河在流淌，满载美酒。葡萄酒，啤酒，爱之酒。
+0x010000060001F692	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Conceptualization	The beauty, the truth, the poetry of it all...	它的美丽，它的真实，它的诗意……
+0x010000060001F69A	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Electrochemistry	Don't worry your pretty little head about it. Let's concentrate on what's IMPORTANT here.	不用担心你的小脑袋。让我们集中在重要的事情上吧。
+0x010000060001F6A3	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Volition	Don't ask, don't look, don't do *anything* here. Just go away. Get back to work.	不要问，不要看，*什么*也不要做。就这么离开。回去工作。
+0x010000060001F6AD	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Electrochemistry	Know this -- you will never finish your alcohol *quest* if you don't buy beautiful alcohol.	要知道——如果你不买下这些美丽的酒水，你就永远无法完成酒精的*任务*了。
+0x0100000800001155	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Tutorial Agent	Substances give powerful bonuses to your main stats, at the cost of damage to your Health or Morale. CIGARETTES raise your INTELLECT while damaging your Health, ALCOHOL raises PHYSIQUE while damaging your Morale.	有些物质能够以生命或士气为代价，给予你基础属性强大的加成。香烟可以提高你的智力，但会消耗你的生命。酒精能提高你的体格，但会损伤你的士气。
+0x010000080000115C	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Tutorial Agent	Use medication (like NOSAPHED and MAGNESIUM) to counteract the negative effects of substances. NOTE! Consuming substances can have unforeseen consequences for you.	使用药物（鼻通灵和镁）可以抵消药物的伤害。注意！使用药物会给你带来无法预见的后果。
+0x010000570001D99C	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Shimmering Wall of Vices	A colourful display of cigarettes and alcohol bottles lines the shop wall, inviting you closer.	彩色的香烟和酒瓶陈列在商店墙上，邀请你靠得再近一些。
+0x0100005700022C62	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	"Give me Commodore Red wine."	“给我来瓶海军准将红郎姆。”
+0x0100005700022C68	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	"Give me pale-aged vodka."	“给我来瓶陈年伏特加。”
+0x0100005700022C6E	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	"Give me Potent Pilsner beer."	“给我一瓶高度比尔森啤酒。”
+0x0100005700022C74	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	"Give me Astra cigarettes."	“给我来包阿斯特拉香烟。”
+0x0100005700022C80	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	[Leave.]	[离开。]
+0x0100005700022CA6	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"Here you go, mister."	“给你，先生。”
+0x0100005700022E1B	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"Again, I'm obliged to inform you that both alcohol and cigarettes damage your health."	店员看见你盯着她身后的货品。“我有义务提醒你，烟酒有害身体健康。”
+0x0100005700022F75	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	"Please, tell me more about these products."	“请再多跟我说说这些产品。”
+0x0100005700022F7B	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"Um, the pale-aged vodka is special, I guess. It's stored in pale for a couple of years, which makes it super expensive and super strong."	“呃，陈年伏特加挺特别的，我猜。它在灰域里存放了几年，所以价格特别贵，酒劲也特别大。”
+0x0100008F00003075	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	"Do you sell speed at this establishment?"	“你们这儿有卖思必得的吗？”
+0x0100008F000031AE	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	"Do you sell any... under the counter vices?"	“你们这里有没有……私下出售的东西？”
+0x0100008F000031B4	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"No." She fixes her hair underneath her cap. "Frittte only sells legal drugs, like the law says."	“没有。”她捋了捋帽子下面的头发。“弗利多只卖合法药物，严格遵守法律。”
+0x0100008F000031C0	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	"Okay. What will consuming this stuff do to my *body*?"	“好吧。消化这些东西会对我的*身体*有什么影响？”
+0x0100008F000031C6	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	"Thanks for your answer."	“感谢你的回答。”
+0x0100008F000031E9	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"Sure." She tilts her head back at the shelf. "So... are you going to buy anything, or...?"	“当然。”她把头歪到架子上。“所以……你打算买点什么吗，还是……？”
+0x0100008F000031F1	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"I mean, I already said it'd hurt you? I don't know what else they do." She stares at  you, unsure.	她盯着你，有些不确定。“我的意思是，我已经说过它会损害你的健康了？我不知道它们还有什么效果。”
+0x0100008F000032B4	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	"I am in Heaven. I need it all so bad."	“我身在天堂。我真的全部都想要。”
+0x0100008F000032BB	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	"This is *not* a good place for a recovering addict."	“这可*不是*适合戒瘾患者的好地方。”
+0x0100008F000032C2	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	You	(Say nothing. Just take it in.)	（什么也不说。默默接受。）
+0x0100008F000032C9	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"I'm obliged to inform you that both alcohol and cigarettes damage your health," she comments as you eye the goods behind her, "but I guess you already know that."	店员看见你盯着她身后的货品。“我有义务提醒你，烟酒有害身体健康，”她补充到，“但是我猜你应该已经知道了。”
+0x0100008F000032D0	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"Um... Sure. If you want something, I can get it for you. Just let me know and pay and stuff..." She adjusts her hat.	店员看见你盯着她身后的货品。“呃……当然。如果你想要什么，我可以帮你拿。只要告诉我，然后给钱就行……”她整理了一下自己的帽子。
+0x0100008F000032D6	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"But I'm obliged to inform you that both alcohol and cigarettes damage your health. But I guess you already know that."	“但是我有义务提醒你，抽烟喝酒有害身体健康。不过我猜你应该已经知道了。”
+0x0100008F000032E3	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"Um... Guess not, no." She looks at the wall of goods behind her, then adjusts her hat.	店员看见你盯着她身后的货品。“呃，我猜不是……确实不是。”她整理了一下自己的帽子。
+0x0100008F000032E9	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"I'm obliged to inform you that both alcohol and cigarettes damage your health. But I guess you already know that."	“我有义务提醒你，抽烟喝酒有害身体健康。不过我猜你应该已经知道了。”
+0x0100008F00003300	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Frittte clerk	"... Huh? Speed, like... *speed* speed? No, Frittte doesn't do that..." She blinks at you, bewildered.	她困惑地朝你眨眨眼。“……哈？思必得，你是说……那种*思必得*？没有，弗利多不卖那个……”
+0x0100008F00003306	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Electrochemistry	Bah! What's the point if they don't even sell the *good* drugs?	切！连那种*好*药都不卖，还有什么意思嘛？
+0x0100008F00003318	Dialogue Text	FRITTE / SHIMMERING WALL OF VICES	Kim Kitsuragi	"Of course not," the lieutenant says, glaring at you. "Frittte is an establishment that acts within the law. Is that all, detective?"	“当然不是了，”警督瞪了你一眼，赶紧开口。“弗利多可是合法经营的公司。没别的事了吧，警探？”
+0x010000030000043E	Dialogue Text	FRITTE / TARE MACHINE	Tare Machine	Your bottles clunk into the machine and the money appears with a satisfying jingle. You're a richer man now!	你的瓶子咚的一声进入机器，钱带着一阵悦耳的叮当声出现在你眼前。你现在有钱了！
+0x010000060001D49D	Dialogue Text	FRITTE / TARE MACHINE	Inland Empire	You're 100% sure you got special Hobocop money for that tare. At least +100% extra tare money. If the numbers on the machine told you otherwise, it's a *lie*.	你100%确定那个回收品能给你些特别的钱，流浪警探用的钱。至少+100%额外的回收品钱。如果机器上的数字不一样，那就是在*撒谎*。
+0x010000060001F61F	Dialogue Text	FRITTE / TARE MACHINE	Savoir Faire	Cool. Let's do this swindle. This *tare* swindle.	厉害。让我们来一场诈骗。*回收品*诈骗。
+0x0100002B00029F1A	Dialogue Text	FRITTE / TARE MACHINE	Tare Machine	The tare machine stands in the corner. A sign says: "ONE BOTTLE = TEN CENTS".	回收机站在角落。上面的标志写着：“一瓶=10分钱”
+0x0100002B00029F2A	Dialogue Text	FRITTE / TARE MACHINE	You	Insert your bottles.	投入你的瓶子。
+0x0100002B00029F30	Dialogue Text	FRITTE / TARE MACHINE	You	[Leave.]	[离开。]
+0x0100002B00029F3D	Dialogue Text	FRITTE / TARE MACHINE	Tare Machine	Your bottles clunk into the machine and the money appears with a satisfying jingle. You're a richer man now!	你的瓶子咚的一声进入机器，钱带着一阵悦耳的叮当声出现在你眼前。你现在有钱了！
+0x0100002B00036EBE	Dialogue Text	FRITTE / TARE MACHINE	Electrochemistry	D'you know what you should do with that money, kiddo? You should *buy more alcohol*! Enter the endless cycle of consumption!	你知道该拿那些钱做什么吗，小子？你应该*多买点酒*！走向无尽的消费循环吧！”
+0x0100008F00003324	Dialogue Text	FRITTE / TARE MACHINE	You	"What is this machine?"	“这是什么机器？”
+0x0100008F0000332A	Dialogue Text	FRITTE / TARE MACHINE	Frittte clerk	"Hm?" The clerk looks up, out of her magazine. "Oh. That's the tare machine."	“哈？”店员的眼睛离开了杂志。“哦，那是回收机。”
+0x0100008F00003331	Dialogue Text	FRITTE / TARE MACHINE	You	"Yes, but what *is* it?"	“是啊，但到底是*做什么*的？”
+0x0100008F00003337	Dialogue Text	FRITTE / TARE MACHINE	You	"I understand now. Thank you."	“现在我明白了。谢谢你。”
+0x0100008F0000333F	Dialogue Text	FRITTE / TARE MACHINE	Frittte clerk	She knits her brow, confused. "It's... a machine for tare? You know. You find tare outside -- like, bottles or whatever -- and put it in the machine. Then it gives you money."	她皱起眉头，很是困惑。“这是台……回收用的机器？你知道的。如果在外面找到回收品——比如说，瓶子什么之类的——然后放到机器里。它就会给你钱。”
+0x0100008F00003345	Dialogue Text	FRITTE / TARE MACHINE	Frittte clerk	"Mh." She looks down, back into her magazine.	“嗯。”她低下头，继续翻看杂志。
+0x0100008F00003352	Dialogue Text	FRITTE / TARE MACHINE	You	"I see. And how do I pick up tare for the tare machine?"	“我明白了。那我该怎么捡回收品呢？”
+0x0100008F00003359	Dialogue Text	FRITTE / TARE MACHINE	Frittte clerk	"You need a bag I guess? We used to have some but we gave them all out, so..." She shrugs awkwardly.	“我猜你需要一个袋子？我们这里之前有，不过都已经发出去了，所以……”她笨拙地耸耸肩。
+0x0100008F00003360	Dialogue Text	FRITTE / TARE MACHINE	Frittte clerk	"Feel free to use it if you find a bag, though. I'm sure there are some... out there." She points outside. "Somewhere..."	“不过如果你找到袋子的话，请随意使用吧。我肯定应该还有的……就在外面。”她指向外面。“某个地方……”
+0x0100008F0000336A	Dialogue Text	FRITTE / TARE MACHINE	You	"Excuse me -- I have the tare bag but no tare. Can I still use the tare machine?"	“不好意思——我有回收袋，但是没有回收品。这样能用回收机吗？”
+0x0100008F00003370	Dialogue Text	FRITTE / TARE MACHINE	Frittte clerk	"No." She doesn't even bother looking up out of her magazine. "You need tare to use the tare machine."	“不可以。”她甚至都懒得抬头看你一眼。“有回收品才能用回收机。”
