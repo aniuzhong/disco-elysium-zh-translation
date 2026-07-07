@@ -1,0 +1,66 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x0100005300002AAD	Dialogue Text	EVRART ORB / communistquest	Rhetoric	Now *this* place seems promising from an ideological angle...	从意识形态的角度来看，*这个*地方很有潜力……
+0x0100005300002AB4	Dialogue Text	EVRART ORB / communistquest	You	Where am I?	我在哪？
+0x0100005300002ABA	Dialogue Text	EVRART ORB / communistquest	You	Inhale.	吸气。
+0x0100005300002AC9	Dialogue Text	EVRART ORB / communistquest	Rhetoric	An important place. One of the last bastions of the left in Martinaise. Perhaps here you'll find the man who'll help you get organised?	这是个重要的地方。是马丁内斯保存下来最后一批堡垒。或许在这儿可以发现帮你找到组织的人？
+0x0100005300002ADE	Dialogue Text	EVRART ORB / communistquest	Perception (Smell)	We're getting crates and pallets calling to mind vast stands of winter pines, a swirl of ancient odours absorbed by heavy carpet fibres, but also a pervasive, treacly *sweetness* that somehow reminds you of kola nuts...	那些箱子和货板让人联想到冬日里的大片松树，厚重的地毯吸收了空气中古旧的气息。不过，也有一股四处弥漫的甜蜜*芬芳*，不禁让你联想到可乐果……
+0x0100005300002AE9	Dialogue Text	EVRART ORB / communistquest	Perception (Smell)	... an office? Something officious? Is that a word? There's a bit of dust in the air that may be triggering your allergies.	……这是一间办公室吗？还是什么办公所？有这个词吗？空气中的尘埃可能会导致你过敏……
+0x0100005300002AEF	Dialogue Text	EVRART ORB / communistquest	Evrart Claire	Meanwhile, Evrart Claire clatters away on his typewriter, wilfully indifferent to your presence.	与此同时，艾弗拉特·克莱尔在他的打字机前拼命打着字，故意无视你的存在……
+0x0100005300002AF5	Dialogue Text	EVRART ORB / communistquest	Rhetoric	But you can't just come out and *ask* him. You should make your introduction first. Pay homage. This is a man of *stature*.	但你也不能就这么直接*问*他。你应该先自我介绍一下，以表尊敬。这个人很有*名望*。
+0x0100005300002B03	Dialogue Text	EVRART ORB / communistquest	Evrart Claire	Meanwhile, the man of stature clatters away on his typewriter, wilfully indifferent to your presence.	与此同时，那个很有名望的男人在他的打字机前拼命打着字，故意无视你的存在……
+0x0100005300002B53	Dialogue Text	EVRART ORB / communistquest	Rhetoric	Yes, *of course*. Now we're on the right track...	是的，*当然了*。我们做得对……
+0x0100005300002B5B	Dialogue Text	EVRART ORB / communistquest	Rhetoric	It smells like...	这闻起来像是……
+0x0100005300002B77	Dialogue Text	EVRART ORB / communistquest	Kim Kitsuragi	The lieutenant gives you a sharp sideways look.	警督用尖锐的余光打量着你。
+0x0100005300002B7C	Dialogue Text	EVRART ORB / communistquest	Kim Kitsuragi	"Well? Smelling much *communism* around the Union boss's office?"	“哦？在工会老大的办公室里*康米主义*味道很浓烈吗？”
+0x0100005300002B90	Dialogue Text	EVRART ORB / communistquest	You	"Hush, Kim, I'm detecting."	“嘘，金，我正在调查呢。”
+0x0100005300002B96	Dialogue Text	EVRART ORB / communistquest	You	"Hmmm."	“唔。”
+0x0100005300002D0F	Dialogue Text	EVRART ORB / communistquest	Evrart Claire	Meanwhile, the man behind the desk clatters away on his typewriter, wilfully indifferent to your presence.	与此同时，桌子后面的那个男人在他的打字机前拼命打着字，故意无视你的存在……
+0x0100005300002D28	Dialogue Text	EVRART ORB / communistquest	Perception (Smell)	The whole place could probably use a good deep cleaning, you think.	你觉得这个地方真应该好好打扫一下了。
+0x010000070001B00C	Dialogue Text	EVRART ORB / fishing rod convo	Reaction Speed	Is that an Insulindian phasmid? It looks like an Insulindian phasmid. Quick -- catch it before it scuttles away!	那个是伊苏林迪竹节虫吗？看起来应该就是。快点——赶快抓住它，别让它跑了！
+0x010000070001B012	Dialogue Text	EVRART ORB / fishing rod convo	You	Pirouette toward the phasmid.	踮着脚走向竹节虫。
+0x010000070001B018	Dialogue Text	EVRART ORB / fishing rod convo	You	Creep up to the phasmid quietly.	悄悄爬向竹节虫。
+0x010000070001B01E	Dialogue Text	EVRART ORB / fishing rod convo	You	Wait a moment. Is that really the phasmid? You don't want to make a fool out of yourself.	等一下。那真的是竹节虫吗？你可不想让自己出洋相。
+0x010000070001B024	Dialogue Text	EVRART ORB / fishing rod convo	Fishing Rod	Beautiful leap! But this isn't a phasmid in your hand -- it is a fishing rod.	漂亮！但握在你手里的不是竹节虫——而是一根钓鱼竿。
+0x010000070001B02A	Dialogue Text	EVRART ORB / fishing rod convo	Evrart Claire	His great belly ripples with laughter. "A skinny, shy young girl? Never mind."	他的大肚皮随着笑声起起伏伏。“一个瘦削害羞的年轻姑娘吗？没关系的。”
+0x010000070001B030	Dialogue Text	EVRART ORB / fishing rod convo	Fishing Rod	You're a master of stealth. But look what you've caught -- not a phasmid, but a fishing rod!	你真是潜行大师。但是看看你抓到了什么——不是什么竹节虫，而是一根钓鱼竿！
+0x010000070001B036	Dialogue Text	EVRART ORB / fishing rod convo	Evrart Claire	"Perhaps we should try it out in the wild sometime."	“也许我们应该找个时间去外面试试。”
+0x010000070001B03C	Dialogue Text	EVRART ORB / fishing rod convo	Fishing Rod	Definitely not a phasmid. Definitely a fishing rod.	肯定不是竹节虫。绝对是钓鱼竿。
+0x010000070001B042	Dialogue Text	EVRART ORB / fishing rod convo	Evrart Claire	"I doubt you'll learn anything from that fishing rod."	“我觉得你从那根钓鱼竿也看不出什么来吧。”
+0x010000070001B048	Dialogue Text	EVRART ORB / fishing rod convo	Evrart Claire	"What are you trying to accomplish, Harry?"	“你这是想干什么，哈里？”
+0x010000070001B04E	Dialogue Text	EVRART ORB / fishing rod convo	You	"Fisherman? Totally. It's all I do for fun."	“钓鱼爱好者？那还用说。那可是我平时唯一的乐趣了。”
+0x010000070001B054	Dialogue Text	EVRART ORB / fishing rod convo	You	"Uh, it's a novel fishing method."	“呃，这是一种比较新奇的钓鱼方法。”
+0x010000070001B05A	Dialogue Text	EVRART ORB / fishing rod convo	Evrart Claire	"Ha ha, maybe you were."	“哈哈，也许是吧。”
+0x010000070001B060	Dialogue Text	EVRART ORB / fishing rod convo	You	"Sorry, I thought the fishing rod was... something else."	“抱歉，我把钓鱼竿当成了……别的东西。”
+0x010000070001B066	Dialogue Text	EVRART ORB / fishing rod convo	Evrart Claire	"Well, you certainly succeeded, Harry." He adjust himself in the chair. "You are a very surprising police officer indeed."	“好吧，你的确成功了，哈里。”他坐在椅子里，稍微调整了一下姿势。“你确实是个很让人惊喜的警官。”
+0x010000070001B06C	Dialogue Text	EVRART ORB / fishing rod convo	You	"I was just trying to surprise you. To throw you off, you know."	“我是想给你个惊喜。迷惑你，你懂得。”
+0x010000070001B077	Dialogue Text	EVRART ORB / fishing rod convo	Fishing Rod	You shout at what you thought to be a phasmid, but turns out to be a fishing rod.	你朝着你眼中的竹节虫大声呵斥，没想到它不过是根钓鱼竿。
+0x010000070001B07D	Dialogue Text	EVRART ORB / fishing rod convo	Evrart Claire	"I thought so, Harry, I thought so. We should go out together sometime. Bond like men of worth and value."	“我猜也是，哈里，我就知道。我俩应该找个时间一起出去。像有价值的男人一样，团结一心。”
+0x010000070001B083	Dialogue Text	EVRART ORB / fishing rod convo	You	"Nah, I'm just sizing you up. Studying your strengths and weaknesses."	“没，我不过是想试试你。研究下你的优点，还有弱点。”
+0x010000070001B089	Dialogue Text	EVRART ORB / fishing rod convo	Inland Empire	It's gotta be the phasmid this time. Look -- it moved!	这次肯定是竹节虫。你看——它动了！
+0x010000070001B08F	Dialogue Text	EVRART ORB / fishing rod convo	Evrart Claire	"I see you're admiring my fishing gear. Are you by any chance a fisherman yourself?"	“我看你好像挺喜欢我的钓鱼装备。你不会刚好也是个钓鱼爱好者吧？”
+0x010000070001B095	Dialogue Text	EVRART ORB / fishing rod convo	You	"I think maybe I used to be the Fisher King..."	“我觉得我曾经还可能是钓鱼之王呢……”
+0x010000070001B0A0	Dialogue Text	EVRART ORB / fishing rod convo	You	"Stop right there!"	“站住！”
+0x010000070001AF38	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	Reaction Speed	Is that an Insulindian phasmid? It looks like an Insulindian phasmid. Quick -- catch it before it scuttles away!	那个是伊苏林迪竹节虫吗？看起来应该就是。快点——赶快抓住它，别让它跑了！
+0x010000070001AF3E	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	You	Pirouette toward the phasmid.	踮着脚走向竹节虫。
+0x010000070001AF44	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	You	Creep up to the phasmid quietly.	悄悄爬向竹节虫。
+0x010000070001AF4A	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	You	Wait a moment. Is that really the phasmid? You don't want to make a fool out of yourself.	等一下。那真的是竹节虫吗？你可不想让自己出洋相。
+0x010000070001AF50	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	Fishing Rod	Beautiful leap! But this isn't a phasmid in your hand -- it is a fishing rod.	漂亮！但握在你手里的不是竹节虫——而是一根钓鱼竿。
+0x010000070001AF57	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	Fishing Rod	You're a master of stealth. But look what you've caught -- not a phasmid, but a fishing rod!	你真是潜行大师。但是看看你抓到了什么——不是什么竹节虫，而是一根钓鱼竿！
+0x010000070001AF5E	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	Fishing Rod	Definitely not a phasmid. Definitely a fishing rod.	肯定不是竹节虫。绝对是钓鱼竿。
+0x010000070001AF65	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	Evrart Claire	"What are you trying to accomplish, Harry?"	“你这是想干什么，哈里？”
+0x010000070001AF6C	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	You	"Uh, it's a novel fishing method."	“呃，这是一种比较新奇的钓鱼方法。”
+0x010000070001AF73	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	You	"Sorry, I thought the fishing rod was... something else."	“抱歉，我把钓鱼竿当成了……别的东西。”
+0x010000070001AF7A	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	You	"I was just trying to surprise you. To throw you off, you know."	“我是想给你个惊喜。迷惑你，你懂得。”
+0x010000070001AF81	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	Evrart Claire	"Perhaps we should try it out in the wild sometime."	“也许我们应该找个时间去外面试试。”
+0x010000070001AF88	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	Evrart Claire	His great belly ripples with laughter. "A skinny, shy young girl? Never mind."	他的大肚皮随着笑声起起伏伏。“一个瘦削害羞的年轻姑娘吗？没关系的。”
+0x010000070001AF8F	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	Evrart Claire	"Well, you certainly succeeded, Harry." He adjust himself in the chair. "You are a very surprising police officer indeed."	“好吧，你的确成功了，哈里。”他坐在椅子里，稍微调整了一下姿势。“你确实是个很让人惊喜的警官。”
+0x010000070001AF99	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	Evrart Claire	"I see you're admiring my fishing gear. Are you by any chance a fisherman yourself?"	“我看你好像挺喜欢我的钓鱼装备。你不会刚好也是个钓鱼爱好者吧？”
+0x010000070001AFA0	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	You	"Fisherman? Totally. It's all I do for fun."	“钓鱼爱好者？那还用说。那可是我平时唯一的乐趣了。”
+0x010000070001AFA7	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	You	"I think maybe I used to be the Fisher King..."	“我觉得我曾经还可能是钓鱼之王呢……”
+0x010000070001AFAE	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	You	"Nah, I'm just sizing you up. Studying your strengths and weaknesses."	“没，我不过是想试试你。研究下你的优点，还有弱点。”
+0x010000070001AFB5	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	Evrart Claire	"I thought so, Harry, I thought so. We should go out together sometime. Bond like men of worth and value."	“我猜也是，哈里，我就知道。我俩应该找个时间一起出去。像有价值的男人一样，团结一心。”
+0x010000070001AFBC	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	Evrart Claire	"Ha ha, maybe you were."	“哈哈，也许是吧。”
+0x010000070001AFC3	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	Evrart Claire	"I doubt you'll learn anything from that fishing rod."	“我觉得你从那根钓鱼竿也看不出什么来吧。”
+0x010000070001AFCE	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	You	"Stop right there!"	“站住！”
+0x010000070001AFD4	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	Fishing Rod	You shout at what you thought to be a phasmid, but turns out to be a fishing rod.	你朝着你眼中的竹节虫大声呵斥，没想到它不过是根钓鱼竿。
+0x010000070001AFE3	Dialogue Text	EVRART ORB / fishing rod dialogue OBSOLETE	Inland Empire	It's gotta be the phasmid this time. Look -- it moved!	这次肯定是竹节虫。你看——它动了！
