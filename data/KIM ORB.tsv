@@ -1,0 +1,41 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x01000094000008F4	Dialogue Text	KIM ORB / seolite conspiracy	Half Light	Do you feel that?	你感觉到了吗？
+0x01000094000008FB	Dialogue Text	KIM ORB / seolite conspiracy	You	Feel what?	感觉什么？
+0x0100009400000902	Dialogue Text	KIM ORB / seolite conspiracy	Half Light	That tingle on the back of your neck... like you're being *watched*.	后颈传来的刺痛感……就好像你被*监视*了一样。
+0x010000940000090F	Dialogue Text	KIM ORB / seolite conspiracy	You	I said I'm *really* not interested in stupid conspiracy theories. [Discard thought.]	我说过，我*真的*对这种愚蠢的阴谋论没有兴趣。[放弃思维。]
+0x0100009400000916	Dialogue Text	KIM ORB / seolite conspiracy	You	What, where? (Look around.)	什么，哪里？（四下查看。）
+0x0100009400000926	Dialogue Text	KIM ORB / seolite conspiracy	You	I don't feel anything.	我什么也没感觉到。
+0x0100009400000931	Dialogue Text	KIM ORB / seolite conspiracy	You	"Kim, is it true that your people are secretly spying on everyone?"	“金，都说你们的人在秘密监视所有人，是真的吗？”
+0x0100009400000937	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	"My... people? What are you talking about?"	“我..我们的人？你在说什么呢？”
+0x010000940000093D	Dialogue Text	KIM ORB / seolite conspiracy	You	"You don't need to pretend anymore, Agent Kim. I know all about your Seolite spy tech."	“你不用再掩饰了，特工金先生。我对你们西奥人的间谍技术了如指掌。”
+0x0100009400000943	Dialogue Text	KIM ORB / seolite conspiracy	You	"I just want to know what's in my personal file. Who am I? What happened to me? You owe me that much, at least."	“我只想知道自己的个人信息。我是谁？我出了什么事？或者至少是……你欠我多少钱？”
+0x010000940000094F	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	The lieutenant sighs, takes off his glasses, and breathes on the lenses, fogging up the glass. As he wipes them clean on his jacket, he begins speaking.	警督叹了一口气，取下眼镜，朝镜片哈了一口气，玻璃瞬间蒙上一股水雾。他用外套一边擦拭镜片，一边慢慢开了口。
+0x0100009400000955	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	"Now, let's move on. I find this subject tiresome."	“现在，我们继续前进吧。我觉得这个话题真的很无聊。”
+0x010000940000095B	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	"I don't care what that delinquent said."	“欠债的人说的话，我才不在乎呢。”
+0x010000940000096B	Dialogue Text	KIM ORB / seolite conspiracy	You	"Wait, so you can't tell me anything about myself, using spy technology?"	“等一下，难道你就不能用间谍技术告诉我一些我的事吗？”
+0x0100009400000971	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	"And no such recordings exist, to my knowledge. Seol has bigger squid to fry."	“据我所知，没有这种记录存在。西奥还有更要紧的事要做。”
+0x0100009400000977	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	"In case you've forgotten, men and women in our profession rarely make it to retirement -- and certainly not if they do not trust their partners."	“提醒你一句，我们这一行的男男女女很少能活到退休——如果不相信自己的搭档，那就更难了。”
+0x010000940000097D	Dialogue Text	KIM ORB / seolite conspiracy	You	"I'm sorry I doubted you, Kim."	“抱歉，我不该怀疑你，金。”
+0x0100009400000983	Dialogue Text	KIM ORB / seolite conspiracy	You	"Why not?"	“为什么不呢？”
+0x010000940000098F	Dialogue Text	KIM ORB / seolite conspiracy	You	"I knew it! I knew you couldn't really be a traitor!"	“我就知道！我知道你绝对不是真的叛徒！”
+0x0100009400000995	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	"I respect you as a colleague, and so I will have this conversation with you, but only once."	“你是我的同事，我尊重你。所以我们现在才会进行这样的对话，但是仅限于这一次。”
+0x010000940000099B	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	"There is no Seolite Conspiracy, and even if there were, I would not be a part of it."	“根本就没有什么西奥阴谋论，就算真有，那也跟我毫不相干。”
+0x01000094000009A1	Dialogue Text	KIM ORB / seolite conspiracy	You	"Thanks for clearing that up, lieutenant."	“感谢你的澄清，警督。”
+0x01000094000009A7	Dialogue Text	KIM ORB / seolite conspiracy	You	"But Gary said..."	“但是盖理说……”
+0x01000094000009AD	Alternate1	KIM ORB / seolite conspiracy	Kim Kitsuragi	"As you've heard me say before, I was born and raised Revacholian. So was my mother. As for my father -- I didn't know him, I don't know who he was. And I don't care. From what I've heard, he wasn't a very pleasant person to be around."	“我之前也说过了，我是土生土长的瑞瓦肖人。我母亲也是。至于我的父亲——我不认得他，也不知道他是谁。而且我也不在乎。从我得到的消息来看，他在这一片可不是什么善茬。”
+0x01000094000009AD	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	"I was born and raised Revacholian. So was my mother. As for my father, I didn't know him, I don't know who he was. And I don't care. From what I've heard, he wasn't a very pleasant person to be around."	“我是土生土长的瑞瓦肖人。我母亲也是。至于我的父亲，我不认得他，也不知道他是谁。而且我也不在乎。从我得到的消息来看，他在这一片可不是什么善茬。”
+0x01000094000009B5	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	He gestures for you to stop.	他挥手示意你停下。
+0x01000094000009BB	Dialogue Text	KIM ORB / seolite conspiracy	You	"I'm sorry I doubted you even for a moment, Kim." (Lie.)	“抱歉，金，我刚才居然会怀疑你。”（撒谎。）
+0x01000094000009C1	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	"At least you were forthcoming with your doubt. Now, let's move on. I find this subject tiresome."	“至少你提出了自己的疑问。现在，我们继续吧。这个话题真的挺无聊的。”
+0x01000094000009C7	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	He smirks. "Nothing from surreptitious recordings collected by Seolite agents in an effort to compromise the Militia."	他勉强挤出一丝假笑。“西奥特工努力收集到的秘密录音，根本就不是为了让自卫队难堪。”
+0x01000094000009CD	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	He leans back and studies you with a look of grave concern.	他向后靠了靠，带着一幅严重关切地表情打量着你。
+0x01000094000009D5	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	"Yes. Now, let's move on. I find this subject tiresome."	“是的。好了，我们继续前进吧。我觉得这个话题挺无聊的。”
+0x01000094000009FF	Dialogue Text	KIM ORB / seolite conspiracy	Kim Kitsuragi	The lieutenant is waiting patiently, tapping his foot lightly to a tune only he can hear.	警督耐心等待着，轻轻用脚打着只有自己才能听到的曲调。
+0x0100009400000A06	Dialogue Text	KIM ORB / seolite conspiracy	Half Light	*Don't* you, though?	难道你*不也是吗*？
+0x0100009400000A0D	Dialogue Text	KIM ORB / seolite conspiracy	You	Okay, maybe there's *something*. (Look around.)	好吧，确实*有些事*。（环顾四周。）
+0x0100009400000A13	Dialogue Text	KIM ORB / seolite conspiracy	You	Nope, everything's normal here. [Discard thought.]	没，这里一切正常。[放弃思维。]
+0x0100009400000A1D	Dialogue Text	KIM ORB / seolite conspiracy	Half Light	There, *the lieutenant*. Isn't it suspicious how he's always there, *watching* you, *listening* to you?	对了，那个*警督*。难道你不觉得很可疑吗，他一直在那里*监视*你，还*监听*你说话？
+0x0100009400000A24	Dialogue Text	KIM ORB / seolite conspiracy	Empathy	Isn't that what you've always wanted, to be listened to?	对人倾述，难道这不就是你一直想要的吗？
+0x0100009400000A2B	Dialogue Text	KIM ORB / seolite conspiracy	Logic	Assume for the sake of argument that there's something to this inane conspiracy... If Seol is keeping tabs on everyone, maybe they can fill in some of your memory holes...	为了便于讨论，我们假设这个愚蠢的阴谋确实有蹊跷……如果西奥一直在秘密监视所有人，也许这样就可以填补你记忆中的部分空白……
+0x0100009400000A32	Dialogue Text	KIM ORB / seolite conspiracy	You	There's nothing suspicious here. [Discard thought.]	这里没什么可疑的。[放弃思维。]
+0x0100009400000A51	Dialogue Text	KIM ORB / seolite conspiracy	You	"I'm really just interested in the spy tech. How did you get the micro-cassettes so micro?"	“我真的只是对间谍技术感兴趣而已。所以你们是怎么把这个微型录音带搞得这么小的？”
