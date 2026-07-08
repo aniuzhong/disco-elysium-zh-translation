@@ -1,0 +1,153 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x0100008100003029	Dialogue Text	JAM ORB / dlc truck	Shivers	The Delta Logistics Company truck stands here waiting, reflecting white light from the courtyard behind it.	德尔塔物流公司的货車在这里等待着，后面院子的白光反射在車身上。
+0x0100008100003036	Dialogue Text	JAM ORB / dlc truck	You	Are there people in there?	里面有人吗？
+0x0100008100003042	Dialogue Text	JAM ORB / dlc truck	You	Why is the light so strange?	为什么这光感觉怪怪的？
+0x0100008100003048	Dialogue Text	JAM ORB / dlc truck	You	Let it go for now. [Leave.]	暂时先不管它。[离开。]
+0x010000810000305D	Dialogue Text	JAM ORB / dlc truck	Shivers	Because this is a place of mystery.	因为这是一个神秘的地方。
+0x0100008100003063	Dialogue Text	JAM ORB / dlc truck	Shivers	Yes, people hard at work at their desks. They can barely tell if it's day or night anymore because the lights in the building are so uniform and bright. Who knows when they'll come out?	是的，人们努力伏案工作着。大楼里的灯光始终那么明亮，让他们很难分辨现在是白天还是黑夜。谁知道他们什么时候会出来？
+0x010000810000306F	Dialogue Text	JAM ORB / dlc truck	You	What keeps them motivated?	是什么给了他们动力？
+0x0100008100003075	Dialogue Text	JAM ORB / dlc truck	Shivers	Could be. They certainly want to stir the pot. Remake reality in some new image.	也许。他们肯定想破坏现状，用某种新形象来重新塑造现实。
+0x010000810000309E	Dialogue Text	JAM ORB / dlc truck	You	Are they really so pressed for time to finish whatever they're doing? Sounds potentially dangerous...	不管他们在做什么，完成时间真有这么紧张吗？听起来好像挺危险的……
+0x01000081000030A7	Dialogue Text	JAM ORB / dlc truck	You	Those don't sound like proper working conditions.	听起来可不像什么恰当的工作环境。
+0x01000081000030AF	Dialogue Text	JAM ORB / dlc truck	You	Sounds like a highly motivated bunch.	听上去像是一群干劲十足的人。
+0x01000081000030B5	Dialogue Text	JAM ORB / dlc truck	You	I hope they're working for the glory of Revachol, at least.	希望他们至少是为了瑞瓦肖的荣耀而工作。
+0x01000081000030BB	Dialogue Text	JAM ORB / dlc truck	Shivers	Irony. They're yuppies masquerading as Mazovians... Or was it Mazovians masquerading as yuppies? Even they get confused sometimes, out here in poverty-stricken Martinaise.	讽刺。他们是冒充马佐夫主义者的雅皮士……又或者是马佐夫主义者在冒充雅皮士？在备受贫穷困扰的马丁内斯，就连他们自己有时也会搞混。
+0x01000081000030C2	Dialogue Text	JAM ORB / dlc truck	Shivers	Yes, and it's rather ironic, because they believe themselves to be Mazovians deep down.	是的，确实很讽刺，因为在内心深处，他们相信自己是马佐夫主义者。
+0x01000081000030CB	Dialogue Text	JAM ORB / dlc truck	Shivers	Could be. Not sure they remember what they're working for anymore themselves...	也许。不确定他们是否还记得自己在为什么工作……
+0x01000081000030D1	Dialogue Text	JAM ORB / dlc truck	Shivers	Yes, they are highly motivated by irony, being yuppies masquerading as Mazovians... Or was it Mazovians masquerading as yuppies? Even they get confused sometimes, here in poverty-stricken Martinaise.	是的，作为冒充马佐夫主义者的雅皮士，他们在讽刺的激励下积极奋斗着……又或者是冒充雅皮士的马佐夫主义者？在备受贫穷困扰的马丁内斯，就连他们自己有时也会搞混。
+0x01000081000063DA	Alternate1	JAM ORB / dlc truck	Shivers	You're not yet equipped for that expedition.	你还没准备好去探险。
+0x01000081000063DA	Dialogue Text	JAM ORB / dlc truck	Shivers	Not yet.	还没有。
+0x01000081000063E7	Alternate1	JAM ORB / dlc truck	Kim Kitsuragi	"A mythical cocaine skull could hardly be of any consequence to our ongoing investigation." The lieutenant adjusts his glasses.	警督调整了一下眼镜。“一个虚构的可卡因骷髅跟我们现在的调查几乎没有任何关系。”
+0x01000081000063E7	Dialogue Text	JAM ORB / dlc truck	Kim Kitsuragi	"Whatever's going on there could hardly be of any consequence to our ongoing investigation." The lieutenant adjusts his glasses.	警督调整了一下眼镜。“不管那里发生了什么，对我们现在的调查都几乎没有任何影响。”
+0x01000081000063EF	Dialogue Text	JAM ORB / dlc truck	Kim Kitsuragi	"You can come back to it on your own when we're done with this case."	“案子处理完之后，你可以自己再回来。”
+0x01000081000063F5	Alternate1	JAM ORB / dlc truck	You	"Hey Kim, let's try to get into that courtyard. That's where Idiot Doom Spiral said we could find the cocaine skull..."	“喂，金，我们想办法进院子里去吧。白痴厄运漩涡说我们可以在里面找到可卡因骷髅……”
+0x01000081000063F5	Alternate2	JAM ORB / dlc truck	You	"Hey Kim, let's try to get into that courtyard. It's *so* mysterious."	“喂，金，我们想办法进院子里去吧。它*真是*太神秘了。”
+0x01000081000063F5	Alternate3	JAM ORB / dlc truck	You	Isn't that where the cocaine skull is supposed to be? How do I get into the courtyard?	那不就是可卡因骷髅的所在地吗？我怎么才能进到院子里去呢？
+0x01000081000063F5	Dialogue Text	JAM ORB / dlc truck	You	Can't I get into the courtyard somehow?	难道就不能想办法进到院子里去吗？
+0x0100008100006408	Dialogue Text	JAM ORB / dlc truck	Shivers	You knew it would be here, blocking the gate.	你知道它可能就在这里，堵住了大门。
+0x0100005A00002CB2	Dialogue Text	JAM ORB / fuckoffafterthought	Half Light	Damn, that felt *good*. Your heart's pounding nicely. You should tell people to fuck off more often.	见鬼，这种感觉*很棒*。你的心兴奋地跳动着。你应该告诉别人，要多犯点错误才对。
+0x0100005A00002CB9	Dialogue Text	JAM ORB / fuckoffafterthought	You	Fuck yeah, motherfuckers!	真他妈的对，混帐东西！
+0x0100005A00002CC0	Dialogue Text	JAM ORB / fuckoffafterthought	You	"Kim, I think I should tell people to fuck off more often. It felt really good."	“金，我觉得我应该告诉别人，应该多犯点错误，感觉真的很棒。”
+0x0100005A00002CC6	Dialogue Text	JAM ORB / fuckoffafterthought	You	It's not really my style.	这真的不是我的风格。
+0x0100005A00002CCE	Dialogue Text	JAM ORB / fuckoffafterthought	Kim Kitsuragi	"Not as a general rule, but that one was justified. Better to get the lay of the land before telling people to fuck off."	“照例来说不应该这样，不过确实是事出有因。在告诉别人多犯错误之前，最好先弄清楚情况的好。”
+0x0100005A00002CDC	Dialogue Text	JAM ORB / fuckoffafterthought	Authority	That means you should do it whenever you feel like someone's disrespecting your authority.	这就意味着：每当你感觉有人不尊重你的权威，就应该这么做。
+0x0100005A00002CEB	Dialogue Text	JAM ORB / fuckoffafterthought	Volition	No, you shouldn't. You're an officer of the law.	不，你不应该这么做。你是执法人员。
+0x0100005A00002CF5	Dialogue Text	JAM ORB / fuckoffafterthought	Half Light	Never forget: The whole world's a wooden house and you're a god damn flamethrower.	永远不要忘记：这个世界是一座木房子，而你是一个该死的火焰喷射器。
+0x0100005A00002CFB	Dialogue Text	JAM ORB / fuckoffafterthought	Half Light	Hey, I've got an idea on how to fix your style. Maybe you should just go fuck yourself? Yeah, ever thought of that?	喂，我想到一个办法可以修复你的风格。也许你应该玩自己的老二去？对哦，有没有想过这一点？
+0x01000070000009B5	Dialogue Text	JAM ORB / fuckoffafterthought	Half Light	That's the spirit!	这才是精神所在！
+0x0100002B00041080	Dialogue Text	JAM ORB / logic orb	Logic	Someone here is stealing from a company called Humanox.	这里有人在从一个名叫纽曼奥克斯的公司偷东西。
+0x0100002B0004108D	Dialogue Text	JAM ORB / logic orb	Kim Kitsuragi	"Did you see that?" The lieutenant nods towards the vehicle. "The seals on the humanitarian aid lorry have been broken off."	“你看见了吗？”警督朝着一辆車点点头。“人道救援货車上的封条被撕掉了。”
+0x0100002B00041092	Dialogue Text	JAM ORB / logic orb	Encyclopedia	Humanox is a non-profit humanitarian aid organization created by EPIS countries to provide assistance during humanitarian crises.	纽曼奥克斯是一个非盈利性的人道主义救援组织，由EPIS国家创建，目的是在人道主义危机发生时提供援助。
+0x0100002B0004109C	Dialogue Text	JAM ORB / logic orb	You	"Looks like someone's stealing."	“看来有人在偷东西。”
+0x0100002B000410A2	Dialogue Text	JAM ORB / logic orb	You	"I did see it, yes. Let's better not jump to any conclusion."	“我看见了，没错。我们最好先别下定论。”
+0x0100002B000410AA	Dialogue Text	JAM ORB / logic orb	Kim Kitsuragi	"You may be right," he agrees, scanning the jam. "Let's keep our eyes open."	“也许你是对的，”他扫了一眼拥堵的交通，表示赞同。“我们最好把眼睛睁大点。”
+0x0100002B000410B2	Dialogue Text	JAM ORB / logic orb	You	"I have a feeling Siileng's involved in this."	“我有种感觉，这里可能牵涉到席勒。”
+0x0100002B000410B9	Dialogue Text	JAM ORB / logic orb	Kim Kitsuragi	"You may be right. Let's see what he's got to say."	“也许你是对的，我们去探探他的口风。”
+0x0100002B000410C1	Dialogue Text	JAM ORB / logic orb	Kim Kitsuragi	"Yes, absolutely," the lieutenant agrees, while his eyes scan the traffic jam. "But let's keep our eyes open nevertheless."	“是这样没错，”警督瞟了一眼拥堵的交通，表示赞同。“不管怎么说，我们还是把眼睛睁大一点吧。”
+0x0100002B000410D0	Dialogue Text	JAM ORB / logic orb	Kim Kitsuragi	"Yes, absolutely," he agrees, while his eyes turn to the traffic jam. "But I suggest we keep our eyes open around that streethawker we met before."	“是这样没错，”他看了一眼拥堵的交通，表示赞同。“还记得之前遇到的那个街头小贩吗，我建议我们还是睁大眼睛的好。”
+0x0100002B000410DC	Dialogue Text	JAM ORB / logic orb	You	Okay-do. What's EPIS, though?	好的。不过，EPIS是什么？
+0x0100002B000410E2	Dialogue Text	JAM ORB / logic orb	Encyclopedia	Now that I start to think about it I'm not even sure it was EPIS... maybe it was ECIS, or ETIS? Maybe your brain just made this letter combination up to sound more professional. Kiddo, it's a mystery.	当我开始思考这个问题的时候，发现甚至连自己也不确定到底是不是EPIS……也许是ECIS，或者ETIS？也许这不过是你大脑编造出来的词汇，好让自己显得更专业一些。老兄，这是个谜。
+0x0100002B000410E9	Dialogue Text	JAM ORB / logic orb	You	I don't believe you.	我不信你。
+0x0100002B000410EF	Dialogue Text	JAM ORB / logic orb	Encyclopedia	Then don't.	那就不要信。
+0x0100002B0005B5D6	Dialogue Text	JAM ORB / logic orb	Logic	You were right. That streethawker really *was* stealing from the back of his own truck.	你是对的。那个街头小贩*真的*在从自己的货車后面偷东西。
+0x0100002B0005B5EA	Dialogue Text	JAM ORB / logic orb	You	"Did you see that, Kim? It must be Siileng's truck."	“你看见了吗，金？那台肯定是席勒的货車。”
+0x0100002B0005B5F0	Dialogue Text	JAM ORB / logic orb	You	"Oh my god, I'm a legit genius. Here's proof that Siileng really was selling stolen goods!"	“天啦，我可真是个合法天才。这就证明席勒确实在贩售偷来的货物！”
+0x0100002B0005B607	Dialogue Text	JAM ORB / logic orb	You	"Humanox... This stands for humanitarian aid, right?"	“纽曼奥克斯……代表的是人道主义救援，对吗？”
+0x0100002B0005B60E	Dialogue Text	JAM ORB / logic orb	Kim Kitsuragi	"Yes," nods the lieutenant, "Humanox is a well-known humanitarian aid organization. It must be the streethawker's truck."	“是的，”警督点点头，“纽曼奥克斯是一家知名人道主义救援组织。这肯定是街头小贩的货車。”
+0x0100002B0005B615	Dialogue Text	JAM ORB / logic orb	Kim Kitsuragi	"Good to know that we were right," the lieutenant remarks dryly. "Would have *sucked* to rip a man off for no reason at all."	“很高兴我们是对的，”警督干巴巴地回应到。“毫无理由地讹诈别人，那就真是太*恶劣*了。”
+0x0100006B00008221	Dialogue Text	JAM ORB / logic orb	You	Cool. Thieves. I should catch them.	酷。小偷。我应该抓住他们。
+0x0100006B00008226	Dialogue Text	JAM ORB / logic orb	You	[Discard thought.]	[放弃思维。]
+0x0100006B0000822D	Dialogue Text	JAM ORB / logic orb	Logic	That's what a cop does, isn't it? Keep your eyes peeled... crime is close by.	警察就是干这个的，对吧？把眼睛增大一点……罪恶就在我们身边。
+0x0100006B00008236	Dialogue Text	JAM ORB / logic orb	You	Okay. But what am I supposed to do about it?	好吧。但我应该怎么做？
+0x0100006B0000823D	Dialogue Text	JAM ORB / logic orb	Logic	Uh, dunno. Nothing, I guess. It's not like there's something you can do, you're but a mere cop.	呃，不知道。我猜，什么也不做吧。又不是说你能做些什么，毕竟你只是个警察。
+0x0100006B00008244	Dialogue Text	JAM ORB / logic orb	You	Great! I'm smart.	太好了！我真聪明。
+0x0100006B00008249	Dialogue Text	JAM ORB / logic orb	You	[Discard thought.]	[放弃思维。]
+0x0100006B00008252	Dialogue Text	JAM ORB / logic orb	Logic	Atta boy!	好小子！
+0x0100000400014FB6	Dialogue Text	JAM ORB / pagetwothought	Inland Empire	You're right. There's an absence inside of you, something missing that may have been freckled too.	你说得对。你的身体里有一种空虚感，有种缺失的东西也有雀斑。
+0x0100000400014FBE	Dialogue Text	JAM ORB / pagetwothought	You	But Kim...	但是金……
+0x0100008F00001657	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	That page-three girl... she must be *the* most beautiful page-three girl ever printed. And look at those freckles! The origin of disco... makes you wanna dive into the boogie, doesn't it? Get closer to disco itself with Miss Page-Three.	那个三版女郎……她绝对是出版历史上*最漂亮*的三版女郎。看看那些小雀斑！迪斯科的起源……让你想要终身跃入布吉舞会，不是吗？跟三版女郎一起，更靠近迪斯科一些。
+0x0100008F0000165E	Dialogue Text	JAM ORB / pagetwothought	You	No. This is not how I want to remember the freckled girl. [Finish thought.]	不。我记忆中的雀斑女孩不是这样的。[完成思维。]
+0x0100008F00001664	Dialogue Text	JAM ORB / pagetwothought	You	Yeah... I want to get into the groovy. Let's disco, baby. (Start unzipping.)	是啊……我想嗨起来！让我们一起跳迪斯科吧，宝贝。（开始拉开拉链。）
+0x0100008F0000168A	Dialogue Text	JAM ORB / pagetwothought	You	Hang on. Right now? Unzip?	等一下。现在吗？拉开拉链？
+0x0100008F000016A5	Dialogue Text	JAM ORB / pagetwothought	You	Go on...	继续……
+0x0100008F000016CB	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	That's exactly what I mean. Unzip and party down on yourself, my man. No one's watching.	我就是这个意思。拉开拉链，尽情狂欢吧，伙计。又没人看你。
+0x0100008F000016D1	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	Except Miss Page-Three, of course.	当然，除了三版女郎之外。
+0x0100008F000016E1	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	PARTY WITH MISS PAGE-THREE ALL THE WAY TO DISCO ZERO!	跟三版女郎一起，在迪斯科的音乐中尽情派对，纵情狂舞！
+0x0100008F000017B0	Dialogue Text	JAM ORB / pagetwothought	Rhetoric	L'origine du disco! Such a powerful conceit, and this is what we're going to do with it? The commitment of an act of gross public indecency?	迪斯科的起源！多么的强大，多么的狂妄，这就是我们要做的吗？为公然猥亵罪而献身？
+0x0100008F000017B7	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	It'd be indecent to ignore Miss Page-Three. Beauty is inviting you on a pilgrimage!	忽视三版女郎是不礼貌的。美人在邀请你一起去朝圣！
+0x0100008F000017C3	Dialogue Text	JAM ORB / pagetwothought	You	Hm... How *exactly* can I travel to the origin of disco with Miss Page-Three?	嗯……我*到底*怎样才能跟三版女郎一起前往迪斯科的起源呢？
+0x0100008F000017CA	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	Oh, come on. Don't say you've forgotten *that* as well. You can *feel* what you wanna do. You wanna party, don't you? Party right now with Miss Page-Three. *Unzip* and party.	哎呀，拜托。别说你连*那个*都忘记了。你可以*感觉*到自己到底想做什么。你想狂欢，不是吗？现在就跟三版女郎一起狂欢吧。*拉开拉链*，然后嗨起来。
+0x0100008F000017D2	Dialogue Text	JAM ORB / pagetwothought	You	I don't think so... there's just something uncomfortable about all of this.	我不这么觉得……这一切感觉有点不太舒服。
+0x0100008F000017DF	Dialogue Text	JAM ORB / pagetwothought	You	Should I invite Kim to travel to the origin disco with me?	我不应该邀请金跟我一起前往迪斯科的起源吗？
+0x0100008F000017E5	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	Absolutely not.	绝对不可以。
+0x0100008F000017EC	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	Look at her thighs, *between* her thighs, and... what are you waiting for, man?!	看看她的大腿，还有她的*两腿之间*，还有……你还在等什么呢，伙计？！
+0x0100008F000017FE	Dialogue Text	JAM ORB / pagetwothought	Inland Empire	... is what you're thinking. But you don't want to disco like this. Not really. Not in the deepest part of your soul, where the freckles only make you sad.	……你想是这么想的。但你不想要这样的迪斯科。不完全是。不在你灵魂的最深处，那里的雀斑只会让你感到悲伤。
+0x0100008F00001805	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	COME ON! I SAID PARTY!	来啊！我说狂欢起来！
+0x0100008F00001811	Dialogue Text	JAM ORB / pagetwothought	You	(Party.)	（嗨起来。）
+0x0100008F00001819	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	I DIDN'T SAY PARTY THIS SECOND!	我没说就狂欢一秒！
+0x0100008F0000181F	Dialogue Text	JAM ORB / pagetwothought	Kim Kitsuragi	The usually unflappable lieutenant takes a surprised step back. "Officer... what are you doing?"	平常很镇定的警督突然后退了一步。“警官……你在做什么？”
+0x0100008F0000182E	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	Party later. Party in *private*. Like you would if you ever prayed.	之后再狂欢吧。*私人*的时候再狂欢。就像你曾经祈祷的一样。
+0x0100008F00001835	Dialogue Text	JAM ORB / pagetwothought	You	Why do I hurt all of a sudden?	我为什么突然感觉到痛苦？
+0x0100008F0000183C	Dialogue Text	JAM ORB / pagetwothought	Inland Empire	The furnace has long been cold, despite itself. You're too sad to jerk off. This is not the first time this has happened, either.	炉子已经这样冰冷很久了，不过它本身就是如此。你太过悲伤，很难给自己的下半身带来安慰。而且，这种事已经不是第一次发生了。
+0x0100008F00001858	Dialogue Text	JAM ORB / pagetwothought	You	"I, uh... had to zip *up* my fly. That's all. Let's move on." [Finish thought.]	“我，呃……必须*拉上*拉链。就这样。我们走吧。”[完成思维。]
+0x0100008F00001863	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	Fuck. Fuuuuuuuuuck! But it's the origin of all disco, buddy! Why not?	该死。你真他妈的该死！！！！这可是所有迪斯科的起源啊，伙计！为什么不这么做？
+0x0100008F00001869	Dialogue Text	JAM ORB / pagetwothought	You	Because she's the kind of pretty that gets me down.	因为她是那种美到让我沮丧的类型。
+0x0100008F0000186F	Dialogue Text	JAM ORB / pagetwothought	You	There's more to the freckled woman than what you're suggesting. There's more to disco, too. And to me.	你暗示的远远不止那个长着雀斑的女人。而且也远远不是迪斯科那么简单。我也一样。
+0x0100008F00001878	Dialogue Text	JAM ORB / pagetwothought	Inland Empire	And more than that: you're sad. There's an absence inside of you, something missing that may have been freckled too.	不仅如此：你很悲伤。你的身体里有一种空虚感，某些失去的东西可能也有雀斑。
+0x0100008F0000188B	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	Whatever, coward. Don't ride your way to the origin of disco. The page-three girl is too good for you anyway.	随你便了，胆小鬼。那就不要去找迪斯科的起源了。再说，这个三版女郎对你来说好过头了。
+0x0100008F00001A59	Dialogue Text	JAM ORB / pagetwothought	You	Oh, right. Of course... [Finish thought.]	哦，好吧。当然……[完成思维。]
+0x0100008F00002385	Dialogue Text	JAM ORB / pagetwothought	Hand/Eye Coordination	A pilgrimage you can make with just your hand.	你可以用自己的双手去朝圣。
+0x0100008F0000238E	Dialogue Text	JAM ORB / pagetwothought	You	Hold on, is this what happens when you two get together?	等一下，你们俩在一起的时候就会发生这种事吗？
+0x0100008F00002397	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	Yes!	是的！
+0x0100008F0000239D	Dialogue Text	JAM ORB / pagetwothought	Hand/Eye Coordination	Sure is!	当然是！
+0x0100008F000023A8	Dialogue Text	JAM ORB / pagetwothought	You	Yes! This is just like how it'll be in the End Times -- only me and Miss Page-Three. (Start unzipping.)	是的！当世界末日到来的时候，就会发生这种事——只有我，和我的三版女郎。（开始拉开拉链。）
+0x0100008F000023B3	Dialogue Text	JAM ORB / pagetwothought	Inland Empire	... is what you're thinking. But you don't want to party down. Not really. Not in the deepest part of your soul, where the freckles only make you sad.	……你想是这么想的。但你不想要这样的狂欢。不完全是。不在你灵魂的最深处，那里的雀斑只会让你感到悲伤。
+0x0100008F000023BD	Dialogue Text	JAM ORB / pagetwothought	Horrific Necktie	Fucking right. Let me just tighten up a bit for you -- is that good, you sick, wild fuck boy?	他妈的没错。让我再帮你收紧一点——感觉好吗，你这个变态又疯狂的混账？
+0x0100008F000023C7	Dialogue Text	JAM ORB / pagetwothought	Horrific Necktie	Come ON, *bratan*! YOU'RE SO CLOSE TO DISCO! TAKE IT OUT AND JACK IT!	来啊，*兄弟*！你离迪斯科只有一步之遥了！释放出来吧，让自己解放吧！
+0x0100008F000025E6	Dialogue Text	JAM ORB / pagetwothought	Hand/Eye Coordination	C'mon! Beauty is inviting you on a pilgrimage. A pilgrimage you can make with just your hand.	来吧！美人在邀请你一起朝圣。只用你的双手就能踏上朝圣的旅途。
+0x0100008F000025F4	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	Come on, what are you talking about -- sad freckles? Freckles are fun!	来吧，你在说什么呢——悲伤的雀斑？雀斑多有意思啊！
+0x0100008F000025FC	Dialogue Text	JAM ORB / pagetwothought	Electrochemistry	Then it is truly over. You are beyond the help of the page-three girl. You are truly doomed.	那就真正的结束了。就连三版女郎也帮不了你。你真的完蛋了。
+0x0100008F0000260A	Dialogue Text	JAM ORB / pagetwothought	You	... I don't want to masturbate on the street, okay?	……我可不想当街自渎，好吗？
+0x0100000400016037	Dialogue Text	JAM ORB / stas-rajko	You	"Let me guess what happened last time, Kim: Blue and white are the colours of Zsiemsk. Someone painted it, got a Zsiemsk mad, and boom -- murder happened."	“让我猜猜上次发生了什么，金。蓝色和白色是西姆斯科的颜色。有人喷了别的颜色，把西姆斯科人惹毛了，然后砰的一声原地爆炸——结果就发生了谋杀案。”
+0x010000040001603E	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	"That's... Well, yes. Exactly it, more or less. Except it was a crowd of them. Tore him out of the vehicle and ran him over with his own tyres."	“这个嘛……呃，没错。其实差不多就是这么回事。只不过是一群人。把司机从車里拖了出来，然后用他自己的車轮碾死了。”
+0x0100000400016045	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	"They said it was an honour killing. Hussar-style. The Zsiemsk community protested the trial, flying the colours." He shakes his head. "Five thousand came to protest."	“他们说这是一次荣誉谋杀。轻骑兵的风格。西姆斯科社团抗议判决结果，到处挥舞着某个老国王或者什么之类的旗帜。”他摇摇头。“抗议的一共来了5000人。”
+0x010000070001B207	Dialogue Text	JAM ORB / stas-rajko	Esprit de Corps	Were you there?	你在场吗？
+0x010000070001B3D8	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	"I try to avoid drawing far-gone conclusions like this before actually examining the body," the lieutenant says with a slight smirk. "But my initial guess is the two are unrelated."	“在真正检查尸体之前，我会尽量避免做出这种程度的结论。”警督勉强笑了笑。“不过我的最初猜测是两者没有关联。”
+0x010000070001B3E8	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	"Could it be another Stas-Rajko murder?" He gives you a crooked smile. "You really should ask me to brief you on the case. But right now I'm just gonna go ahead and guess the two aren't related."	“会不会又是一起斯塔斯-拉伊科谋杀案？”他露出狡黠的微笑。“你真应该让我给你简单介绍一下这起案件。不过现在我会说这两者之间没有关联。”
+0x0100008F000018D8	Alternate1	JAM ORB / stas-rajko	Encyclopedia	Stas-Rajko KK-2! One of the finest Zsiemsk-made motor carriages ever. An oldie but a goldie.\n	斯塔斯-拉伊科KK-2！西姆斯科生产的最棒的汽車之一。虽然是老款，但是十分经典。
+0x0100008F000018D8	Dialogue Text	JAM ORB / stas-rajko	Encyclopedia	A Stas-Rajko! One of the finest Zsiemsk-made motor carriages ever. An oldie but a goldie.	一台斯塔斯-拉伊科！西姆斯科生产的最棒的汽車之一。虽然是老款，但是十分经典。
+0x0100008F000018DF	Dialogue Text	JAM ORB / stas-rajko	Physical Instrument	Bulky frame. Heavy. Hardy. Looks like a tractor.	框架体积很大。車身厚重，结实。看起来像是一台拖拉机。
+0x0100008F000018EE	Dialogue Text	JAM ORB / stas-rajko	Encyclopedia	Yes, built like a tractor. And used as one too in the Zsiemsk countryside! Take note of the Eight Antler emblem, the symbol of the Stas-Rajko. Proudly born to honour its humble roots.	没错，按照拖拉机的样子造的，在西姆斯科的农村也确实是当拖拉机用的！注意八只鹿角的徽章，那是塔斯-拉伊科的标志。带着对自己卑微起源的敬意，它骄傲地诞生了。
+0x0100008F000018FC	Dialogue Text	JAM ORB / stas-rajko	You	That's cool, but I have policeman things to do. [Discard thought.]	确实挺酷的，但我还有警察的本职工作。[放弃思维。]
+0x0100008F0000190C	Dialogue Text	JAM ORB / stas-rajko	You	"Hey Kim, check this out!"	“喂，金，快看啦！”
+0x0100008F00001913	Dialogue Text	JAM ORB / stas-rajko	You	What a beautiful motor carriage! I want to know more!	真是台漂亮的車！我想多了解一点！
+0x0100008F0000191A	Dialogue Text	JAM ORB / stas-rajko	Encyclopedia	Glad to share! The value of the motor carriage has been seriously diminished by its colour: all Stas-Rajkos are baby-blue by default. The paint would be considered unforgivable to collectors.	乐意分享！这台車的价值因为它的颜色被严重削弱了：所有斯塔斯-拉伊科默认都是浅蓝色的。对于收藏家来说，这种喷漆颜色简直是不可原谅。
+0x0100008F00001921	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	"A Stas-Rajko, KK-2. That's a classic model," the lieutenant replies with a nod. "Never thought I'd see another one repainted after what happened last time."	“一台斯塔斯-拉伊科，KK-2型。确实是很经典的型号，”警督点头回应着。“没想到自从上次那件事发生之后，我还能看见重新喷漆的。”
+0x0100008F0000192F	Dialogue Text	JAM ORB / stas-rajko	You	"They should've left it baby-blue."	“它们就应该保持浅蓝色。”
+0x0100008F0000194C	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	"You sure you're not Zsiemsk?" He shares a smile with you, only for a second.	“你确定自己不是西姆斯科人？”他朝着你微笑，不过只持续了短暂的几秒。
+0x0100008F0000195B	Dialogue Text	JAM ORB / stas-rajko	Encyclopedia	Zaffer blue was also the colour Zygismunt the Great used for his banners... Strange. This is really all you know about the Stas-Rajko. And ancient Zsiemsk rulers.	钴釉蓝也是齐格蒙特大帝的旗帜使用的颜色……奇怪。这就是你对斯塔斯-拉伊科，还有西姆斯科古老统治者的全部了解。
+0x0100008F00001A70	Dialogue Text	JAM ORB / stas-rajko	Encyclopedia	No. Only that the motor carriage is typically baby-blue, the colours of Zygismunt the Great, an ancient Zsiemsk ruler. His banners were famously zaffer and white: the colours of the Stas-Rajko.	不知道。你只知道这台汽車的代表色是浅蓝色，这也是西姆斯科一位古老的统治者——齐格蒙特大帝的颜色。他的旗帜就是著名的钴釉蓝和白色：斯塔斯-拉伊科的颜色。
+0x0100008F00001A87	Dialogue Text	JAM ORB / stas-rajko	You	Hold on, maybe I can impress him -- do *I* know what happened last time?	等一下，也许我可以打动他——*我*知不知道上次发生了什么？
+0x0100008F00001A8D	Dialogue Text	JAM ORB / stas-rajko	You	"What happened last time, Kim?"	“上次发生了什么，金？”
+0x0100008F00001A96	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	"An old case from my precinct. A couple of Zsiemsk migrants saw a Stas-Rajko stopped in the street, painted just like this: muddy brown. Murdered the driver on the spot."	“是我辖区的一个旧案。几个西姆斯科移民看见街上停了一辆斯塔斯-拉伊科，車身就喷了这种颜色：泥巴棕色。结果当场就把司机杀了。”
+0x0100008F00001A9D	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	"They said it was an honour killing. Hussar-style. The Zsiemsk community protested the trial, flying the banners of some old king or whatever." He shakes his head. "Five thousand came to protest."	“他们说这是一次荣誉谋杀。轻骑兵的风格。西姆斯科社团抗议判决结果，到处挥舞着某个老国王或者什么之类的旗帜。”他摇摇头。“抗议的一共来了5000人。”
+0x0100008F00001AA4	Dialogue Text	JAM ORB / stas-rajko	Encyclopedia	Correction: four-thousand-three-hundred-and-ninety-five. The fourth largest public protest of a criminal trial in Revachol.	纠正：是4395人。这是瑞瓦肖的刑事宣判史上，排名第四的抗议活动。
+0x0100008F00001AAD	Dialogue Text	JAM ORB / stas-rajko	You	"Hate to correct you Kim, but only four-thousand-three-hundred-and-ninety-five people were on that protest."	“我很不想纠正你，金，不过其实只有4395人。”
+0x0100008F00001ABB	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	"Is that so, officer? I'll take you at your word."	“是吗，警官？我相信你说的话。”
+0x0100008F00001ACC	Dialogue Text	JAM ORB / stas-rajko	You	"Kim... could our hanged man have been the driver of this car?"	“金……我们那个吊人会不会是这辆車的司机？”
+0x0100008F00001AE1	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	"Could it be another Stas-Rajko murder?" He gives you a crooked smile. "Honestly, that just doesn't seem like the type of vehicle our dead guy would drive, so my initial guess is the two are not related."	“会不会又是一起斯塔斯-拉伊科谋杀案？”他露出狡黠的微笑。“老实说，这不像是我们的被害人会开的那种車，所以我的初始推测是两者没有联系。”
+0x0100008F000023D2	Dialogue Text	JAM ORB / stas-rajko	You	Who drives these?	谁会开这种車？
+0x0100008F000023DE	Dialogue Text	JAM ORB / stas-rajko	Encyclopedia	Not many people outside of Graad – and Revachol West too, it appears.	出了格拉德的话不是很多——而且，似乎瑞瓦肖西部也一样。
+0x0100008F000023EA	Dialogue Text	JAM ORB / stas-rajko	You	Hold up. Is this a tractor?	等等，这是一台拖拉机吗？
+0x0100008F000023F2	Dialogue Text	JAM ORB / stas-rajko	You	"Who are the Zsiemsk community?"	“西姆斯科社团是什么？”
+0x0100008F000023FE	Dialogue Text	JAM ORB / stas-rajko	You	"What'd they sentence the killers to?"	“他们判了杀人犯什么罪？”
+0x0100008F00002406	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	He studies his reflection in the car window. "Four years for murder in Reunion."	他研究着自己在車窗上的倒影。“杀人罪，留尼望岛服刑四年。”
+0x0100008F0000240D	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	"People we're paid to protect." The lieutenant shakes his head. "Let's leave it at that."	“我们拿工资就是为了保护这些人。”警督摇摇头。“这个话题到此为止。”
+0x0100008F00002415	Dialogue Text	JAM ORB / stas-rajko	You	"Interesting. Before we proceed, I've got an *opinion* on this paint-job."	“有意思。在我们继续行动之前，我对这个油漆活有个*意见*。”
+0x0100008F0000241C	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	"Yes, detective?"	“是什么，警探？”
+0x0100008F00002423	Dialogue Text	JAM ORB / stas-rajko	You	"I think it looks better brown and black."	“我觉得棕黑色看起来好一些。”
+0x0100008F00002429	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	"Okay." The lieutenant takes his glasses off to polish. "I'm not going to honour kill anyone over this -- but I've *seen* it blue and white. It's much better that way."	“好吧。”警督取下眼镜擦拭着。“我不会因为这种事就搞什么荣誉谋杀的——不过我*见过*蓝白色的样子，明显好看很多。”
+0x0100008F00002444	Dialogue Text	JAM ORB / stas-rajko	Kim Kitsuragi	The lieutenant shrugs. "The perps were remorseful. Their *sorry* knocked eight years off the sentence. That's the system."	警督耸耸肩。“那些罪犯很后悔。他们的*歉意*获得了8年的减刑。系统就是这么运作的。”
+0x0100008F000025BA	Dialogue Text	JAM ORB / stas-rajko	You	Got it. [Finish thought.]	明白了。[完成思维。]
+0x0100008F000025C7	Dialogue Text	JAM ORB / stas-rajko	Logic	The prisons in the Greater Revachol Industrial Harbour are already full. Prisoners are expensive to maintain. The longer the sentence, the larger the cost.	瑞瓦肖大工业港的监狱真的已经人满为患。囚犯的赡养费很贵。服刑时间越长，花费就越高。
+0x0100008F000025DC	Dialogue Text	JAM ORB / stas-rajko	Encyclopedia	Yes, you're sure you're not! Or if you are, it's only in that Revacholian way. (Four to five percent maximum.)	没错，你确定自己不是！或者如果你是的话，那也要用瑞瓦肖的方式。（最多4到5个百分点。）
