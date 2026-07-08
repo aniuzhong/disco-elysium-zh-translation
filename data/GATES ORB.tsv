@@ -1,0 +1,57 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x0100000F000070CD	Dialogue Text	GATES ORB / communistquest	Rhetoric	There it is again! There's a spectral smell haunting this industrial harbour. And it smells like...	又是这种味道！这个工业港萦绕着一股诡异的气息。闻起来就像……
+0x0100000F000070D3	Dialogue Text	GATES ORB / communistquest	Rhetoric	There! Do you smell that?	对！你闻到了吗？
+0x0100000F000070DB	Dialogue Text	GATES ORB / communistquest	Perception (Smell)	Heavy fuel oil, mostly. Because it's an industrial harbour.	主要是重燃油的气味。毕竟这是一个工业港。
+0x0100000F000070E2	Dialogue Text	GATES ORB / communistquest	Rhetoric	Years of turmoil, of hopes and dreams ground beneath the inexorable tides of capital.	那么多年的动乱、希望和梦想都被无情的资本浪潮所淹没。
+0x0100000F000070E9	Dialogue Text	GATES ORB / communistquest	You	Smell what?	闻到什么？
+0x0100000F000070EE	Dialogue Text	GATES ORB / communistquest	You	I don't smell anything.	我什么也没闻到。
+0x0100000F000070F9	Dialogue Text	GATES ORB / communistquest	Rhetoric	Can you not detect that inimitable *whiff* of dissatisfaction and restlessness, that sense that the world is in need of dramatic, even *violent* re-ordering?	你难道感觉不出那种不满和不安的独特*气味*吗？感觉就像是这个世界需要强烈地，甚至是*暴力地*去重建秩序一般。
+0x0100000F00007103	Dialogue Text	GATES ORB / communistquest	Rhetoric	Can you smell it now?	你现在闻到了吗？
+0x0100000F00007109	Dialogue Text	GATES ORB / communistquest	You	(Close your eyes and take a deep breath.)	（闭上眼睛然后深呼吸。）
+0x0100000F00007110	Dialogue Text	GATES ORB / communistquest	You	Does that mean there's a communist nearby?	这意思是附近有康米主义者吗？
+0x0100000F00007118	Dialogue Text	GATES ORB / communistquest	Perception (Smell)	You inhale. The cilia along your olfactory epithelium tingle with excitement as they sift through the swirling morass of industrial odours...	你吸了一口气。当闻到那强烈的工业气息时，你感到嗅觉上皮的纤毛都兴奋了起来。
+0x0100000F00007127	Alternate1	GATES ORB / communistquest	Perception (Smell)	Even though the strikebreakers have departed for the night, their smell lingers, layers of body oil and sweat, over-buttered meals pulled from bakelite lunch pails, the biting stench of lye soap. And then there's the slowly oxidizing metal gates, the scent of stale grease emanating from every crack...	虽然那些罢工者们晚上已经回去了，但他们的气味仍然挥之不去。你闻到了他们身上油脂和汗液的气味，胶木餐盒里拿出来的那些涂满黄油的食物味道，以及碱液肥皂刺鼻的气息。接着便是那缓慢氧化的金属大门上，每一道裂缝所透露出的陈年油脂味……
+0x0100000F00007127	Dialogue Text	GATES ORB / communistquest	Perception (Smell)	First come the smells of the agitated strikebreakers, layers of body oil and sweat, over-buttered meals pulled from bakelite lunch pails, the biting stench of lye soap. And then there's the slowly oxidizing metal gates, the scent of stale grease emanating from every crack...	你首先闻到的是那些激动的罢工者们身上那油脂和汗液的气味，接着是胶木餐盒里拿出来的那些涂满黄油的食物味道，以及碱液肥皂刺鼻的气息。接着便是那缓慢氧化的金属大门上，每一条裂缝所透露出的陈年油脂味……
+0x0100000F0000712D	Dialogue Text	GATES ORB / communistquest	Perception (Smell)	No, actually. In fact, you can't smell much of *anything*. Perhaps your allergies are acting up?	没有。其实你根本闻不到*任何*气味。可能是你过敏了？
+0x0100000F0000714B	Dialogue Text	GATES ORB / communistquest	Kim Kitsuragi	"Still smelling for communists, detective?"	“还在闻康米主义者的气味吗，警探？”
+0x0100000F00007152	Dialogue Text	GATES ORB / communistquest	Kim Kitsuragi	"Everything in order, detective?" The lieutenant gives you a quizzical look.	“一切正常吗，警探？”警督疑惑地看着你。
+0x0100000F00007159	Dialogue Text	GATES ORB / communistquest	Perception (Smell)	In a word, exactly what you would expect to find at any harbour in the industrialized world...	总而言之，这里和任何一个工业化国家的港口都没有区别……
+0x0100000F00007160	Dialogue Text	GATES ORB / communistquest	Rhetoric	Nonsense. The reek of communism is unmistakable, and it's coming... from that railing over there!	胡说。康米主义的臭味是错不了的，来了……气味从栏杆那边传来了！
+0x0100000F00007166	Dialogue Text	GATES ORB / communistquest	Rhetoric	Undoubtedly. And the scent is coming... from that railing over there!	毫无疑问。来了……气味从栏杆那边传来了！
+0x0100000F00007178	Dialogue Text	GATES ORB / communistquest	You	You mean from Mañana?	你是指马列拉的味道？
+0x0100000F00007185	Dialogue Text	GATES ORB / communistquest	You	You mean from the skinny guy in the red hat?	你是指那个戴着红帽子的瘦子的味道？
+0x0100000F0000718C	Dialogue Text	GATES ORB / communistquest	Rhetoric	Yes. Now's your chance to *establish contact*.	没错，现在是你*建立联系*的机会。
+0x0100000F00007198	Dialogue Text	GATES ORB / communistquest	Savoir Faire	But be easy about it. Communists have been known to charge when startled.	但得放轻松。大家都知道康米主义者在受到惊吓的时候会拼命的。
+0x0100000F000071A0	Dialogue Text	GATES ORB / communistquest	You	"It's kind of a personal errand."	“这是个人事务。”
+0x0100000F000071A5	Dialogue Text	GATES ORB / communistquest	You	"I'm smelling for communists, Kim."	“我在闻康米主义者的气味，金。”
+0x0100000F000071AA	Dialogue Text	GATES ORB / communistquest	You	"I'm working on developing my political consciousness."	“我在努力培养自己的政治觉悟。”
+0x0100000F000071AF	Alternate1	GATES ORB / communistquest	You	"Just taking in the morning air, like a normal detective."	“我只是像一个普通的警探一样呼吸着早晨的空气罢了。”
+0x0100000F000071AF	Alternate2	GATES ORB / communistquest	You	"Just taking in the afternoon air, like a normal detective."	“我只是像一个普通的警探一样呼吸着下午的空气罢了。”
+0x0100000F000071AF	Alternate3	GATES ORB / communistquest	You	"Just taking in the evening air, like a normal detective."	“我只是像一个普通的警探一样呼吸着傍晚的空气罢了。”
+0x0100000F000071AF	Alternate4	GATES ORB / communistquest	You	"Just taking in the night air, like a normal detective."	“我只是像一个普通的警探一样呼吸着夜晚的空气罢了。”
+0x0100000F000071AF	Dialogue Text	GATES ORB / communistquest	You	"Just taking in the fresh air, like a normal detective."	“我只是像一个普通的警探一样呼吸着新鲜的空气罢了。”
+0x0100000F000071BE	Dialogue Text	GATES ORB / communistquest	Kim Kitsuragi	"There's a lot to take in, isn't there?" The lieutenant wrinkles his nose.	“你要呼吸的东西有点多啊，嗯？”警督皱了皱鼻子。
+0x0100000F000071C5	Dialogue Text	GATES ORB / communistquest	Kim Kitsuragi	"You're developing your..."	“你在培养你的……”
+0x0100000F000071CC	Dialogue Text	GATES ORB / communistquest	Kim Kitsuragi	"You're smelling for..."	“你在闻……”
+0x0100000F000071D3	Dialogue Text	GATES ORB / communistquest	Kim Kitsuragi	"A *personal errand*."	“*个人事务*。”
+0x0100000F000071EF	Dialogue Text	GATES ORB / communistquest	Kim Kitsuragi	"You know what? I'll just leave you to it. Carry on, detective."	“行吧，那我就不打扰你了，你继续吧，警探。”
+0x0100000F000071F4	Dialogue Text	GATES ORB / communistquest	Kim Kitsuragi	"I'm struggling to see the connection with our investigation, but I'm sure *all will be revealed* in time."	“我觉得这和我们的调查没有关系，但是我相信*一切都会水落石出*。”
+0x0100000F000071FB	Dialogue Text	GATES ORB / communistquest	Kim Kitsuragi	"In the interest of our investigation, I suggest you focus on the case at hand. You can pursue your *political projects* after hours."	“为了继续我们的调查，我建议你专注手头上的案子。等空闲时间再去追逐你的*政治事业*。”
+0x0100000F00007201	Dialogue Text	GATES ORB / communistquest	Esprit de Corps	It is a mark of the lieutenant's respect for you that he does not press you on this decidedly *extra-curricular* errand.	警督没在这件明显*无关紧要*的事务上给你施压，这是对你的尊重。
+0x0100000F00007206	Dialogue Text	GATES ORB / communistquest	Esprit de Corps	Nota bene: The lieutenant is not at all convinced that anything will be revealed.	注意：警督根本不相信事情会水落石出。
+0x0100000F0000720B	Dialogue Text	GATES ORB / communistquest	Esprit de Corps	The lieutenant is not pleased with this turn of events, but it's unlikely that he'll move to intervene to stop them.	警督对这个变故很不满，但他并不会出面阻止。
+0x0100000F00007219	Dialogue Text	GATES ORB / communistquest	Rhetoric	The lieutenant lacks your *highly developed* politico-olfactory cortex. The reek of communism is undeniable. And it's coming... from that railing right there!	警督没有你那种*高度发达*的政治嗅觉。康米主义的恶臭是无可争辩的。来了……气味从栏杆那边传来了！
+0x0100000F00007231	Dialogue Text	GATES ORB / communistquest	You	"Yes."	“好。”
+0x0100000F00007236	Dialogue Text	GATES ORB / communistquest	You	"No."	“不。”
+0x0100000F0000723B	Dialogue Text	GATES ORB / communistquest	You	"What makes you say that?"	“你为什么那么说？”
+0x0100000F00007246	Dialogue Text	GATES ORB / communistquest	Kim Kitsuragi	"Well, I'll be over here when you've finished." The lieutenant nudges something on the ground with his foot.	“好吧，我在这儿等你忙完。”警督用脚碰了碰地上的东西。
+0x0100000F0000724B	Dialogue Text	GATES ORB / communistquest	Kim Kitsuragi	"Uh huh."	“嗯哼。”
+0x0100000F00007250	Dialogue Text	GATES ORB / communistquest	Kim Kitsuragi	"No offence, detective, but you're not particularly *subtle*."	“无意冒犯，警探，但你有点不太*精明*。”
+0x0100000F00007261	Dialogue Text	GATES ORB / communistquest	Esprit de Corps	His impatience is feigned. He's curious to see how this *personal errand* shakes out.	他的急躁是装出来的。他其实对*私人事务*的结果很好奇。
+0x0100000F00007266	Dialogue Text	GATES ORB / communistquest	Esprit de Corps	He'll tolerate this *personal errand*, but his patience is wearing thin.	他会容忍这次*私人事务*，但是他的耐心已经快耗尽了。
+0x0100000F0000726F	Dialogue Text	GATES ORB / communistquest	Drama	The lieutenant issss not persuaded, sssssire.	警督并没有被你说服，大人。
+0x0100000F00007276	Dialogue Text	GATES ORB / communistquest	Savoir Faire	The lieutenant's right. It's sort of amazing how un-subtly you're sniffing the air around you, almost like you're *trying* to call attention to yourself.	警督说得没错。你总是莫名其妙、大大咧咧地嗅着周围的气息，就好像*想要*获得关注一样。
+0x0100000F0000727D	Dialogue Text	GATES ORB / communistquest	Rhetoric	What the lieutenant thinks is irrelevant. Your politico-olfactory cortex is lighting up like a holiday display. Look, it's pointing you right... to that railing over there!	警督的想法不重要。你的政治嗅觉皮层就像节日街景一般被点亮。瞧，这味道正从栏杆那边朝你过来了！
+0x0100000F0000728E	Dialogue Text	GATES ORB / communistquest	You	(Close your eyes and take a deep breath.)	（闭上眼睛然后深呼吸。）
+0x0100000F00007293	Dialogue Text	GATES ORB / communistquest	You	I *still* don't smell anything.	“我*还是*什么都闻不到。”
+0x0100000F00007298	Dialogue Text	GATES ORB / communistquest	You	I can *kind of* smell dreams being ground down by capital.	我嗅到了*某种*梦想被资本碾碎的声音。
