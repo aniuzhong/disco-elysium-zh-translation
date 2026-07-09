@@ -1,0 +1,451 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x0100002D0000DEF5	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"AND REMEMBER. WHAT HAPPENS IN MY MOM'S OFFICE, STAYS IN MY MOM'S OFFICE. QUIET CONTEMPLATION ENDS, BIOLOGICAL RIVALRY RESUMES."	”记住，发生在我妈办公室里的事，就留在办公室里。沉默冥想结束，生物竞争继续。“
+0x0100002D0000DF10	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"WE ARE DONE HERE. AND *REMEMBER*, WHAT HAPPENS IN MY MOTHER'S OFFICE, STAYS IN MY MOTHER'S OFFICE. QUIET CONTEMPLATION ENDS, BIOLOGICAL RIVALRY RESUMES."	”到此为止了。*记住*，发生在我妈办公室里的事，就留在办公室里。沉默冥想结束，生物竞争继续。“
+0x010000510000449A	Alternate1	MEASUREHEAD / FASCHA DQ	You	"Measurehead..." (Let you head hang low.) "I think I screwed up and let the only person rich enough to explain reality to me leave."	“测颅先生……”（低垂下你的头。）“我觉得我搞砸了，让唯一有足够的财富来为我答疑解惑的人离开了。”
+0x010000510000449A	Alternate2	MEASUREHEAD / FASCHA DQ	You	"Measurehead..." (Let you head hang low.) "I screwed up and let the only person rich enough to explain reality but not so rich light bends around them, leave."	“测颅先生……”（低垂下你的头。）“我搞砸了，让唯一有足够的财富来为我答疑解惑，但又没有富裕到能够扭曲光的人离开了。”
+0x010000510000449A	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I need to find a way to turn back time."	“我需要想办法逆转时间。”
+0x01000051000044A7	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU WANT TO RETURN TO THE PAST?" The giant locks eyes with you. His face is serious...	“你想回到过去？”巨人盯着你。他的表情十分严肃……
+0x01000051000044AD	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"WALK AWAY, LITTLE OFFICER," he says with a yawn, not even meeting your gaze. "I DON'T CARE ABOUT YOUR IMPOTENT RAMBLINGS. THEY'RE *BORING* ME."	“走开，侏儒警官。”他打了个哈欠，甚至懒得看你。“我不关心你那些孱弱无力的絮叨。它们令我*无聊*。”
+0x01000051000044B5	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead's Babe	"Stop *boring* him!" The babe coils a piece of hair around her finger, staring at you like you're the worst.	“别让他*无聊*了！”宝贝在指间卷起一缕发丝，用嫌恶的目光瞪着你。
+0x01000051000044C3	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Wait, what exactly am I lacking?"	“等等，我到底缺了什么？”
+0x01000051000044CA	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"So it *is* possible to go back?"	“所以*到底*有没有可能回到过去？”
+0x01000051000044E5	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOUR NEED TO STEER EVERY CONVERSATION TOWARDS YOUR OWN PERSONA IS A SIGN OF LOW SELF-ESTEEM."	“你恨不得把所有对话都引向你自己的人格，这只体现了你低得可怜的自尊心。”
+0x01000051000044EC	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"ANYTHING IS POSSIBLE. JUST NOT FOR YOU."	“一切皆有可能，但你不行。”
+0x01000051000044F3	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead's Babe	"Stop boring Measurehead. He talks about *big* things and you only talk about yourself!"	“别再让测颅先生无聊了。他胸怀*大*志，而你只想着你自己！”
+0x0100005100004506	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I internalized your race theory and that was *hard*."	“我内化了你的种族理论，那可真*难*。”
+0x010000510000450C	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Can't you just give me a straight answer for once?"	“你就不能直截了当地回答一次我的问题吗？”
+0x0100005100004512	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Can't you just give me a straight answer for once?"	“你就不能直截了当地回答一次我的问题吗？”
+0x0100005100004518	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I get it, you're upset because I beat you up."	“我明白了，我把你打了，你不高兴。”
+0x0100005100004522	Dialogue Text	MEASUREHEAD / FASCHA DQ	Half Light	Huh, good... no more confrontations!	哈，好极了……别再和他顶上了！
+0x0100005100004527	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YES. FOR YOU I IMAGINE IT WAS. DON'T THINK THAT I AM NOW OBLIGED TO BE PART OF YOUR LITTLE *GROWING* SPURT. IT IS NOT GOING ANYWHERE."	“我可以想象那对你来说有多难。别以为现在我就有义务成为你那个内心*成长*的一部分。想都别想。”
+0x010000510000452E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"DO NOT THINK ME INTRODUCING YOU TO RACE SCIENCE MEANS I'M NOW PART OF YOUR *GROWING* PROCESS -- IT DOES NOT LOOK PROMISING."	“别以为我向你讲解了种族科学理论，就意味着我现在是你那个内心*成长*进程的一部分了——你的状况看起来可不容乐观。”
+0x0100005100004535	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU BESTED ME IN A VIOLENT PHYSICAL CONFRONTATION, TRUE, BUT I DON'T *OWE* YOU AN INTELLECTUAL ONE."	“你在暴力的肢体冲突中胜过了我，没错，但我并不在智力冲突上*欠*你一次。”
+0x010000510000453B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU DID BEST ME IN A VIOLENT PHYSICAL CONFRONTATION, BUT I DON'T *OWE* YOU AN INTELLECTUAL ONE."	“你确实在肢体冲突中胜过了我，但我并不在智力冲突上*欠*你一次。”
+0x0100005100004546	Dialogue Text	MEASUREHEAD / FASCHA DQ	Suggestion	He just needs some convincing before you can talk to him mano a mano.	你得再劝劝他，才能和他开诚布公地谈谈。
+0x0100005100004575	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	How do I get him to talk to me mano-a-mano?	我要怎么让他和我开诚布公？
+0x0100005100004575	tooltip1	MEASUREHEAD / FASCHA DQ	You	Dresscode: Pseudo-SKULL.	着装要求：伪骷髅头。
+0x0100005100004575	tooltip4	MEASUREHEAD / FASCHA DQ	You	Standard Anti-Wirrâl Die.	标准反威勒尔骰子。
+0x0100005100004575	tooltip5	MEASUREHEAD / FASCHA DQ	You	Talked to Gary.	与盖理交谈
+0x0100005100004575	tooltip6	MEASUREHEAD / FASCHA DQ	You	Talked to the lorryman.	与货车司机交谈
+0x0100005100004575	tooltip7	MEASUREHEAD / FASCHA DQ	You	Talked to René	与雷内交谈
+0x0100005100004597	Dialogue Text	MEASUREHEAD / FASCHA DQ	Suggestion	It's obvious -- you need to steer the conversation to the topic that interests him *the most*. Something that he'd like to discuss with another man, in private...	很明显——你得将对话导向*最*令他感兴趣的话题。能让他私下和别人讨论……
+0x010000510000459D	Dialogue Text	MEASUREHEAD / FASCHA DQ	Suggestion	Simple. Just humiliate him in front of his entourage until he has to *beg you* in private to stop. Then you can let him know it was all but a clever ploy to separate him from his babes...	简单。在他的随从面前大力羞辱他，直到他私下*求你*停下来。然后你就告诉他，那不过是一个让他和他的宝贝们分开的技巧……
+0x01000051000045A3	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Guess it's true what they say about you, bodybuilder types."	“看来他们说你是个健美运动员，还真没说错。”
+0x01000051000045A9	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	(Lie.) "Earlier you said there was a 'growth' in your groin area..."	（说谎。）“你之前说你的下腹有一个东西在‘成长’……”
+0x01000051000045AF	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"These pants don't suit you. It looks like you come with *love handles*."	“这条裤子不适合你。它穿在你身上就像*性爱把手*。”
+0x01000051000045B5	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Nice tattoos. Did your *mom* make them?"	“纹身不错。是你*妈妈*给你纹的吗？”
+0x01000051000045BF	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"NO." The calm voice comes from high above you.	“不。”冷静的声音从你上方传来。
+0x01000051000045C6	Dialogue Text	MEASUREHEAD / FASCHA DQ	Composure	Doesn't look like he's humiliated. Or about to beg.	他似乎并没有感到羞辱，或者要来求你。
+0x01000051000045CD	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead's Babe	"Measurehead's his own man, doesn't give a *fuck* what anyone thinks!"	“测颅先生独一无二，他不*在乎*别人怎么评价他！”
+0x01000051000045D4	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOUR ATTEMPT TO PSYCHOLOGICALLY MANIPULATE ME HAS FAILED. IT'S TIME YOU RETURN TO YOUR MENIAL MATTERS."	“你想用心理学的方式操控我，但你失败了。现在你应该回到你卑微的工作中去。”
+0x01000051000045E8	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"BABE, LOOK." His arm reaches out, palm open as if giving a demonstration. "SCORCHED BIOMASS IS ALL THAT THE GHOUL LEFT OF HIS BRAIN. SOON HE WILL DEVOLVE INTO AN ANDROGYNOUS BI-PEDAL, ABLE TO PERFORM ONLY THE MOST INSTINCTUAL OF FUNCTIONS."	“宝贝，你瞧。”他伸出双臂，展开手掌，好像在演示什么。“这个酒鬼的脑壳里只剩下烧焦的生物质了。很快他就会堕落成一团不分雌雄的两足生物，除了本能性的生命活动外，对一切都茫然无知。”
+0x01000051000045EF	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead's Babe	"What functions will he able to perform, Measurehead?"	“他能进行什么生命活动呢，测颅先生？”
+0x01000051000045F6	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"INGEST AND DEFECATE, LIKE AN OVERWEIGHT AMOEBA."	“消化与排泄，如同一只超重的阿米巴。”
+0x01000051000045FD	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead's Babe	"Hear that," she shrieks, "like a fat amoeba! You can't even *fuck*! Pathetic."	“听到没，”她尖叫道，“像一只肥胖的阿米巴！你甚至都没法*操*！真可悲。”
+0x0100005100004604	Dialogue Text	MEASUREHEAD / FASCHA DQ	Pain Threshold	That voice should be registered as a sonic weapon, cause the damage it does to your head is *very* real.	这种声音简直如同声波武器，它对你的头颅造成了*非常*真实的伤害。
+0x010000510000460B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Electrochemistry	Here's a lady who clearly puts a man's cockmanship above all other qualities.	这位女士显然将一个男人的性能力置于其他品质之上。
+0x0100005100004617	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"LOOK, HIS RAVAGED BRAIN IS STUCK BETWEEN UNIMAGINARY WORLD -- AND OURS. IT'S ALL FUSING TOGETHER. SOON HE CAN'T TELL THE DIFFERENCE."	“你瞧，他破烂的大脑卡在了某种异世界与我们的世界之间。它们融合在了一起。他很快就会分不清二者了。”
+0x010000510000461E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead's Babe	"*You* are a growth in the groin area!" the girl snaps at you. "Low-value man."	“*你*就是那个在下腹部位生长的东西！”女孩怒斥你。“一文不值的家伙。”
+0x0100005100004625	Dialogue Text	MEASUREHEAD / FASCHA DQ	Pain Threshold	These words hit you *right* where it hurts.	这些话语令你*痛彻心扉*。
+0x0100005100004631	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THAT OUR BODIES ARE TEMPLES BUILT TO ELEVATE, FACILITATE, AND WITHSTAND THE VOLATILE VASTNESS OF OUR SOULS?" He looks down on you.	“我们的身体是将要升起、建设的神庙，它将抵御我们宽广灵魂的悸动？”他俯视你。
+0x0100005100004638	Dialogue Text	MEASUREHEAD / FASCHA DQ	Visual Calculus	Have you noticed how much taller he is than you?	你有没有注意到他比你高了多少？
+0x010000510000464A	Dialogue Text	MEASUREHEAD / FASCHA DQ	Electrochemistry	Better looking too.	而且比你更好看。
+0x0100005100004657	Dialogue Text	MEASUREHEAD / FASCHA DQ	Savoir Faire	He *definitely* makes more money.	他*绝对*赚钱更多。
+0x0100005100004696	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YES. I HAVE HEARD THAT."	“是的，我听到了。”
+0x01000051000046C2	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead's Babe	"The way you say those things, Measurehead..." Her adoring eyes rest on the big man. "It's like poetic. So beautiful!"	“你说话的方式，测颅先生……”她崇拜地看向魁梧的男人。“简直诗情画意。太美了！”
+0x010000510000495E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"SO... WOMEN, HUH?" The Semenese supraman stretches on the couch like a giant tattooed cat.	“所以……女人，哈？”塞美尼超人在沙发上舒展身体，如同一头布满花纹的巨猫。
+0x0100005100004967	Dialogue Text	MEASUREHEAD / FASCHA DQ	Composure	His shoulders relax, tension is leaving him.	他的肩膀放松下来，身体中的张力褪去了。
+0x010000510000496D	Dialogue Text	MEASUREHEAD / FASCHA DQ	Visual Calculus	Strange, he seems different in here. Less 'monolithic' somehow.	奇怪，在这里他看起来有些不一样了。不再那么的‘庞大’了。
+0x0100005100004984	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	(Look around.) "So does your mother work here?"	（环顾四周。）“所以你妈妈现在在这里工作？”
+0x01000051000049C4	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"NO."	“不。”
+0x01000051000049CB	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"But she used to?"	“但她曾经在这里工作？”
+0x01000051000049D2	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YES."	“是的。”
+0x01000051000049D9	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Oh, did she retire?"	“哦，她退休了吗？”
+0x01000051000049DF	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"She must have passed away. My condolences."	“那么她一定是去世了。节哀。”
+0x01000051000049E7	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"SHE DID, YES. WITH GREAT HONOURS -- THE GREATEST, SOME SAY. A TRUE MODERN RITUAL."	“是的。带着无与伦比的荣耀——有些人说她带着最为至高无上的荣耀。一个真正的现代仪式。”
+0x01000051000049EE	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THE ENTIRE ORGANISATION ATTENDED WHEN SHE WAS GIVEN THE HONORARY ENGRAVED PAPERWEIGHT. IT WAS A TENDER DAY."	“整个组织见证了她被授予荣誉镌刻镇纸。那是一个温柔的日子。”
+0x01000051000049F5	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"MY MOTHER WILL *NEVER* DIE."	“我的母亲*永远*不会死。”
+0x01000051000049FC	Dialogue Text	MEASUREHEAD / FASCHA DQ	Volition	The words are spoken with an unyielding conviction.	他的话语带着永不屈服的信念。
+0x0100005100004A03	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"SHE RETIRED. WITH GREAT HONOURS -- THE GREATEST, SOME SAY. A TRUE MODERN RITUAL."	“她退休了。带着无与伦比的荣耀——有些人说她是最优秀的。一个真正的现代仪式。”
+0x0100005100004A11	Dialogue Text	MEASUREHEAD / FASCHA DQ	Logic	All 2,372 members? That can't be right...	所有2372个成员？这不可能……
+0x0100005100004A1F	Dialogue Text	MEASUREHEAD / FASCHA DQ	Empathy	Here's a son who absolutely *adores* his mother. Adorable!	这里有一个绝对*崇敬*母亲的孝子。棒极了！
+0x0100005100004A5E	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Sorry, I didn't mean to pry."	“抱歉，我没想刺探。”
+0x0100005100004A65	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"BUT YOU DID. AND THEN YOUR TESTICLES SHRUNK AND RETREATED INSIDE YOUR RECTUM."	“但你这么做了。然后你的睾丸就会收缩，躲进你的直肠。”
+0x0100005100004A6C	Dialogue Text	MEASUREHEAD / FASCHA DQ	Physical Instrument	This is *not* physiologically accurate...	这在生理学上是*不*准确的……
+0x0100005100004A79	Dialogue Text	MEASUREHEAD / FASCHA DQ	Half Light	Please just agree with him -- you're in the cage of a Semenese tiger. At his mercy. He can *end* you any time he chooses.	你就同意他吧——你和一头塞美尼老虎被关在一个笼子里。任由他处置。他随时都能*碾死*你。
+0x0100005100004A80	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"DO YOU KNOW WHO HAS ABSOLUTELY *NO* RESPECT FOR THIS TYPE OF PHYSIOLOGICAL METAMORPHOSIS?"	“你知道谁对这种生理学变态行为*毫无*尊重吗？”
+0x0100005100004A88	Dialogue Text	MEASUREHEAD / FASCHA DQ	Reaction Speed	Wome...?	女……？
+0x0100005100004A8F	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"WOMEN," he answers his own question. "THEY HATE IT. SEE YOU UNFIT FOR A SPIRITUAL CONNECTION. WOMEN CAN MAKE YOU STRONGER, BUT ONLY IF YOUR LACK OF CONFIDENCE DOES NOT GET IN THE WAY FIRST."	“女人，”他自问自答。“她们恨它。她们认为你不适合精神上的连结。女人能令你更强大，但首先你不能让你的自卑妨害到这个过程。”
+0x0100005100004AFE	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I like women."	“我喜欢女人。”
+0x0100005100004B03	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I don't really like women."	“我其实不喜欢女人。”
+0x0100005100004B08	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I don't really like women, only their rights."	“我其实不喜欢女人，不过她们的权利不错。”
+0x0100005100004B10	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"AND? THAT'S WHAT YOU WANTED TO TALK ABOUT? THAT YOU ARE A DISTURBED GENDER PARITY ACTIVIST?"	“然后？你就想说这个？你是个混乱的性别平等活动家？”
+0x0100005100004B1B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"AND? THAT'S WHAT YOU WANTED TO TALK ABOUT? THAT YOU DON'T LIKE WOMEN?"	“然后？你就想说这个？你不喜欢女人？”
+0x0100005100004B21	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"AND? THAT'S WHAT YOU WANTED TO TALK ABOUT?"	“然后？你就想说这个？”
+0x0100005100004B2D	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"WHAT IS THIS *REALLY* ABOUT?"	“这*到底*是什么事情？”
+0x0100005100004C4A	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"I'M GOING TO DO YOU A KINDNESS, PUPA. I'M GOING TO SHARE A SECRET WITH YOU. HERE IS THE SECRET: THERE IS NO LOVE IN THE PAST. ONLY THE PRESENT."	“我会对你大发慈悲，蚕蛹。我会和你分享一个秘密。这个秘密就是：过去没有爱。只有当下才有爱。”
+0x0100005100004C5E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THE PAST IS MADE OF STATIC IMAGES, DISTORTED MEMORIES, DEMENTED NOSTALGIA. THIS, THE PRESENT -- WITH ALL ITS POSSIBILITIES, INNUMERABLE HITS AND MISSES -- IS FAR SUPERIOR. IT IS A *LIVING* ORGANISM."	“过去不过是静态的图像，扭曲的记忆，痴狂的怀旧。当下——带着无限的可能与数不胜数的胜负得失——远胜于过去。它是一个*生机勃勃*组织。”
+0x0100005100004C72	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"What's so great about the present?"	“当下有什么好的？”
+0x0100005100004C78	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"You're very focused on women and sex."	“你十分执着于女人和性。”
+0x0100005100004C7E	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I really *must* return to the past now." (Continue.)	“我真的*必须*回到过去。”（继续。）
+0x0100005100004C84	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"About knocking you out earlier..."	“说到之前把你敲晕……”
+0x0100005100004CB8	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"LOOK AROUND YOU. LOOK AT THE ADVANCEMENTS IN THE SEXUAL SCIENCES -- ALL THE NOVEL TECHNIQUES, ACCESSORIES, PRESERVATIVES, MASSAGE OILS, LUBRICATION SALVES, ABORTION CLINICS..."	“看看你身边。看看性科学的近期发展——所有的新奇技巧，配件，防腐剂，按摩油，润滑油膏，堕胎诊所……”
+0x0100005100004CBF	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"AND THE WOMEN. WOMEN WHO SHAVE AND ARE CAPABLE OF UNDERSTANDING CONCEPTS LIKE POLYAMORY AND *COITUS CASUALIS* -- THE KOJKO AND THEIR PROMISCUITY ARE AT THE FOREFRONT OF ALL THAT."	“还有女人。剃毛的女人能够理解类似多边恋和*随意性爱*的概念——其中的典型例子就是克吉克的乱交生活。”
+0x0100005100004CCC	Dialogue Text	MEASUREHEAD / FASCHA DQ	Horrific Necktie	Novel techniques? *Your* techniques were probably last novel during the Franconigerian times. You *need* those techniques, *bratan* -- to survive!	新奇技巧？*你的*技巧或许在弗兰考格斯时代是最不新奇的。你需要这种技巧，*兄弟*——赖以为生！
+0x0100005100004CD4	Dialogue Text	MEASUREHEAD / FASCHA DQ	Perception	Everything's revolving around women and sex with this guy... What's that about?	这个家伙会把所有事情拐到女人和性上面……这是什么意思？
+0x0100005100004CFA	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Hold on, what are these *novel techniques* you mentioned?"	“等等，你刚才说的这些*全新技巧*是什么？”
+0x0100005100004D0F	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU'RE ASKING ME TO SHARE THE SACRED TECHNIQUES THAT I'VE GATHERED AND INTERNALIZED ON MY LIFE'S JOURNEY? WITH YOU, A STRANGER?"	“你想让我和你，一个陌生人，分享我在人生之旅中收集并内化的神圣技巧？”
+0x0100005100004D1C	Dialogue Text	MEASUREHEAD / FASCHA DQ	Composure	Watch out! He's getting defensive.	小心！他竖起了防线。
+0x0100005100004D22	Dialogue Text	MEASUREHEAD / FASCHA DQ	Half Light	No! No. No-no-no-no. NO! You're not. You are *not* fishing for his sacred techniques -- they're not worth dying over!	不！不。不不不不。不！你不是。你还*不*想放弃他的神圣技巧——它们不该消逝于无形！
+0x0100005100004D31	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Yes, please."	“是的，拜托。”
+0x0100005100004D37	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"No, of course not -- I was just testing you."	“不，当然不是——我只是想试试看。”
+0x0100005100004D3D	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Maybe just one or two?"	“或许就讲一两个？”
+0x0100005100004D46	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"DO NOT THINK THE SERENITY OF MY MOTHER'S OFFICE MAKES ME FORGET WE ARE BIOLOGICAL COMPETITORS -- ALBEIT UNEVENLY MATCHED."	“别以为我母亲的办公室会让我忘记我们是生物学上的竞争者——哪怕你根本不是我的对手。”
+0x0100005100004D4F	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU ARE MORE LIKELY TO GET THE COALITION TO SIGN OVER THEIR WARSHIPS, THAN GET THESE... *WEAPONS* OF PLEASURE AND CONTROL OUT OF ME."	“你想从我这里得到这些欢乐与控制的*武器*……还不如妄想联盟国把他们的军舰签给你。”
+0x0100005100004D56	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THIS KNOWLEDGE *NEVER* PASSES FROM A MAN TO ANOTHER MAN. NOT EVEN FROM A FATHER TO HIS SON. THIS PATH IS TO BE TAKEN IN *ABSOLUTE* SOLITUDE."	“这样的知识*从未*由一个男人传递给另一个男人。连父子之间都不会有这种关系。这条道路*必须*踽踽独行。”
+0x0100005100004D5D	Dialogue Text	MEASUREHEAD / FASCHA DQ	Physical Instrument	He's flexing as he says these last words -- it seems to be involuntary.	他一边说着一边舒展肌肉——似乎是下意识的动作。
+0x0100005100004E22	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"WE ARE LIFE. LIFE IS SEXUALITY. SEXUALITY *IN COMPETITION* WITH SEXUALITY -- THE SEXUALITY OF OTHER ORGANISMS. THE POINT OF ANY COMPETITION IS TO WIN."	“我们是生命。生命就是性。性与其他生命体的性之间*竞争*——其他生命体的性取向。竞争的要点就是胜利。”
+0x0100005100004E2F	Dialogue Text	MEASUREHEAD / FASCHA DQ	Reaction Speed	What about the Semen Retention Society?	这个精液保留社是什么东西？
+0x0100005100004E36	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Win what exactly?"	“什么胜利？”
+0x0100005100004E3E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THE FUTURE." He lets it set in for a while.	“未来。”他沉思了一会。
+0x0100005100004E45	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"IN A BIOLOGICAL SENSE, THE MAN WHOSE ESSENCE, WHOSE GENETIC BLUEPRINT, IS PASSED ON TO THE MOST HOSTS, DOWN TO THE MOST GENERATIONS, FULFILS HIS BIOLOGICAL PURPOSE TO THE GREATEST EXTENT. THIS IS THE LOVE VICTORY."	“从生物学上来说，一个男人要是把自己的精华、自己的基因蓝图，传给最多的宿主、最多的后代，他就最大程度上完成了自己的生物使命。这就是爱的胜利。”
+0x0100005100004E52	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Wait, what about your Semen Club?"	“等等，那你那个精液团又是什么？”
+0x0100005100004E6B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"SEMEN RETENTION *SOCIETY*," he corrects you. "I TOLD YOU, THIS IS A SIMPLIFICATION. CLIMAX IS NOT *REQUIRED* FOR VICTORY. IN FACT IT IS DISCOURAGED. A TRUE MAN *RETAINS* HIS ESSENCE."	“精液保留*社*，”他纠正你。“我说过了，这是一个简写。高潮不是胜利的*必要条件*。实际上它反而阻碍了胜利。一个真正的男人就应该*留存*他的精华。”
+0x0100005100004E72	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"IT IS FAR MORE MASCULINE TO PASS ON A BLUEPRINT OF YOUR MIND AND YOUR SPIRIT THAN YOUR FLESH. WOMEN GIVE BIRTH TO FLESH AND MEN GIVE BIRTH TO SPIRIT. SPIRIT IS IMMORTAL."	“传递你的思维蓝图和精神比传递血肉要阳刚得多。女人生出血肉，男人给予精神。精神永存。”
+0x01000051000052E1	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"DON'T APOLOGISE. MY WOMEN LIKED IT. IT IS IMPORTANT TO APPEAR VULNERABLE SOMETIMES. VULNERABILITY NURTURES EMOTIONAL CONTACT."	“不用道歉。我的女人喜欢这样。有时流露出脆弱也是很重要的。脆弱感催生感情交流。”
+0x01000051000052E8	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"EMOTIONAL CONTACT AMPLIFIES THE ECSTASIES OF SEX. LIKE IVY, WE ARE INTERTWINED. WEAK AND STRONG, MAN AND WOMAN, MOTHER AND CHILD.	“感情交流增强性爱的快感。我们像藤蔓一样交缠。脆弱和强壮，男人和女人，母亲和孩子。”
+0x0100005100005469	Dialogue Text	MEASUREHEAD / FASCHA DQ	Kim Kitsuragi	"Goddamnit..." mumbles the lieutenant. "It's becoming a thing now, huh?"	“妈的……”警督小声嘟囔。“他还当真了哈？”
+0x0100005100005495	Dialogue Text	MEASUREHEAD / FASCHA DQ	Kim Kitsuragi	"No," the lieutenant shakes his head. "You don't. You need to help me find out who killed our hanged man."	“不，”警督摇摇头。“你不能这么做。你得帮我找出谁杀了我们的吊人。”
+0x01000051000054AA	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Kim, you cannot even *begin* to comprehend the importance of this."	“金，你简直*一点*都不能理解这件事情的重要性。”
+0x01000051000054B1	Dialogue Text	MEASUREHEAD / FASCHA DQ	Kim Kitsuragi	"No, I cannot," he agrees. "Just make it quick, please."	“不，我不能，”他承认。“那请你快一点。”
+0x01000051000054B8	Dialogue Text	MEASUREHEAD / FASCHA DQ	Kim Kitsuragi	"Another one?" The lieutenant lets out a sigh. "Just make it quick please."	“还来？”警督叹气。“那请你快一点。”
+0x01000051000054BF	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	Ignore him.	无视他。
+0x01000051000054E1	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"It's a harmless quirk. Can't you just roll with it?"	“随便聊聊而已。你就不能睁只眼闭只眼吗？”
+0x010000510000683D	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"OBSERVE," he turns to the women. "LIKE A PEASANT HOPING TO BED A NOBLEWOMAN, THE HAM SANDWICH IS REACHING STRAIGHT FOR THE *ADVANCED* CONCEPTS. NO HUMILITY, AWARENESS, OR RESPECT."	“你看。”他转向女人。“如同一个想睡贵族女人的农民一样。这个火腿三明治正在扑向*超前*概念。一点没有谦卑、神智或者尊敬。”
+0x0100005100006844	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead's Babe	"Get your dirty hick-dick away from these advanced concepts, peasant!"	“把你的臭丁丁从那些超前概念上拿走，农民！”
+0x010000510000684B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"TO COMPREHEND TIME YOU MUST POSSESS AT LEAST A BASIC UNDERSTANDING OF HOW *REALITY* WORKS, WHAT THE RULES ARE. THE LOOK OF INFINITE ASTOUNDMENT IN YOUR EYES SAYS YOU HAVE *NO IDEA*."	“为了理解时间，你至少得对*现实*的运作法则有最基本的理解。你眼中无穷无尽的震惊告诉我，你对此*一无所知*。”
+0x0100005100006866	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I admit I've re-entered this reality quite recently. Things are still hazy."	“我承认我最近才回到现实中来。我依然头昏脑胀。”
+0x010000510000686C	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"You're right -- I don't even know *who I am*..." (Look at your hands in bewilderment.)	“你是对的——我甚至不知道*我是谁*……”（困惑地看向手掌。）
+0x0100005100006874	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Hey, I'm a police officer, I know *plenty*!"	“嘿，我是个警官，我知道*很多*！”
+0x010000510000687B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THE CONCEPTS YOU REACH FOR ARE FAR BEYOND YOU, PUPA. WITHOUT THE NECESSARY VOCABULARY YOU ARE ONLY WASTING MY TIME." He frowns. "EDUCATE YOURSELF FIRST, TALK TO PEOPLE, AND UNDERSTAND THE BASICS."	“你想理解的概念远超你的能力范围，蚕蛹。连基本词汇都不知道，你只是在浪费我的时间。”他皱眉。“你得先学习。和别人聊聊，问清楚现实的基础概念。”
+0x0100005100006884	Dialogue Text	MEASUREHEAD / FASCHA DQ	Endurance	This again? Guess we need to return to Mr. Monolith once we've gotten a better understanding of the whole 'reality thing'.	又来？看来我们得在搞明白这个‘现实’东西之后才能回来和石柱先生聊天了。
+0x0100005100006892	Dialogue Text	MEASUREHEAD / FASCHA DQ	Endurance	He's got a point. You're never going to turn back time if you don't understand how the pieces move. Let's find someone *rich* (that's how you know they've got the basics down) and pick their brain.	他说得有道理。如果你不知道现实的运作规律，你绝不可能逆转时间。我们去问一个*富裕*的人（你知道他们肯定清楚基础问题），啃啃他们的脑子。
+0x0100005100006899	Dialogue Text	MEASUREHEAD / FASCHA DQ	Physical Instrument	Just remember, minimum effort -- let things get too brainy and *BANG*! You're a binoclard. No one wants that.	但记住，别花太多努力——要是搞得太复杂，你就*梆*！变成了一个四眼仔。你可不想那样。
+0x01000051000068D1	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"But I learned how the reality works!"	“但我已经知道现实的运作了！”
+0x01000051000068D7	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"What is your problem?!"	“你有什么问题？！”
+0x01000051000068DF	Dialogue Text	MEASUREHEAD / FASCHA DQ	Endurance	Clearly that wasn't enough. You have to do something *drastic* to get under his skin and open him up.	这显然不够。你得做些*耸人听闻*的事情才能打开他的心防。
+0x01000051000068E5	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	The statueesque giant seems to have already forgotten your presence. He's deep in thought, eyes scanning the horizon...	雕塑般的巨人看起来已经忘记了你的存在。他沉浸在思绪中，视线扫过地平线……
+0x01000051000068F2	Dialogue Text	MEASUREHEAD / FASCHA DQ	Half Light	Knock him... THE *FUCK* OUT!	把他……踢个*稀巴烂*！
+0x01000051000068F9	Dialogue Text	MEASUREHEAD / FASCHA DQ	Conceptualization	Find common ground with him, ease yourself in there.	找到共同语言，让他放松下来。
+0x0100005100006902	Dialogue Text	MEASUREHEAD / FASCHA DQ	Endurance	You need to get under his skin first... get him to open up somehow.	你得先潜移默化……让他对你坦诚一些。
+0x0100005100006912	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"MANAGED TO LEARN THE REALITY RHIZOME -- AND NEXT UP IS RETURNING TO THE PAST?" The giant locks eyes with you. His face is serious...	“你了解了现实的根茎——然后就想回到过去？”巨人凝视你。他的表情十分严肃……
+0x0100005100006942	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THAT SURPRISES NO ONE. AND YET YOU *STILL* FEEL ENTITLED TO RETURN TO THE PAST?" The giant locks eyes with you. His face is serious...	“这毫不出奇。而你*仍然*觉得自己春子资格回到过去？”巨人盯着你。他的表情十分严肃……
+0x010000580001EC42	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"COME BACK TO ME WHEN YOU'VE MASTERED THE RHIZOME." He crosses his arms, towering above you with a menacing shadow.	“等你学会了现实的根茎再来问我。”他抱起胳膊，像一座铁塔那样俯瞰你。
+0x010000580001EC48	Dialogue Text	MEASUREHEAD / FASCHA DQ	Encyclopedia	A studious approach... Seems like a good direction. Turn it into *science*!	一个勤勉的方式……看起来是个不错的方向。把它变得*科学*起来！
+0x010000580001EC57	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	He surveys the traffic jam, then turns his eyes back to you. Waiting, prepared...	他研究着塞車的状况，然后转回到你面前。万事俱备地等待着……
+0x010000580001EC7E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU DON'T HAVE IT IN YOU. BE GRATEFUL FOR THAT."	“你身上没有它。你应该为此感激。”
+0x010000580001ECC3	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"IT SADDENS EVEN ME. THE GHOUL IS A CRUEL MASTER."	“它甚至令我伤心。酒精是个残酷的主人。”
+0x010000580001ECD6	Dialogue Text	MEASUREHEAD / FASCHA DQ	Suggestion	Othen than race science, what else do you think he's into?	除了种族科学，你觉得他还对什么感兴趣？
+0x010000580001ECDD	Dialogue Text	MEASUREHEAD / FASCHA DQ	Electrochemistry	Light bondage?	轻度捆绑？
+0x010000580001ECE6	Dialogue Text	MEASUREHEAD / FASCHA DQ	Perception (Sight)	Tattoos?	纹身？
+0x010000580001ECEC	Dialogue Text	MEASUREHEAD / FASCHA DQ	Rhetoric	Perhaps *socialism*, seeing that he's working for the Union...	或许*工人主义*，他似乎在为工会干活……
+0x010000580001ECF4	Dialogue Text	MEASUREHEAD / FASCHA DQ	Inland Empire	Wirral. A guy so engrossed with various races *has to* play pen-and-paper role-playing games.	威勒尔。一个沉迷于种族科学的家伙，*必须得*玩一玩纸笔角色扮演游戏。
+0x010000580001ED08	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	Welkins?	精灵？
+0x010000580001ED0E	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	Body art?	人体彩绘？
+0x010000580001ED14	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	Sadomasochism?	虐恋？
+0x010000580001ED1A	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	No idea. The only thing he seems to care about are his *wömen*.	不知道。他好像只在乎他的*女人*。
+0x010000580001ED21	Dialogue Text	MEASUREHEAD / FASCHA DQ	Suggestion	Bingo! This specimen has surrounded himself not only with one or two, but *three* stellar babes.	对了！这个样本出现在了围绕在他身边美丽的宝贝们，甚至不是一个或者两个，而是*三个*。
+0x010000580001ED2B	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	Socialism?	工人主义？
+0x010000580001ED32	Dialogue Text	MEASUREHEAD / FASCHA DQ	Suggestion	What's more, all these girls seem to be Kojkos. What's up with that? You have to find out what's his deal with Graad...	而且，这些女孩似乎都是克吉克。这是怎么回事？你得搞明白他和格拉德的关系……
+0x010000580001ED3A	Dialogue Text	MEASUREHEAD / FASCHA DQ	Suggestion	Yes, but even more importantly -- women. This specimen has surrounded himself not only with one or two, but *three* stellar babes.	是，但更重要的是——女人。这个样本出现在了围绕在他身边的卫星般的宝贝们，甚至不是一个或者两个，而是*三个*。
+0x010000580001ED43	Dialogue Text	MEASUREHEAD / FASCHA DQ	Suggestion	Probably not. Women however... He's surrounded himself not with one or two, but *three* stellar babes.	或许不。但是女人……他身边围绕着卫星般的宝贝们，甚至不是一个或者两个，而是*三个*。
+0x010000580001ED4B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Suggestion	Doubtful. Women however... He's surrounded himself not only with one or two, but *three* stellar babes.	看着不像。但是女人……他身边围绕着卫星般的宝贝们，甚至不是一个或者两个，而是*三个*。
+0x010000580001ED52	Dialogue Text	MEASUREHEAD / FASCHA DQ	Suggestion	Could be, but even more importantly -- women. This specimen has surrounded himself not only with one or two, but *three* stellar babes.	或许，但更重要的是——女人。这个样本出现在了围绕在他身边的卫星般的宝贝们，甚至不是一个或者两个，而是*三个*。
+0x010000580001ED5B	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Listen... there's something *personal* I'd like to discuss with you."	“听着……我想和你讨论一些*私人*问题。”
+0x010000580001ED62	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"PERSONAL?" He seems bemused.	“私人？”他看起来有些困惑。
+0x010000580001ED68	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"It's time to address the Men of Wö."	“是时候说到男人的对立面了。”
+0x010000580001ED6E	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"It's about..." (Slowly run your eyes over the girls.) "...*stuff*."	“那是……”（慢慢扫视女孩们。）“……某些*东西*。”
+0x010000580001ED74	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Your babes are very beautiful. I'm sad."	“你的宝贝们美极了。我真伤心。”
+0x010000580001ED7A	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"It's about the peculiar nature of your friends here."	“那和你的朋友们的奇特性质有关。”
+0x010000580001ED84	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead's Babe	"Is he talking about *us*, Jean?"	“他在说*我们*吗，让？”
+0x010000580001ED8B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead's Babe	"Is he gonna fucking cry, Jean?" She wrinkles her nose as if smelling something foul.	“他是要他妈的哭出来了吗，让？”她皱了皱鼻子，好像闻到什么臭味一样。
+0x010000580001ED92	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead's Babe	"What is he talking about, Jean?"	“他在说什么，让？”
+0x010000580001EDA0	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead's Babe	"Pervo! You're gonna let him eye-fuck me like that, Jean?" She wrinkles her nose as if smelling something foul.	“变态！你就这样看着他视奸我吗，让？”她皱了皱鼻子，好像闻到什么臭味一样。
+0x010000580001EDBA	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU MEAN THE BABES. I SEE." He appears to be calculating something.	“你是说宝贝们，我明白了。”他好像在计算什么。
+0x010000580001EDC2	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"PERHAPS WE *SHOULD* TALK IN PRIVATE. COME WITH ME."	“也许我们*应该*私下交谈。和我走。”
+0x010000580001EDCA	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YES. I SEE." The answer comes without hesitation. It is unclear to whom it's meant though.	“是的。我明白了。”他有些犹豫地答道。不知道在对谁说。
+0x010000580001EDD2	Dialogue Text	MEASUREHEAD / FASCHA DQ	Reaction Speed	Wait, where is he taking you?!	等等，他要带你去哪里？
+0x010000580001EDD9	Dialogue Text	MEASUREHEAD / FASCHA DQ	Esprit de Corps	What about the lieutenant?	那警督怎么办？
+0x010000580001EDED	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Where are you taking me?"	“你要带我去哪里？”
+0x010000580001EDF3	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"What about the lieutenant?" (Turn to Kim.)	“那警督怎么办？”（转向金。）
+0x010000580001EDF9	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"How long is it going to take?"	“要花多久？”
+0x010000580001EDFF	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Alright, I'll let you know when I'm ready to go." (Conclude.)	“好吧，等我准备好了我会告诉你。”（总结。）
+0x010000580001EE05	Dialogue Text	MEASUREHEAD / FASCHA DQ	Logic	What about the *case*?! You don't have time for this, at least not *right now*... maybe later...	那*案子*怎么办？！你没时间做这种事，尤其是*现在*……或许之后可以……
+0x010000580001EE12	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"TO THE DEEPEST CAVERNS BENEATH LA ROYAUME, WHERE EYELESS CREATURES, IGNORANT OF LIGHT AND WARMTH, LURK AND SLITHER."	“我们去王国地下最深的洞穴，那里生活着无眼生物，它们对光线和温暖蒙昧无知，只一味在地下潜伏盘踞。”
+0x010000580001EE18	Dialogue Text	MEASUREHEAD / FASCHA DQ	Logic	Don't worry, it's not a trap. *Everyone* can see you go in there together. You'll be fine.	别担心，他没在给你设陷阱。*所有人*都看到你们一起去那里了。你不会有事的。
+0x010000580001EE1E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Half Light	Yes, but no one can see what happens *inside*...	是的，但没人能看到那*里面*会发生什么……
+0x010000580001EE24	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"DON'T PANIC, HAM SANDWICH. THAT WAS A JOKE. WE'RE GOING TO MY MOTHER'S OFFICE."	“别恐慌，火腿三明治。我开个玩笑。我们要去我母亲的办公室。”
+0x010000580001EE34	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"A MEDIAN AMOUNT OF TIME."	“不会太久。”
+0x010000580001EE3A	Dialogue Text	MEASUREHEAD / FASCHA DQ	Kim Kitsuragi	"You go ahead and have your talk," he replies, glancing over the railing. "I need a few things from Frittte anyways. We'll catch up later."	“你自己去谈话。”他答道，扫视着扶手。“反正我也需要去弗利多买点东西。我们一会见面。”
+0x010000580001EE46	Dialogue Text	MEASUREHEAD / FASCHA DQ	Esprit de Corps	Women, racism, turning back time -- it couldn't interest him less.	女人，种族主义，逆转时间——对他来说不能更无聊了。
+0x010000580001EE4D	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"But what if I don't want to do it without you..."	“但如果我不想一个人去怎么办……。”
+0x010000580001EE53	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Okay, sure. I can handle it. No biggie."	“好吧，当然。我自已一个人能行。没问题。”
+0x010000580001EE5B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Kim Kitsuragi	"No really," he assures you, "we're not joined by the hip. You want to talk about women with him and I want to... do pretty much anything else. Don't let me hold you back."	“不会的。”他安慰你。“我们又不是连体婴儿。你想去和他谈论女人，我想……干点别的。别因为我的缘故而克制自己。”
+0x010000580001EE62	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"WE CAN TALK WITHOUT THE PAEDOMORPH. IT'S ME AND YOU THIS TIME."	“我们可以撇开那个低幼态的朋友。这次只有我们两个。”
+0x010000580001EE69	Dialogue Text	MEASUREHEAD / FASCHA DQ	Kim Kitsuragi	The lieutenant nods, then puts away his notebook. He's ready to go.	警督点头，收起笔记本。他准备走了。
+0x010000580001EE72	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"I AM NOT GOING ANYWHERE -- AND NEITHER IS MY MOTHER'S OFFICE."	“我哪里也不去——我母亲的办公室也一样。”
+0x010000580001EE86	Dialogue Text	MEASUREHEAD / FASCHA DQ	Half Light	It's a trap!! No one knows what he might *do to you* once you're in there...	这是个陷阱！谁知道你去了那里之后他会*对你*做什么……
+0x010000580001EE8E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Esprit de Corps	What about the lieutenant? He's not here, but you might want him to join...	那警督呢？他不在，但你希望他和你一起去……
+0x010000580001EE94	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Can Lieutenant Kitsuragi join us?"	“曷城警督能和我们一起去吗？”
+0x010000580001EE9A	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THE PAEDOMORPH? THE PAEDOMORPH IS NOT HERE."	“那个低幼态的生物？他不在这里。”
+0x010000580001EEA0	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"WE DON'T NEED YOUR FRIEND. IT'S ME AND YOU THIS TIME."	“我们不需要你那个朋友。这次只有我们两个。”
+0x010000580001EEA6	Dialogue Text	MEASUREHEAD / FASCHA DQ	Esprit de Corps	It's okay. Women, racism, turning back time -- the lieutenant wouldn't be interested anyway.	没关系。女人种族主义，逆转时间——警督本来也不会感兴趣的。
+0x010000580001EEB1	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead's Babe	"I haven't seen him either, Jean..."	“我也没看到他，让……”
+0x010000580001EFC4	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"IN FACT VISUAL EXPRESSION OF INDIVIDUALITY IS SOMETHING WE ALWAYS PERCEIVED DIFFERENTLY. IT'S A GENERATIONAL CHASM."	“实际上，个体的视觉表现总是向我们传达不同的信息。这是一个代际的割裂。”
+0x010000580001EFCE	Dialogue Text	MEASUREHEAD / FASCHA DQ	Drama	Wait, is this a *joke*?!	等等，这是个*玩笑*？
+0x010000580001EFD4	Dialogue Text	MEASUREHEAD / FASCHA DQ	Endurance	Alright, let's do this -- before anyone changes their mind!	好吧，在我们改变主意之前——动身吧！
+0x010000580001F010	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"SPOKEN LIKE A MAN DEFEATED BY LOVE. UNABLE TO FACE THE HARSH REALITIES OF NATURE. WE ARE SKY, BUTTERFLIES, RHODODENDRONS, RHINOS. NATURE AGAINST NATURE. LOVE TAKES COURAGE. COURAGE TO FIGHT."	“听起来像是一个被爱打败了的男人。无法面对自然的残酷现实。我们是天空，蝴蝶，杜鹃花，犀牛，自然对抗自然。爱需要勇气。战斗的勇气。”
+0x010000580001F015	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOUR AGREEMENT MEANS NOTHING TO ME. YOU'RE A MAN *DEFEATED* BY LOVE. IT IS PLAIN TO SEE. IT IS IN YOUR FACE, IN YOUR VOICE, IN YOUR HEART. LOVE TAKES COURAGE -- YOU DID NOT HAVE ENOUGH."	“你的赞同对我来说一文不值。你是个被爱*打败*的男人。这一目了然。我在你的表情、声音和心里看到这点。爱需要勇气——你的勇气还不够。”
+0x010000580001F01D	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THIS DEFEATIST TALK OF COOPERATION IS WHY YOU HAVE NO FUTURE. IT IS ALSO WHY YOU HAVE NO LOVE."	“这种丧气的协作空话就是你找不到未来的原因。这也是你没有爱的原因。”
+0x010000580001F027	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU HAD A LITTLE. TOO LITTLE. THAT IS WHY WE ARE IN MY MOTHER'S OFFICE. YOU HAVE COME TO ME, SEEKING WISDOM IN THE SEXUAL ARTS. DO NOT WASTE THIS OPPORTUNITY ON SYCOPHANTIC PERSONALITY MIRRORING."	“你只有一点。太少了。这就是我们来我母亲办公室的原因。你得来找我，从性的艺术中攫取智慧。别把这个机会浪费在谄媚的人格映像上。”
+0x010000580001F034	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"IT WILL SERVE YOU POORLY IN THE GREAT WAR OF LOVE."	“这在爱的伟大战争中会对你不利。”
+0x010000580001F042	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"You seem to have a set idea of masculinity. I wonder where it comes from?"	“你似乎对男子气概怀有某种既定的认知。我想知道它是从何而来的。”
+0x010000580001F048	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THIS IS NO TIME FOR VAGUE GENERALITIES. THERE IS SOMETHING ELSE ON YOUR MIND. ASK THE QUESTION YOU INTENDED TO ASK OR FACE YOUR COWARDICE."	“别说这些模糊的概念。你在想一些别的事情。你要么问出来，要么承认自己是个懦夫。”
+0x010000580001F04E	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Alright. What made you *you*, Measurehead?"	“好吧。是什么让你成为了*你*，测颅先生？”
+0x010000580001F054	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"It's not cowardice, it's called having a survival instinct."	“我不是懦夫，我只是很有求生欲望。”
+0x010000580001F0B1	Dialogue Text	MEASUREHEAD / FASCHA DQ	Volition	Doesn't look like he has a nervous breakdown every two seconds.	他看着不像是会每过两秒精神崩溃一次的那种人。
+0x010000580001F0B7	Dialogue Text	MEASUREHEAD / FASCHA DQ	Endurance	He's going to live to be five hundred years old.	他能活到五百岁。
+0x010000580001F0D5	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead's Babe	"Thank god, Jean, you're back!	“感谢老天，让，你回来了！”
+0x010000580001F0DC	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	(Nod first.) "Women."	（先点点头。）“女人。”
+0x010000580001F0E2	Dialogue Text	MEASUREHEAD / FASCHA DQ	Inland Empire	The room feels soporific in its silence, dust particles twirling around in the air...	沉默的房间显得昏昏欲睡，灰尘的颗粒在空气中翻涌……
+0x010000580001F0EA	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"WOMEN," he repeats.	“女人。”他重复。
+0x010000580001F0F5	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"It's about love."	“重点是爱。”
+0x010000580001F0FB	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Culture-victory. The kipts and the Kojkos are showing..."	“文化的胜利。你看那些吉皮特和克吉克人……”
+0x010000580001F101	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"It's about her." (Nod solemnly.) "Revachol."	“重点是她。”（肃穆地点头。）“瑞瓦肖。”
+0x010000580001F107	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I *really* need to find a way to turn back time."	“我*真的*需要想办法逆转时间。”
+0x010000580001F111	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THAT IS A LIE YOU ADMINISTER YOURSELF. LIKE HEART MEDICINE. GO WITHOUT IT ONE DAY AND YOUR HEART WILL STOP."	“这只是你灌输给自己的谎言。和心脏药物一样。只要你一天不骗自己，你的心脏就会停跳。”
+0x010000580001F11D	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"RENOUNCING THE GHOUL IS ALREADY CLEARING THE FOG FROM YOUR MIND. DON'T THINK I DIDN'T NOTICE. MEN ONLY WANT TO REVERSE TIME FOR ONE REASON -- LOVE."	“弃绝酒精是从你的思维中扫除迷雾的第一步。别以为我没发现。男人只会出于一个目的逆转时间——爱。”
+0x010000580001F123	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"I CAN BARELY HEAR YOUR WORDS THROUGH THE VOICE OF AL-GUL, BUT IT SPEAKS TRUTH. MEN ONLY WANT TO REVERSE TIME FOR ONE REASON -- LOVE."	“你的话被阿尔古盖得几乎听不清了，但你说得对。男人只会出于一个目的逆转时间——爱。”
+0x010000580001F12D	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"MEN ONLY WANT TO REVERSE TIME FOR ONE REASON. THEY *SAY* IT'S ABOUT HONOUR, JUSTICE, REVENGE, REGRET, REDEMPTION, AND A PLETHORA OF FALSE REASONS, BUT FURTHER BACK -- DEEPER IN -- IT IS ALWAYS LOVE THAT DRIVES THEM."	“男人只会出于一个目的逆转时间。他们说那是荣耀，正义，复仇，悔恨，赎罪，还有很多其他的假话，但剥掉这些伪装——在他们内心深处——永远是爱在驱动他们。”
+0x010000580001F134	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THEY *SAY* IT'S ABOUT HONOUR, JUSTICE, REVENGE, REGRET, REDEMPTION, AND A PLETHORA OF FALSE REASONS, BUT FURTHER BACK -- DEEPER IN -- IT IS ALWAYS LOVE THAT DRIVES THEM."	“他们说那是荣耀，正义，复仇，悔恨，赎罪，还有很多其他的假话，但剥掉这些伪装——在他们内心深处——永远是爱在驱动他们。”
+0x010000580001F13E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"WE ALREADY ESTABLISHED THAT. TELL ME, WHAT DRIVES YOU TO SEARCH FOR SUCH *FANTASTIC* MEASURES?"	“我们已经建立起这样的概念了。告诉我，是什么驱动着你搜寻这样*奇妙*的事物？”
+0x010000580001F148	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	(Shrug.) "No reason, I just want to turn back time."	（耸肩。）“没什么原因，我只是想逆转时间。”
+0x010000580001F166	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"There *is* a competitive element to sex, I agree."	“我同意，性确实具有一定的竞争性。”
+0x010000580001F16B	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Sex is about *cooperation*. It doesn't matter how many partners you've had."	“性的重点是*协作*。你有多少伴侣并不重要。”
+0x010000580001F175	Dialogue Text	MEASUREHEAD / FASCHA DQ	Pain Threshold	Ouch...	哎哟……
+0x010000580001F17C	Dialogue Text	MEASUREHEAD / FASCHA DQ	Conceptualization	He has a point. While an idea is born potentially immortal, flesh is always doomed to die.	他说得有道理。思维或许可以永存，但肉体总有腐朽的一天。
+0x010000580001F182	Dialogue Text	MEASUREHEAD / FASCHA DQ	Physical Instrument	Spirit is housed in flesh. No one cares about your fancy 'ideas' if you're getting beaten up behind a bar.	精神栖息于肉体之中。如果你在酒吧后巷被狂扁，谁会想听你那些漂亮的‘思维’？
+0x010000580001F18B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Empathy	That's not true. You have the love of your mother... or do you?	不是这样的。你拥有母亲的爱……对吧？
+0x010000580001F196	Dialogue Text	MEASUREHEAD / FASCHA DQ	Esprit de Corps	Maybe even the love of your friends and colleagues?	或许还有你的朋友和同事的爱？
+0x010000580001F19F	Dialogue Text	MEASUREHEAD / FASCHA DQ	Half Light	Who needs love if you can wield *fear*.	如果你能运用*恐惧*，还要爱干什么。
+0x010000580001F1A6	Dialogue Text	MEASUREHEAD / FASCHA DQ	Esprit de Corps	You've definitely lost the love of your colleagues.	你绝对失去了同事的爱。
+0x010000580001F1C2	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THE ONLY MAN WORTH BEING CALLED A MAN -- FATHER JAIRZINHO."	“唯一配被称作男人的人——雅伊济尼奥父亲。”
+0x010000580001F1C9	Dialogue Text	MEASUREHEAD / FASCHA DQ	Inland Empire	Father Jairzinho? Sounds like some kind of mystic. Or a magician.	雅伊济尼奥父亲？听起来像一个神秘学家。或者魔术师。
+0x010000580001F1D2	Dialogue Text	MEASUREHEAD / FASCHA DQ	Half Light	No, this is a *trap*... He will say or do something *horrible* if you go down this path...	不，这是个*陷阱*……如果你顺着他的逻辑走，他会对你说或者做一些*糟糕*的事情……
+0x010000580001F1D8	Dialogue Text	MEASUREHEAD / FASCHA DQ	Shivers	The hair on you arm stands up as you hear wind howl behind the window... An outline of a small bathroom appears in your mind's eye. Above the sink -- in a tumbler -- is a pair of labelled toothbrushes...	你听到窗外寒风呼啸，感到自己手臂上的汗毛立了起来……你似乎在心里看到一个小卫生间的剪影。在水池的上方——一个管道里面——是一对带标签的牙刷……
+0x010000580001F1DE	Dialogue Text	MEASUREHEAD / FASCHA DQ	Visual Calculus	Nothing in the history of things that *are* has ever *been* as monolithic as Jean-Luc Measurehead right now. He is an obelisk. A towering phallic obelisk of willpower.	历史上*从未*有人像让·卢克测颅先生现在*这样*坚毅不屈。他如同一座方尖碑，顽强的意志伫立在大地上。
+0x010000580001F1E4	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"FATHER JAIRZINHO MADE ME HARD, WHERE MY MOTHER MADE ME SOFT. TOGETHER THEY MADE ME COMPLETE."	“雅伊济尼奥父亲给我强硬，我的母亲给我柔情。他们合二为一，让我完满无缺。”
+0x010000580001F1EA	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"NO. A WELDER."	“不，一个焊接工。”
+0x010000580001F1F0	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"And how did he *make* you?"	“他又是怎么*塑造*了你的？”
+0x010000580001F1F6	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Hold on, is this father Jairzinho a... *mystic*?"	“等等，这个雅伊济尼奥父亲是一个……*神秘学家*吗？
+0x010000580001F204	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	What's written on the toothbrushes?	牙刷上写着什么？
+0x010000580001F20A	Dialogue Text	MEASUREHEAD / FASCHA DQ	Shivers	An imposing figure with almost mythical proportions fills the entire room. He's hunched over the sink and muscles, like waves on the ocean, roll under his skin with even the smallest of movements.	一个强硬的身影，有着神话般的比例，几乎占满整个房间。他在水池上方弯着背，肌肉如同海浪般舒展，在他的皮肤下卷出细腻的波纹。
+0x010000580001F216	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"It's very poetic, but you're avoiding the question. How did he raise you?"	“那很诗意，但你在回避问题。他是怎么抚养你的？”
+0x010000580001F227	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	Shake it off.	摆脱掉这种感觉。
+0x010000580001F22D	Dialogue Text	MEASUREHEAD / FASCHA DQ	Volition	He wasn't even using soap... *incredible*.	他甚至不用肥皂……*不可置信*。
+0x010000580001F233	Dialogue Text	MEASUREHEAD / FASCHA DQ	Physical Instrument	Roll or twitch? That guy *must* be juicing. No way he's natural!	滚动还是抽搐？这个家伙*一定*是供电的。他绝不可能是自然的造物！
+0x010000580001F239	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	Wait, 'juicing'?	等等，‘供电’？
+0x010000580001F241	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	What is he doing?	他在干什么？
+0x010000580001F24D	Dialogue Text	MEASUREHEAD / FASCHA DQ	Physical Instrument	Big time. TRT, growth hormones, Graadian power injections -- he's on *all* of them.	重要时刻，睾酮替代物，生长激素，格拉德兴奋剂——他*什么*都磕。
+0x010000580001F25E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Empathy	How sad -- this man only ever knew his mother's love...	多么悲伤——这个男人只感受过母亲的爱……
+0x010000580001F264	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"LET ME SAY THAT AGAIN: IT IS THE *BALANCE* BETWEEN SOFT AND HARD THAT MADE ME COMPLETE."	“我再说一遍：这是让我完整的柔情与强硬之间的*平衡*。”
+0x010000580001F26A	Dialogue Text	MEASUREHEAD / FASCHA DQ	Shivers	Shaving -- or about to chop firewood because... Oh, he *is* shaving! Sliding an enormous axe blade down his bristly chin -- with *grunts* accompanying the process. Steam is emanating from his naked body... The image blurs.	剃须——或者砍柴，因为……哦，他*确实*在剃须！一把巨大的斧头滑过他毛绒绒的下巴——一边发出*哼哼*声。他赤裸的身体上冒出蒸气……图像模糊了。
+0x010000580001F270	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"SO HE DID WHAT A MAN MUST. HE BECAME A *COUNTERWEIGHT*. OF IRON. THROUGH SCARCITY, ASCESIS, DISCIPLINE, AND RESPECTFUL DISTANCE EVERY FATHER SHOULD HAVE FOR HIS SON."	“他做了一个男人必须做的事情。他变成了一道钢铁般的*平衡力*。通过稀缺性、禁欲、戒律，还有每个父亲都应该和他的儿子保持的令人尊敬的距离。”
+0x010000580001F27B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"FATHER JAIRZINHO WAS VERY WISE. HE REALISED THAT IF THE TENDER TOUCH OF MY MOTHER WASN'T OPPOSED I WOULD TURN INTO A..." He pauses to make sure your eyes are locked.	“雅伊济尼奥父亲充满智慧。他意识到如果我母亲的温柔没有制衡的力量，我就会变成……”他停下来，确保你的注意力集中在他身上。
+0x010000580001F283	Dialogue Text	MEASUREHEAD / FASCHA DQ	Horrific Necktie	Did somebody say *PERFORMANCE ENHANCERS*?!	刚才是有人说了*违禁药物*吗？！
+0x010000580001F28B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"COMPLETE *PUSSY*."	“一个完全的*娘炮*。”
+0x010000580001F2C4	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"I DIDN'T BECOME WHAT I AM BY SUCCUMBING TO THE PLEASURE-SEEKING DEMANDS OF MY PHYSICAL BODY. YOU HOWEVER CLEARLY DID -- AND THAT'S MORE THAN I NEED TO CLOSE THIS ARGUMENT."	“我没有屈服于我的身体对于享乐的追求。但你显然这么做了——这就是为什么我要停止和你的对话。”
+0x010000580001F2CA	Dialogue Text	MEASUREHEAD / FASCHA DQ	Reaction Speed	And by essence he means his 'strategic semen reserve'. A collector, that one.	他的意思就是他的‘战略性精液保留’。那个收集者。
+0x010000580001F2DE	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Is Jairzinho your biological father?"	“雅伊济尼奥父亲是你的生父吗？”
+0x010000580001F2E4	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Did he ever *hit* you? Because it seems like he did."	“他*打*你吗？看起来像是他打过你。”
+0x010000580001F2E9	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Why do you call him Father Jairzinho then?"	“那你为什么叫他雅伊济尼奥父亲？”
+0x010000580001F2F5	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Thanks for sharing all this with me." (Continue.)	“谢谢你和我分享这一切。”（继续。）
+0x010000580001F328	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YES, I INHERITED MY GENETIC MAKEUP FROM FATHER JAIRZINHO. I AM AN EVOLUTION OF HIM. HE IS IMMORTALISED IN MY ESSENCE EVEN AFTER HIS PHYSICAL BODY EXPIRES."	“是的，我从雅伊济尼奥父亲那里继承了基因型。我是他的进化版本。在他的肉体消亡之后，他将在我的精华中获得永生。”
+0x010000580001F32E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THE STEREOTYPICAL WORRIES OF A TRAUMATISED SOCIAL WORKER. THE REALITY DOES NOT CORRESPOND TO YOUR PERSONAL TRAUMA. AND IF IT DID, I WOULD WELCOME IT. A GOOD FIGHT WITH FATHER JAIRZINHO WOULD BE A GREAT HONOUR."	“对于一个受到创伤的社工的刻板忧虑。现实并不围绕着你自己的创伤运作。即使我有过创伤，我会欢迎它。与雅伊济尼奥父亲的伟大战斗会令我引以为豪。”
+0x010000580001F334	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"BECAUSE FATHER JAIRZINHO IS MY FATHER AND HIS NAME IS JAIRZINHO."	“因为雅伊济尼奥父亲是我的父亲，他的名字是雅伊济尼奥。”
+0x010000580001F340	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"NO, HE DOES NOT, BUT IT DOESN'T MATTER. I SHOULDN'T CARE -- AND I DON'T -- WHAT HE THINKS. I AM MYSELF, NOT HIM. THIS IS HOW HE TAUGHT ME."	“不，他不这么做。但没关系。我不应该在乎——我不在乎——他怎么想。我是我自己，不是他的复制品。这就是他教会我的。”
+0x010000580001F353	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"I AM MERELY OFFERING A SMALL GLIMPSE OF FUNCTIONAL FAMILY DYNAMICS -- SOMETHING YOU WERE CLEARLY DEPRIVED OF."	“我不过是向你展示了正常家庭结构的惊鸿一瞥——而你显然被剥夺了这种东西。”
+0x010000580001F35B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Empathy	The last words are said almost with a longing.	他的话语听起来几乎带着一种渴望。
+0x010000580001F372	Dialogue Text	MEASUREHEAD / FASCHA DQ	Authority	His father taught him *respect*.	他的父亲教会了他*尊重*。
+0x010000580001F38A	Dialogue Text	MEASUREHEAD / FASCHA DQ	Empathy	But deep down he *does* care. Of course he does. He's his son.	但在内心深处，他*确实*在乎。他当然在乎。他是他的儿子。
+0x010000580001F398	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"DON'T THINK NOW THAT YOU'VE DIVORCED YOURSELF FROM THE GHOUL YOU'RE FIT TO GIVE ME LIFE ADVICE."	“别以为现在你和那头酒精离婚了，你就有资格给我提供人生建议。”
+0x010000580001F39E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"I CAN'T SEE OR HEAR THE GREAT EXAMPLE YOU'RE SETTING OVER THE DEAFENING ROAR OF YOUR CO-PILOT, AL GUL."	“你的自动驾驶仪的鬼哭狼嚎太响了，我看不见也听不见你要举的例子，阿尔古。”
+0x010000580001F3B9	Dialogue Text	MEASUREHEAD / FASCHA DQ	Horrific Necktie	A lot of *semen talk* going around, but no one blowing any loads. This party's winding down, *bratan*.	你们大聊特聊*精液*，但是谁也不射。派对要落幕了，*兄弟*。
+0x010000580001F40A	Dialogue Text	MEASUREHEAD / FASCHA DQ	Shivers	One of them is labelled 'Martha' and the other one -- which appears to be a chewing bone -- has 'Jairzinho' carved into it. A shadow falls over the ceramic tumbler...	其中一把标着‘玛莎’，另一把——看起来像是一根狗狗磨牙骨——上面刻着‘雅伊济尼奥’。一道阴影笼罩在陶瓷之上……
+0x010000580001F411	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	Look up.	向上看。
+0x010000580001F425	Dialogue Text	MEASUREHEAD / FASCHA DQ	Reaction Speed	'Personal trauma'? Is he implying *you* were the one who got beaten up by your dad?	‘个人创伤’？他是在暗示*你*才是那个被爸爸暴揍的人吗？
+0x010000580001F42C	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"No, you've misunderstood me. My father didn't hit me. I don't have any personal trauma."	“不，你误解了。我父亲不打我。我没有任何个人创伤。”
+0x010000580001F432	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Maybe you're right, maybe my father *did* hit me... The thing is, I don't really remember."	“也许你是对的，也许我的父亲*确实*打过我……问题在于，我记不清楚了。”
+0x010000580001F43A	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THIS DENIAL DOES NOT SERVE YOUR SPIRIT. YOU ARE LIKE A DOG WITH ITS TAIL BETWEEN ITS LEGS. IT IS VISIBLE TO ALL. IT IS VISIBLE TO WOMEN AND THE REASON WHY YOU HAVEN'T FOUND A WORTHY MATE. OR WHY THE WORTHY MATE WAS STOLEN FROM YOU."	“否认事实无法拯救你的灵魂。你就像一条把尾巴缩在腿间的狗。所有人都能看见它。女人能看见它，这就是你还没有找到一个相衬的伴侣的原因。或者是那个伴侣被从你身边偷走的原因。”
+0x010000580001F43F	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"This talk about physical violence between fathers and sons is suddenly making me uncomfortable."	“这个关于父子间的肢体暴力的谈话突然让我不舒服了起来。”
+0x010000580001F447	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THIS IS BECAUSE YOU STILL CARRY THE SIGNS OF A VIOLENT PAST. YOU ARE LIKE A DOG WITH ITS TAIL BETWEEN ITS LEGS. IT IS VISIBLE TO ALL. IT IS VISIBLE TO WOMEN AND THE REASON WHY YOU HAVEN'T FOUND A WORTHY MATE. OR WHY THE WORTHY MATE WAS STOLEN FROM YOU."	“这是因为你仍然没能摆脱一个暴力的国王。你就像一条把尾巴缩在腿间的狗。所有人都能看见它。女人能看见它，这就是你还没有找到一个相衬的伴侣的原因。或者是那个伴侣被从你身边偷走的原因。”
+0x010000580001F44F	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU DON'T HAVE TO REMEMBER. YOU ARE LIKE A DOG WITH ITS TAIL BETWEEN ITS LEGS. IT IS VISIBLE TO ALL. IT IS VISIBLE TO WOMEN AND THE REASON WHY YOU HAVEN'T FOUND A WORTHY MATE. OR WHY THE WORTHY MATE WAS STOLEN FROM YOU."	“你不需要记住。你就像一条把尾巴缩在腿间的狗。所有人都能看见它。女人能看见它，这就是你还没有找到一个相衬的伴侣的原因。或者是那个伴侣被从你身边偷走的原因。”
+0x010000580001F456	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THIS IS A WEAKNESS I CAN EMPATHISE WITH. YOU HAVE MY PITY. TAKE SOLACE IN IT."	“这是一种我可以共情的孱弱。我怜悯你。你应当感到安慰。”
+0x010000580001F45C	Dialogue Text	MEASUREHEAD / FASCHA DQ	Pain Threshold	Strange... there are no memories of that recorded anywhere in your body. He's making it up.	奇怪……你的全身上下都找不出和这有关的记忆。他一定是在胡编乱造。
+0x010000580001F461	Dialogue Text	MEASUREHEAD / FASCHA DQ	Logic	It's more likely that your father wasn't even around to beat you.	倒不如说，你的父亲根本不在你身边，哪来的机会打你。
+0x010000580001F466	Dialogue Text	MEASUREHEAD / FASCHA DQ	Empathy	It wasn't your father who beat you, it was the world.	打你的不是你父亲，是这个世界。
+0x010000580001F46F	Dialogue Text	MEASUREHEAD / FASCHA DQ	Electrochemistry	Wow. This man has truly internalised the psychology of sex.	哇哦。这个男人是真的对性心理学了如指掌。
+0x010000580001F47A	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Mothers are great!"	“母亲最棒！”
+0x010000580001F481	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I can't remember anything about my mother."	“我想不起来任何和我母亲有关的事情了。”
+0x010000580001F486	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"You seem comfortable here. Do you like this place?"	“在这里你看起来很舒服。你喜欢这个地方吗？”
+0x010000580001F48C	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YES. I HAVE ALWAYS LIKED THIS PLACE. IT IS MY FAVOURITE. WHEN I WAS A KID I USED TO COME HERE AND WAIT FOR MY MOTHER TO FINISH HER WORK."	“是的。我一直喜欢这个地方。这是我最爱的地方。当我还是个孩子的时候，我常来这里等我母亲下班。”
+0x010000580001F493	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"AND THE COUCH. THE COUCH IS VERY COMFORTABLE, EVEN THOUGH IT IS VERY SMALL. THERE IS NO COUCH LIKE THIS ONE."	“还有沙发。沙发有点小，但是它很舒服。没有任何一台别的沙发能比得上它。”
+0x010000580001F49C	Dialogue Text	MEASUREHEAD / FASCHA DQ	Composure	The couch *does* look very cosy, he's right about that.	沙发*确实*看起来很舒服，他说得对。
+0x010000580001F4A3	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"GREAT TIMES WERE HAD HERE, FILLING IN THE GREAT COLOURING BOOK OF THE SEMENINE FLORA AND FAUNA. THE CARRION FLOWERS AND THE MONOTREMES. THE MANGROVE FORESTS AND THE MEGABATS."	“这里曾有过好时光。我在精美的填色书上涂抹塞美尼花卉与动物。那些魔芋花、针鼹、红树林和狐蝠。”
+0x010000580001F4AC	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"I AM NOT SURPRISED. YOU ARE LIKE THE RUNT OF THE LITTER, ABANDONED. INCAPABLE OF NURTURING A WOMAN'S LOVE. OUR MOTHERS ARE THE ONES WHO TEACH US TO RECEIVE AFFECTION FROM THE OPPOSITE SEX -- A BOND YOU HAVE CLEARLY NOT EXPERIENCED."	“我毫不意外。你像一个在垃圾堆里生活的，被抛弃的小畜生。无法滋养一个女人的爱。我们的母亲教会了我们从异性那里识别爱意——这是一种你显然没有体验过的纽带。”
+0x010000580001F4B2	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THE GREATEST."	“最好的。”
+0x010000580001F4BA	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"INSTEAD YOU HAVE DEVELOPED THIS UNHEALTHY OBSESSION WITH THE PAST. STANDING BEFORE ME, HOPING TO TURN BACK TIME. THIS IS NOT THE ANSWER. REINVENT YOURSELF FROM DEFEAT."	“与之相反的是，你产生了这种对于过去的病态执念。站在我面前，期望逆转时间。这不是问题的解决方案。你应该从失败中站起来。”
+0x010000580001F4C2	Dialogue Text	MEASUREHEAD / FASCHA DQ	Electrochemistry	This *can't* be true for the Racist Lorry Driver -- guy didn't have an ounce of love in his life!	这对于种族主义货車司机来说*肯定*是假的——这家伙一辈子都没有挤出过一两的爱！
+0x010000580001F4C7	Dialogue Text	MEASUREHEAD / FASCHA DQ	Logic	No-no, Gary seems way too scientific to get involved in some messy love conundrum.	不-不，盖理看起来太科学了，不适合掺和进这种乱七八糟的爱欲纠葛。
+0x010000580001F4DA	Dialogue Text	MEASUREHEAD / FASCHA DQ	Reaction Speed	René certainly seemed to agree with that.	雷内应该会同意。
+0x010000580001F4F0	Dialogue Text	MEASUREHEAD / FASCHA DQ	Empathy	What about all the women that surround him -- is the love extended for them as well?	那他身边围绕着的女人们——他的爱是否也囊括她们？
+0x010000580001F4F5	Dialogue Text	MEASUREHEAD / FASCHA DQ	Physical Instrument	There's something else you need to clear up with him, man to man -- why you knocked him out.	你得和他搞清楚一些别的事情，男人和男人之间的事情——你为什么打晕他。
+0x010000580001F4FA	Dialogue Text	MEASUREHEAD / FASCHA DQ	Conceptualization	Hmm... maybe if you inquire more about the present, you'll figure out the secret of returning to the past.	嗯……也许你可以多问问当下，就能明白回到过去的秘密。
+0x010000580001F503	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"What's up between you and the babes?"	“你和宝贝们是怎么回事？”
+0x010000580001F50E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU ARE TRYING TO INSINUATE SOMETHING. THIS IMPOTENT PSYCHOLOGICAL MANIPULATION DOES NOT WORK ON ME. SPEAK UP, PUPA."	“你想刺探什么。这种软弱的心理操控对我无效。有话直说，蚕蛹。”
+0x010000580001F515	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Aren't you bothered by the *potaat* smell?"	“你难道不会因为那种*土豆*的气味而感到困扰吗？”
+0x010000580001F51B	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I thought you didn't like women of other races -- including Kojkos."	“我以为你不喜欢其他种族的女人——包括克吉克。”
+0x010000580001F533	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"NO. IT TURNS ME ON."	“不，它只让我兴奋。”
+0x010000580001F539	Dialogue Text	MEASUREHEAD / FASCHA DQ	Logic	There is no *potaat* smell -- just making it clear. It's racist rhetoric.	没有什么*土豆*的气味——搞清楚这一点。那只是种族主义的话术。
+0x010000580001F545	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOUR MIND IS UNABLE TO CAPTURE THE NUANCES OF THIS PARTICULAR SITUATION. IT EXCEEDS THE LIMITS OF YOUR EMOTIONAL INTELLIGENCE. *AND* YOUR GENETIC IMAGINATION. DO NOT EVEN TRY. "	“你的头脑无法辨别这种情况的细微特点。它超出了你的情商上限。*还有*你的基因想象力。试都别试。”
+0x010000580001F54D	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Aren't you afraid of producing a Semeno-Kojkic chimera?"	“你难道不担心制造出一个塞美尼-克吉克混血儿？”
+0x010000580001F553	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"PUPA..." He pauses to let the condescension set in. "I BELONG TO THE *S.R.S.* INVOLUNTARY OFFSPRING PRODUCTION -- CHIMERIC OR REGULAR -- IS *NOT* AN ISSUE FOR ME."	“蚕蛹……”他居高临下地停顿了一下。“我属于*精保社*。违背我意愿的繁殖后代——不管是混血儿还是正常孩子——对我来说都*不是*问题。”
+0x010000580001F559	Dialogue Text	MEASUREHEAD / FASCHA DQ	Encyclopedia	S.R.S.? Seems to be missing from your records...	精保社？你好像又忘了什么……
+0x010000580001F55F	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"S.R.S.? What are you talking about?"	“精保社？你在说什么？”
+0x010000580001F565	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THE SEMEN RETENTION SOCIETY. IT DOES NOT SURPRISE ME THAT YOU KNOW NOTHING ABOUT IT. MASTURBATORS ANONYMOUS IS PROBABLY AN ORGANISATION YOU'RE MORE FAMILIAR WITH."	“精液保留社。不出我的意料，你对此一无所知。匿名撸管人可能是个你更熟悉的组织。”
+0x010000580001F56B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THE S.R.S. IS A CLOSED GROUP OF STRONG-WILLED INDIVIDUALS WHO HAVE DEDICATED THEMSELVES TO BUILDING UP STRATEGIC SEMEN RESERVES. IT TAKES IRON WILL AND RAZOR-SHARP FOCUS. FAR BEYOND YOUR SPIRITUAL POTENTIAL."	“精保社是一个封闭群组，成员都是意志坚定、为建立战略性精液储备而作出贡献的人。它需要钢铁般的意志和无与伦比的专注力。这远超你的精神潜能。”
+0x010000580001F571	Dialogue Text	MEASUREHEAD / FASCHA DQ	Volition	An enormous expenditure of willpower to build up strategic semen reserves? You had me at *willpower*. Let's do it!	为建立战略性精液储备而付出伟大的意志力？我给你提供*意志力*。我们来加入！
+0x010000580001F585	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Hey, you're greatly underestimating my capabilities!"	“嘿，你在严重低估我的能力！”
+0x010000580001F58B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"NO, I AM NOT."	“不，我没有。”
+0x010000580001F593	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Aren't you afraid that one of them might get pregnant?"	“你难道不担心她们会怀孕？”
+0x010000580001F5A3	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Semenese Race Scientists?"	“塞美尼种族科学家？”
+0x010000580001F5A8	Dialogue Text	MEASUREHEAD / FASCHA DQ	Authority	Semenese Race Scientists?	塞美尼种族科学家？
+0x010000580001F5B9	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"You're right, Masturbators Anonymous is my kind of jam."	“你是对的，我喜欢匿名撸管人。”
+0x010000580001F5C4	Dialogue Text	MEASUREHEAD / FASCHA DQ	Reaction Speed	Now is the time to ask about the smell -- didn't he say that it is impossible to maintain an erection with the distinct smell of the Kojka?	现在是时候询问那股气味了——他刚刚不是说，克吉克人的独特气味让人根本无法保持勃起？
+0x010000580001F5CD	Dialogue Text	MEASUREHEAD / FASCHA DQ	Savoir Faire	Street Racing Syndicate?	街头赛車辛迪加？
+0x010000580001F5D3	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Street Racing Syndicate?"	“街头赛車辛迪加？”
+0x010000580001F5D8	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Is it a performance enhancement supplement you're taking?"	“你是不是在磕什么违禁药物？”
+0x010000580001F5E1	Dialogue Text	MEASUREHEAD / FASCHA DQ	Endurance	Is it some kind of performance enhancement supplement?	它是某种违禁药物的补充剂吗？
+0x010000580001F5FE	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Sounds *exciting*! How do I join?"	“听起来*激动人心*！我怎么加入？”
+0x010000580001F604	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Hold on, did I get this right -- you never actually climax during sexual intercouse?!"	“等等，我有没有理解错——你从来没有在性交中达到高潮过？！”
+0x010000580001F615	Dialogue Text	MEASUREHEAD / FASCHA DQ	Electrochemistry	Life is all about pleasure... why deny it?!	生命的意义在于欢愉……为什么要拒绝？
+0x010000580001F621	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THIS IS AN OVER-SIMPLIFICATION. BUT YES."	“这样说太简单化了。不过，是这样的。”
+0x010000580001F627	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"I JUST TOLD YOU. YOU DON'T. IT'S NOT MEANT FOR A FEEBLE AND TRAUMATIZED MIND LIKE YOURS."	“我刚刚和你说了。你不能。我们不接受你这种软弱受创的人。”
+0x010000580001F62D	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"How did this conversation end up here..."	“我们的对话是怎么进行到这种方向的……”
+0x010000580001F636	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"IF DISCUSSING BODILY FUNCTIONS DISTURBS YOU, WE CAN TALK ABOUT SOMETHING ELSE. SOMETHING THAT CORRESPONDS BETTER WITH YOU EMOTIONAL IMMATURITY."	“如果讨论身体机能会让你不适，我们可以换个话题。讨论一些和你的幼稚感情观念更相符的东西。”
+0x010000580001F63D	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"ONLY AFTER YEARS AND YEARS OF EMOTIONAL, PSYCHOLOGICAL, AND SPIRITUAL *POWERLIFTING* CAN A MAN START LOOKING INTO JOINING THE S.R.S."	“一个男人只有在年复一年的感情、心理和灵魂*举重锻炼*之后，才能奢望一下加入精保社。”
+0x010000580001F644	Dialogue Text	MEASUREHEAD / FASCHA DQ	Electrochemistry	Interesting... is it some kind of aphrodisiac then?	有趣……所以它是某种催情药？
+0x010000580001F656	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"I JUST TOLD YOU. IT’S NOT MEANT FOR AN AL-GUL ENTHRALLED MIND LIKE YOURS."	“我刚刚和你说了。它不是给你这种被阿尔古迷惑的人准备的。”
+0x010000580001F665	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"IT'S NOTHING TO BE PROUD OF, PUPA. HYSTERICAL MASTURBATION IS BUT ONE OF THE MANY ILLNESSES OF OCCIDENTAL CIVILISATION."	“这没什么可骄傲的，蚕蛹。歇斯底里的撸管不过是奥西登文明的无数疾病之一。”
+0x010000580001F679	Dialogue Text	MEASUREHEAD / FASCHA DQ	Logic	You have cold hard facts to protect you from heartbreak -- and that is enough.	你有冷硬的事实保护你免遭心碎——这就足够了。
+0x010000580001F68D	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Apologies, I didn't mean to get so personal."	“抱歉，我没想把对话变得这么私人。”
+0x010000580001F698	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I am more interested in *babes* than mothers."	“我对*宝贝们*比对母亲更感兴趣。”
+0x010000580001F69E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Authority	His tone is so solemn that if your eyes were closed, you could swear he has taken a knee.	他的语调忽然变得十分肃穆，要是你闭上了眼睛，你甚至可以发誓他一定正在单膝下跪起誓。
+0x010000580001F6AA	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"I AM NOT SURPRISED. YOU ARE LIKE THE RUNT OF THE LITTER, ABANDONED. INCAPABLE OF NURTURING A WOMAN'S LOVE. OUR MOTHERS ARE THE ONES WHO TEACH US TO RECEIVE AFFECTION FROM THE OPPOSITE SEX -- A BOND YOU HAVE CLEARLY NOT EXPERIENCED."	“我毫不意外。你像一个在垃圾堆里生活的，被抛弃的小畜生。无法滋养一个女人的爱。我们的母亲教会了我们从异性那里识别爱意——这是一种你显然没有体验过的纽带。”
+0x010000580001F6B0	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"INSTEAD YOU HAVE DEVELOPED THIS UNHEALTHY OBSESSION WITH BABES. ANY BABES, MINE INCLUDED. THIS IS NOT THE ANSWER."	“与之相反的是，你产生了这种对于宝贝们的病态执念。任何宝贝，包括我的。这不是问题的解决方案。”
+0x010000580001F6B7	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"IT'S NOT TOO LATE YET TO CHANGE THE COURSE. GIVE UP ON AL GUL. THEN GO EVEN FURTHER. REINVENT YOURSELF FROM DEFEAT."	“现在改变你自己还不晚。放弃对阿尔古的信仰。然后更加深入。从失败中站起来。”
+0x010000580001F6C7	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"IT'S NOT TOO LATE YET TO CHANGE THE COURSE. YOU HAVE ALREADY GIVEN UP ON AL GUL. NOW GO FURTHER. REINVENT YOURSELF FROM DEFEAT."	“现在改变你自己还不晚。你已经放弃了对阿尔古的信仰。现在更加深入。从失败中站起来。”
+0x010000580001F6D2	Dialogue Text	MEASUREHEAD / FASCHA DQ	Shivers	Something moves in the depths of your mind, sending shocks of cold through the connective tissue. You're sitting on a kicksled, whizzing through the snow. A warm, kind presence is guiding the sled behind you, her mittened hand resting on your back. You feel very, very loved -- and very, very safe.	你的意识深处有什么东西动了一下，让你浑身的结缔组织打了个冷颤。你好像坐在一部儿童雪橇上，在皑皑白雪中呼啸而过。一个温暖、和蔼的人正在你身后引导雪橇的方向，她戴着长手套的双手安抚着你的脊背。你感到被很多、很多的爱包裹着——并且非常、非常安全。
+0x010000580001F6DE	Dialogue Text	MEASUREHEAD / FASCHA DQ	Shivers	There should be something here -- a memory, a feeling, even if it's just a glimpse -- but the depths of your psyche remain silent. You don't have a single memory of your mother.	应该有些东西——一段记忆，一种感受，即使只是惊鸿一瞥——但你的精神深渊沉默着。你对你的母亲的印象一片空白。
+0x010000580001F6E6	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I can barely remember my mother."	“我几乎不记得我的母亲了。”
+0x010000580001F6FE	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"NO. IT'S A BIOLOGICAL CONDITION WHERE A MALE SPECIMEN IS BORN WITHOUT HIS TESTICLES. HAPPENS ALL OVER THE WORLD. AND NOW IT HAS HAPPENED HERE, IN MY MOTHER'S OFFICE, UNDER MY WATCHFUL EYE."	“不。那是一种生物学上的状况，一个男性的样本从出生时就没有睾丸。全世界各地都有案例。现在它也出现在了这里，在我母亲的办公室里，在我的审视之下。”
+0x010000580001F705	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"SHAME. IT WOULD HAVE BEEN AN INTERESTING TOPIC."	“多么可惜。那本来会是一个有趣的话题。”
+0x010000580001F716	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Promiscuity -- you mean the *cock carousel*." (Twirl your hand around in the air.)	“乱交——你指*鸡鸡轮盘*。”（在空气中转动你的手掌。）
+0x010000580001F71C	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I don't think anyone's being promiscuous with me. I wish they were, though."	“我不觉得有人在和我乱交。虽然我希望有这样的人。”
+0x010000580001F722	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"The goal of any sane relationship is loyalty, marriage, eternal love. Anything else is just vapid pleasure-seeking."	“任何理智的关系都致力于达成忠诚、婚姻、永恒的爱。任何其他东西都只是索然无味的享乐。”
+0x010000580001F728	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I don't actually care about any of that, I'm just here for *Revachol*."	“我不关心那种东西，我只是为了*瑞瓦肖*来到这里。”
+0x010000580001F730	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU USE VULGAR HUMOUR TO DISTRACT YOURSELF FROM THE PAIN THAT WOMEN HAVE CAUSED YOU. IMPOTENT RAGE AT THEIR PROMISCUITY WILL NOT HEAL YOU. AND IT *REPELS* WOMEN."	“你用粗鄙的娱乐来分散注意力，让自己不再意识到女人对你造成的创痛。对她们的乱交行为的无能狂怒无法治愈你。而且它只会让女人们更加*厌恶*你。”
+0x010000580001F737	Dialogue Text	MEASUREHEAD / FASCHA DQ	Authority	Who cares about sexual partners and their promiscuity when you've got *the fate and honour of Revachol* on your shoulders?	你现在肩负着*瑞瓦肖的命运与荣耀*，谁还在乎性伴侣和她们的乱交行为？
+0x010000580001F73F	Dialogue Text	MEASUREHEAD / FASCHA DQ	Drama	But promisssscuity leads to dddrama!	但是乱乱乱交会带来戏戏戏剧性！
+0x010000580001F746	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"DESPERATION. WISHFUL THINKING. CONFUSION. NO WOMAN WANTS TO CREATE A LASTING PSYCHOSEXUAL BOND WITH A MAN IN THRALL TO HIS BIOLOGICAL IMPULSES."	“绝望。祈求。迷惑。没有女人想和一个屈从于生理冲动的男人建立长久的心理-性纽带。”
+0x010000580001F74B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"IT DOES NOT SURPRISE ME THAT THE COMPLEXITIES OF THE PSYCHOSEXUAL BOND BETWEEN A MAN AND A WOMAN REMAIN BEYOND YOUR REACH. INSTEAD YOU CONTINUE TO IDEALISE THE FLAWED AND HALLUCINATORY RELATIONSHIP BETWEEN YOUR PARENTS, HOPING TO CORRECT THEIR MISTAKES."	“不出我的意料，一男一女之间心理-性纽带这么复杂的事情，对你来说是遥不可及的。与之相反的是，你继续美化你父母之间有缺陷的虚幻关系，期望以此弥补他们的过错。”
+0x010000580001F750	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"CONTINUOUS DENIAL. YOUR LACK OF PSYCHOSEXUAL SELF-AWARENESS DOES NOT SURPRISE ME. SOMETHING TRAGIC MUST HAVE HAPPENED TO YOU IN THE PAST FOR YOU TO DENY IT SO VIGOROUSLY."	“继续否认。不出我的意料，你对心理-性关系缺乏自知之明。你的否认如此激烈，想必你一定遭受过创伤。”
+0x010000580001F769	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU HAVE TO SHED THIS INFANTILE SHELL IF YOU *EVER* WISH TO FIND A WORTHY MATE."	“哪怕你只是*有一点*想要找到一个相衬的伴侣，你都必须打碎这层幼稚的外壳。”
+0x010000580001F77E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Reaction Speed	You *really* have to find out at some point what's up with him and the Kojkas...	你*真的*得搞明白他和那些克吉克是怎么回事……
+0x010000580001F795	Dialogue Text	MEASUREHEAD / FASCHA DQ	Electrochemistry	Sounds *fun* -- it's high time you incorporated some of these things into your daily life.	听起来很*有趣*——是时候把这些东西融入你的日常生活了。
+0x010000580001F79E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Reaction Speed	Hmm, so maybe *that's* what's up between him and the Kojkas...	哼……所以*这就是*他和那些克吉克之间的情况了……
+0x010000580001F7B8	Dialogue Text	MEASUREHEAD / FASCHA DQ	Suggestion	Time to get personal -- he's finally ready to open up to you.	是时候进入私人对话了——他已经卸下心防。
+0x010000580001F7CF	Dialogue Text	MEASUREHEAD / FASCHA DQ	Half Light	Smells like physical violence... just like with Cuno and his dad.	像是肢体暴力的味道……就像坤诺和他的爸爸。
+0x010000580001F7D4	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Maybe your father just didn't know how to express his love?"	“也许你的父亲只是不知道如何表达关爱？”
+0x010000580001F7DA	Dialogue Text	MEASUREHEAD / FASCHA DQ	Half Light	Smells like physical violence...	像是肢体暴力的味道……
+0x010000580001F7E3	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU ARE NOT FIT TO MAKE ASSUMPTIONS ABOUT FATHER JAIRZINHO. HIS ABILITY TO FORM EMOTIONAL BONDS WITH HIS OFFSPRING WAS *EXEMPLARY*."	“你没有资格对雅伊济尼奥父亲说三道四。他同后代建立感情纽带的能力*独树一帜*。”
+0x010000580001F7F6	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"TEACHING SELF-CONTROL, DISCIPLINE, ASCESIS, AND RESPECT WAS AN ACT OF LOVE GREATER THAN ANYTHING THAT YOU OR YOUR PHARMACO-THERAPEUTIC CULTURE CAN COME UP WITH."	“他让我明白，自控、戒律、禁欲和尊敬是一种爱的表现。这比你或者你的药理-疗程文化所能产生的任何形式的爱都要高贵得多。”
+0x010000580001F7FD	Dialogue Text	MEASUREHEAD / FASCHA DQ	Empathy	Hit him right in the soft spot there with that question.	用那个问题痛击他的软肋。
+0x010000580001F808	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I'm sure your dad thinks you're an apex predator. A top dog."	“我确信你的爸爸认为你是一个顶级掠食者。一个领袖人物。”
+0x010000580001F80E	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"You don't always have to be so *hard*. Live a little, let loose."	“你不用总是这么*强硬*。偶尔也可以放松一点，享受生活。”
+0x010000580001F814	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Stop making everything about *me*."	“别再把任何事都说得和*我*有关一样了”
+0x010000580001F81A	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Yes, khm... so, back to babes and turning back time..."	“是的，咳咳……回到宝贝和逆转时间的话题……”
+0x010000580001F836	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YES, YOUR FAVOURITE TOPICS. WHAT ABOUT THEM?"	“不错，你最爱的话题。她们怎么了？”
+0x010000580001F83E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"I AM JUST STATING THE FACTS. YOUR TRAUMATIZED ESSENCE IS IN PLAIN SIGHT."	“我只是在陈述事实。你饱经创伤的精华对我来说一目了然。”
+0x010000580001F846	Dialogue Text	MEASUREHEAD / FASCHA DQ	Logic	Intellectual independence -- definitely something worth celebrating.	智力独立——绝对是值得庆祝的事情。
+0x010000580001F87F	Dialogue Text	MEASUREHEAD / FASCHA DQ	Savoir Faire	Even if he tries anything, you can just *slip out of his reach* like an eel...	不管他想做什么，你都可以像一条鳗鱼那样*滑出他的掌控*……
+0x010000580001F889	Dialogue Text	MEASUREHEAD / FASCHA DQ	Savoir Faire	Even if it's a trap, you can just *slip out of his reach* like an eel...	即使这是个陷阱，你也可以像一条鳗鱼那样*滑出他的掌控*……
+0x010000580001F8B8	Dialogue Text	MEASUREHEAD / FASCHA DQ	Savoir Faire	He's right -- everything's a contest and only the *shiftiest* competitors win.	他是对的——一切都是比赛，只有最*足智多谋*的竞争者才能赢。
+0x010000580001F8C4	Dialogue Text	MEASUREHEAD / FASCHA DQ	Interfacing	An honest job for an honest man.	一个诚实的男人，做着一份诚实的工作。
+0x010000580001F8CD	Dialogue Text	MEASUREHEAD / FASCHA DQ	Interfacing	Hopefully he at least taught his son some welding...	希望他能教给儿子一些焊接技巧……
+0x010000580001F8D6	Dialogue Text	MEASUREHEAD / FASCHA DQ	Savoir Faire	He's making it up to gain an *unfair advantage* over you in sexual -- and possibly financial -- competition. Slip out of his reach!	他在捏造事实，就为了在和你的性——也可能是财务——竞争中*胜之不武*。滑出他的掌控！
+0x010000580001F8E5	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Did he teach you some welding at least?"	“那他至少教了你一些焊接技巧？”
+0x010000580001F8EB	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"NO. I AM NOT INTERESTED IN WELDING."	“没有。我对焊接不感兴趣。”
+0x010000580001F920	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"That's not why I've come here. I *really* need to turn back time now." (Continue.)	“我不是来这里聊这个的。我*真的*需要逆转时间。”（继续。）
+0x010000580001F927	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"CLEARLY IT IS IMPOSSIBLE FOR YOU TO SHED YOUR NEUROTIC OBSESSION. THIS WAILING FOR THE PAST IS A TASK UNFIT FOR MEN. IT IS BETTER LEFT FOR WIDOWS, MOURNING THEIR HUSBANDS -- AND FOR MENTALLY ILL COMMUNISTS MOURNING THEIR COMMUNE."	“很显然，你无法打碎你的神经质的执念。哀悼过去不是男人该做的事情。这应该让那些为亡夫恸哭寡妇来做——还有那些精神有问题的康米主义者，终日悲叹于他们的公社。”
+0x010000580001F92E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"IF YOU WANT ADVICE ON BABES -- OR THE MYSTERIES OF LIFE -- OR EVEN ON REVACHOL -- LOOK FORWARD. TO ESCAPE YOUR DEFEATED STATE YOU NEED TO MOVE FORWARD. ONTO FUTURE VICTORIES."	“如果你想要关于宝贝们的建议——或者关于生活的奥秘——或者甚至瑞瓦肖——向前看。你需要不断前进来摆脱失败的状态。向未来的胜利进发。”
+0x010000580001F935	Dialogue Text	MEASUREHEAD / FASCHA DQ	Rhetoric	But isn't he a traditionalist?! Why does he keep talking about future...	但他不是传统主义者吗？！他为什么一直在讲未来……
+0x010000580001F93C	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Wait, I thought you were a traditionalist..."	“等等，我以为你是个传统主义者……”
+0x010000580001F942	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"I AM NOT A *TRADITIONAL* TRADITIONALIST. LIFE ON THIS PLANET DOES NOT MOVE BACKWARDS. THE IVY MOVES FORWARD, COVERING THE WHOLE DOOR. THE FLOWERS GROW OUTWARD, COVERING THE WHOLE MEADOW. NOTHING GROWS *AGAINST* TIME AND SPACE. ONLY ALONG ITS LAYLINES CAN NATURE PROGRESS."	“我不是一个*传统的*传统主义者。这个星球上的生命不会回到过去。藤蔓向上生长，覆盖整扇门扉。花朵向上生长，连成整片原野。从没有哪个生物是*逆着*时间和空间生长的。只有在既定的道路里，自然才能进化。”
+0x010000580001F94A	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"You don't get it. I need to bring disco back -- from the Thirties."	“你不明白。我要从30年代——把迪斯科带回来。”
+0x010000580001F955	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Maybe you're right, but I won't know it until I've tried the impossible."	“也许你是对，但在尝试过不可能的事情之前，我也没法知道结果。”
+0x010000580001F95F	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"IT SEEMS TO ME YOU ARE IN NEED OF A WARNING. HERE IT IS: IT IS ABSOLUTELY POSSIBLE TO RETURN TO THE PAST. YOU JUST NEED TO TAKE A TICKET TO SEREGLEE ISLAND, THE SOUTHERNMOST OF THE SEMENINE ARCHIPELAGO, ALSO KNOWN AS ILE DU FANTÔME. AND WALK INTO PALE."	“在我看来，你需要一个警告。这个警告就是：回到过去是绝对有可能的。你只需要取得一张船票，前往塞热格利岛，那是塞美尼群岛的极南之境，亦称幽灵岛。然后走进灰域。”
+0x010000580001F967	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"It's about the Suzerain. He's counting on me."	“这和宗主国有关。他只能靠我了。”
+0x010000580001F96E	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"I’m still convicned the babes were more *faithful* in the past. They stuck with their men."	“我还是觉得过去的宝贝们更加*忠诚*。她们不会离开自己的男人。”
+0x010000580001F97B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"LET IT DITHER AND ROT YOUR MIND. THEN YOU CAN MARINATE FOREVER IN YOUR IRREVERSABLE DEFEAT. WHILE RACE ENEMIES LAUGH AT YOUR MOTIONLESS, GAP-MOUTHED CORPSE."	“让它同化、腐蚀你的思维。然后你就可以永永远远地腌在你无可逆转的失败之中。与此同时种族敌人就会耻笑你僵直的、张着嘴的尸体。”
+0x010000580001F98F	Dialogue Text	MEASUREHEAD / FASCHA DQ	Encyclopedia	Pale? What is pale... it does *not* sound inviting.	灰域？灰域是什么……它听起来一点也*不*诱人。
+0x010000580001F9A1	Dialogue Text	MEASUREHEAD / FASCHA DQ	Encyclopedia	You still haven't found out about pale, but it certainly doesn't sound inviting...	你还是不知道灰域是什么，但它听起来一点也不诱人……
+0x010000580001F9AA	Dialogue Text	MEASUREHEAD / FASCHA DQ	Half Light	No, no... this does *not* sound inviting!	不，不……这听起来一点也*不*诱人！
+0x010000580001F9B2	Dialogue Text	MEASUREHEAD / FASCHA DQ	Logic	Where would you even get a ticket? You can't just pack your bags and leave.	去哪里买票？你不能就这样收拾细软就跑路。
+0x010000580001F9BC	Dialogue Text	MEASUREHEAD / FASCHA DQ	Inland Empire	Finally -- a chance to connect with the *divine*.	终于——有机会搭上*神圣*了。
+0x010000580001F9C3	Dialogue Text	MEASUREHEAD / FASCHA DQ	Perception	It gets very cold in the office, like in a desert after the nightfall...	办公室里变得寒冷起来，如同夜幕降临之后的沙漠……
+0x010000580001F9D0	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Wait, what's pale?"	“等等，灰域是什么？”
+0x010000580001F9D6	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Cool, where do I get the tickets?"	“酷啊，我去哪里买票？”
+0x010000580001F9DC	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Why do I have the feeling there's a catch..."	“为什么我觉得这里有诈……”
+0x010000580001F9E9	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU WANT TO RETURN TO THE PAST AND YOU DON'T EVEN KNOW WHAT YOU'RE FACING." He stops, momentarily speechless.	“你想回到过去，而你甚至不知道你要面对的是什么。”他停下话头，似乎有些语塞。
+0x010000580001F9F0	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"MAYBE IT'S FOR THE BEST. IT IS TOO LATE TO EXPLAIN THE INTRICACIES OF THE REALITY-RHIZOME IF THE OPPORTUNITY TO LEARN ITS FUNDAMENTAL TERMS HAS PASSED YOU. TREAT THE PALE AS A MYSTERY -- DARK, REPULSIVE, AND SURPRISINGLY MUNDANE -- LIKE CURDLING MILK OR A MOULDING NECTARINE."	“或许这样最好。如果学习基础词汇的机会已经错过，向你解释现实-根茎的精妙之处，就已经太晚了。将灰域视作一个谜题——黑暗、可憎，又令人惊异地平凡——如同结块的牛奶、发霉的蜜桃。”
+0x010000580001F9FA	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"OR GO AND SEE IT FOR YOURSELF. WATCH IT RISE FROM THE SAND AND THE SKY, TAKING CORAL REEFS IN ITS BOSOM."	“或者你就自己去看。看它如何从沙漠与天空中生出，吞噬珊瑚礁。”
+0x010000580001FA03	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THERE IS NO CATCH. YOU WILL GET WHAT YOU WANT. THE GHOUL IS A CRUEL MASTER, BUT IT IS NOT PALE. PALE TAKES YOUR MIND AND REJECTS THE FLESH. IT IS CAPRICIOUS AND TERRIFYING, LIKE A VIRGIN. YOU WILL LOSE YOUR COURAGE BEFORE HER FACE."	“没有反转。你会得到你想要的。酒精是个残酷的主人，但它还比不上灰域。灰域夺走你的心智，丢弃你的血肉。它任性、可怖，像一个处女。你会在直面她之前就失去勇气。”
+0x010000580001FA16	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"GO HAVE A LOOK," he gestures toward the intersection. "THE WHITE-HAIRED PROTEIN MASS AT THE INTERSECTION. A LORRY DRIVER. IMPOSSIBLE TO MISS HER IF YOU'RE EVEN A HALF-DECENT COP."	“去看看。”他指向十字路口。“路口那白发的蛋白块。一个货車驾驶员。哪怕你只是个半吊子的警察，也一定能找到她。”
+0x010000580001FA1F	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"BEFORE YOU GO LOOKING FOR TICKETS, I SUGGEST YOU SEE WHAT IT DOES TO A MAN. THE GHOUL IS A CRUEL MASTER, BUT IT IS NOT PALE. PALE TAKES YOUR MIND AND REJECTS THE FLESH. IT IS CAPRICIOUS AND TERRIFYING, LIKE A VIRGIN. YOU WILL LOSE YOUR COURAGE BEFORE HER FACE."	“在你买票之前，我建议你先看看灰域能对一个人造成什么后果。酒精是个残酷的主人，但它还比不上灰域。灰域夺走你的心智，丢弃你的血肉。它任性、可怖，像一个处女。你会在她面前失去勇气的。”
+0x010000580001FA2D	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"A protein mass?"	“蛋白块？”
+0x010000580001FA33	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Alright, I'll go check her out then." [Leave.]	“好吧，那我去问问她。”[离开。]
+0x010000580001FA39	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Paledriver? Yes, I've already talked to her."	“灰域驾驶员？我已经和她聊过了。”
+0x010000580001FA3F	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Paledriver? I tried talking to her, but didn't get very far."	“灰域驾驶员？我试图和她聊聊，但是进展不佳。”
+0x010000580001FA46	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"AN EMPTY VESSEL THE MIND HAS DESERTED. A HUSK, NO LONGER INHABITED BY A CONSCIOUSNESS. BIOLOGICAL WASTE."	“一个被思维遗弃的空荡荡的容器。一具不再被意识占据的躯壳。生物废料。”
+0x010000580001FA4D	Dialogue Text	MEASUREHEAD / FASCHA DQ	Shivers	A chill races down your spine.	你的背上感受到一阵寒意。
+0x010000580001FA53	Dialogue Text	MEASUREHEAD / FASCHA DQ	Conceptualization	This goes far beyond your conceptual reach... beyond the conceptual reach of *anyone*, really.	这超出了你的理论极限……可以说是*任何人*的理论极限。
+0x010000580001FAD5	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YES. OUR LITTLE MEETING HAS FINISHED. IT'S TIME TO LEAVE MY MOTHER'S OFFICE AND RETURN TO OUR JOBS. I HOPE THIS HAS BEEN ILLUMINATING TO YOU."	“是的。我们的会晤结束了。是时候离开我母亲的办公室，回到工作中去了。我希望这对你有所启发。”
+0x010000580001FAE1	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"AND REMEMBER. WHAT HAPPENS IN MY MOM'S OFFICE, STAYS IN MY MOM'S OFFICE. QUIET CONTEMPLATION ENDS, BIOLOGICAL RIVALRY RESUMES."	“还有*记住*，在我母亲的办公室里发生的事情，不能传出我母亲的办公室。安静的沉思结束了，生物学的对抗将会继续。”
+0x010000580001FAE9	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"I HAVE RETURNED WITH THE HAM SANDWICH. LOOK, HE IS ALIVE. I HAVE NOT HARMED THIS LITTLE COP."	“我和火腿三明治回来了。你瞧，他还活着。我没有伤害这个条子。”
+0x010000580001FAF8	Dialogue Text	MEASUREHEAD / FASCHA DQ	Kim Kitsuragi	Lieutenant Kitsuragi gives you a small nod when he sees you step outside. Looks like he's been waiting for you.	看到你走出房门，曷城警督向你点点头。看来他正在等你。
+0x010000580001FB03	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"YOU NEED TO BE MORE FORCEFUL. TALK TO HER AGAIN -- ABOUT THE ONLY THING THAT STILL MATTERS TO THIS EMPTY VESSEL -- PALE."	“你得更努力一点。再和她聊一次——聊聊那个空壳唯一还在乎的东西——灰域。”
+0x010000580001FB09	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"GO TALK WITH HER AGAIN. ASK HER ABOUT PALE. SEE WHAT A RELENTLESS OBSESSION WITH THE PAST DOES TO A MAN."	“再和她聊一次。问她关于灰域的事情。看看对于过去的无情执念会对一个人造成什么后果。”
+0x010000580001FF63	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Are you saying one of the *lorry drivers* knows how to turn back time?"	“你是在说其中一个货車驾驶员知道如何逆转时间吗？”
+0x010000580001FF68	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Paledriver? Yes, we already discussed pale and its many effects."	“灰域驾驶员？是的，我们已经讨论过灰域和它的诸多影响了。”
+0x010000580001FF77	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"THIS ONE IS NOT LIKE THE OTHERS. GO FIND HER. SEE WHAT A RELENTLESS OBSESSION WITH THE PAST DOES TO A MAN."	“她与别人不同。去找她。看看对于过去的无情执念会对一个人造成什么后果。”
+0x010000580001FF86	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"A PIECE OF ADVICE..." The big man leans forward. "STOP FIGHTING TIME AND FACE THE *REAL* ANTAGONIST. FACE *YOURSELF*, PUPA. IT'S A SHOWDOWN EVERY MAN MUST GO THROUGH."	“一点建议……”巨人身体前倾。“别再和时间战斗了，面对你*真正*的宿敌。面对*你自己*，蚕蛹。这是每个男人都必须经历的最终决战。”
+0x010000580001FF94	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"WE ARE DONE HERE. AND *REMEMBER*, WHAT HAPPENS IN MY MOTHER'S OFFICE, STAYS IN MY MOTHER'S OFFICE. QUIET CONTEMPLATION ENDS, BIOLOGICAL RIVALRY RESUMES."	“我们说完了。还有*记住*，在我母亲的办公室里发生的事情，不能传出我母亲的办公室。安静的沉思结束了，生物学的对抗将会继续。”
+0x010000580001FF9E	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"AND YET YOU'RE STILL OBSESSED WITH TURNING BACK TIME? AFTER YOU'VE SEEN WHAT IT DOES TO A MAN?"	“而你依然执着于逆转时间？在你已经看到它对一个人造成的后果之后？”
+0x010000580002004F	Dialogue Text	MEASUREHEAD / FASCHA DQ	Endurance	This again? But you've learned the basics... Guess we need to return to Mr. Monolith once we've figured out what else is missing from the curriculum.	又来？但你已经学习了理论基础……看来在我们搞清楚到底缺了什么概念之后，还是得回来和石柱先生聊聊。
+0x010000580002015C	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	"Can't you just give me a straight answer for once?"	“你就不能直截了当地回答一次我的问题吗？”
+0x0100005800020163	Dialogue Text	MEASUREHEAD / FASCHA DQ	Measurehead	"IT'S SIMPLE. I AM JUST NOT INTERESTED IN YOUR IMPOTENT OBSESSION WITH THE PAST."	“简单。你对过去的孱弱执念令我毫无兴趣。”
+0x0100005800020171	Dialogue Text	MEASUREHEAD / FASCHA DQ	You	(Nod thoughtfully.) "Soft and hard -- I see..."	（若有所思点点头。）“柔情和强硬——我明白了……”
+0x010000580002018B	Dialogue Text	MEASUREHEAD / FASCHA DQ	Physical Instrument	No, not a pussy!!	不，不是娘炮！
+0x0100005800020193	Dialogue Text	MEASUREHEAD / FASCHA DQ	Encyclopedia	Ah yes, 'protein mass' -- a scientific term from Graad, for a person terminally overexposed to the pale. Mouth open, catatonic, completely unable to return to the present.	啊是的，‘蛋白块’——一个格拉德的舶来科学术语，用于形容一个在灰域中过度暴露的人。张着嘴，精神紧张，完全无法回到现实。
+0x0100005800020499	Dialogue Text	MEASUREHEAD / FASCHA DQ	Endurance	Seems like it isn't working, bröther... maybe you should try talking to other traditionalists instead.	看起来这也没用，兄弟……也许你应该试着和其他传统主义者聊聊。
