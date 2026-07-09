@@ -1,0 +1,287 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060001502E	Dialogue Text	LAIR ORB / beware shivers	Rhetoric	It's not a quib. The situation is dangerous.	这不是在嘲弄谁。现在的情况很危险。
+0x0100000600015034	Dialogue Text	LAIR ORB / beware shivers	Authority	He trusts your gut feeling on this.	他相信你的直觉。
+0x010000060001503F	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	He lowers his voice. "Once we detain a credible suspect, who knows what the Union and the Wild Pines will do? We'll set in motion events we have no control over."	他压低了声音。“一旦我们拘留了可靠的嫌疑人，谁知道工会和野松公司会怎么做？我们将无法掌控事态的发展。”
+0x0100000600015046	Dialogue Text	LAIR ORB / beware shivers	Logic	You will upset the balance of power in Martinaise. The deadlock between the company and the Union will destabilize.	你会扰乱马丁内斯的势力平衡。公司和工会之间的僵局将会动摇。
+0x010000060001504E	Dialogue Text	LAIR ORB / beware shivers	Interfacing	This part of town is a fine clockwork puzzle. Disturb its peace and it will start breaking down -- uncontrollably.	城市的这个部分是个精细的钟表谜题。一旦打破它的平衡，就会开始分崩离析——完全无法控制。
+0x0100000600015058	Dialogue Text	LAIR ORB / beware shivers	You	"We haven't met the Union leader yet. We should maybe get into the harbour before this?"	“我们还没见过工会领袖。也许在这之前，我们可以去港口看看？”
+0x010000060001505E	Dialogue Text	LAIR ORB / beware shivers	You	"We've met the Union leader, but haven't gotten any info from him. Maybe we should talk to him more first?"	“我们已经见过工会领袖，但没能从他那里得到任何信息。也许应该先去找他聊聊？
+0x0100000600015064	Dialogue Text	LAIR ORB / beware shivers	You	"Evrart knows more than he's told us. Maybe we should continue working for him?"	“艾弗拉特知道的比他告诉我们的多。也许我们应该继续做他的工作？”
+0x010000060001506A	Dialogue Text	LAIR ORB / beware shivers	You	"We've found out Evrart's plan to take the harbour -- maybe we should tell Joyce about it?"	“我们已经发现艾弗拉特想要夺取港口的计划——也许应该去跟乔伊斯聊聊？”
+0x0100000600015070	Dialogue Text	LAIR ORB / beware shivers	You	"We still don't know the full extent of Evrart's plans. I told Joyce -- maybe we should see Evrart again?"	“我们还不知道艾弗拉特的全部计划。我告诉过乔伊斯了——也许我们应该再去见见艾弗拉特？”
+0x0100000600015076	Dialogue Text	LAIR ORB / beware shivers	You	"We know Evrart's true intentions *and* his plan for Martinaise. What more is there to do with the Union?"	“我们知道艾弗拉特的真正目的，*还有*他对马丁内斯的计划。那还跟工会有什么关系呢？
+0x010000060001507C	Dialogue Text	LAIR ORB / beware shivers	Volition	Keep calm. Go over the whole situation in detail.	冷静点。把整体情况再细致地梳理一遍。
+0x0100000600015084	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"You're right, there won't be time to do that when the dominoes are falling. At the first sign of danger, they will shut the place down for good."	“你说的没错，一旦多米诺骨牌倒下，就没时间这么做了。只要一看到危险的信号，他们就会永远关闭这个地方。”
+0x010000060001508A	Dialogue Text	LAIR ORB / beware shivers	Visual Calculus	He's right. That place is like a fortress. It's already almost impenetrable.	他是对的。那个地方就像个堡垒，本来就可以说是密不透风了。
+0x0100000600015091	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"You're right, however corrupt he may be, nothing happens in Martinaise without him knowing. We might have to dirty our hands, but..."	“你是对的，不管他有多腐败，马丁内斯发生的一切都逃不过他的双眼。我们也许会弄脏自己的双手，不过……”
+0x0100000600015097	Dialogue Text	LAIR ORB / beware shivers	Esprit de Corps	...in this case, we can't afford to be squeaky clean.	……在这种情况下，我们也不能独善自身。
+0x01000006000150A0	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"I'll leave that to your judgement. You already know what I think about cross-pollinating information like this. It's dangerous, but..."	“这就交给你去判断了。你已经知道我对于这种交叉信息的看法。的确很危险，但是……”
+0x01000006000150A6	Dialogue Text	LAIR ORB / beware shivers	Rhetoric	He just can't be sure -- maybe it will yield something useful?	他就是无法确定——也许会出现一些有用的东西？
+0x01000006000150AF	Alternate1	LAIR ORB / beware shivers	Kim Kitsuragi	"I don't know, little things?" He pauses. "But you're right. We've gotten everything we can from the Union -- we even opened that container..." 	“我不知道，小东西？”他停顿了一下。“但是你说得对。工会那边，能得到的消息我们都掌握了——我们甚至还把那个集装箱打开了……”
+0x01000006000150AF	Alternate2	LAIR ORB / beware shivers	Kim Kitsuragi	"I don't know, little things?" He pauses. "But you're right. We've gotten everything we can from the Union -- we even did the borscht thing..."	“我不知道，小东西？”他停顿了一下。“但是你说得对。工会那边，能得到的消息我们都掌握了——我们甚至还做了那个罗宋汤……”
+0x01000006000150AF	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"I don't know, little things?" He pauses. "But you're right. We've gotten everything we can from the Union."	“我不知道，小事情？”他停顿了一下。“不过你是对的。我们已经从工会那里得知了所有一切。”
+0x01000006000150C0	Dialogue Text	LAIR ORB / beware shivers	Interfacing	You've been very, very thorough there. Your fingers approve.	你说的非常非常的透彻。你的手指很满意。
+0x01000006000150C7	Dialogue Text	LAIR ORB / beware shivers	You	"I suddenly remembered -- we were running the serial number on the victim's armour..."	“我突然记起来了——我们正在查被害人盔甲上的序号……”
+0x01000006000150D9	Dialogue Text	LAIR ORB / beware shivers	You	"We know what Joyce knows about the murder -- but I may have *other things* to discuss with her."	“我们知道了乔伊斯掌握的凶手信息——但是我可能还有些*其他问题*要和她讨论。”
+0x01000006000150DF	Dialogue Text	LAIR ORB / beware shivers	You	"We've met Joyce, but we don't know what she knows yet. We should probably find out."	“我们见过乔伊斯了，但还不知道她都知道些什么。也许我们应该调查清楚。”
+0x01000006000150E5	Dialogue Text	LAIR ORB / beware shivers	You	"We haven't even met the company rep yet. We should find them first, no?"	“我们甚至还没见过公司的代表。难道不应该先找到他们吗？”
+0x01000006000150F9	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"Definitely. It amazes me how we've managed not to... The Wild Pines has information that may be critical to our case."	“的确。让我惊讶的是，我们居然没能……野松公司可能掌握了案件的关键信息。”
+0x01000006000150FF	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"Definitely. I think she knows something -- about the mercenaries, maybe. And she won't be around if the situation explodes."	“的确。我觉得她知道些什么……也许是关于那个雇佣兵的。而且一旦问题爆发，她肯定不会在场。”
+0x0100000600015109	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"Ah, yes. There won't be time for that once things go down. Matter of fact -- I don't think there's time for it *now*, but..."	“一旦东窗事发，我们就没那个时间了。事实上，我觉得就算是现在我们也没时间去找她，但是……”
+0x010000060001510F	Dialogue Text	LAIR ORB / beware shivers	Esprit de Corps	...if you must.	……如果你觉得有这个必要。
+0x010000060001511E	Dialogue Text	LAIR ORB / beware shivers	You	"We solved the strike deadlock by telling Joyce about the Union's plans."	“我们把工会的计划告诉了乔伊斯，破解了罢工事件的僵局。”
+0x0100000600015124	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"I still don't think that was a good idea, but, yes -- our affairs with the Wild Pines are in order. Since she isn't in Martinaise anymore."	“我还是不觉得这是个好主意，不过也是——我们跟野松公司之间的关系处理得不错。毕竟她已经不在马丁内斯了。”
+0x010000060001512A	Dialogue Text	LAIR ORB / beware shivers	Volition	Someone's been a very busy boy. Good on you...	有人一直忙得不可开交。祝贺你……
+0x0100000600015131	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"You think we should finish running it *now*?" he whispers. "Maybe you're right. It might not be as useful later..."	“你觉得我们应该*现在*就结束运行嘛？”他低语到。“也许你是对的。反正以后也可能用不着……”
+0x0100000600015139	Dialogue Text	LAIR ORB / beware shivers	You	"We've checked the buoy with Klaasje's documents. I want to hear her take on why it was empty before."	“我们已经检查过装着卡拉洁文件的那个浮标。我想听听她怎么解释它为什么之前是空的。”
+0x0100000600015141	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"Okay -- why not. Whatever goes down might also affect her. The Union is watching her closely now..."	“好吧——为什么不呢。不论发生什么都会影响到她。而且现在工会盯她盯得很紧……”
+0x010000060001514D	Dialogue Text	LAIR ORB / beware shivers	Savoir Faire	Not closely enough, you suspect. But still -- good idea to visit her once more.	你怀疑还不够紧。不过——再去见她一次是个好主意。
+0x0100000600015154	Dialogue Text	LAIR ORB / beware shivers	You	"Do you think whatever happens will affect our cryptozoologists?"	“你觉得发生的一切会不会影响到我们的神秘动物学家？”
+0x010000060001515C	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"You mean Lena? I don't see how cryptozoology and the murder investigation are connected. But... the situation in the city will get tense for everyone."	“你是指莉娜？我看不出神秘动物学与凶案调查有什么关联。不过……城里的状态会让每个人都感到紧张。”
+0x0100000600015162	Dialogue Text	LAIR ORB / beware shivers	Reaction Speed	If it gets that tense, the amateur zoologists might not be able to do their job.	如果紧张到一定程度，业余的动物学家就没法工作了。
+0x010000060001516A	Dialogue Text	LAIR ORB / beware shivers	You	"How bad do you think things could get?"	“你觉得情况会糟糕到什么程度？”
+0x0100000600015170	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"Well... we're not responsible for what we can't predict, are we? I don't think the *entire* city will be razed to the ground." He smiles in the dark.	“这个嘛……我们不能对无法预测的事情负责，不是吗？不过我觉得事情应该不至于发展到*整座*城市都灰飞烟灭的地步。”
+0x0100000600015176	Dialogue Text	LAIR ORB / beware shivers	Logic	If you can't predict it, there's nothing you could have done.	如果不能预测的话，那你就无能无力了。
+0x010000060001517C	Dialogue Text	LAIR ORB / beware shivers	You	"What do you think is waiting for us there?" (Conclude.)	“你觉得前面会有什么？”（结束话题）
+0x0100000600015182	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"I think I see a cavern..." The lieutenant's whisper echoes down the tunnel. "Maybe more cellars? I think we've been careful enough -- we still have the element of surprise."	“我好像看见一个洞……”警督的低语在隧道中回荡。“也许还有别的地窖？我觉得我们已经很小心了——但惊喜还是不断出现。”
+0x0100000600015189	Dialogue Text	LAIR ORB / beware shivers	Savoir Faire	I wouldn't be so sure. You haven't exactly been sneaking.	那我就不确定了。你也不完全算是在秘密潜行。
+0x0100000600015190	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"Or... maybe not." He puts his hand to his holster. "Either way, once we go deeper, there will be no turning back."	“或者……也许不是。”他把手搭在枪套上。“不管怎么说，一旦我们再往深处走，就不能回头了。”
+0x01000006000151C0	Dialogue Text	LAIR ORB / beware shivers	Logic	It's a minor point. Don't worry too much about this. There are bigger fish.	这是个小问题。不用太担心这个。还有更大的鱼呢。
+0x010000060001E6BC	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"I don't feel it, but..." He looks ahead, beyond the arch. "We should still be careful. There were footprints back there. And I'm pretty sure they were fresh."	“我没感觉到，不过……”他看向前方，越过拱门。“我们还是要小心点。那里有脚印。而且我很肯定是最近留下的。”
+0x010000060001E6C6	Dialogue Text	LAIR ORB / beware shivers	Esprit de Corps	Let's *try* not to worry, he thinks.	我们*尽量*不要担心，他想到。
+0x0100001600009BB1	Alternate1	LAIR ORB / beware shivers	Pain Threshold	There it is again -- like a swarm of hornets buzzing under your scalp. A strange tingling you can almost *smell*.\n	又来了——就像一群大黄蜂在你的头皮下嗡嗡直叫。这是一种几乎能被你*嗅见*的疼痛感，你几乎能够*嗅到*它的味道。
+0x0100001600009BB1	Dialogue Text	LAIR ORB / beware shivers	Pain Threshold	You feel something -- like a swarm of hornets buzzing under your scalp. A strange tingling you can almost *smell*.	你感觉到了什么——就像一群黄蜂在你的头皮下嗡嗡直叫。你几乎能*嗅到*一种奇怪的刺痛感。
+0x0100001600009BBA	Dialogue Text	LAIR ORB / beware shivers	You	"Lieutenant, do you feel something?"	“警督，你感觉到什么了吗？”
+0x0100001600009BC0	Dialogue Text	LAIR ORB / beware shivers	You	[Discard thought.]	[放弃思维。]
+0x0100001600009BC7	Dialogue Text	LAIR ORB / beware shivers	Pain Threshold	You can't, the sensation won't go away. It only gets worse...	你做不到，那种感觉不肯消失。反而变得越来越严重……
+0x0100001600009BD2	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"No. What do you mean?"	“没有。你指的是什么？”
+0x0100001600009BDF	Dialogue Text	LAIR ORB / beware shivers	You	"A pain, a strange tingling."	“疼痛，一种奇怪的刺痛感。”
+0x0100001600009BE5	Dialogue Text	LAIR ORB / beware shivers	You	"A ghost."	“一个幽灵。”
+0x0100001600009BEB	Dialogue Text	LAIR ORB / beware shivers	You	"Nothing. It's just my mind playing tricks."	“没什么。只是我的脑袋在恶作剧。”
+0x0100001600009BF4	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"Hmm..." He looks ahead, beyond the arch. "Either way, we ought to be careful. There were footprints back there. And I'm pretty sure they were fresh."	“嗯……”他越过拱门看向前方。“不管怎么说，我们都要小心点。后面有脚印，而且我很肯定是新鲜的。”
+0x0100001600009C03	Dialogue Text	LAIR ORB / beware shivers	You	"I saw them too. Footprints with the right sole worn smooth."	“我也看见了。右脚的脚印磨得很光滑。”
+0x0100001600009C09	Dialogue Text	LAIR ORB / beware shivers	You	"I saw them too, in the sand back there. Do you think it's our suspect?"	“我也看见了，就在那边的沙地。你觉得会是嫌疑人的吗？”
+0x0100001600009C0F	Dialogue Text	LAIR ORB / beware shivers	You	"You think it's the suspect who left the prints?"	“你觉得会不会是嫌疑人留下的脚印？”
+0x0100001600009C1C	Dialogue Text	LAIR ORB / beware shivers	You	"Hold on, you really don't feel anything?"	“等一下，你真的什么也没感觉到？”
+0x0100001600009C23	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"No -- but you're the sensitive one."	“但是你比我更敏感。”
+0x0100001600009C30	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"Possibly. If she's in here, we need to plan our next step carefully."	“也许吧。如果她在这里，我们得小心计划下一步行动。”
+0x0100001600009C3F	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"Looks like our suspect -- if she's in here, we need to plan our next step carefully."	“看来是咱们的嫌疑人——如果她真在这儿，我们得好好计划一下下一步的行动。”
+0x0100001600009C47	Dialogue Text	LAIR ORB / beware shivers	You	"What do you mean?"	“你指的是？”
+0x0100002F00013B34	Dialogue Text	LAIR ORB / beware shivers	You	"We've still got a date with The Pigs... and *my gun*."	“我们跟猪猪女侠还有个约会呢……还有*我的枪*。”
+0x0100002F00013B3A	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"We absolutely cannot skip that appointment." His face is stone. "Consider that 100% confirmed. I fear you'll need your gun for this..."	“我们绝对不能错过那个约会。”他的面部像石头一样僵硬。“这一点是100%肯定的。恐怕这次你需要枪……”
+0x0100002F00013B41	Dialogue Text	LAIR ORB / beware shivers	Interfacing	His hand rests on his holster. It's not enough -- you need a gun in your hand, too. *Your* gun.	他的手放在枪套上。这还不够——你手里也需要一把枪。*你的*枪。
+0x01000035000000B2	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"You mean Morell? I don't see how cryptozoology and the murder investigation are connected. But... the situation in the city will get tense for everyone."	“你是说莫雷尔？我看不出神秘动物学跟谋杀案调查有什么关联。不过……城里的状态会让每个人都感到紧张。”
+0x0100004B00002A87	Dialogue Text	LAIR ORB / beware shivers	You	"Maybe we should finish looking into the Speedfreaks FM mystery?"	“也许我们应该结束狂飙怪人.FM之谜的调查？”
+0x0100004B00002A8F	Dialogue Text	LAIR ORB / beware shivers	Kim Kitsuragi	"If you want to do that, then yes. We'd be advised to finish every lead. I don't think we'll have the chance to after..." He looks down the dark tunnel. He does not finish the thought.	“你要是这么想，那行吧。我们应该是跟完每一条线索。但是我觉得可能没这个机会了……”他望向那条黑暗的隧道，没有停止思考。
+0x010000060001E82C	Dialogue Text	LAIR ORB / dark celebration	Drama	As always -- lie.	像往常一样——谎言。
+0x0100004C00017E61	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	*Bratan*, now is the time!	*兄弟*，时间到了！
+0x0100004C00017E6F	Dialogue Text	LAIR ORB / dark celebration	You	Time for what?	什么时间？
+0x0100004C00017E76	Dialogue Text	LAIR ORB / dark celebration	You	Go away necktie. You're just a figment of my imagination.	走开，领带。你只是我想象力的造物。
+0x0100004C00017E7D	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	*Bratan*, don't push me away. I want to be there for you. Also -- how can you be sure *you* are not just a figment of *my* imagination?	*兄弟*，不要把我推开。我想跟你在一起。而且——你怎么能肯定*自己*不是*我的*想象力虚构出来的东西？
+0x0100004C00017E84	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	Oh... you will see. (It feels like the tie is rubbing itself against your chest like a cat in heat.)	哦……你等着瞧吧。（感觉领带像一只发情的猫咪，自顾自的磨蹭着你的脖颈。）
+0x0100004C00017E8C	Dialogue Text	LAIR ORB / dark celebration	You	Okay, then tell me -- it is time for what?	好吧，那你告诉我——到什么时间了？
+0x0100004C00017E92	Dialogue Text	LAIR ORB / dark celebration	You	Get lost, necktie! I don't want to be your friend.	滚开，领带！我不想做你的朋友。
+0x0100004C00017E9B	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	But, *bratan*... I... I understand. (The tie loosens around your neck.) I just wanted you to have fun. I... I never meant to be a burden.	但是，*兄弟*……我……我能理解。（脖子上的领带松快了一些。）我只想帮你找些乐子。我……我从没想过成为你的负担。
+0x0100004C00017EA7	Dialogue Text	LAIR ORB / dark celebration	You	Necktie, you and I are done. Both professionally -- and as friends. Begone! (End the tie.)	领带，我和你之间已经完了。不论是在职业上——还有作为朋友上。滚开！（了结这条领带。）
+0x0100004C00017EAD	Dialogue Text	LAIR ORB / dark celebration	You	Necktie... I'm sorry. I didn't mean it like that.	领带……我很抱歉，我不是这个意思。
+0x0100004C00017EB5	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	The lifeless necktie looks like a colourful intestine of some dead animal: oily, alien and otherwise disgusting. What could have driven a man to wear something so repulsive around his neck?	死气沉沉的领带看起来像是动物尸体上色彩斑斓的肠子：油腻、诡异、还很恶心。到底是什么能让一个男人把这种讨厌的东西戴在脖子上？
+0x0100004C00017EBC	Dialogue Text	LAIR ORB / dark celebration	Inland Empire	Seems you'll never learn the answer to that question.	看来你永远也不会知道这个问题的答案。
+0x0100004C00017EC4	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	No, *bratan*, no need for that. You and I are *bratannoi* -- brothers. Brothers fight. But when they're done fighting, you know what they do? They party. They fucking party!	不，*兄弟*，没必要这样做。你和我同属于*兄弟家族*——是兄弟。兄弟之间难免争斗。但是打完之后，你知道他们会做什么吗？会一起狂欢。会他妈的一起欢呼摇摆！
+0x0100004C00017ECB	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	First, the spirits -- the blue medicinal spirits. Grab the bottle and uncork it! It is time to unleash the Other-World.	首先，是烈酒——蓝色的药用烈酒。抓起瓶子，把盖子拔出来！是时候释放另一个世界了。
+0x0100004C00017ED3	Dialogue Text	LAIR ORB / dark celebration	You	Wait, right now? A woman just died and you think now is a good time to party?	等等，现在吗？一个女人刚刚死去，你觉得现在是开派对的好时机？
+0x0100004C00017EDA	Dialogue Text	LAIR ORB / dark celebration	You	Wait, right now? Ruby's gone. I don't really think there's anything to celebrate here.	等等，现在吗？露比走了。我真不觉得这里有什么好庆祝的。
+0x0100004C00017EE2	Dialogue Text	LAIR ORB / dark celebration	Electrochemistry	Yeah... what's the problem here?	是啊……有什么问题吗？
+0x0100004C00017EF2	Dialogue Text	LAIR ORB / dark celebration	You	Slowly uncork the blue medicinal spirit.	慢慢拔掉蓝色药用烈酒的塞子。
+0x0100004C00017EF9	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	Hush-hush, *bratan*, now is not the time to celebrate, now is the time to get *ready*. Trust me on this. This is what it's all been building towards. It's gonna be off the hook. Off *all* hooks.	嘘，*兄弟*，现在可不是庆祝的时候，而是应该*做好准备*。这个你要相信我。这就是一直以来追逐的目标。一定能摆脱困境的。摆脱*所有*困境。
+0x0100004C00017F0C	Dialogue Text	LAIR ORB / dark celebration	You	You know what, I'm done with this crazy talking necktie bullshit!	你知道吗，我已经受够这些领带的疯言疯语了！
+0x0100004C00017F13	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	But, *bratan*... no. Please uncork it. I can make it good again.	但是，*兄弟*……不行。请把塞子拔掉。我可以让一切重新变得好起来。
+0x0100004C00017F1F	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	*Bratan*, life and death are inseparable. There's a party when you're born, a party every year to celebrate that birth, and a party when you're put in the ground.	*兄弟*，生命和死亡是形影不离的。你出生的时候会开派对，每年生日会开派对，当你入土为安的时候还是会派对。
+0x0100004C00017F26	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	Why shouldn't there be a party when you die? And, beside, this isn't even about that! You have no idea what this is about... this is gonna be so off the hook. It's gonna be off *all* hooks.	为什么死的时候不能开派对？再说了，根本就跟这个无关！你根本不知道这是怎么回事……这样可以让你摆脱困境。摆脱*所有*困境……
+0x0100004C00017F2F	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	The bottle opens with a silent, mysterious hiss. The fumes rising from its mouth are as crisp as the northern winds.	伴随着一阵沉静又神秘的嘶嘶声，瓶子打开了。瓶口冒出的烟气宛如北风一样清脆。
+0x0100004C00017F36	Dialogue Text	LAIR ORB / dark celebration	Shivers	Howling somewhere, lashing the boardwalk with brine and rain -- an ancient warmth crawls under your skin.	某个地方的呼啸，海水和大雨冲刷着木板道——一种古老的温暖在你的皮肤下爬行。
+0x0100004C00017F3D	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	Now, *bratan*, take me off.	就是现在，*兄弟*，把我取下来。
+0x0100004C00017F44	Dialogue Text	LAIR ORB / dark celebration	You	What? I didn't know I could do that...	什么？我都不知道还能这么做……
+0x0100004C00017F4B	Dialogue Text	LAIR ORB / dark celebration	You	Take the necktie off.	取下领带。
+0x0100004C00017F5D	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	*Bratan*, have I ever lied to you? Just take me off. (The necktie tugs encouragingly at your neck.)	*兄弟*，我有对你撒过谎吗？把我取下来。（领带鼓励地拽着你的脖子。）
+0x0100004C00017F66	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	Your fingers manage to undo the oily knot and the necktie slides off. It looks so frail sitting there in your hand, weighing almost nothing.	你的手指解开油腻的领结，领带跟着滑落下来。它静静坐在你的手中，看起来如此的脆弱，几乎没有任何重量。
+0x0100004C00017F6D	Dialogue Text	LAIR ORB / dark celebration	You	Now what?	现在怎么样？
+0x0100004C00017F74	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	Now put me in the bottle.	现在把我放进瓶子里。
+0x0100004C00017F7B	Dialogue Text	LAIR ORB / dark celebration	You	But... why?	但是……为什么要这么做？
+0x0100004C00017F82	Dialogue Text	LAIR ORB / dark celebration	You	Put the necktie tie in the bottle.	把领带放进瓶子。
+0x0100004C00017F8B	Dialogue Text	LAIR ORB / dark celebration	You	Begone, foul necktie! Finally I rid myself of you! (End it. Throw the necktie as far as you can.)	走开，邪恶的领带！我总算是摆脱你了！（结束这一切。用尽全力把领带扔出去。）
+0x0100004C00017F92	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	The oily rag flaps miserably in the air and lands close by in the dirt. It looks like an inanimate object, completely devoid of life.	那条油腻的破布在空中可怜地翻滚着，最终落在附近的泥地里。它看起来像是个没有生命的物体，全无生息。
+0x0100004C00017F99	Dialogue Text	LAIR ORB / dark celebration	Inland Empire	It was just trying to help....	它只是想帮你……
+0x0100004C00017FA0	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	Trust me -- just trust me. You and I are going to have so much fun it should be illegal!	相信我——只要相信我。你和我会享受到无比的快乐，而且应该是违法的！
+0x0100004C00017FA7	Dialogue Text	LAIR ORB / dark celebration	You	I suspect that it might be.	我想可能是吧。
+0x0100004C00017FAE	Dialogue Text	LAIR ORB / dark celebration	You	But that's *too much fun*.	但是好像*快乐过头*了。
+0x0100004C00017FB5	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	Just put me in the bottle, *bratan*. I'm not gonna let you down. You and I are, like, the same person.	把我放进瓶子里，*兄弟*。我不会让你失望的。你和我，就像同一个人一样。
+0x0100004C00017FC0	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	As the necktie slides into the purifying liquid, large stains of grease rise off from it and float to the surface. There they quickly dissolve and disappear completely.	领带滑入纯净的液体中，大块的油脂浮上表面。然后，它们飞快地溶解，消失地无影无踪。
+0x0100004C00017FC7	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	Cleansed by the blue spirit-fire of 98.7% pure alcohol, the fabric looks almost new again. No longer like a disgusting worm of the lower intestine, but like a colourful and deadly poisonous reef-snake of the Insulindian ocean.	被纯酒精含量98.7%的蓝色烈酒清理过后，领带看起来几乎跟新的一样。它不再像一条令人作呕的小肠蠕虫，更像是伊苏林迪大洋中一条鲜艳又充满剧毒的礁蛇。
+0x0100004C00017FCE	Dialogue Text	LAIR ORB / dark celebration	You	So... what next?	所以……接下来怎么做？
+0x0100004C00017FDC	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	The necktie floats in the blueish liquid with almost unearthly grace.	领带漂浮在蓝色的烈酒中，带着一种近乎神秘超然的优雅。
+0x0100004C00017FE4	Dialogue Text	LAIR ORB / dark celebration	Conceptualization	It's like an organic sample brought back from a distant star system inhabited by sentient neckwear.	它就像一个有机标本，来自于有意识的领饰居住的遥远星系。
+0x0100004C00017FEB	Dialogue Text	LAIR ORB / dark celebration	You	Necktie?	领带？
+0x0100004C00017FF2	Dialogue Text	LAIR ORB / dark celebration	You	Cork the bottle and put it away.	塞上瓶子，把它放到一边。
+0x0100004C00017FF9	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	There is silence.	一片寂静。
+0x0100004C00018009	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	The lieutenant has been observing you quietly all this time.	警督一直在默默地观察你。
+0x0100004C00018010	Dialogue Text	LAIR ORB / dark celebration	Empathy	He's struggling to keep silent, but finally seems to give up.	他努力想要保持安静，不过最终好像是放弃了。
+0x0100004C00018017	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	"I've got to ask..." he says, a peculiar look in his eyes. "What are you doing?"	“我想问你……”他说到，眼睛里散发出一种奇怪的光芒。“你在做什么？”
+0x0100004C0001801E	Dialogue Text	LAIR ORB / dark celebration	You	"Mind your own business, binoclard!"	“管好你自己的事吧，四眼仔！”
+0x0100004C00018025	Dialogue Text	LAIR ORB / dark celebration	You	"I don't really know, but I'm eager to find out."	“我真的不知道，但是我真的很想弄清楚。”
+0x0100004C0001803A	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	"Alright." The lieutenant's face stiffens as he turns to look at the road ahead. "I won't ask again."	“好吧。”警督转而看向前方的路，面容变得僵硬。“我再也不会问了。”
+0x0100004C00018056	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	"That makes two of us." He shakes his head slowly. "Let's not waste any more time under this boardwalk. We need to clear this all up... somehow."	“我也一样。”他慢慢摇头。“我们还是不要在这个木板道下面浪费太多时间。我们需要想个办法……理清所有事情。”
+0x0100004C00018067	Dialogue Text	LAIR ORB / dark celebration	You	"In my family, you put a piece of clothing in some hard liquor and drink it for good luck. It's silly, but no harm done, right?"	“在我的家族，把衣物放进烈酒然后喝掉代表交好运。是很傻，但是也无伤大雅，对吧？”
+0x0100004C0001807D	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	"No harm? In drinking 98.7% alcohol with a god-knows-how-old tie in it? I wouldn't be so sure." The lieutenant tilts his head slightly. "However, I'm not here to judge. Let's go."	“无伤大雅？你是说喝酒精含量98.7%，而且*天知道为什么还有一条旧领带泡在里面*的酒吗？那我可不是很确定了。”警督微微歪了歪头。“不过，也轮不到我来评判。我们走吧。”
+0x0100004C00018084	Dialogue Text	LAIR ORB / dark celebration	You	"Okay, Kim... I didn't want to tell anyone, but my necktie has been talking to me lately."	“好吧，金……我不想告诉其他人，但是我的领带最近一直在跟我说话。”
+0x0100004C000180A3	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	"Of course it has." He doesn't even look too surprised.	“当然。”他的模样一点都不吃惊。
+0x0100004C000180AA	Dialogue Text	LAIR ORB / dark celebration	You	"Forget it, you're not *open-minded* enough to understand anyway."	“算了吧，反正你还不够*开放*，没办法理解的。”
+0x0100004C000180B1	Dialogue Text	LAIR ORB / dark celebration	You	"It started when I woke up in the Whirling-in-Rags. It's been talking to me ever since."	“我从褴褛飞旋醒来的时候就开始了。从那之后它就一直在跟我说话。”
+0x0100004C000180BE	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	"A relationship between a man and a talking necktie? No, apparently I am not." His voice rings of insincere sadness as he turns to leave.	“一个男人和一条会说话的领带之间发展出一段关系？不，显然我不能理解。”他转身离开，声音里透露出一丝虚伪的感伤。
+0x0100004C000180C6	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	"And what has the necktie been telling you, if I may ask?"	“那我能不能问一下，领带都跟你说了什么？”
+0x0100004C000180CD	Dialogue Text	LAIR ORB / dark celebration	You	"It mostly urges me to party harder."	“基本上就是劝我再玩得疯一点。”
+0x0100004C000180D4	Dialogue Text	LAIR ORB / dark celebration	You	"It teaches me about life, Kim. Sort of a father figure."	“它教会我生活，金。有点类似父亲的角色。”
+0x0100004C000180DB	Dialogue Text	LAIR ORB / dark celebration	You	"We're buds. Mostly just goofing around."	“我们是兄弟。大部分时间都是在胡闹。”
+0x0100004C000180E2	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	"Wonderful. Very useful."	“很棒。很有用。”
+0x0100004C000180F0	Dialogue Text	LAIR ORB / dark celebration	Rhetoric	He doesn't actually believe it's wonderful.	他其实根本不觉得很棒。
+0x0100004C000180F7	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	"Okay. So why did you put it in the bottle?"	“好吧。所以你为什么要把它放进瓶子里？”
+0x0100004C00018100	Dialogue Text	LAIR ORB / dark celebration	You	"Why not, lieutenant?"	“为什么不呢，警督？”
+0x0100004C00018107	Dialogue Text	LAIR ORB / dark celebration	You	"Because it told me to."	“因为它让我这么做的。”
+0x0100004C0001810E	Dialogue Text	LAIR ORB / dark celebration	You	"I simply don't know."	“我真的不知道。”
+0x0100004C0001811B	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	"Right. Okay. Anyway, I'm glad you told me your necktie has been speaking to you. That must not have been easy." For a second it looks like he's about to add something...	“没错。好吧。不管怎么说，很高兴你能告诉我领带跟你说话的事。肯定挺不容易的。”有那么一瞬间，感觉他想要再多说些什么……
+0x0100007800013310	Dialogue Text	LAIR ORB / dark celebration	Horrific Necktie	Feels good. Feels safe.	感觉很好，很安全。
+0x0100007800013318	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	"Let us not linger. We have a great big mess to figure out." He turns to face the road ahead.	“我们还是不要磨蹭了，还有一大摊破事等着我们去查清楚。”他转过脸，看向前方的路。
+0x010000780001331E	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	"That makes absolutely no sense." He thinks for a moment. "But I guess every family has its own traditions."	“这根本说不通啊。”他想了一会儿。“不过我猜，每个家族都由自己的传统吧。”
+0x010000780001332A	Dialogue Text	LAIR ORB / dark celebration	You	"In my family when someone dies you put a piece of clothing in a bottle as a sign of eternal respect."	“在我的家族，如果有人去世，你就把一件衣物放进瓶子里，作为永远尊重的象征。”
+0x0100007800013339	Dialogue Text	LAIR ORB / dark celebration	You	"Signs of some really hard core mental illness, Kim." (Point to your head.)	“超硬核精神病的表征，金。”（指向自己的脑袋。）
+0x0100007800013340	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	"I would assume, yes. Why did you put it in the bottle?"	“我想也是。那为什么要把它放进瓶子里？”
+0x010000780001334C	Dialogue Text	LAIR ORB / dark celebration	Esprit de Corps	We're all under stress. This is turning into a great big mess. I'm not judging. Just keep it together.	我们都有压力。事情正在朝一团糟的方向发展。我不想评判什么。只要保持冷静就好。
+0x0100007800013352	Dialogue Text	LAIR ORB / dark celebration	Kim Kitsuragi	...but then he turns away -- his gaze fixed on the road ahead. "Let's go," he concludes.	……不过之后他转过脸——目光固定在前方的道路上。“我们走吧，”他总结道。
+0x0100002F0001387F	Dialogue Text	LAIR ORB / dark celebration 2	You	Time for what?	什么时间？
+0x0100002F00013885	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	Oh... you will see. (It feels like the tie is rubbing itself against your chest like a cat in heat.)	哦……你等着瞧吧。（感觉领带像一只发情的猫咪，自顾自的磨蹭着你的脖颈。）
+0x0100002F0001388B	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	*Bratan*, now is the time!	*兄弟*，时间到了！
+0x0100002F00013893	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	"I've got to ask..." he says, a peculiar look in his eyes. "What are you doing?"	“我想问你……”他说到，眼睛里散发出一种奇怪的光芒。“你在做什么？”
+0x0100002F00013899	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	...but then he turns away -- his gaze fixed on the road ahead. "Let's go," he concludes.	……不过之后他转过脸——目光固定在前方的道路上。“我们走吧，”他总结道。
+0x0100002F0001389F	Dialogue Text	LAIR ORB / dark celebration 2	You	Okay, then tell me -- it is time for what?	好吧，那你告诉我——到什么时间了？
+0x0100002F000138A5	Dialogue Text	LAIR ORB / dark celebration 2	You	"It mostly urges me to party harder."	“基本上就是劝我再玩得疯一点。”
+0x0100002F000138AB	Dialogue Text	LAIR ORB / dark celebration 2	You	"In my family when someone dies you put a piece of clothing in a bottle as a sign of eternal respect."	“在我的家族，如果有人去世，你就把一件衣物放进瓶子里，作为永远尊重的象征。”
+0x0100002F000138B1	Dialogue Text	LAIR ORB / dark celebration 2	You	Necktie... I'm sorry. I didn't mean it like that.	领带……我很抱歉，我不是这个意思。
+0x0100002F000138B7	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	No, *bratan*, no need for that. You and I are *bratannoi* -- brothers. Brothers fight. But when they're done fighting, you know what they do? They party. They fucking party!	不，*兄弟*，没必要这样做。你和我同属于*兄弟家族*——是兄弟。兄弟之间难免争斗。但是打完之后，你知道他们会做什么吗？会一起狂欢。会他妈的一起欢呼摇摆！
+0x0100002F000138BD	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	"Wonderful. Very useful."	“很棒。很有用。”
+0x0100002F000138C3	Dialogue Text	LAIR ORB / dark celebration 2	Esprit de Corps	We're all under stress. This is turning into a great big mess. I'm not judging. Just keep it together.	我们都有压力。事情正在朝一团糟的方向发展。我不想评判什么。只要保持冷静就好。
+0x0100002F000138C9	Dialogue Text	LAIR ORB / dark celebration 2	You	Go away necktie. You're just a figment of my imagination.	走开，领带。你只是我想象力的造物。
+0x0100002F000138CF	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	*Bratan*, don't push me away. I want to be there for you. Also -- how can you be sure *you* are not just a figment of *my* imagination?	*兄弟*，不要把我推开。我想跟你在一起。而且——你怎么能肯定*自己*不是*我的*想象力虚构出来的东西？
+0x0100002F000138D5	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	First, the spirits -- the blue medicinal spirits. Grab the bottle and uncork it! It is time to unleash the Other-World.	首先，是烈酒——蓝色的药用烈酒。抓起瓶子，把盖子拔出来！是时候释放另一个世界了。
+0x0100002F000138DB	Dialogue Text	LAIR ORB / dark celebration 2	You	"I don't really know, but I'm eager to find out."	“我真的不知道，但是我真的很想弄清楚。”
+0x0100002F000138E7	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	"Let us not linger. We have a great big mess to figure out." He turns to face the road ahead.	“我们还是不要磨蹭了，还有一大摊破事等着我们去查清楚。”他转过脸，看向前方的路。
+0x0100002F000138ED	Dialogue Text	LAIR ORB / dark celebration 2	You	Get lost, necktie! I don't want to be your friend.	滚开，领带！我不想做你的朋友。
+0x0100002F000138F3	Dialogue Text	LAIR ORB / dark celebration 2	Rhetoric	He doesn't actually believe it's wonderful.	他其实根本不觉得很棒。
+0x0100002F000138F9	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	But, *bratan*... I... I understand. (The tie loosens around your neck.) I just wanted you to have fun. I... I never meant to be a burden.	但是，*兄弟*……我……我能理解。（脖子上的领带松快了一些。）我只想帮你找些乐子。我……我从没想过成为你的负担。
+0x0100002F000138FF	Dialogue Text	LAIR ORB / dark celebration 2	You	"Signs of some really hard core mental illness, Kim." (Point to your head.)	“超硬核精神病的象征，金。”（指向自己的脑袋。）
+0x0100002F00013905	Dialogue Text	LAIR ORB / dark celebration 2	You	"I simply don't know."	“我真的不知道。”
+0x0100002F0001390B	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	There is silence.	一片寂静。
+0x0100002F00013916	Dialogue Text	LAIR ORB / dark celebration 2	You	Wait, right now? A woman just died and you think now is a good time to party?	等等，现在吗？一个女人刚刚死去，你觉得现在是开派对的好时机？
+0x0100002F0001391C	Dialogue Text	LAIR ORB / dark celebration 2	You	Slowly uncork the blue medicinal spirit.	慢慢拔掉蓝色药用烈酒的塞子。
+0x0100002F00013922	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	"Alright." The lieutenant's face stiffens as he turns to look at the road ahead. "I won't ask again."	“好吧。”警督转而看向前方的路，面容变得僵硬。“我再也不会问了。”
+0x0100002F00013928	Dialogue Text	LAIR ORB / dark celebration 2	You	"Mind your own business, binoclard!"	“管好你自己的事吧，四眼仔！”
+0x0100002F0001392E	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	"I would assume, yes. Why did you put it in the bottle?"	“我想也是。那为什么要把它放进瓶子里？”
+0x0100002F0001393A	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	"That makes absolutely no sense." He thinks for a moment. "But I guess every family has its own traditions."	“这根本说不通啊。”他想了一会儿。“不过我猜，每个家族都由自己的传统吧。”
+0x0100002F00013940	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	"No harm? In drinking 98.7% alcohol with a god-knows-how-old tie in it? I wouldn't be so sure." The lieutenant tilts his head slightly. "However, I'm not here to judge. Let's go."	“无伤大雅？你是说喝酒精含量98.7%，而且*天知道为什么还有一条旧领带泡在里面*的酒吗？那我可不是很确定了。”警督微微歪了歪头。“不过，也轮不到我来评判。我们走吧。”
+0x0100002F00013946	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	"That makes two of us." He shakes his head slowly. "Let's not waste any more time under this boardwalk. We need to clear this all up... somehow."	“我也一样。”他慢慢摇头。“我们还是不要在这个木板道下面浪费太多时间。我们需要想个办法……把这些都清理掉。”
+0x0100002F0001394C	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	"Right. Okay. Anyway, I'm glad you told me your necktie has been speaking to you. That must not have been easy." For a second it looks like he's about to add something...	“没错。好吧。不管怎么说，很高兴你能告诉我领带跟你说话的事。肯定挺不容易的。”有那么一瞬间，感觉他想要再多说些什么……
+0x0100002F00013952	Dialogue Text	LAIR ORB / dark celebration 2	You	"Because it told me to."	“因为它让我这么做的。”
+0x0100002F00013958	Dialogue Text	LAIR ORB / dark celebration 2	You	Wait, right now? Ruby's gone. I don't really think there's anything to celebrate here.	等等，现在吗？露比走了。我真不觉得这里有什么好庆祝的。
+0x0100002F0001395E	Dialogue Text	LAIR ORB / dark celebration 2	You	"We're buds. Mostly just goofing around."	“我们是兄弟。大部分时间都是在胡闹。”
+0x0100002F00013964	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	Your fingers manage to undo the oily knot and the necktie slides off. It looks so frail sitting there in your hand, weighing almost nothing.	你的手指解开油腻的领结，领带跟着滑落下来。它静静坐在你的手中，看起来如此的脆弱，几乎没有任何重量。
+0x0100002F0001396E	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	Hush-hush, *bratan*, now is not the time to celebrate, now is the time to get *ready*. Trust me on this. This is what it's all been building towards. It's gonna be off the hook. Off *all* hooks.	要保密，*兄弟*，现在可不是庆祝的时候，而是应该*做好准备*。这个你要相信我。这就是一直以来追逐的目标。一定能摆脱困境的。摆脱*所有*困境。
+0x0100002F00013974	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	*Bratan*, life and death are inseparable. There's a party when you're born, a party every year to celebrate that birth, and a party when you're put in the ground.	*兄弟*，生命和死亡是形影不离的。你出生的时候会开派对，每年生日会开派对，当你入土为安的时候还是会派对。
+0x0100002F0001397A	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	The bottle opens with a silent, mysterious hiss. The fumes rising from its mouth are as crisp as the northern winds.	伴随着一阵沉静又神秘的嘶嘶声，瓶子打开了。瓶口冒出的烟气宛如北风一样清脆。
+0x0100002F00013985	Dialogue Text	LAIR ORB / dark celebration 2	Electrochemistry	Yeah... what's the problem here?	是啊……有什么问题吗？
+0x0100002F0001398B	Dialogue Text	LAIR ORB / dark celebration 2	Shivers	Howling somewhere, lashing the boardwalk with brine and rain -- an ancient warmth crawls under your skin.	某个地方的呼啸，海水和大雨冲刷着木板道——一种古老的温暖在你的皮肤下爬行。
+0x0100002F00013991	Dialogue Text	LAIR ORB / dark celebration 2	You	Cork the bottle and put it away.	塞上瓶子，把它放到一边。
+0x0100002F00013997	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	Feels good. Feels safe.	感觉很好，很安全。
+0x0100002F0001399D	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	Why shouldn't there be a party when you die? And, beside, this isn't even about that! You have no idea what this is about... this is gonna be so off the hook. It's gonna be off *all* hooks.	为什么死的时候不能开派对？再说了，根本就跟这个无关！你根本不知道这是怎么回事……这样可以让你摆脱困境。摆脱*所有*困境……
+0x0100002F000139A3	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	Now, *bratan*, take me off.	就是现在，*兄弟*，把我取下来。
+0x0100002F000139A9	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	"A relationship between a man and a talking necktie? No, apparently I am not." His voice rings of insincere sadness as he turns to leave.	“一个男人和一条会说话的领带之间发展出一段关系？不，显然我没有。”他转身离开，声音里透露出一丝虚伪的感伤。
+0x0100002F000139AF	Dialogue Text	LAIR ORB / dark celebration 2	You	"Okay, Kim... I didn't want to tell anyone, but my necktie has been talking to me lately."	“好吧，金……我不想告诉其他人，但是我的领带最近一直在跟我说话。”
+0x0100002F000139B5	Dialogue Text	LAIR ORB / dark celebration 2	You	What? I didn't know I could do that...	什么？我都不知道还能这么做……
+0x0100002F000139BB	Dialogue Text	LAIR ORB / dark celebration 2	You	"Forget it, you're not *open-minded* enough to understand anyway."	“算了吧，反正你还不够*开放*，没办法理解的。”
+0x0100002F000139C1	Dialogue Text	LAIR ORB / dark celebration 2	You	Take the necktie off.	取下领带。
+0x0100002F000139C7	Dialogue Text	LAIR ORB / dark celebration 2	You	"In my family, you put a piece of clothing in some hard liquor and drink it for good luck. It's silly, but no harm done, right?"	“在我的家族，把衣物放进烈酒然后喝掉代表交好运。是很傻，但是也无伤大雅，对吧？”
+0x0100002F000139CD	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	"Of course it has." He doesn't even look too surprised.	“当然。”他的模样一点都不吃惊。
+0x0100002F000139D3	Dialogue Text	LAIR ORB / dark celebration 2	You	"Why not, lieutenant?"	“为什么不呢，警督？”
+0x0100002F000139DD	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	*Bratan*, have I ever lied to you? Just take me off. (The necktie tugs encouragingly at your neck.)	*兄弟*，我有对你撒过谎吗？把我取下来。（领带鼓励地拽着你的脖子。）
+0x0100002F000139E8	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	The lifeless necktie looks like a colourful intestine of some dead animal: oily, alien and otherwise disgusting. What could have driven a man to wear something so repulsive around his neck?	死气沉沉的领带看起来像是动物尸体上色彩斑斓的肠子：油腻、诡异、还很恶心。到底是什么能让一个男人把这种讨厌的东西戴在脖子上？
+0x0100002F000139EE	Dialogue Text	LAIR ORB / dark celebration 2	You	Now what?	现在怎么样？
+0x0100002F000139F4	Dialogue Text	LAIR ORB / dark celebration 2	You	Necktie?	领带？
+0x0100002F000139FA	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	Now put me in the bottle.	现在把我放进瓶子里。
+0x0100002F00013A00	Dialogue Text	LAIR ORB / dark celebration 2	You	But... why?	但是……为什么？
+0x0100002F00013A06	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	The oily rag flaps miserably in the air and lands close by in the dirt. It looks like an inanimate object, completely devoid of life.	那条油腻的破布在空中可怜地翻滚着，最终落在附近的泥地里。它看起来像是个没有生命的物体，全无生息。
+0x0100002F00013A0C	Dialogue Text	LAIR ORB / dark celebration 2	You	Put the necktie tie in the bottle.	把领带放进瓶子。
+0x0100002F00013A12	Dialogue Text	LAIR ORB / dark celebration 2	You	"It started when I woke up in the Whirling-in-Rags. It's been talking to me ever since."	“我从褴褛飞旋醒来的时候就开始了。从那之后它就一直在跟我说话。”
+0x0100002F00013A18	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	"And what has the necktie been telling you, if I may ask?"	“那我能不能问一下，领带都跟你说了什么？”
+0x0100002F00013A1E	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	"Okay. So why did you put it in the bottle?"	“好吧。所以你为什么要把它放进瓶子里？”
+0x0100002F00013A24	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	But, *bratan*... no. Please uncork it. I can make it good again.	但是，*兄弟*……不行。请把塞子拔掉。我可以让一切重新变得好起来。
+0x0100002F00013A2A	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	Trust me -- just trust me. You and I are going to have so much fun it should be illegal!	相信我——只要相信我。你和我会享受到无比的快乐，而且应该是违法的！
+0x0100002F00013A30	Dialogue Text	LAIR ORB / dark celebration 2	You	You know what, I'm done with this crazy talking necktie bullshit!	你知道吗，我已经受够这些领带的疯言疯语了！
+0x0100002F00013A36	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	As the necktie slides into the purifying liquid, large stains of grease rise off from it and float to the surface. There they quickly dissolve and disappear completely.	领带滑入纯净的液体中，大块的油脂浮上表面。然后，它们飞快地溶解，消失地无影无踪。
+0x0100002F00013A3C	Dialogue Text	LAIR ORB / dark celebration 2	Conceptualization	It's like an organic sample brought back from a distant star system inhabited by sentient neckwear.	它就像一个有机标本，来自于有意识的领饰居住的遥远星系。
+0x0100002F00013A42	Dialogue Text	LAIR ORB / dark celebration 2	You	I suspect that it might be.	我想可能是吧。
+0x0100002F00013A48	Dialogue Text	LAIR ORB / dark celebration 2	Drama	As always -- lie.	像往常一样——谎言。
+0x0100002F00013A4E	Dialogue Text	LAIR ORB / dark celebration 2	You	But that's *too much fun*.	但是好像*太过有趣*了。
+0x0100002F00013A54	Dialogue Text	LAIR ORB / dark celebration 2	You	Necktie, you and I are done. Both professionally -- and as friends. Begone! (End the tie.)	领带，我和你之间已经完了。不论是在职业上——还有作为朋友上。滚开！（了结这条领带。）
+0x0100002F00013A5A	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	Cleansed by the blue spirit-fire of 98.7% pure alcohol, the fabric looks almost new again. No longer like a disgusting worm of the lower intestine, but like a colourful and deadly poisonous reef-snake of the Insulindian ocean.	被纯酒精含量98.7%的蓝色烈酒清理过后，领带看起来几乎跟新的一样。它不再像一条令人作呕的小肠蠕虫，更像是伊苏林迪大洋中一条鲜艳又充满剧毒的礁蛇。
+0x0100002F00013A60	Dialogue Text	LAIR ORB / dark celebration 2	Inland Empire	Seems you'll never learn the answer to that question.	看来你永远也不会知道这个问题的答案。
+0x0100002F00013A66	Dialogue Text	LAIR ORB / dark celebration 2	Empathy	He's struggling to keep silent, but finally seems to give up.	他努力想要保持安静，不过最终好像是放弃了。
+0x0100002F00013A6C	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	Just put me in the bottle, *bratan*. I'm not gonna let you down. You and I are, like, the same person.	把我放进瓶子里，*兄弟*。我不会让你失望的。你和我，就像同一个人一样。
+0x0100002F00013A72	Dialogue Text	LAIR ORB / dark celebration 2	You	Begone, foul necktie! Finally I rid myself of you! (End it. Throw the necktie as far as you can.)	走开，邪恶的领带！我总算是摆脱你了！（结束这一切。用尽全力把领带扔出去。）
+0x0100002F00013A78	Dialogue Text	LAIR ORB / dark celebration 2	Inland Empire	It was just trying to help....	它只是想帮你……
+0x0100002F00013A7E	Dialogue Text	LAIR ORB / dark celebration 2	You	So... what next?	所以……接下来怎么做？
+0x0100002F00013A84	Dialogue Text	LAIR ORB / dark celebration 2	You	"It teaches me about life, Kim. Sort of a father figure."	“它教会我生活，金。有点类似父亲的角色。”
+0x0100002F00013A8A	Dialogue Text	LAIR ORB / dark celebration 2	Horrific Necktie	The necktie floats in the blueish liquid with almost unearthly grace.	领带漂浮在蓝色的烈酒中，带着一种近乎神秘超然的优雅。
+0x0100002F00013A90	Dialogue Text	LAIR ORB / dark celebration 2	Kim Kitsuragi	The lieutenant has been observing you quietly all this time.	警督一直在默默地观察你。
+0x0100000600015003	Dialogue Text	LAIR ORB / shot viscal	Kim Kitsuragi	"In fact -- I think we're done with this bunker." He looks to the exit. "After you, officer."	“事实上——我觉得这个煤仓已经调查的差不多了。”他看向出口。“你先走吧，警官。”
+0x010000580000DE45	Dialogue Text	LAIR ORB / shot viscal	Visual Calculus	Could this have been the killer's hideout, and this narrow window -- the point of origin of the shot that killed the mercenary?	也许这里是凶手的藏身地点，还有这个狭窄的窗户——杀死雇佣兵的那枪就是从这里射出去的？
+0x0100005800010B07	Dialogue Text	LAIR ORB / shot viscal	Hand/Eye Coordination	This does look like an *embrasure*, a slit made for shooting out of.	这个看起来不像是*射击孔*，就是用来射击的裂缝。
+0x0100005800010B13	Dialogue Text	LAIR ORB / shot viscal	You	Peek out.	往外看。
+0x0100005800010B1F	Dialogue Text	LAIR ORB / shot viscal	Visual Calculus	Outside the window -- another day. The beach sand soaks up the drizzling rain, growing darker and darker.	窗户外面——又是一天。海滩上的沙子吸足了毛毛细雨，变得越发黯淡。
+0x0100005800010B25	Dialogue Text	LAIR ORB / shot viscal	Visual Calculus	Outside the window -- desolation. Snow falls softly onto the coastal sand, where it melts almost instantly. On rooftops, it lingers.	窗户外面——是一片荒凉。雪花软软地落在海岸的沙滩上，几乎瞬间就消失不见。只是在高高的屋顶，它还在徘徊着。
+0x0100005800010B2B	Dialogue Text	LAIR ORB / shot viscal	Visual Calculus	Outside the window -- the day is clear, and as mild as can be in early spring.	窗户外面——是一片晴空，宛如早春一般温暖。
+0x0100005800010B31	Dialogue Text	LAIR ORB / shot viscal	Visual Calculus	You hear the rain's susurration across the sea water. The night shudders.	你听见沙沙的雨滴声跨过海面。夜晚也随之颤栗着。
+0x0100005800010B37	Dialogue Text	LAIR ORB / shot viscal	Visual Calculus	In the darkness, you can barely make out the falling snow. It settles, making the night still quieter.	在黑暗之中，你几乎无法看清飘落的雪花。它们缓缓落下，让夜晚变得更加寂静。
+0x0100005800010B3D	Dialogue Text	LAIR ORB / shot viscal	Visual Calculus	The lights of Martinaise shine coolly in the clear night.	马丁内斯的灯光在晴朗的夜空中静静闪烁着。
+0x0100005800010B73	Alternate1	LAIR ORB / shot viscal	You	(Turn to Kim.) "Could the killer have used this as a hideout?"	（转向金。）“凶手会不会把这里当成了藏身之处？”
+0x0100005800010B73	Dialogue Text	LAIR ORB / shot viscal	You	Would this have been a good hideout for a sniper?	这里对于狙击手来说，是个好的藏身之处吗？
+0x0100005800010BB2	Dialogue Text	LAIR ORB / shot viscal	Visual Calculus	No, it's not. No matter how you crane your neck, you can't see the whole of the Whirling-in-Rags, and certainly not the relevant segment of the top floor.	不，没有。不管你怎么伸长脖子，也没法看见整个褴褛飞旋，更不用说顶楼相关的部分。
+0x0100005800010BD1	Alternate1	LAIR ORB / shot viscal	Kim Kitsuragi	"It's a great place to hide, and Mazovianism and murder are certainly not mutually exclusive. But there hasn't been anyone here in ages."	“这里是个很好的藏身之处，马佐夫主义和凶手并不互相排斥。但是这里已经很久没有过人烟了。”
+0x0100005800010BD1	Dialogue Text	LAIR ORB / shot viscal	Kim Kitsuragi	"It's a great place to hide, certainly, but there hasn't been anyone here in ages."	“这里确实是个很好的藏身之处，不过已经很久没有人来过。”
+0x0100005800010BD7	Alternate1	LAIR ORB / shot viscal	Kim Kitsuragi	"It is a great place to hide, and Mazovianism and killing are certainly not mutually exclusive. But there hasn't been anyone here in ages."	“这里是个很好的藏身之处，马佐夫主义和凶杀并不互相排斥。但是这里已经很久没有过人烟了。”
+0x0100005800010BD7	Dialogue Text	LAIR ORB / shot viscal	Kim Kitsuragi	"It's a great place to hide, certainly, but there hasn't been anyone in here for ages."	“这里确实是个很好的藏身之处，不过已经很久没有人来过。”
+0x0100005800010BDD	Alternate1	LAIR ORB / shot viscal	Visual Calculus	It's a good place to hide, but doesn't look like anyone -- Mazovian or murderer -- has stayed here in a while.	这里是个很好的藏身之处，但是看起来没有人——马佐夫主义者或者是凶手——在这里待过一段时间。
+0x0100005800010BDD	Dialogue Text	LAIR ORB / shot viscal	Visual Calculus	It's a good place to hide, but doesn't look like anyone has stayed here in a while.	这里是个很好的藏身之处，不过看起来没人在这里待过。
+0x0100005800010BE3	Alternate1	LAIR ORB / shot viscal	Visual Calculus	It's definitely a good place to hide. Mazovians know how to lay low.	这里确实是个藏身的好地方。马佐夫主义者知道如何隐姓埋名。
+0x0100005800010BE3	Dialogue Text	LAIR ORB / shot viscal	Visual Calculus	It's definitely a good place to hide. You barely found it yourself.	这里确实是个藏身的好地方。你几乎连自己都找不到了。
+0x0100005800010C0C	Dialogue Text	LAIR ORB / shot viscal	You	Is it feasible to hit a target in the Whirling-in-Rags from this window? (Conclude.)	从这扇窗户射击褴褛飞旋里的目标是可行的吗？（总结。）
+0x0100005800010C13	Dialogue Text	LAIR ORB / shot viscal	You	"Kim, I can't see the Whirling-in-Rags... The shot didn't come from here." (Conclude.)	“金，我看不见褴褛飞旋……子弹不是从这里射出的。”（总结。）
+0x0100005800010C1D	Dialogue Text	LAIR ORB / shot viscal	Kim Kitsuragi	"Indeed. No one could get a clear view. Well, at least we've been thorough. I like thorough."	“的确。谁也看不清楚。不过，至少我们彻查过了。我喜欢这样。”
+0x0100005800010C25	Dialogue Text	LAIR ORB / shot viscal	Authority	The lieutenant's voice betrays a slight disappointment, which he glosses over by reasserting control.	警督的声音暴露出一丝失望，他用断言来拼命掩饰着。
+0x0100001600009B3F	Dialogue Text	LAIR ORB / wearing revolutionary hat	You	This is an *ushanka*, right? (Pat the hat.)	这是一顶*长耳帽*，对吗？（轻轻拍打帽子。）
+0x0100001600009B45	Dialogue Text	LAIR ORB / wearing revolutionary hat	You	Oops, it's a fashion faux pas! [Discard the thought -- and the hat.]	哎呀，还真是对时尚失礼了！[抛弃这个想法——还有这顶帽子。]
+0x01000021000009F1	Dialogue Text	LAIR ORB / wearing revolutionary hat	Rhetoric	Let's hope no one saw you wearing that outrageously communist hat.	希望没人看见你戴着这顶凶残的康米主义帽子。
+0x0100006B00002602	Dialogue Text	LAIR ORB / wearing revolutionary hat	Rhetoric	This hat is so soft, so warm. It wraps around your head... and your mind tingles with all manner of socio-economic theory.	这顶帽子柔软又温暖，轻轻包裹着你的脑袋……你的脑海因为各种各样的社会经济理论而刺痛。
+0x0100006B00002608	Dialogue Text	LAIR ORB / wearing revolutionary hat	Rhetoric	Kras Mazov would have worn this ushanka. Mazov knew where to cook those thoughts, that's why it bears a Mazovian logo.	卡拉斯·马佐夫应该会戴上这顶长耳帽。马佐夫知道在哪里酝酿这些想法，所以它上面才会有个马佐夫主义的标志。
+0x0100006B0000260D	Dialogue Text	LAIR ORB / wearing revolutionary hat	Rhetoric	Glory to the Revolution, comrade! Whether you like it or not, wearing this hat has made you more communist.	革命最光荣，同志！不论你喜不喜欢，戴上这顶帽子让你变得更像康米主义者了。
+0x010000040001528A	Dialogue Text	LAIR ORB / wiresinglass	Interfacing	This isn't just glass -- these are old computation components.	这不仅仅是玻璃——这是古老的计算部件。
+0x0100000400015291	Dialogue Text	LAIR ORB / wiresinglass	You	These are computer components?	这些是计算机部件？
+0x0100000400015296	Dialogue Text	LAIR ORB / wiresinglass	You	[Discard thought.]	[放弃思维。]
+0x01000004000152A0	Dialogue Text	LAIR ORB / wiresinglass	Interfacing	Yes. Filament memories. From the time when wires were cast in glass; slides with an inlaid nervous system.	是的，这些都是纤维内存。那时候的线路都排布在玻璃内部，所谓的纤维内存就是一块块内嵌着电子神经系统的玻璃板。
+0x01000004000152A7	Dialogue Text	LAIR ORB / wiresinglass	You	[Finish thought.]	[完成思维。]
+0x01000004000152AF	Dialogue Text	LAIR ORB / wiresinglass	You	"Hey Kim, look -- old cybernetics."	“喂，金，快看——古老的控制论。”
+0x01000004000152B4	Dialogue Text	LAIR ORB / wiresinglass	You	How'd they do that? And why?	这是怎么制造出来的？为什么要这么设计？
+0x01000004000152BC	Dialogue Text	LAIR ORB / wiresinglass	Interfacing	The 'how' was a closely guarded secret. Something that was locked in safes and human heads across the river where they were manufactured. As to why? Your fingers don't know.	这个*怎么做到的*是必须严守的高度机密。有些东西锁在保险柜里，还有把它们制造出来的河对岸的人脑里。至于为什么要这么设计？你的手指也说不上来。
+0x01000004000152CB	Dialogue Text	LAIR ORB / wiresinglass	Kim Kitsuragi	The lieutenant tilts his head, watching the light glimmer on the glass. "So it is. I think these used to form a single system, slotted in the wall."	警督歪着头，看着玻璃上闪烁的灯光。“这些内存以前应该属于同一个系统，依次排布在墙内的插槽里。”
+0x0100000600014F17	Dialogue Text	LAIR ORB / wiresinglass	You	"So this is all that remains of Feld R&D?"	“所以，这就是菲尔德研发部留下的一切？
+0x0100000600014F1E	Dialogue Text	LAIR ORB / wiresinglass	You	"Could this be part of the Feld Playback Experiment?"	“这有没有可能是菲尔德重现实验的一部分？”
+0x0100000600014F26	Dialogue Text	LAIR ORB / wiresinglass	Kim Kitsuragi	He nods. "The rest of the building seems to have been picked clean."	他点点头。“这栋建筑的其他部分像是都被清理干净了。”
+0x0100000600014F2E	Dialogue Text	LAIR ORB / wiresinglass	Kim Kitsuragi	"These? No. These are old filament memories. I hope you're not expecting to find that device here -- you will be disappointed."	“这些吗？不是，这只是些旧纤维内存。我希望你没指望在这儿找到全套设备，不然你会失望的。”
+0x0100000600014F35	Dialogue Text	LAIR ORB / wiresinglass	Inland Empire	All you will find here is pain.	你能在这里找到的只有痛苦。
+0x010000060001E694	Dialogue Text	LAIR ORB / wiresinglass	Encyclopedia	The 'why' is easy -- because they hadn't come up with modern silicon-based systems yet. For vitreous-cast filament memories, though, these seem incredibly advanced.	这个‘为什么’就简单多了——因为他们还没有想出现代的硅基系统。对于玻璃制的纤维内存来说，这些似乎已经极其先进了。
