@@ -1,0 +1,69 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060001E5BA	Dialogue Text	LANDS END ORB / lands end shot viscal	Inland Empire	Still, you felt it was important enough to make a mental note. That means *something*. You didn't pay attention to any of the other cigarette butts on the coast.	然而，你感觉它还是很重要，应该铭记于心。那意味着*某种东西*。你没有注意到海岸上的其他的烟蒂。
+0x010000060001E5C2	Dialogue Text	LANDS END ORB / lands end shot viscal	Rhetoric	How do you respond to a pithy *no* like that? He's just *not* into pilot caps, it seems.	你该如何回应那样一句简洁有力的*不*呢？似乎他对飞行员帽不是很感冒。
+0x010000060001E5CA	Dialogue Text	LANDS END ORB / lands end shot viscal	Savoir Faire	It does look *extremely* rickety. And wouldn't help much either.	它看起来*非常*摇摇欲坠。而且也帮不上什么忙。
+0x0100002F0001262D	Dialogue Text	LANDS END ORB / lands end shot viscal	Visual Calculus	The light is off on the third floor of the Whirling-in-Rags. The young woman is gone who knows where. Safe, closed off. Her form no longer moves behind the glass there...	褴褛飞旋三楼的灯熄灭了。那个年轻女子走了，没人知道她去了哪里。安全，隔绝。她的身影不再在玻璃背后荡漾……
+0x01000045000194AD	Dialogue Text	LANDS END ORB / lands end shot viscal	Visual Calculus	Is there something here that would indicate a sniper used this place as a nest for taking the shot? Just some urban detritus, a bottle and a dilapidated old comms tower.	这里有没有什么东西可以证明——有个狙击手把这里当成了开枪的据点？眼下只有一些碎石，一只瓶子，还有一个废弃的通讯塔。
+0x01000045000194BA	Alternate1	LANDS END ORB / lands end shot viscal	You	"Maybe the campfire was used by the perpetrator?"	“也许这里的篝火是罪犯用过的？”
+0x01000045000194BA	Dialogue Text	LANDS END ORB / lands end shot viscal	You	Maybe the campfire was used by the perpetrator?	也许这里的篝火是罪犯用过的？
+0x01000045000194C0	Alternate1	LANDS END ORB / lands end shot viscal	You	"Maybe the assailant climbed the comms tower, took the shoot there?"	“也许袭击者爬上了通讯塔，在那里开了枪？”
+0x01000045000194C0	Dialogue Text	LANDS END ORB / lands end shot viscal	You	Maybe the assailant climbed the comms tower, took the shot there?	也许袭击者爬上了通讯塔，在那里开了枪？
+0x01000045000194C6	Alternate1	LANDS END ORB / lands end shot viscal	You	"What about the cigarette butts?"	“那些烟头呢？”
+0x01000045000194C6	Dialogue Text	LANDS END ORB / lands end shot viscal	You	What about the cigarette butts?	那些烟头呢？
+0x01000045000194CC	Dialogue Text	LANDS END ORB / lands end shot viscal	You	Look over the water -- to the Whirling-in-Rags.	遥望水面——望向褴褛飞旋。
+0x01000045000194D2	Dialogue Text	LANDS END ORB / lands end shot viscal	Endurance	The wind picks up. Fine sea foam lashes your face. It feels like needles. You can take it -- just raise your collar, detective.	风越来越大。海面卷起细小的水沫扫过你的脸庞，就像细针扎过一样。你能承受住——只要竖起你的衣领就好，警探。
+0x01000045000194D9	Dialogue Text	LANDS END ORB / lands end shot viscal	Perception	In the distance you can hear the breakers roar.	你听见碎浪在远处咆哮。
+0x01000045000194F7	Dialogue Text	LANDS END ORB / lands end shot viscal	Visual Calculus	A smoking assailant who favours Tioumoutiri to Astra or Drouin? Cigarette butts are part of the campfire set -- they're also everywhere.	一个抽烟的袭击者，相比阿斯特拉或者是德鲁安，更喜欢特拜科？烟头是架设篝火的一部分——散落的到处都是。
+0x01000045000194FD	Dialogue Text	LANDS END ORB / lands end shot viscal	Visual Calculus	The salty water has corroded the ladder to nothing but two thin orange rails. In addition, there is no stable nest up there. It would have been useless.	梯子被咸咸的海水腐蚀，变得就像两条纤细的橙色轨道。此外，这里并不是个稳定的据点，没什么用的。
+0x0100004500019503	Dialogue Text	LANDS END ORB / lands end shot viscal	Visual Calculus	To warm his hands before he pulled the trigger? There are no markings on the ground for a tripod, he would have had to lie on a mattress. This is simply not a good spot for a 1.2 kilometre shot.	为了在扣动扳机之前先暖和一下双手？地上没有三脚架的痕迹，他可能躺在床垫上。对于1.2公里的狙击来说，这里确实不是什么好位置。
+0x0100004500019509	Dialogue Text	LANDS END ORB / lands end shot viscal	Encyclopedia	Tioumoutiri was a Revacholian colony on Iilmaraa. The suzerainty's population was mostly Iilmaraan Areopagites -- up to 97%. The region was known for its tobacco export. Hence the name.	特拜科是瑞瓦肖在伊尔玛的殖民地。那里的人口基本上都是伊尔玛的艾瑞奥帕吉特人——高达97%。那片区域以烟草出口闻名，也因此得名。
+0x0100004500019516	Dialogue Text	LANDS END ORB / lands end shot viscal	You	I want to know *a lot* more about this.	我想知道的要比这个*多得多*。
+0x010000450001951C	Dialogue Text	LANDS END ORB / lands end shot viscal	You	Enough. The cigarettes are unimportant.	够了。这些香烟一点也不重要。
+0x0100004500019523	Dialogue Text	LANDS END ORB / lands end shot viscal	Encyclopedia	Oh, you do! The butts you saw had a silhouette of a boy wearing a kofia hat -- a tobacco picker. This boy is the Tioumoutiri brand logo. Contemporary Revacholians prefer Drouin (a local blend from the southern islands) or Astra, a legendary cigarette from Graad. Tioumoutiri is favoured by older men who like its old fashioned paper filter tips, insane amount of tar and the sweet smells of colonialism and halva.	哦，当然了！你看见的烟蒂上有一个戴着科菲亚帽的男孩——一个烟草采摘工人。这个男孩是特拜科的品牌标志。同时代的瑞瓦肖人更喜欢德鲁安（南部岛屿的一个本土牌子）或者是阿斯特拉，一种来自格拉德的传奇香烟。喜欢特拜科的人年龄偏大，他们钟情老式纸过滤嘴，过量的焦油，还有殖民主义和芝麻蜜饼的香甜。
+0x0100004500019531	Dialogue Text	LANDS END ORB / lands end shot viscal	Encyclopedia	Nothing is unimportant, detective.	没有什么是不重要的，警探。
+0x010000450001953F	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"Those?" He points to them. "A smoking assailant who favours Tioumoutiri to Astra or Drouin? Cigarette butts are everywhere. This is a common brand for old men."	“那些吗？”他用手指了指。“一个抽烟的袭击者，相比阿斯特拉或者是德鲁安，更喜欢特拜科？这里到处都是烟头。这个牌子在年纪大的人中间比较流行。”
+0x010000450001954D	Alternate1	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"I don't see it, lieutenant double-yefreitor. I don't see a person take a shot *here* and hit something there..." he looks east, over the coast. "In the Whirling-in-Rags."	“我没看出来，双重荣誉警督。我没看出一个人怎么能在*这里*开枪，然后命中那边……”他看向东边，海岸对面。“褴褛飞旋里的目标。”
+0x010000450001954D	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"I don't see it, officer. I don't see a person take a shot here and hit something there..." He looks east, over the coast. "In the Whirling-in-Rags."	“我没看见，警官。我没看出有人在这里开枪，然后命中了那边的某个东西……”他看向海岸的东边。“在褴褛飞旋里面。”
+0x010000450001955F	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"It's not possible to climb that ladder and even if it were -- why? There's no platform up there to aim from." The lieutenant looks up, raising his collar.	“爬上那个梯子是不可能的，就算可能——但是为什么要这么做？上面根本就没有可以瞄准的平台。”警督抬起头，竖高了衣领。
+0x0100004500019566	Dialogue Text	LANDS END ORB / lands end shot viscal	Endurance	He looks like he's cold out here at the tip of the coast. The jacket is warm, but not for this weather.	站在海岸尽头的他看起来有点冷。夹克是很暖和，但也扛不住这种天气。
+0x0100004500019574	Dialogue Text	LANDS END ORB / lands end shot viscal	You	"Kim, you look cold -- maybe a thicker coat?"	“金，你看起来很冷——要不换件厚点的衣服？”
+0x010000450001957A	Dialogue Text	LANDS END ORB / lands end shot viscal	You	"Kim, you look cold -- maybe a little pilot cap?	“金，你看起来很冷——要不来一顶小飞行员帽？”
+0x0100004500019592	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"No."	“不用。”
+0x0100004500019599	Dialogue Text	LANDS END ORB / lands end shot viscal	Rhetoric	No what?	不用什么？
+0x01000045000195A6	Dialogue Text	LANDS END ORB / lands end shot viscal	You	"No what -- you're not cold?"	“不用什么——你不冷吗？”
+0x01000045000195AC	Dialogue Text	LANDS END ORB / lands end shot viscal	You	"No what -- an orange pilot cap would not help?"	“不用什么——橙色的飞行员帽没用吗？”
+0x01000045000195B4	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"Yes, that one. No to the orange pilot cap." He turns to face the sea.	“没错，是这个意思。不要橙色的飞行员帽。”他把脸转向大海。
+0x01000045000195BB	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"No, an orange pilot cap would not help." He turns to face the sea.	“不，一顶橙色的飞行员帽没什么帮助。”他把脸转向大海。
+0x01000045000195C8	Alternate1	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"I'm okay. You on the other hand, yefreitor... you look like you're about to turn into a popsicle."\n	“我还好。倒是你，荣誉警督——看起来都快变成一根人形冰棍了。”
+0x01000045000195C8	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"I'm okay. You on the other hand -- look like you're about to turn into a popsicle."	“我还好。倒是你——看起来都快变成一根人形冰棍了。”
+0x01000045000195D4	Dialogue Text	LANDS END ORB / lands end shot viscal	You	"It's my style. Superstar cops don't wear parkas. They rock out."	“这是我的风格。明星警探从不穿派克大衣。他们很摇滚范。”
+0x01000045000195DA	Dialogue Text	LANDS END ORB / lands end shot viscal	You	"What if I *want* to be a popsicle?"	“要是我*想*变成冰棍呢？”
+0x01000045000195E0	Dialogue Text	LANDS END ORB / lands end shot viscal	You	"You're right. I should look into this situation before I die of hypothermia."	“你说得对。在我因为低体温症死掉之前，应该好好调查一下这种情况。”
+0x01000045000195EB	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"That seems smart, yes."	“没错，这样好像比较明智。”
+0x01000045000195F2	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"Absolute idiocy," he nods in acknowledgement of the idiocy on display.	“绝对的白痴行为，”他点点头，承认了你表露无遗的愚蠢。
+0x01000045000195F8	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"Don't be silly, no one wants to be a popsicle."	“别傻了，没人想变成冰棍的。”
+0x01000045000195FE	Dialogue Text	LANDS END ORB / lands end shot viscal	Rhetoric	Technically speaking that would be a...	从技术的角度来讲，应该是……
+0x0100004500019605	Dialogue Text	LANDS END ORB / lands end shot viscal	You	"Copsicle. You meant to say copsicle."	“警棍。你肯定是想说警棍吧。”
+0x010000450001960B	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"No. I did not. We *Seolites* don't do paranomastic humour."	“不，我没有。我们*西奥人*不喜欢双关语的幽默。”
+0x0100004500019621	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"To warm his hands before pulling the trigger? Perhaps. But anyone could have made this. The coast is specked with fires this time of year." He looks around.	“在扣响扳机前先让手暖和一下？也许吧。不过这东西可能是任何人弄的。每年这个时候，海岸边到处都是火光点点的。”他四下看了看。
+0x0100004500019629	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"Truthfully -- this seems like a very poor choice to take a 1.2 kilometre rifle shot from. Visibility is awful, there's water vapour everywhere -- I think we can rule out... B double prime, was it?"	“要想从1.2公里外开枪，这里可不是个好地方。能见度差的可怕，到处都是水蒸汽——我觉得可以排除这里……B''，是吗？
+0x0100004500019659	Dialogue Text	LANDS END ORB / lands end shot viscal	You	[Finish thought.]	[完成思维。]
+0x0100004500019660	Dialogue Text	LANDS END ORB / lands end shot viscal	Visual Calculus	Are you sure? You haven't ruled out the shot coming from here yet...	你确定？你还没有排除子弹从这里射出来的可能性……
+0x010000450001966E	Dialogue Text	LANDS END ORB / lands end shot viscal	You	I said finish the god damn thought.[Leave.]	我说给我停止这个愚蠢的想法。[离开。]
+0x0100004500019674	Dialogue Text	LANDS END ORB / lands end shot viscal	You	Oh right...	好吧……
+0x010000450001967C	Dialogue Text	LANDS END ORB / lands end shot viscal	Visual Calculus	So?	所以？
+0x01000045000196D1	Dialogue Text	LANDS END ORB / lands end shot viscal	Visual Calculus	There, 1.2 kilometres over the wave-crossed bay, through heavy, dark grey curtains of rain you see the smallest rectangle, barely visible.	在跨越海湾1.2公里的地方，你透过浓密的灰黑雨幕，勉强看见一个小小的长方形。
+0x01000045000196DD	Dialogue Text	LANDS END ORB / lands end shot viscal	Visual Calculus	A glowing light on the third floor of the Whirling-in-Rags. With binoculars you would see a young woman's shape move behind the glass, her limbs long and slender.	褴褛飞旋的三楼闪烁着亮光。透过望远镜的镜片，你看见一个年轻女子的身影在玻璃后面移动，她的四肢纤细而修长。
+0x01000045000196E3	Dialogue Text	LANDS END ORB / lands end shot viscal	Electrochemistry	Smoking. Drinking. Being happy and elated. Without you -- because you're here, freezing in the wind, aren't you? Doing your *detective work*.	抽烟。喝酒。找乐子。心花怒放。没有你——因为你在这里，在寒风中冻到麻木，不是吗？做你的*侦探工作*。
+0x01000045000196EA	Dialogue Text	LANDS END ORB / lands end shot viscal	Visual Calculus	There, 1.2 kilometres over the cold water of the bay, through a thick snowstorm melting flake by flake in the waves you see the smallest rectangle, barely visible.	跨越1.2公里冰冷的海水，铺天盖地的雪花在海浪中片片融化。你勉强看见了一个小小的长方形。
+0x01000045000196F2	Dialogue Text	LANDS END ORB / lands end shot viscal	Visual Calculus	The light is off on the third floor of the Whirling-in-Rags. The young woman is gone, in Precinct 57. Safe, closed off. Her form no longer moves behind the glass there...	褴褛飞旋三楼的灯熄灭了。年轻女子走了，就在57区。安全，封闭。她的身影不再在窗户背后荡漾……
+0x01000045000196FC	Dialogue Text	LANDS END ORB / lands end shot viscal	Visual Calculus	It's late. There is no light on the third floor of the Whirling-in-Rags. No shape moves behind it. Klaasje must be out on the town.	天色已晚。褴褛飞旋三楼的灯全都熄灭了。背后不见任何人影。卡拉洁肯定进城去了。
+0x01000045000197D0	Dialogue Text	LANDS END ORB / lands end shot viscal	Visual Calculus	It's glowing in the dark night. The lights are on. Klaasje must be in there... looks like she's kept her promise not to go out at night anymore.	它在黑夜里闪闪发光。灯是开的。卡拉洁肯定在里面……看来她遵守了自己晚上不再出门的诺言。
+0x01000045000197DE	Dialogue Text	LANDS END ORB / lands end shot viscal	Visual Calculus	There, 1.2 kilometres over the cold water of the bay, blue from the distance and the air, you see the smallest rectangle, barely visible.	跨越1.2公里冰冷的海水，透过远方蔚蓝的天空，你勉强看见了一个小小的长方形。
+0x01000045000197E6	Dialogue Text	LANDS END ORB / lands end shot viscal	Electrochemistry	Such a good girl, you think.	真是个好姑娘，你暗暗想到。
+4cwn5_1ac8mh5x_b	Alternate1	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"No, a black pilot cap would not help." He turns to face the sea.	
+4cwn5_1ac8mh5x_b	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"No, an orange pilot cap would not help." He turns to face the sea.	
+le7urxt40vidl43d	Alternate1	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"Yes, that one. No to the black pilot cap." He turns to face the sea.	
+le7urxt40vidl43d	Dialogue Text	LANDS END ORB / lands end shot viscal	Kim Kitsuragi	"Yes, that one. No to the orange pilot cap." He turns to face the sea.	
+zaxk1h51bi35iwnq	Alternate1	LANDS END ORB / lands end shot viscal	You	"No what -- a black pilot cap would not help?"	
+zaxk1h51bi35iwnq	Dialogue Text	LANDS END ORB / lands end shot viscal	You	"No what -- an orange pilot cap would not help?"	
