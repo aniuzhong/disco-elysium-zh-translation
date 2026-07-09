@@ -1,0 +1,1038 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060001DAC2	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Logic	They're too poor to have a phone line.	他们穷的连电话线都买不起。
+0x010000060001DAD4	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Perception (Hearing)	"Maurice, what?!" a woman yells. Then: "Yes-yes, okay, if it was the police..." She starts explaining something.	“莫里斯，什么？！”一个女人在大喊。然后：*是的是的，好吧，如果是警察……*她开始解释着什么。
+0x010000060001DAE6	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Logic	Good. You have a name now.	很好。现在你找到一个名字了。
+0x010000060001DAEE	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Empathy	And then goes for a little drink later, on the lookout...	然后可以去小喝一杯，在瞭望台……
+0x010000060001DAF6	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"Marie..." A moment passes.	“玛丽……”过了一会儿。
+0x010000060001DAFF	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Shivers	On Meroe drive in Central Jamrock -- in a darkened hall lit by orange desk lamps -- far away from the noise outside -- a middle-aged man taps commands into an old radiocomputer. A printout falls on the desk. Behind him, a lonely reader scours some dusty bookshelves, looking for a paperback...	加姆洛克中心区的麦罗埃街——在一个被橙色灯光照亮的黑色大厅——远离外面的杂音——某个中年男子在正对着一台老旧的无线电脑输入指令。桌子上放着一份打印资料。在他身后，一个孤独的读者正在擦拭满是灰尘的书架，寻找一本平装书……
+0x0100002100002224	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Reaction Speed	That's where the smoker on the balcony lives, isn't it?	那就是阳台上的吸烟者住的地方，不是吗？
+0x010000210000222B	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Reaction Speed	By the pier, north of here. Those big apartment buildings there.	就在码头附近，这里的北面。那些大公寓楼。
+0x0100007500001103	Dialogue Text	KINEEMA / CALLING THE LIBRARY	You	"I'm looking for any information that you can provide on Billie Méjean, a reader."	“关于你们的一个读者，比莉·梅让，我需要你们能够提供的所有信息。”
+0x0100007500001109	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"Billie, Billie *Méjean*, you said? Give me a moment, I'll have to check our database." He puts down the receiver.	“比莉，你说，比莉·*梅让*？给我几分钟，我检查一下资料库。”他放下听筒。
+0x0100007500001110	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"Yes, hello, are you still there?" You can hear him fiddle with the printout. "I found Billie Méjean's home address, is that alright? No phone number unfortunately."	“有了，喂喂，请问还在吗？”你听见他翻动资料的声音。“我找到了比莉·梅让的家庭住址，可以吗？可惜没有电话号码。”
+0x0100007500001287	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"..."	“……”
+0x010000750000128F	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"..."	“……”
+0x0100007500001296	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"..."	“……”
+0x010000750000129E	Dialogue Text	KINEEMA / CALLING THE LIBRARY	You	"Yes, home address is fine."	“可以，家庭住址就行。”
+0x01000075000012A5	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"Here we go, sir: Rue de Saint-Ghislaine 33B, apartment no 20. It's in Martinaise, I believe... Capeside Apartments, it says. That's all."	“那我就说了，先生：圣·吉斯莱恩路33B，20号公寓。我相信它就在马丁内斯……上面写着岬岸公寓。就这些。”
+0x01000075000012AD	Dialogue Text	KINEEMA / CALLING THE LIBRARY	You	"I'm not really that good with addresses."	“我真的不太擅长记地址。”
+0x01000075000012B4	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"Maybe you can write it down? It's Rue de Saint-Ghislaine 33B, apartment no 20. It's in Martinaise, I believe... Capeside Apartments, it says. That's all."	“也许你可以写下来？圣·吉斯莱恩路33B，20号公寓。我相信它就在马丁内斯……上面写着岬岸公寓。就这些。”
+0x01000075000012C2	Dialogue Text	KINEEMA / CALLING THE LIBRARY	You	"Do you have any other information on Billie Méjean?"	“还有比莉·梅让的其他信息吗？”
+0x01000075000012C8	Dialogue Text	KINEEMA / CALLING THE LIBRARY	You	"Thank you. That's all from me, I have no other questions." (End call with the library.)	“谢谢。我可以了，没有其他问题。”（结束跟图书馆的通话。）
+0x01000075000012CF	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"It says here that they returned their last book just a few days ago, but I wasn't at work that day."	“这上面写着他们几天前刚还了最后一本书，但是那天我没上班。”
+0x01000075000012D7	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"Happy we could help. Good bye, officer." The librarian hangs up and the call gets redirected back to the station.	“很高兴能帮到你。再见，警官。”图书管理员挂断电话，电话又接回了警局。
+0x01000075000012DF	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Alice	"Anything else you need from me?" Alice asks.	“还有什么需要我帮忙的吗？”爱丽丝问到。
+0x01000075000012FE	Dialogue Text	KINEEMA / CALLING THE LIBRARY	You	"Do you know someone who was?"	“你知道是谁吗？”
+0x0100007500001305	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"Marie?" He covers the phone with his hand and yells out into the room behind him: "Marie! Do you remember a reader named Billie Méjean? They returned a Thibault book the other day..." You hear someone answer from afar.	“玛丽？”他用手捂住电话，然后朝着身后的房间大喊：“玛丽！你还记不记得一个叫比莉·梅让的读者？他们前几天来还过蒂博的书……”你听到远处有人回答的声音。
+0x0100007500001330	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Logic	Loos, Radio City? That's the same book the working class woman was reading at the bookstand...	卢斯，无线之城？书摊那个女工人看的就是这本书……
+0x0100007500001337	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Inland Empire	Something unpleasant twitches in your stomach.	你的胃里有些不舒服的东西在抽搐。
+0x010000750000143C	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"Yes, it was my colleague Marie," the librarian is speaking into the phone again. "She said that it was Billie's *husband* who returned the book. He also asked for this new sci-fi release "Loos, Radio City '87", but we don't have it yet."	“没错，是我的同事玛丽，”图书管理员的声音再次响起。“她说来还书的是比莉的*丈夫*。他还想借一本新的科幻小说“卢斯，无线之城87”，但是我们这里还没到。”
+0x0100007500001449	Dialogue Text	KINEEMA / CALLING THE LIBRARY	You	"So Billie Méjean is a woman, not a man? How did your colleague know that it was her husband?"	“所以比莉·梅让是个女人，不是男人？你的同事怎么知道是她的丈夫？”
+0x010000750000144F	Dialogue Text	KINEEMA / CALLING THE LIBRARY	You	"Can Marie describe to me what the husband looked like?"	“玛丽能描述一下那位丈夫什么样吗？”
+0x0100007500001456	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"Marie knows Billie, she's been working here longer than me. Sometimes her husband returns some books for her."	“玛丽认识比莉，她在这里工作的时间比我长。有时候她的丈夫会代替她来还书。”
+0x010000750000145E	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"She said it was an older man... And that she's pretty sure he had had a drink or two the last time she saw him."	“她说是个年纪比较大的男人……而且她很肯定最后一次见到他的时候，对方肯定喝了一两杯。”
+0x0100007500001465	Dialogue Text	KINEEMA / CALLING THE LIBRARY	You	"Thank you. That's all from me, I have no other questions." (End call with the library.)	“谢谢。我可以了，没有其他问题。”（结束跟图书馆的通话。）
+0x010000750000146E	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"Happy we could help. Good bye, officer." The librarian hangs up and the call gets redirected back to the station with a soft click...	“很高兴能帮到你。再见，警官。”图书管理员挂断电话，伴随一阵轻柔的咔嗒声，电话又重新接回了警局……
+0x0100007500001474	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Alice	"Anything else you need from me?"	“还有什么需要我帮忙的吗？”
+0x0100007500001484	Dialogue Text	KINEEMA / CALLING THE LIBRARY	You	"What was he wearing?"	“他什么打扮？”
+0x010000750000148A	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"Uh, one second..." The librarian turns away from the phone again and relays the question.	“呃，等一下……”图书管理员又离开话机，转述问题去了。
+0x0100007500001490	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"Sorry, Marie wasn't really paying any attention to that."	“抱歉，玛丽真的没有注意。”
+0x0100007500001797	Dialogue Text	KINEEMA / CALLING THE LIBRARY	You	"Do you know the husband's name?"	“你知道丈夫的名字吗？”
+0x010000750000179E	Dialogue Text	KINEEMA / CALLING THE LIBRARY	Jamrock Public Library	"Sorry, no -- Marie only knows him by sight."	“抱歉，不知道——玛丽只是脸熟。”
+0x0100000600012DF0	Dialogue Text	KINEEMA / LAZARETH CALL	You	"You're not surprised? Okay. Anything else?"	“你不吃惊吗？好吧。还有什么吗？”
+0x0100000600019878	Dialogue Text	KINEEMA / LAZARETH CALL	You	This is *not* about self-immolation in the Samarskilt AR.	这跟在萨弗里AR自焚*无关*。
+0x010000060001987F	Dialogue Text	KINEEMA / LAZARETH CALL	Encyclopedia	Of course, yes. You were having health trouble.	当然了，没错。你有健康方面的问题。
+0x0100000600019889	Dialogue Text	KINEEMA / LAZARETH CALL	Composure	He sounds very careless about it all. Positively breezy.	听上去他对这一切都不关心。明显轻松又愉快。
+0x0100000600019891	Dialogue Text	KINEEMA / LAZARETH CALL	Empathy	You're detecting very little in the way of empathy from Dr. Gottlieb.	你没能从戈特利布医生那里感觉到什么同理心。
+0x0100000600019899	Dialogue Text	KINEEMA / LAZARETH CALL	Logic	Abstinence *could* have immediate positive effects on your health.	节制*可以*立刻对你的健康产生积极的影响。
+0x01000006000198A3	Dialogue Text	KINEEMA / LAZARETH CALL	Hand/Eye Coordination	It certainly does not help with aiming...	确实对瞄准没什么帮助……
+0x01000006000198AB	Dialogue Text	KINEEMA / LAZARETH CALL	Volition	Accept it. The body is an object and objects break down. Do what good you can with yours, before the rest goes too.	接受吧。身体是一个物体，是物体就会出故障。在其他部分坏掉之前，先尽你所能好好利用吧。
+0x01000006000198B9	Dialogue Text	KINEEMA / LAZARETH CALL	Pain Threshold	Sort of. But by god does it *burn* in your chest...	有点吧。天啦，但是它在你的胸口*燃烧*……
+0x01000006000198C1	Dialogue Text	KINEEMA / LAZARETH CALL	Authority	There is no surprise in his voice. Only careless superiority.	他的声音没有丝毫的惊讶。只有无忧无虑的优越性。
+0x01000006000198C9	Dialogue Text	KINEEMA / LAZARETH CALL	Drama	It's hard to say if he doesn't believe you -- or doesn't care.	很难说他是不相信——还是不关心。
+0x01000006000198D3	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"And no, I *don't* want to hear a *political commentary* on the topic. In fact -- I've got work to do. Some idiot has glued his eyelids shut with Cyanoacrylate. It looks like Mack Torson."	“不，我*不想*听到那个话题的*政治评论*。事实上——我还有工作要做。有个白痴用氰基丙烯酸盐把自己的眼皮黏在一起了。看起来像是麦克·托森。”
+0x01000006000198E1	Dialogue Text	KINEEMA / LAZARETH CALL	Mack Torson	"It's not fucking cryo-actilate... it's super glue, doc."	“不是他妈的什么氰基丙烯酸盐……是超级粘胶，医生。”
+0x01000006000198E8	Dialogue Text	KINEEMA / LAZARETH CALL	Encyclopedia	Cyanoacrylate *is* super glue.	氰基丙烯酸盐*就是*超级粘胶。
+0x01000006000198F0	Dialogue Text	KINEEMA / LAZARETH CALL	Endurance	The money is probably going to some old, oily...	金钱大概都流向了那帮年迈的，油腻的人兜里吧……
+0x01000006000198F9	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Doc, someone broke my heart."	“医生，有人伤了我的心。”
+0x0100000600019904	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Wait... pumped and dumped?"	“等等……热恋然后被甩？”
+0x010000060001990A	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Do you know who this person was, have I told you..."	“你知道那个人是谁吗，我告诉过你的那个……”
+0x0100000600019911	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"That's what the guys say, officer. That some chick pumped you -- and then dumped you. Threw you away like an empty juice carton."	“是那些家伙说的，警官。说有个小妞勾搭你——然后甩了你。把你当成个空果汁盒给扔掉了。”
+0x0100000600019919	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"You must have me confused for a close personal friend... I am not. I am a medical professional -- with a constant *idiot* emergency on my hands."	“你一定是把我跟某个亲密朋友搞混了吧……我不是。我是个医学专家——手上总会遇到*白痴*的紧急事故。”
+0x0100000600019921	Dialogue Text	KINEEMA / LAZARETH CALL	Pain Threshold	Don't take it personally. There just wasn't any *juice* left in your carton, pal.	别往心里去。并不是你的盒子里就没有*果汁*了，老兄。
+0x0100000600019929	Dialogue Text	KINEEMA / LAZARETH CALL	Perception (Hearing)	You hear someone whine in the background. "My eye, doc... my eye..."	你听见背景里有人在抱怨。“医生，我的眼睛……我的眼睛……”
+0x0100000600019935	Dialogue Text	KINEEMA / LAZARETH CALL	Esprit de Corps	One needs tending to right now, he thinks, looking around the room. God, these apes...	又有人要照顾了，他四下打量着房间，默默想到。天啦，这群类人猿……
+0x0100000600019948	Dialogue Text	KINEEMA / LAZARETH CALL	Alice	"..."	“……”
+0x010000060001994E	Dialogue Text	KINEEMA / LAZARETH CALL	Alice	"..."	“……”
+0x010000070001B0F4	Dialogue Text	KINEEMA / LAZARETH CALL	Rhetoric	So it's political! You're being *neglected* because of political reasons...	所以的确跟政治有关！因为政治上的原因，你被*忽视*了……
+0x0100006B0000A9C9	Dialogue Text	KINEEMA / LAZARETH CALL	You	"No wonder I'm in so much pain. I feel like I've been... damaged."	“难怪我觉得这么疼。我感觉自己已经……坏掉了。”
+0x0100006B0000AC15	Dialogue Text	KINEEMA / LAZARETH CALL	Encyclopedia	Ignorance is bliss, as they say. Go ahead, answer the man!	大家都说，无知便是福。快啊，回答那个男人。
+0x0100006B0000AC32	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Yes. Probably in more ways than one."	“是的。也许不止一种方式。”
+0x0100006B0000AC93	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"You want the real, honest-to-god truth? Stop drinking, eat magnesium and vitamin D. Our station is not a retirement home. We don't have the funds to deal with *rock stars* past their prime."	“你想要真真正正、毫无隐瞒的真相吗？那就别喝酒，吃点镁片和维他命D。我们的警局不是养老院。我们没有资金安置已经过了黄金时期的*摇滚明星*。”
+0x0100006B0000ACA1	Dialogue Text	KINEEMA / LAZARETH CALL	Alice	"Anything else I can help you with, officer?"	“还有什么能帮你的吗，警官？”
+0x010000810000028C	Alternate1	KINEEMA / LAZARETH CALL	Alice	She seems to hesitate. "Yes, officer, you will be connected in a moment..."	她好像有点犹豫。“是的，警官，马上为你接通……”
+0x010000810000028C	Dialogue Text	KINEEMA / LAZARETH CALL	Alice	"It will take just a moment, officer..."	“稍微等一下，警官……”
+0x01000081000002A1	Dialogue Text	KINEEMA / LAZARETH CALL	Alice	Her voices fades out into the familiar radio static.	她的声音消失在熟悉的无线电杂音中。
+0x01000081000002A7	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	You hear a man clearing his throat briskly, then an answer: "Gottlieb. What'd ya want?"	你听见一个男人快速清了清喉咙，然后回答到：“我是戈特利布。请问有什么事？”
+0x01000081000002C2	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Gottlieb. What'd you get yourself into this time?" The question is followed by the sound of someone taking a long drag.	“我是戈特利布。这次你又惹上什么麻烦了？”发问之后，紧接着是某人抽了一大口烟的声音。
+0x01000081000002C9	Dialogue Text	KINEEMA / LAZARETH CALL	You	"How did you know it was me?"	“你怎么知道是我？”
+0x01000081000002CF	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I've been shot..."	“我中枪了……”
+0x01000081000002DB	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I've been bad and I want someone to abuse me."	“我很糟糕，想找人骂我一顿。”
+0x01000081000002E2	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Didn't. But now I do. How's the drinking going?"	“不知道。不过现在知道了。喝的怎么样了？”
+0x01000081000002E9	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I decided to stop. Completely. Forever."	“我决定戒掉。彻底的。永久的。”
+0x01000081000002EF	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I'm trying really, really hard not to."	“我真的很努力，很努力地控制我自己。”
+0x01000081000002F5	Dialogue Text	KINEEMA / LAZARETH CALL	You	"It's going great! I feel like it's really helping me with this case!"	“挺好的！我觉得对我的案子真的很有帮助！”
+0x01000081000002FC	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Great to hear it. Stop by some time when you're done with your case -- I'll draw some blood, run it through -- let you know how much 'forever' your liver's going to give you."	“很高兴听到这个消息。案子处理完之后，抽个时间来看看——我会抽点血，检查一下——让你知道你的‘肝脏’还能给你多少‘永远’。”
+0x0100008100000309	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Great. Have a medal. I have an autopsy to attend to. An autopsy of one Chester McLaine, who died of *fish poisoning*."	“很好，都能得奖章了。我要去验尸了。一个叫切斯特·麦克莱恩的人，死于*鱼类中毒*。”
+0x0100008100000310	Dialogue Text	KINEEMA / LAZARETH CALL	Chester McLaine	"Fucking... I'm not dead, it just hurts, okay?"	“去你妈的……我没死，只是有点疼，好吗？”
+0x0100008100000322	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Ah, it's you. Walking, talking, though?"	“啊，是你啊。还能走路，能说话？”
+0x0100008100000329	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Yes, but..."	“是的，不过……”
+0x0100008100000336	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Great! How's the drinking going?"	“太好了！你喝的怎么样了？”
+0x010000810000035F	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Oh, it's you. I know a woman skilled at that sort of thing over in Jamrock... but I wouldn't want to inflict you upon her. Best of luck, detective."	“哦，是你啊。我知道加姆洛克有个女人，特别精通这种事情……但我不想把你强行推到她面前。祝你好运了，警探。”
+0x010000810000036A	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I guess that's it for now." [Hang up.]	“那就先这样吧。”[挂断。]
+0x0100008100000370	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Mhphm." The phone clicks. Suddenly you hear the already familiar voice...	“嗯。”电话咔哒响了一声。突然间，你听到一个很熟悉的声音……
+0x0100008100000377	Dialogue Text	KINEEMA / LAZARETH CALL	You	"You know who I am?"	“你知道我是谁？”
+0x010000810000037D	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I think I've developed extreme photosensitivity..."	“我想我已经开发出了极强的感光灵敏度……”
+0x0100008100000383	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I think I've had a heart attack..."	“我想我心脏病发作了……”
+0x010000810000039F	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Gottlieb. What is it now?" There's not the slightest hint of wanting to know the answer in that familiar raspy voice.	“我是戈特利布。现在又怎么了？”在那熟悉又刺耳的声音里，没有表露出丝毫想知道答案的迹象。
+0x01000081000003B1	Dialogue Text	KINEEMA / LAZARETH CALL	Perception (Hearing)	He's carelessly chewing on a piece of hard candy.	他漫不经心地咀嚼着一块硬糖。
+0x01000081000003BF	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I don't want to talk about this anymore."	“我不想再提这个了。”
+0x01000081000003C6	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Great. I have an autopsy to attend to. An autopsy of one Chester McLaine, who died of *fish poisoning*."	“很好。我要去验尸了。一个叫切斯特·麦克莱恩的人，死于*鱼类中毒*。”
+0x01000081000003F6	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I was told to call the lazareth. People are worried about me..."	“有人叫我打给检疫所。大家很担心我……”
+0x0100008100000403	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I'm in a bad way, doc. A real *bad* way."	“我的情况很糟糕，医生。真的*很糟糕*。”
+0x0100008100000409	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Just a routine check-up."	“只是例行检查。”
+0x010000810000040F	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Oh," the man is unpleasantly surprised. "It's you."	“哦，”男人很惊讶，但不是开心的那种。“是你。”
+0x0100008100000417	Dialogue Text	KINEEMA / LAZARETH CALL	Suggestion	Was that a snarl or a suppressed groan? No love for you here.	是在咆哮，还是压抑的呻吟？这里对你可没多少爱。
+0x010000810000041E	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Yes, there's no end to the misfortunes fate has seen fit to rain upon me."	“是的，你是我注定要不断承受不幸的命运。”
+0x0100008100000425	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Good fortune, you mean good fortune, right? You're basking in the floodlight of my glory."	“好运，你是说好运，对吗？你正沐浴在我耀眼的荣光之下。”
+0x010000810000042B	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Yes, we live in difficult times. But at least it's over. Almost over, that is..."	“是的，我们生活在艰难的时期。但是至少已经结束了。就快结束了……”
+0x0100008100000431	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I'm sorry I've been such a bother to you..."	“对不起，我给你添了这么多麻烦……”
+0x0100008100000437	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I don't know anything about fate. I just wanted to talk about a medical issue."	“我不知道什么命运。我只想聊一个医学问题。”
+0x0100008100000441	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Sure, sure -- but can you tell me about myself? As in, who I am?"	“当然，当然了——但是你能说说我吗？比如，我是谁？”
+0x0100008100000448	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"*Who* you are? You lost your human visage a while back. Now let's get on with it -- I've got more important things to do."	“你是*谁*？不久之前你刚刚失去了人类的面貌。现在我们继续吧——我还有很重要的事要做。”
+0x010000810000044F	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Then let's get on with it. Clock is ticking."	“那我们就继续吧。时间不等人。”
+0x0100008100000456	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Oh, spare me the sad drunken blubbering and get on with it. What's your complaint?"	“哦，别又给我来那套，喝得醉醺醺的，又哭又闹，赶紧继续吧。你要抱怨什么？”
+0x010000810000045D	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"For you it probably is. I'm counting on my lungs outliving your liver by a wide margin." He pauses. "Not that that's anything to fête."	“对于你来说是可能的。我还指望自己的肺比你的肝脏多活很久呢。”他停顿了一下。“这并不是什么值得庆祝的事。”
+0x0100008100000464	Dialogue Text	KINEEMA / LAZARETH CALL	Reaction Speed	Was he speaking about his longer life or your shorter one when he said it was no cause for celebration?	他说不值得庆祝的时候，是在说他会活得比较久，还是你活不长？
+0x010000810000046A	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Basking in your glory, yeah. Practically drowning in it. Please, tell me what your complaint is before I am completely submerged."	“沐浴在你的荣光里，是啊。实际上都快溺死了。麻烦你，在我还没完全沉下去之前，赶紧说说你要抱怨什么。”
+0x0100008100000478	Dialogue Text	KINEEMA / LAZARETH CALL	Empathy	A bit of both. But don't flatter yourself -- he's not sorry for you.	两者都有一点。但是你可别太臭美——他可没为你感到抱歉。
+0x0100008100000487	Dialogue Text	KINEEMA / LAZARETH CALL	Empathy	Don't flatter yourself -- he's not going to miss you.	你可别臭美——他不会想念你的。
+0x010000810000049C	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Great! Any other complaints?"	“很好！还有其他抱怨吗？”
+0x01000081000004A6	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I couldn't reach up and grab a tie from a spinning fan without unbearable pain shooting through my arm."	“我想伸手从一台旋转的电风扇上抓住一条领带，但是整条胳膊都疼的受不了。”
+0x01000081000004AD	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I've lost my memory. All of it."	“我失忆了。全部的记忆。”
+0x01000081000004B5	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Doc, someone broke my heart."	“医生，有人伤了我的心。”
+0x01000081000004C3	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Look, pal -- getting *pumped and dumped* is not a disease. People live through it all the time. You should be happy for her."	“听着，伙计——*热恋然后被甩*不是病。大家都是这么过来的。你应该为她感到高兴。”
+0x0100008100000505	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Hard to tell exactly what it was over the phone. Could be a combination of peripheral neuralgia and high blood pressure. Could be that you were having a heart attack..."	“通过电话很难看出是怎么回事。也许是外周神经痛加上高血压问题。可能是你的心脏病发作了……”
+0x010000810000050C	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"...or, actually!" He seems to be positively surprised by the idea. "It could be *both*, given your profile."	“……或者，其实呢！”他似乎对这个想法感到很惊讶。“根据你的情况，可能*两者*都有。”
+0x0100008100000513	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Wait... both? But that sounds bad."	“等等……两者都有？听起来很糟糕啊。”
+0x010000810000051A	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Yup."	“没错。”
+0x0100008100000521	Dialogue Text	KINEEMA / LAZARETH CALL	You	"So what do I do?"	“那我该怎么办？”
+0x0100008100000528	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Cut down on the drinking, pal. In fact, cut *off* the drinking. The drugs too. Anything else?"	“少喝点酒吧，伙计。其实呢，最好是完全*戒酒*。药也是。还有其他事吗？”
+0x0100008100000535	Dialogue Text	KINEEMA / LAZARETH CALL	Electrochemistry	Oh, but speed, sweet speed... It goes so well with alcohol, too...	哦，但是兴奋剂，美妙的兴奋剂……跟酒精是那么的般配……
+0x010000810000053B	Dialogue Text	KINEEMA / LAZARETH CALL	Electrochemistry	What's he going on about? You know that speed is great for you. But, shh, don't tell him -- he won't understand.	他在瞎说什么呢？你知道兴奋剂对你很好。但是，嘘，别告诉他——他不会理解的。
+0x0100008100000547	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I still *feel* pretty good though. I can probably take a lot of damage."	“不过我还是*感觉*挺好的。我可能承受了很大的伤害。”
+0x010000810000054F	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Yes, positive thinking is a well-known cure-all. My suggestion is to exercise a lot."	“是的，积极思考是众所周知的万灵药。我的建议是多多锻炼。”
+0x0100008100000560	Dialogue Text	KINEEMA / LAZARETH CALL	Electrochemistry	Which reminds me -- when are we finally going to get that speed?	这就提醒我了——我们什么时候才能拿到兴奋剂？
+0x0100008100000570	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"That's because you're hungover -- even the radio waves coming from your direction smell like liquor." He pauses. "Do you feel like your eyes are twitching too?"	“那是因为你的宿醉——就算是通过无线电波，你那边闻起来都是一股酒味。”他停顿了一下。“你有没有觉得眼睛也有点抽搐？”
+0x0100008100000577	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Yes."	“是的。”
+0x010000810000057D	Dialogue Text	KINEEMA / LAZARETH CALL	You	(Lie.) "No."	（撒谎。）“没有。”
+0x0100008100000585	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"That's the tiny vessels pulsating from high blood pressure, stupid officer. You might be sustaining permanent damage to your vision as we speak. Not much I can do about it. I'm not an *eye* doctor."	“那是高血压引起的小血管颤动，愚蠢的警官。就在我们说话的时候，你的视力可能都在持续遭受永久损伤。对此我就帮不上多大忙了。我不是*眼科*医生。”
+0x010000810000058C	Dialogue Text	KINEEMA / LAZARETH CALL	You	"But... what kind of doctor are you then?"	“但是……你是什么医生啊？”
+0x010000810000059A	Alternate1	KINEEMA / LAZARETH CALL	Nix Gottlieb	"The busy kind. It's not life-threatening, just annoying. For you, that is, what with your reputation as a sharpshooter. Me -- I've got more important things to do."	“很忙的那种。没有生命危险，只是有点烦人。对于你来说，这就是你神枪手名声的附属品。至于我——还有更重要的事要做。”
+0x010000810000059A	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"The busy kind. It's not life-threatening, just annoying. For you. I've got more important things to do here."	“很忙的那种。没有生命危险，只是有点烦人。对于你来说。我这里还有更重要的事要做。”
+0x01000081000005A9	Alternate1	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Good. It would be an awful nuisance if your experiments with your blood pressure were to cause permanent damage to your vision. A nuisance to you, that is, on account of you being so proud of your marksmanship."	“很好。如果你的血压实验对视力造成了永久损伤，那就真的麻烦大了。当然，是你的麻烦，毕竟你对自己的枪法那么得意。”
+0x01000081000005A9	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Good. It would be an awful nuisance if your experiments with your blood pressure were to cause permanent damage to your vision. A nuisance to you, that is."	“很好。如果你的血压实验对视力造成了永久损伤，那就真的麻烦大了。当然，是你的麻烦。”
+0x01000081000005B8	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"And you survived it! Congratulations. Are you mobile?"	“你挺过来了！恭喜。你能动了吗？”
+0x01000081000005BF	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Yes..."	“是的……”
+0x01000081000005C6	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Even better! Anything else? I wouldn't worry about that. Officers your age have coronary trouble all the time. Also -- death is a natural part of life."	“那就更好了！还有别的事吗？我倒是不担心那个。像你这种年纪的警官总是有冠状动脉的问题。而且——死亡不过是生命最自然的一部分。”
+0x01000081000005CE	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"With all the damage you've been dealing yourself with drugs and alcohol, I'm not surprised."	“想想你用药物和酒精对自己造成的那些伤害，我一点都不觉得奇怪。”
+0x01000081000005D5	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"What else? I'm not a *brain* doctor. Look on the bright side -- you've got a whole new life now. Use it wisely."	“还有什么吗？我不是*脑科*医生。往好的方面想——你现在拥有全新的生活了。明智一点使用吧。”
+0x01000081000005EB	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Isn't there *anything* you can do for me?"	“你就不能为我*做点什么*吗？”
+0x01000081000005F2	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"What, you want me to do blood work for you again, tell you just how bad things really are *across the board*? You want another rundown of everything collapsing inside your body?"	“什么，你又想让我给你做血液检查，然后告诉你情况到底有多*糟糕*？你想让我把你身体里面所有坏掉的地方列出一个完整的清单吗？”
+0x0100008100000611	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Yes. I want the truth!"	“是的，我想知道真相！”
+0x0100008100000617	Dialogue Text	KINEEMA / LAZARETH CALL	You	"No, that doesn't sound like something I can handle right now..."	“不了，听起来我目前还承受不了这种事情……”
+0x010000810000061D	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I see your point. Might as well just get back to work."	“我明白你的意思了。我还是继续回去工作吧。”
+0x0100008100000634	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Do that. I need to go. Some idiot has glued his eyelids shut with Cyanoacrylate. It *looks* like Mack Torson, but it's hard to say because his eyes are swollen..."	“那就这样吧。我得走了。有个白痴用氰基丙烯酸盐把自己的眼皮黏在一起了。*看*起来像是麦克·托森，不过很难说，因为他的眼睛都肿了……”
+0x0100008100000642	Dialogue Text	KINEEMA / LAZARETH CALL	Esprit de Corps	"And then that motherfucker Gottlieb -- reeking of schnapps -- ordered me into his butcher's room..." Officer Fischer is in a storytelling mood -- he continues: "And I ask him, 'You sure, doc?' and he's cool as can be, 'Yeah, if you're in pain, we've gotta get that baby out...'"	“然后就是那个该死的戈特利布——臭烘烘的杜松子酒——命令我到他的屠宰室去……”费舍尔警官现在很想讲故事——他继续着：“然后我问他，‘你确定吗，医生？’，然后他就装的酷酷的，‘是啊，如果你觉得很疼，那我们就把那个宝贝弄出来……”
+0x010000810000064E	Dialogue Text	KINEEMA / LAZARETH CALL	Esprit de Corps	"...and so he removed my appendix *on the spot*, while the party was still on in the other room. And I was delirious with pain and all the schnapps I'd had, but I remember thinking -- man, that Gottlieb can stitch..."	“……然后他*当场*就把我的阑尾割了下来，其他房间当时还在开派对呢。我喝了那么多杜松子酒，还疼得都快晕过去了，但是我还记得自己在想——天啦，戈特利布可真会缝的……”
+0x0100008100000654	Dialogue Text	KINEEMA / LAZARETH CALL	Esprit de Corps	"Only a month later, when I got a chance to properly thank him, did I find out that *he* had no recollection of the event -- that's Gottlieb for ya. In league with some devil, he is, I'm sure of it. Cheers!" The clinking of beer glasses is drowned in group conversation...	“过了一个月之后，我找到机会想感谢他，然后发现*他*压根都想不起那件事了——这就是戈特利布。跟恶魔勾结在一起，他绝对有，我很肯定。干杯！”啤酒杯碰撞的叮当声淹没在大家的对话声中……
+0x0100008100000672	Dialogue Text	KINEEMA / LAZARETH CALL	You	"Yes, it's Firewalker here."	“是的，我是火行者。”
+0x010000810000067C	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Firewalker? Yes, yes you are. Just don't breathe in the general direction of your fire-feet. Actually, wait..."	“火行者？是啊，你确实是。只要别对着你的火脚吸气。其实吧，等一下……”
+0x0100008100000683	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"...do exactly that. Put yourself out of your misery. Take a deep diaphragmatic breath in and..." You hear an exaggerated inhale and a long exhale on the other end of the line.	“……那就这样做吧。让自己远离痛苦。深深地吸进横膈膜里，然后……”你听见电话那头传来一阵夸张的吸气声，然后是一阵长长的呼气声。
+0x010000810000068A	Dialogue Text	KINEEMA / LAZARETH CALL	Endurance	The firewalker cannot die.	火行者是不可以死的。
+0x0100008100000696	Dialogue Text	KINEEMA / LAZARETH CALL	Encyclopedia	Self-immolation has been all the rage in Lo Manthang for a while now, especially among university students. It is particularly popular in Co Hoi, where such acts get the most press.	自焚在罗马丹流行了一阵子，特别是在大学生之间。尤其是科霍伊，这种行为在那里报道的最多。
+0x01000081000006A2	Dialogue Text	KINEEMA / LAZARETH CALL	You	But why?	但是为什么呢？
+0x01000081000006A8	Dialogue Text	KINEEMA / LAZARETH CALL	Encyclopedia	Young religious people protesting the Seraise government, which they consider to be oppressive. It's also got something to do with the encroaching Occidental influences on the local way of life. You have to *not* like a lot of things to set yourself on fire.	年轻的宗教人士反对萨弗里政府，他们觉得受到了压迫。这也跟奥西登逐渐影响当地的生活方式有关。只有*不喜欢*生活中很多东西的时候，才会选择自焚吧。
+0x01000081000006C5	Dialogue Text	KINEEMA / LAZARETH CALL	Inland Empire	A glorious sight: your body, tired from the vastness of the visions that haunt it,  burning up in a flame fed by your own living breath.	一个状绝的景象：你的身体，为萦绕周围那巨大的幻象而感到疲累，在自己鲜活气息的供养下，在大火中熊熊燃烧。
+0x01000081000006DC	Dialogue Text	KINEEMA / LAZARETH CALL	You	"This has been my plan all along. I want to protest the Coalition government."	“这一直是我的计划。我想反抗联盟政府。”
+0x01000081000006E2	Dialogue Text	KINEEMA / LAZARETH CALL	You	"The smell of my own flesh cooking... I wonder what it would be like..."	“我自己血肉烧焦的味道……不知道是什么样的……”
+0x01000081000006E8	Dialogue Text	KINEEMA / LAZARETH CALL	You	"I feel like you're making fun of me."	“我觉得你在取笑我。”
+0x01000081000006EE	Dialogue Text	KINEEMA / LAZARETH CALL	You	"'Cop Sets Fire to Himself.' That would be quite an interesting conceptual piece, don't you think?"	“‘点燃自己的警察。’从概念上讲好像挺有意思的，不是吗？”
+0x01000081000006F6	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Sounds more like a newspaper headline that will surprise absolutely no one. Now, do you have any *current, pressing* medical problems?"	“在我听起来，更像是不会让任何人感到惊讶的新闻头条。现在，你还有什么*眼下，很迫切*的医学问题吗？”
+0x01000081000006FC	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"From what I can tell, you're just playing into their hands -- disabling yourself from doing any actually useful work. Now, do you have any *current, pressing* medical problems?"	“据我所知，你只不过是正中他们下怀——让自己失去了做任何有实际意义工作的能力。现在，你还有什么*眼下，很迫切*的医学问题吗？”
+0x0100008100000702	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"Please wonder on your own time. Now, do you have any *current, pressing* medical problems?"	“你自己找时间想去吧。现在，你还有什么*眼下，很迫切*的医学问题吗？”
+0x0100008100000708	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"I'm the most serious person at this station, detective. Now, do you have any *current, pressing* medical problems?"	“我是整个警局最严肃的人了，警探。现在，你还有什么*眼下，很迫切*的医学问题吗？”
+0x0100008100000711	Dialogue Text	KINEEMA / LAZARETH CALL	Conceptualization	It would be an artistic statement of some kind or another.	这会是某种艺术性陈述，诸如此类的。
+0x010000810000071F	Dialogue Text	KINEEMA / LAZARETH CALL	You	Young people are stupid.	年轻人都很愚蠢。
+0x0100008100000725	Dialogue Text	KINEEMA / LAZARETH CALL	You	I wish I was young and on fire.	我希望自己很年轻，而且充满激情。
+0x010000810000072B	Dialogue Text	KINEEMA / LAZARETH CALL	You	They should be forced to serve in the military.	就应该强迫他们去服兵役。
+0x0100008100000734	Dialogue Text	KINEEMA / LAZARETH CALL	You	That's awful. I don't want to think about it anymore. [Ignore thought.]	真是太可怕了。我不想再想了。[忽略思维。]
+0x0100008100000742	Dialogue Text	KINEEMA / LAZARETH CALL	Encyclopedia	Yes, especially young people in young countries. Anyway, answer the man.	是的，特别是年轻国家的年轻人。不管怎么说，回答那个男人。
+0x0100008100000749	Dialogue Text	KINEEMA / LAZARETH CALL	Encyclopedia	You can still be. There's time. Anyway, answer the man.	你还有机会的。还有时间。不管怎么说，回答那个男人。
+0x0100008100000750	Dialogue Text	KINEEMA / LAZARETH CALL	Encyclopedia	Uhm... they already are. Anyway, answer the man.	呃……他们已经这么做了。不管怎么说，回答那个男人。
+0x010000810000075D	Dialogue Text	KINEEMA / LAZARETH CALL	You	"So you see it too? That my body is to become the last torch in the darkness?"	“所以你也看见了？我的身体变成黑暗中最后的火炬？”
+0x0100008100000764	Dialogue Text	KINEEMA / LAZARETH CALL	Nix Gottlieb	"I see third-degree burns and a referral to a plastic surgeon whom you won't be able to afford. But that's in the future. Do you have any *current, pressing* medical problems?"	“我看见三度烧伤，还有需要推荐给整形医生——当然你是负担不起的。不过那都是未来的事了。你还有什么*眼下，很迫切*的医学问题吗？”
+0x0100002100000CC2	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Kim Kitsuragi	"Assign it to someone else, Alice -- we've got enough on our plate."	“指派给其他人，爱丽丝——我们的事已经够多了。”
+0x0100002100000CD1	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Kim Kitsuragi	"It looked like an accident to me, Alice," the lieutenant rushes in to say. "But that's for the guys in processing to confirm."	“在我看来是个意外，爱丽丝，”警督连忙插嘴。“不过还是交给分析部的人去确认吧。”
+0x0100002100000CE1	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Kim Kitsuragi	"The man was about 173 cm tall, stout, with dark hair and a moustache. We suspect he might have been inebriated when he slipped -- there were bottles all around him, and traces of vomit on his shirt."	“这个男子大概身高173厘米，肥胖，黑头发，留小胡子。我们怀疑他可能是醉酒摔倒的——他身边都是瓶子，衬衫上还有呕吐物的痕迹。”
+0x0100002100000CEF	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Kim Kitsuragi	"We suspect he might have been inebriated when he fell -- there were bottles all around him, and traces of vomit on his shirt."	“我们怀疑他摔倒的时候可能是喝醉了——周围都是瓶子，衬衫上还有呕吐物的痕迹。”
+0x0100002100000CF9	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	You	"There might be a *sequence killer* on the loose."	“可能有一个逍遥法外的*连环杀手*。”
+0x0100002100000CFF	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"A sequence killer." You can hear her stop typing. "Are you suggesting that this might be connected to the case you're working on?"	“一个连环杀手。”你可以听见她停下了打字的动作。“你是想说也许跟你手上的案子有关联吗？”
+0x0100002100000D0C	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Kim Kitsuragi	"No, we're not," the lieutenant rushes in to say. "There is no evidence to suggest that this man was connected to the lynching -- or that we're dealing with a sequence killer here."	“不，我们没有，”警督连忙插嘴。“没有证据显示这个人跟私刑案有关——或者说我们在对付一个连环杀手。”
+0x0100002100000D13	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Kim Kitsuragi	"It looked like a simple accident to me, Alice. No field autopsy necessary."	“在我看来只是一起简单的意外，爱丽丝。没必要现场验尸。”
+0x0100002100000D1B	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	You	"Yes."	“是的。”
+0x0100002100000D20	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	You	"No."	“不是。”
+0x0100002100000D27	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	You	"Actually, scratch that -- there is no sequence killer, I just made it up."	“其实吧，你还是划掉吧——没有连环杀手，我刚瞎编的。”
+0x0100002100000D36	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"You just made it up?" Silence. "I see."	“你瞎编的？”一阵沉默。“明白了。”
+0x0100002100000D3E	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"What about his belongings? Did you examine his clothes?" She goes on as if nothing happened.	“那他的随身物品呢？有没有检查他的衣物？”她假装什么也没发生过。
+0x0100002100000D46	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"No? It's some *other* sequence killer?" Silence. "I see."	“不是？难道还有*其他*连环杀手？”一阵沉默。“明白了。”
+0x0100002100000D4C	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"I see." Silence. "This is something you should discuss with the Lieutenant Kitsuragi, as you're sharing the case."	“我明白了。”一阵沉默。“既然你们正在处理这个案子，也许你应该跟曷城警督讨论一下。”
+0x0100004000002DE3	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Perception (Hearing)	You can hear her quickly typing in the background.	你能听见她在后台飞快打字的声音。
+0x0100007500000B4F	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"One moment..." You can hear her shuffling through some papers.	“等一下……”你可以听到她翻阅纸张的声音。
+0x0100007500000FF2	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"Can you please describe the body -- age, sex, cause of death?"	“你能不能描述一下那具尸体——年龄，性别，死因？”
+0x0100007500000FF9	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	You	"An unidentified middle-aged man. Looks like he slipped, fell through a hole in the boardwalk and hit his head against the metal bench."	“一个身份不明的中年男子。看起来像是脚滑了一下，然后从木板道的洞里摔了下去，脑袋撞到一个金属长凳。”
+0x0100007500001000	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	You	"An unidentified middle-aged man. Height 170-175 cm, dark hair, medium build. Looks like he slipped, fell through a hole in the boardwalk and hit his head against the metal bench."	“一个身份不明的中年男子。身高大约170-175厘米，深色头发，中等身材。看起来像是脚滑了一下，从木板道的洞里摔了下去，脑袋撞到了金属长凳。”
+0x0100007500001006	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"Any signs of violence?"	“有遭受暴力的痕迹吗？”
+0x0100007500001016	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	You	"No, seems like it was an accident."	“没有，看起来像是意外。”
+0x010000750000101B	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	You	"Someone might have... pushed him?"	“也许有人……推了他一把？”
+0x0100007500001024	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"No field autopsy necessary..." she repeats.	“无需进行现场验尸……”她重复到。
+0x010000750000102C	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"Did you perform a field autopsy?"	“你有进行现场验尸吗？”
+0x0100007500001033	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	You	"No, it's still just a theory."	“不，只是一个推论。”
+0x010000750000103B	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"What about his belongings? Did you examine his clothes?"	“他的随身物品呢？你有没有检查过他的衣服？”
+0x0100007500001043	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	You	"He was wearing boots, trousers and an old leather jacket with a bright blue lining. I found a library card from his pockets."	“他穿着靴子、裤子和一件带亮蓝色衬里的旧皮夹克。我在他的口袋里发现了一张借书证。”
+0x010000750000104C	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"Any information on the library card?"	“借书证上有什么信息吗？”
+0x0100007500001053	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	You	"It's from Central Jamrock Public Library. It belongs to someone named Billie Méjean."	“是加姆洛克公里图书馆的。属于某个叫比莉·梅让的人。”
+0x0100007500001060	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	You	"I haven't examined it yet."	“我还没有检查过。”
+0x0100007500001066	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	You can hear her sigh audibly on the other side.	你可以听见她在另一头的叹气声。
+0x010000750000106D	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"Do you and Lieutenant Kitsuragi want to take the case or should I assign it to someone else?"	“你和曷城警督想要接下这个案子吗，还是我把它指派给别人？”
+0x0100007500001074	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Authority	So unprofessional of you... Pity!	你真是太不专业了……可惜！
+0x0100007500001080	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"Good, you have a lead."	“很好，你有线索了。”
+0x010000750000108E	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	You	"We're taking the case."	“我们会接下这个案子。”
+0x0100007500001093	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	You	"Please assign it to someone else."	“请指派给其他人。”
+0x010000750000109C	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"I have assigned the case to Lieutenant Kim Kitsuragi. Please follow up on this library lead to identify the man. We'll send someone to take the body to the morgue."	“我已经把案件指派给了你和曷城警督。请追查图书馆的线索确认这名男子的身份。我们会派人把尸体送到停尸房。”
+0x01000075000010A2	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"Great, I'll give it to your colleagues. You don't have to worry about the case anymore, we'll send our officers to take away the body."	“好的，我会把案子指派给你的同事。你不用再担心这个案子了，我们会派警官把尸体运走。”
+0x01000075000010BE	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"That's all for now. Thank you for reporting in. Is there anything else I can do for you?"	“现在先到这里吧。谢谢你的汇报。还有什么能帮你的吗？”
+0x010000970000017F	Dialogue Text	KINEEMA / REPORTING THE CORPSE ON THE BOARDWALK	Alice	"That's all for now. Thank you for reporting in. Is there anything else I can do for you?"	“现在先到这里吧。谢谢你的汇报。还有什么能帮你的吗？”
+0x0100000200000713	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Sorry, sir. I still haven't heard back from the database people. Try calling again later. Is there anything else I can do for you?"	“抱歉，先生。我还没收到资料库那边的回话。晚点再打过来吧。还有别的事吗？”
+0x0100000200000726	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Still no word I'm afraid, sir. I know it must be frustrating. Was there anything else you wanted to ask?"	“恐怕还是没有消息，先生。我知道这很让人沮丧。你还有什么想问的吗？”
+0x0100002D00000452	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"It was part of a special order for Corps de Pharmacie, a security firm contracted to protect the interests of Oranjese pharmaceutical companies. In the Semenine conflict."	“这是药剂师军团特殊订单的一部分，那是一家安保公司，负责保护奥兰治制药公司的利益——在塞美尼冲突发生期间。”
+0x0100002D00000460	Dialogue Text	KINEEMA / SERIAL NUMBER	Esprit de Corps	Sometimes police work is about human dignity -- about giving back names to anonymous victims.	有时候，警察的工作与人格尊严有关——要帮那些无名被害人找回他们的名字。
+0x010000580000ADC7	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Not yet -- but I was able to convince the database people to share private sector information. They promised to get back to me by tomorrow morning. Did you have any other questions?"	“先别急——但是我说服了资料库的人，让他们透露些机密部门的信息。他们答应明早联系我。你还有其他问题吗？”
+0x010000580000ADEF	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"No, and I doubt they'll get back to me before tomorrow morning. Anything else?"	“不，我怀疑明早之前他们是不会联系我的。还有别的事吗？”
+0x010000580000ADFC	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Sure, officer. What's the number? And the make of the armour, if you know it?"	“当然了，警官。号码是多少？如果你知道的话，盔甲的制造商是谁？”
+0x010000580000AE02	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"E50.100.1000. The make and model of the armour is Fairweather T-500 / VE."	“E50.100.1000。盔甲的制造商和型号是费尔韦瑟T-500/VE。”
+0x010000580000AE08	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"X54156745678222. The make and model of the armour is Fairweather T-500 / VE."	“X54156745678222。盔甲的制造商和型号是费尔韦瑟T-500/VE。”
+0x010000580000AE0E	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Are you sure that's the right number? Doesn't sound like a serial."	“你确定号码没错吗？听起来不太像序列号。”
+0x010000580000AE14	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"That's definitely the right number."	“绝对就是这个号码。”
+0x010000580000AE1A	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"You're right. I meant to say E50.100.1000. Sorry for the confusion."	“你说的对。我本来想说E50.100.1000。抱歉，让你困惑了。”
+0x010000580000AE22	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Got it. I'll contact the ICP database immediately. Call back tomorrow. Hopefully they'll have dug up something useful by then."	“收到。我马上跟ICP资料库联系。明天再联系你。希望他们能找到什么有用的信息。”
+0x010000580000AE34	Dialogue Text	KINEEMA / SERIAL NUMBER	Authority	There's a slightly weary, condescending note in her voice. She doesn't trust your professionalism following your rather tasteless come-ons.	她的声音有一丝疲倦，还有些居高临下的意味。体验过你那些乏味的诱饵之后，她完全不相信你的专业程度。
+0x010000580000AE3A	Dialogue Text	KINEEMA / SERIAL NUMBER	Empathy	There's just a hint of weariness in her voice. It's not that she doesn't trust you -- she just wants to be thorough so as not to create extra work for both of you.	她的声音里有一丝疲倦的味道。不是说她不相信你——她只是想彻底一点，这样你们俩都不用额外做功了。
+0x010000580000AE49	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Well, I'll contact the ICP database immediately. Call back tomorrow. Hopefully they'll have dug up something useful to your investigation by then."	“好吧，我马上跟ICP资料库联系。明天再联系你。希望他们能找到对你的调查有帮助的信息。”
+0x010000580000AE4F	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"No problem, officer. Just glad we got it straightened out. I'll contact the ICP database immediately. Call back tomorrow. Hopefully they'll have dug up something useful to your investigation by then."	“没问题，警官。很高兴能澄清这一点。我马上跟ICP资料库联系。明天再联系你。希望他们能找到对你的调查有帮助的信息。”
+0x010000580000AE71	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"AO5577789RHG9999. The make and model of the armour is Fairweather T-500 / VE."	“AO5577789RHG9999。盔甲的制造商和型号是费尔韦瑟T-500/VE。”
+0x010000580000AE97	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Wait, what's ICP?"	“等一下，ICP是什么？”
+0x010000580000AEA0	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"The International Collaboration Police? Uhm..." She seems confused for a second. "They keep detailed records of all military technology produced by licensed manufacturers. That's one of the reasons the Moralintern spearheaded the creation of the ICP in the first place."	“国际联合刑警？嗯……”她好像有点困惑。“所有特许生产商的军事技术产品，他们那里都有详细的记录。这也是国际道德伦理委员会一开始创建ICP的原因之一。”
+0x010000580000AEB9	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Cool... and what's the Moralintern?"	“厉害……还有，国际道德伦理委员会是什么？”
+0x010000580000AEC5	Alternate1	KINEEMA / SERIAL NUMBER	Alice	"Officer, I suspect you're just trying to keep me on the line, and I just... don't have time for this. Do you have any other *serious* questions?"	“警官，我怀疑你只是不想让我挂断吧，我……真的没有这个时间。你还有其他*严肃*的问题吗？”
+0x010000580000AEC5	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Officer, as much as I appreciate your efforts to lighten the mood, we both have important work to get back to. Did you have any other *serious* questions?"	“警官，我很感激你为舒缓情绪所做的努力，但是我们都有很重要的工作。你还有其他*紧急*问题吗？”
+0x010000580000AEDD	Dialogue Text	KINEEMA / SERIAL NUMBER	Encyclopedia	The International Collaboration Police (ICP) is an interisolary law enforcement service, the crown jewel in the Moralintern diadem alongside EPIS and the Coalition Government.	国际联合刑警(ICP)是一个国际执法机构，跟EPIS和联盟政府一样，都是国际道德伦理委员会王冠上的宝珠。
+0x010000580000AF0E	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"They couldn't find anything on the full code you gave me. However, the first ten characters tracked to a custom-made baby stroller made in Vaasa City ten years ago."	“他们没能在你给我的完整代码上找到任何信息。不过，前10个字符追踪到十年前瓦萨城制造的一台定制婴儿車。”
+0x010000580000AF1A	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"They couldn't find anything on the full code you gave me. However, the first eight characters were match for a series of paintings by Tobias Pren -- you know, that artist who recently hanged himself?"	“他们没能在你给我的完整代码上找到任何信息。不过，前8个字符跟托拜厄斯·普雷恩的一系列画作是相匹配的——你知道的，就是最近刚上吊自杀的那个艺术家？”
+0x010000580000AF20	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Yes. The armour was produced by..." She looks at her notes. "Fairweather in their facilities in Betancourt, Sur-la-Clef, in '42."	“是的。这套盔甲的生产商是……”她看了一眼笔记。“费尔韦瑟在贝当古的一个加工点，就在苏拉菲，42年产的。”
+0x010000580000AF26	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	She browses pages. "So... it seems the armour went to Semenine. That's where the paper trail ends, though. Even the firm has proven difficult to track. Corps de Pharmacie has been renamed several times over in the years since the armour was issued."	她浏览着页面。“所以……看起来这套盔甲被送去了塞美尼。不过，书面记录到这里就中断了。就连公司也很难追踪。这套盔甲上市这几年来，药剂师军团连着改名好多次。
+0x010000580000AF2F	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Does that seem relevant to your investigation?"	“这跟你的调查有关系吗？”
+0x010000580000AF36	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"No, but thank you for looking into it."	“没有，不过还是谢谢你帮我调查。”
+0x010000580000AF3C	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Yes, absolutely! This is exactly what I wanted."	“有，当然有了！我需要的就是这个。”
+0x010000580000AF44	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Just doing my job, officer. Was there anything else?"	“只是完成我的本职工作罢了，警官。还有什么事吗？”
+0x010000580000AF4B	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Great. Anything else I could do for you?"	“太好了。还有什么能帮到你的吗？”
+0x010000580000AF5B	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"This doesn't seem relevant to my investigation." (Conclude the conversation.)	“看起来好像跟我的调查没有关系。”（结束对话。）
+0x010000580000AF61	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Art is extremely relevant to my investigation. Thank you." (Conclude the conversation.)	“艺术跟我的调查密切相关。谢谢你。”（结束对话。）
+0x010000580000AF68	Alternate1	KINEEMA / SERIAL NUMBER	You	"What were his paintings like?"	“他的画是什么样的？”
+0x010000580000AF68	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"No, what were his paintings like?"	“不知道，他的画是什么样的？”
+0x010000580000AF6D	Alternate1	KINEEMA / SERIAL NUMBER	You	"Why did he hang himself?"	“他为什么要上吊？”
+0x010000580000AF6D	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"No, why did he hang himself?"	“不，他为什么要上吊？”
+0x010000580000AF75	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"I'm not sure how this relates to my investigation yet, but I'm sure it does." (Conclude the conversation.)	“我不确定这跟我的调查有什么样的关系，不过我肯定是有的。”（结束对话。）
+0x010000580000AF90	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Very pretty pictures of assorted wildlife meant to inspire viewers and look good over couches in office building lobbies." She hesitates. "I've always sort of thought they were trash."	“各种各样漂亮的野生动物画，应该是打算放在办公大楼的大堂里激发观众的灵感，还有放在沙发上好看的吧。”她犹豫了一下。“我一直觉得那些都是垃圾。”
+0x010000580000AF96	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Celebrity problems."	“名声问题。”
+0x010000580000AFA7	Dialogue Text	KINEEMA / SERIAL NUMBER	Electrochemistry	She means pills and alcohol. See, pills and alcohol make you *a celebrity*. Hasn't it been a while since you've had any?	她指的是药品和酒精。看见了吗，药品和酒精能让你变成一个*名人*。你有多久没碰过了？
+0x010000580000AFAF	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"It's all I could learn, I'm afraid. That's the serial number you gave me. Anything else I can do for you?"	“恐怕我只知道这么多了——你给我的那个序列号。还有什么能帮你的吗？”
+0x010000580000AFB6	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"I hope so. Anything else I can do for you?"	“希望如此。还有什么能帮你的吗？”
+0x010000580000AFBD	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Great. Anything else I can do for you?"	“太好了。还有什么能帮到你的吗？”
+0x010000580000AFDB	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"I'm guessing one of its names is Krenel."	“我猜其中一个名字是科奈尔。”
+0x010000580000AFE2	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Yes!" She seems glad you guessed it. "That is the most recent name the ICP has been able to connect to the CdP. And the one before it was Downwell. I also have one called Sediment -- but I think that might be a different contractor..."	“是的！”她好像很开心你猜对了。“这是ICP联系到CdP最近的名字。在那个之前是深井。我这里还有一个叫赛迪蒙特的——不过我觉得可能是不同的佣兵组织……”
+0x010000580000AFF0	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Do you know what it's called now?"	“你知道它现在叫什么吗？”
+0x010000580000AFF7	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"The most recently registered firm that the ICP has been able to connect to the CdP is a military contractor called *Krenel*. And the one before it was Downwell. I think they might be the same contractor."	“ICP联系到CdP之后，找到最近注册的是一个名叫*科奈尔*的军事佣兵组织。在那个之前是深井。我想也许是同一个佣兵组织。”
+0x010000580000AFFE	Dialogue Text	KINEEMA / SERIAL NUMBER	Visual Calculus	A suit of armour like this would have been manufactured with a particular person's physique in mind. You should ask for whom this suit was fitted.	像这样的一套盔甲，应该是按照某个人的体型专门制造的。你应该问问这套盔甲是给谁穿的。
+0x010000580000B018	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"First, has the firm continued to work for pharmaceutical companies through all these name changes?"	“首先，这家公司改名这么多次之后，还在为制药公司工作吗？”
+0x010000580000B02A	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Yes, please do try. It's imperative that we learn whose armour this was."	“是的，请务必试试。我们必须知道这是谁的盔甲。”
+0x010000580000B03D	Dialogue Text	KINEEMA / SERIAL NUMBER	Kim Kitsuragi	"Armour like this isn't mass-produced -- it would have probably been fitted. Perhaps there's a record of who signed for this particular suit of armour."	“这种盔甲一定不是批量生产的——很可能是量身定制。到底是谁签收过这套特殊的盔甲，也许还留有记录。”
+0x010000580000B045	Alternate1	KINEEMA / SERIAL NUMBER	You	"A suit of armour like this would have been customized to fit the wearer. There must be a record of the person to whom it was issued."	“这种盔甲一定是根据穿戴者的体型量身定制的。应该还有签发记录吧。”
+0x010000580000B045	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Is there any way to find out who got this particular suit of armour?"	“有没有办法找到这套特殊盔甲的主人是谁？”
+0x010000580000B051	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Yes, but the ICP tends to be reluctant to share private sector records. I could try to talk them into it, though."	“是的，但是ICP好像不愿意分享私人记录。不过我可以试试说服他们。”
+0x010000580000B05B	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Hard to say. Their client list is rather diverse. And... incomplete. The only constant seems to be that the mercenaries are always deployed in third- and fourth-world countries."	“很难说。他们的客户名单上形形色色的人都有。而且……很不完整。唯一不变的好像只有那些部署在第三和第四国家的雇佣兵。”
+0x010000580000B073	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Sure. Call back tomorrow. Hopefully I will have more information for you then."	“当然。明天给你回话。希望到那时我能收到更多信息。”
+0x010000580000B085	Dialogue Text	KINEEMA / SERIAL NUMBER	Esprit de Corps	This is a fun challenge for her, an opportunity to contribute beyond doing her job by rote. She'll gladly put in the extra effort for team RCM!	对于她来说，这是个很有趣的挑战。除了那些呆板的本职工作外，她还能做出额外的贡献。她会很愿意为RCM警队付出额外的努力！
+0x010000580000B098	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Yes, thank you, officer. I really appreciate your efforts in this case."	“是的，谢谢你，警官。很感谢你对案件做出的努力。”
+0x010000580000B09E	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"You are my beautiful conquering heroine."	“你是我美丽的女英雄。”
+0x010000580000B0AA	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Glad to help. Call back tomorrow. Hopefully I'll have more for you then."	“乐意帮忙。明天回复你。希望到那时我能收到更多消息。”
+0x010000580000B0B0	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"I'm going to ignore that, officer. Call back tomorrow. Hopefully I will have more information for you then."	“这个我就不管了，警官。明天回复你。希望到那时我能收到更多消息。”
+0x010000580000B0F1	Alternate1	KINEEMA / SERIAL NUMBER	Alice	"Yes. I got the mercenary's name and a few biographical details. Are you ready?"	“是的。我拿到了雇佣兵的名字，还有一些履历详情。你准备好了吗？”
+0x010000580000B0F1	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Yes. It took some convincing, but I got the mercenary's name and a few biographical details. Are you ready?"	“是的。确实需要些说服力，不过我拿到了雇佣兵的名字，还有一些履历详情。你准备好了吗？”
+0x010000580000B0FC	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Shoot."	“说吧。”
+0x010000580000B108	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"I was born ready, baby!"	“我生来就准备好了，宝贝！”
+0x010000580000B111	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"That suit of armour was issued to an Oranjese citizen named Ellis Kortenaer -- that's E-L-L-I-S K-O-R-T-E-N-A-E-R. Exact date of birth unknown. He was signed into the Lelystad County Neonatal Care Unit on 28th of February, ’09."	“那套盔甲签发给了奥兰治的一个市民，名叫埃利斯·科顿艾尔——拼写是E-L-L-I-SK-O-R-T-E-N-A-E-R。具体的出生日期不祥。09年2月28号，他被送到莱利斯塔德郡的新生儿加护病房。”
+0x010000580000B11A	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"This is what the ICP knows about him: He was raised by foster parents, entered the Ijsbrand Military Academy -- in Vredefort -- at 17, then served in the Oranjese forces till he was honourably discharged in '41, just a year before the Semenese conflict."	“ICP那里只有这些信息：他被寄养家庭养大，17岁那年加入弗里德堡的艾斯布兰德军事学院，然后进入奥兰治部队服役，直到41年光荣退伍，就在塞美尼冲突发生的一年之前。”
+0x010000580000B193	Alternate1	KINEEMA / SERIAL NUMBER	You	"Lelystad is probably where he got the name Lely."	“莱利斯塔德，大概他就是因此得名莱利的吧。”
+0x010000580000B193	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Lelystad is probably where he got the name *Lely*."	“莱利斯塔德，大概他就是因此得名*莱利*的吧。”
+0x010000580000B1E2	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"I'm glad the inquiry was helpful to your investigation, officer. Did you have any other questions?"	“很高兴能帮到你的调查，警官。你还有其他问题吗？”
+0x010000580000B1F1	Dialogue Text	KINEEMA / SERIAL NUMBER	Kim Kitsuragi	"A name -- this is very good. Ellis Kortenaer..." he says to himself.	“一个名字——真是太好了。埃利斯·科顿艾尔……”他自言自语到。
+0x010000580000B26C	Dialogue Text	KINEEMA / SERIAL NUMBER	Logic	Joyce said the dead man went by Lely. He must have gotten that from *Lelystad* -- the name of the county.	乔斯说那个死者叫莱利。他一定是从*莱利斯塔德*得名的——那个郡名。
+0x010000580000B290	Dialogue Text	KINEEMA / SERIAL NUMBER	Inland Empire	According to Klaasje, Lely said his real name wasn't really *his* -- perhaps that's because he was fostered?	根据卡拉洁说的，莱利说他的真名其实不属于*他*——也许因为他是被寄养的？
+0x0100007800012CC8	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Okay."	“好吧。”
+0x0100007800012CD0	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Was there anything else?"	“还有其他事吗？”
+0x0100007800012CE3	Dialogue Text	KINEEMA / SERIAL NUMBER	Encyclopedia	I don't know about you, but I really, really enjoyed it. Worked out really well in the end.	我不知道你怎么想的，但我真的，真的很喜欢。最后结果也挺不错的。
+0x0100007800012CF3	Dialogue Text	KINEEMA / SERIAL NUMBER	Drama	I knew this would lead to something good!	吾辈就知道会有好结果的！
+0x0100007800012D01	Dialogue Text	KINEEMA / SERIAL NUMBER	Drama	We're still glad you did it, my liege. This was good training. For when you need to lie to save your life maybe?	吾辈为你感到很高兴，大人。这是一次很好的训练。也许您什么时候需要通过撒谎来挽救自己的性命？
+0x0100007800012D0C	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	You hear her fingers on a keyboard. "No, they were called *Sediment*. And *Somatosensor*, it seems. All that during the last nine years."	你听见她的手指敲击键盘的声音。“不，他们被称为*赛迪蒙特*。好像还有*萨玛托塞斯*。这一切都发生在过去的九年里。”
+0x0100007800012D16	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"The world will end soon."	“世界很快就会毁灭。”
+0x0100007800012D1F	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Okay." She's not worried. "Does that mean you're ready?"	“好吧。”她并不担心。“这是不是意味着你已经准备好了？”
+0x0100007800012D28	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Neonatal Care Unit?"	“新生儿加护病房？”
+0x0100007800012D2E	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"He was found as a newborn, in a leaf compactor, near an abandoned farm. He spent four months in the neonatal unit -- survived, apparently -- and was assigned to a foster family at two."	“他被发现的时候还是个婴儿，被放在一个废弃农场的树叶压缩机里。在新生儿加护病房待了4个月——显然是活下来了——然后2岁时被送到了一个寄养家庭。”
+0x0100007800012D39	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Then the armour followed him to Semenine -- or at least I assume it did. And that's it. There are no records of his employment in Krenel. Or any of its other incarnations. Or him even entering Revachol.	“然后，盔甲跟着他去了塞美尼——或者，至少我假设如此。就这些。科奈尔没有他的工作记录。或者它的其他化身也没有。而且甚至没有他入境瑞瓦肖的记录。
+0x0100007800012D43	Dialogue Text	KINEEMA / SERIAL NUMBER	Kim Kitsuragi	The lieutenant leans in to listen, notebook in hand.	警督手中拿着笔记本，倾身聆听着。
+0x0100007800012D5B	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"So all we have to connect him to Krenel is the armour."	“所以他跟科奈尔的联系只有那套盔甲。”
+0x0100007800012D60	Dialogue Text	KINEEMA / SERIAL NUMBER	Kim Kitsuragi	"Even that is a small miracle -- these *organizations* usually double check their inventory." He leans closer and shouts: "Thank you, Alice. Great work!"	“就连这都算是个小小的奇迹——这些*组织*一般都会仔细检查自己的存货。”他又靠近了一些，然后呼喊到：“谢谢你，爱丽丝。做得漂亮！”
+0x0100007800012D6D	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"No problem, lieutenant." She sounds pleased.	“不客气，警督。”她听起来很开心。
+0x0100007800012D74	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"Even that took quite a bit of convincing to retrieve the information from the database, officer."	“即便如此，我还是花了不少功夫才说服他们从资料库中检索出这些信息的，警官。”
+0x0100007800012D83	Dialogue Text	KINEEMA / SERIAL NUMBER	Authority	A compliment from Lieutenant Kitsuragi! Not bad.	来自曷城警督的称赞！不赖嘛！
+0x0100007800012D8B	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Wait, he was found in a... leaf compactor?"	“等等，他是在……树叶压缩机里被发现的？”
+0x0100007800012D91	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"It's a garden tool used to press leaves into these... cubes. It's a detail the hospital had -- the only detail in these files. So I thought it would be good for you to know."	“那是一种园艺工具，用来把树叶压缩成……方块的。这是医院记录的一条具体信息——这些文件里唯一的具体信息。所以我觉得，还是让你知道的好。”
+0x0100007800012D9E	Dialogue Text	KINEEMA / SERIAL NUMBER	Kim Kitsuragi	"It is! Thank you, Alice!"	“没错！谢谢你，爱丽丝！”
+0x0100007800012DA8	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Any information on his foster parents?"	“关于他的寄养父母，有什么信息吗？”
+0x0100007800012DAE	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"None, officer. Sorry."	“没有，警官。抱歉。”
+0x0100007800012DBB	Dialogue Text	KINEEMA / SERIAL NUMBER	Kim Kitsuragi	The lieutenant nods -- then jots it down in his notes: "Lelystad -- Lely. I like that."	警督点点头——然后记在笔记里。“莱利斯塔德——莱利。我喜欢这个名字。”
+0x0100007800012DC7	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"If you say so, officer -- of course."	“如果你这么说的话，警官——当然了。”
+0x0100007800012DD5	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"So his name wasn't *his* because he was fostered?"	“所以他的名字不属于*他自己*，是因为他是被寄养的？”
+0x0100007800012DE0	Dialogue Text	KINEEMA / SERIAL NUMBER	Kim Kitsuragi	"Hah! Yes -- what Klaasje said. Very good. That makes sense to me." He takes a quick note.	“哈！是的——卡拉洁就是这么说的。很好。我觉得很有道理。”他飞快地做下笔记。
+0x0100007800012DEB	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"I... don't know what that means. But -- sure."	“我……我不知道是什么意思。不过——肯定是的。”
+0x0100007800012DF9	Dialogue Text	KINEEMA / SERIAL NUMBER	You	"Well, we have his name and service record now." (Move on.)	“呃，现在我们知道了他的名字和服役记录。”（继续。）
+0x0100007800012E31	Dialogue Text	KINEEMA / SERIAL NUMBER	Alice	"I'm glad the inquiry was helpful to your investigation, officer. Did you have any other questions?"	“很高兴能帮到你的调查，警官。你还有其他问题吗？”
+0x0100007800012E39	Dialogue Text	KINEEMA / SERIAL NUMBER	Inland Empire	This means something to him. To know that name. Like naming a case. It's important.	知道那个名字。对与他来说很重要。就像给案件起名一样，是很重要的。
+0x01000005000036BA	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-18, 10-20? Over."	“10-18，10-20？完毕。”
+0x01000005000036CD	Dialogue Text	KINEEMA / STATION CALL	Half Light	10-22 the captain?! This sounds bad -- bad *and* scary, like being called to the headmaster's office in school.	10-22警长？！这听起来就有点糟糕了——*而且*还有点吓人，就好像是在学校被点名叫到校长办公室了。
+0x01000005000036D5	Dialogue Text	KINEEMA / STATION CALL	Reaction Speed	Hit them with a comeback.	反击他们。
+0x01000005000036E0	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-9, come in, officer! Did you get my question? We were wondering about your gun. Over."	“10-9，呼叫，警官！你听到我的问题了吗？我们想知道你的枪怎么样了。完毕。”
+0x01000005000036E6	Dialogue Text	KINEEMA / STATION CALL	Horrific Necktie	Don't sweat it, *bratan*. You don't need a gun to have fun... we can still have fun. It's not all over.	别担心，*兄弟*。寻开心的话可用不着枪……没枪我们照样能开心。一切还没结束呢。
+0x01000005000036F6	Dialogue Text	KINEEMA / STATION CALL	Drama	Lying over the phone? It's easy! Just say it like it's the truth -- and then it becomes it.	在电话里撒谎？太简单了！就当是事实一样说出来——然后就会变成真的了。
+0x01000005000036FB	Dialogue Text	KINEEMA / STATION CALL	Drama	Even before you can get the words out, everything gets scrambled in your brain.	你的话还没说出来，脑子里就先乱成了一滩浆糊。
+0x0100000500003700	Dialogue Text	KINEEMA / STATION CALL	You	"No, of course I didn't lose my gun."	“没有，我当然没有把枪搞丢啊。”
+0x0100000500003707	Dialogue Text	KINEEMA / STATION CALL	You	"No, of course I didn't lose my fun. *Gun*. Fuck it! I didn't lose my gun!"	“没有，我当然没有搞丢自己的“姜”！我是说*枪*。该死的！我怎么可能会把自己的枪搞丢！”
+0x010000050000371A	Dialogue Text	KINEEMA / STATION CALL	You	"No, I think I'm good. I think I'm good without my badge, thanks."	“不，我觉得我没事。就算没了警徽，我也挺好的，谢谢。”
+0x0100000500003720	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"I'm going to report that you are in pursuit of your missing items. Over."	“我会回报说你在追查自己丢失的物品。完毕。”
+0x01000005000037AB	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Roger that. 10-10. Over and out." The static ends with a loud click, then everything is silent in the cabin.	“收到。10-10。通话完毕。”伴随着一身响亮的咔哒声，通话结束了。接着，乘坐舱里的一切都陷入了沉默。
+0x01000005000037B5	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, sir, I'm not hearing your question?" the radio operator inquires again.	“10-4，先生，我没听到你的问题？”通讯员又询问了一次。
+0x01000005000037BE	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, I hear you. I don't have the authority to grant your request, but...."	“10-4，我听见了。我无权答应你的请求，不过……”
+0x01000005000037C5	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"What does he want now?"	“他现在又想干什么？”
+0x01000005000037E0	Dialogue Text	KINEEMA / STATION CALL	You	"I'm happy to report that I have found my badge, Jules."	“我很高兴地告诉你：我找到警徽了，朱尔斯。”
+0x01000005000037E6	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, sir, glad to hear that! I'll write down that there's no need to issue a new one to you then. Over."	“10-4，先生，很高兴听到这个消息！我会记下来，不用给你派发新的了。完毕。”
+0x0100000500003801	Dialogue Text	KINEEMA / STATION CALL	Suggestion	Who cares what this Vicquemare said -- pull on their heart strings!	谁在乎维克玛说了什么——牵动他们的心弦！
+0x0100000500003808	Dialogue Text	KINEEMA / STATION CALL	Authority	Enough, officer. This begging is below your dignity.	够了，警官。乞求有失你的自尊。
+0x0100000500003816	Dialogue Text	KINEEMA / STATION CALL	Volition	What? I thought you had your shit together! This is nearing a complete meltdown! Stop it!	什么？我还以为你他妈没事呢！这他妈差一点就要完全崩溃了！快停下！
+0x0100000500003827	Dialogue Text	KINEEMA / STATION CALL	You	"Hold on, are you alone in the room? I need some confidential information about myself."	“等一下，你一个人在房间里吗？我需要一些自己的机密信息。”
+0x010000050000382D	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"That's a negative, sir, I got a 10-12 here. Over."	“答案是否定的，先生，10-12也在这里。完毕。”
+0x0100000500003838	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"That's a negative, sir, I got a 10-12 (Visitors Present) here. Over."	“答案是否定的，先生，10-12（访客在场）也在这里。完毕。”
+0x0100000500003841	Dialogue Text	KINEEMA / STATION CALL	You	"Please refer to me with my last name in the future."	“以后请用姓氏称呼我。”
+0x0100000500003850	Dialogue Text	KINEEMA / STATION CALL	You	"Stop calling me *sir* and just use my real god damn name, will you?!"	“别再叫我*先生*了，用我的真名，好吗？！”
+0x0100000500003857	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Uh..."	“呃……”
+0x010000050000386F	Dialogue Text	KINEEMA / STATION CALL	You	"Some *talk*? What does it even mean there's been some talk? Do they think I'm corrupt or not?!"	“有些*传言*？有传言到底是什么意思？他们到底觉得我是受贿了还是没有？！”
+0x0100000500003876	Dialogue Text	KINEEMA / STATION CALL	You	"Does it mean people know that I'm a dirty cop? Because I am. I'm the dirtiest, most dangerous cop in Revachol. My reputation precedes me."	“那是不是说大家都知道我是个黑警？因为我就是。我是整个瑞瓦肖城里最黑心，最危险的警察。我有些名过其实了。”
+0x010000050000387D	Dialogue Text	KINEEMA / STATION CALL	You	"I want you to know that I would *never ever* do anything like that. I'm not taking bribes, Jules!"	“我想让你知道，我*再也不会*做出那种事了。我没有收受贿赂，朱尔斯！”
+0x0100000500003883	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"I hope you're joking, sir." His voice is dry and humourless. "I only meant that there's been some talk in the station, that's all. But there's always some talk in the station. You know how officers in Jamrock are..."	“我希望你在开玩笑，先生。”他的声音干巴巴的，一点也不幽默。“我只是想说——警局里是有一些传言，就这样。不过警局总是有各种各样的传言。你也知道加姆洛克的警官什么样……”
+0x010000050000388B	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"But then again, some of us truly are on the take. It's unfortunate. Over."	“不过话又说回来，我们中确实有人受贿了。真的很遗憾。完毕。”
+0x0100000500003C52	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Do you need anything else? Over."	“你还有什么别的需要吗？完毕。”
+0x0100000500003C69	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Do you need anything else? Over."	“你还有什么别的需要吗？完毕。”
+0x0100000500003C7A	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, I hear you, officer. I'm just going to make a note here that you are in pursuit of your *misplaced* badge."	“10-4，我听见了，警官。我这边会留下记录——你正在搜寻*丢失*的警徽。完毕。”
+0x0100000500003C80	Dialogue Text	KINEEMA / STATION CALL	You	"10-22 the captain?! This sounds bad."	“10-22警长？！听起来不太妙啊。”
+0x0100000500003C88	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"What about..." He seems to be hesitating. "What about your gun, officer? Do you still have your gun, sir? Over."	“那……”他好像有点犹豫。“那你的枪呢，警官？你的枪还在吗，先生？完毕。”
+0x0100000500003C94	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-9, come in, officer! Did you get my question? I was wondering about your gun. Over."	“10-9，呼叫，警官！你听到我的问题了吗？我想知道你的枪怎么样了。完毕。”
+0x0100000500003C9A	Dialogue Text	KINEEMA / STATION CALL	Inland Empire	Check your pockets! Check your... holy fuck, you really don't know where it is, do you?!	检查一下你的口袋！检查一下你的……真他妈该死，你不知道它在哪，是吗？！
+0x0100000500003CA0	Dialogue Text	KINEEMA / STATION CALL	Inland Empire	Okay, it's gone. Your gun is most definitely gone.	好吧，没了。你的枪绝对是没了。
+0x0100000500003CAB	Dialogue Text	KINEEMA / STATION CALL	Horrific Necktie	Chillax, partner. You don't need a gun to have fun... although it helps.	放松点，搭档。不用枪，你也能找到乐子……虽然它是有点帮助。
+0x0100000500003CBC	Dialogue Text	KINEEMA / STATION CALL	You	Say nothing.	什么也不说。
+0x0100000500003CC2	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-1, you're breaking up. 10-9, repeat please. Over."	“10-1，你的信号断了。10-9，请重复。完毕。”
+0x0100000500003CC8	Dialogue Text	KINEEMA / STATION CALL	You	Don't say anything.	什么也不要说。
+0x0100000500003CCE	Dialogue Text	KINEEMA / STATION CALL	You	Remain silent.	保持沉默。
+0x0100000500003CD4	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-9, come in, officer! Over."	“10-9，呼叫，警官！完毕。”
+0x0100000500003CDA	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Come in, officer! 10-9, repeat message please. Did you misplace your firearm? Over."	“呼叫，警官！10-9，请重复消息。你把枪忘在什么地方了吗？完毕。”
+0x0100000500003CE0	Dialogue Text	KINEEMA / STATION CALL	Rhetoric	Just say you lost your gun. Anything else would only make the situation worse here.	就说你把枪弄丢了。说别的只会让情况变得更糟糕。
+0x0100000500003CE6	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Affirmative?" There's a pause.	“肯定？”对方停顿了一下。
+0x0100000500003CEC	Dialogue Text	KINEEMA / STATION CALL	You	Quietly turn the radio off and put the microphone back to its holder.	静静地把无线电关小，然后把麦克风放回到支架上。
+0x0100000500003CF2	Dialogue Text	KINEEMA / STATION CALL	You	"That's affirmative. Over."	“那是肯定的。完毕。”
+0x0100000500003D57	Dialogue Text	KINEEMA / STATION CALL	Empathy	He didn't actually expect that answer.	他没想到会得到这样的答案。
+0x0100000500003D5E	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"I'm going to report that you are in the process of recovering your service weapon. Over."	“我会汇报说你正在寻找自己的配枪。完毕。”
+0x0100000600018F1C	Dialogue Text	KINEEMA / STATION CALL	Encyclopedia	The man uses relay code. You got this. You're a cop and cops *know* relay code.	这个人使用的是转播编码。你可以的。你是个警察，警察当然*懂得*转播编码。
+0x0100000600018F27	Dialogue Text	KINEEMA / STATION CALL	Authority	DEFEND YOURSELF. Immediately. They're laughing at you.	为自己辩护。马上！他们在嘲笑你。
+0x0100000600018F30	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"Mullen dicked us..."	“马伦害惨我们了……”
+0x0100000600018F5E	Dialogue Text	KINEEMA / STATION CALL	You	Oh god, it's not here...	天啦，不在这里……
+0x0100000600018F65	Dialogue Text	KINEEMA / STATION CALL	You	I DON'T HAVE MY GUN?!	我的枪没了？！
+0x0100000600018F6E	Dialogue Text	KINEEMA / STATION CALL	Half Light	No, it's gone. It's not fucking *on* you!	没，它不见了。它真他妈的不在你*身上*！
+0x0100000600018F76	Dialogue Text	KINEEMA / STATION CALL	You	(Yell.) "Right fucking here! I have my Villiers right here! I found it!"	（大喊）“他妈的就在这里！我的维利耶就在这里！我找到它了！”
+0x0100000600018F7D	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	A sigh of relief crackles over the radio. "10-4. He says he's located it."	无线电那头传来一阵如释重负的叹息声。“10-4。他说找到了。”
+0x0100000600018F85	Dialogue Text	KINEEMA / STATION CALL	You	"Okay, I lied. I don't have it."	“好吧，我撒谎了。不在我身上。”
+0x0100000600018F92	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Officer, do you need further assistance? Over."	“警官，你需要进一步的协助吗？完毕。”
+0x0100000600018F9C	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"Oh god, I..." The man is fighting back tears.	“天啦，我……”男人强忍住泪水。
+0x0100000600018FA4	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"In pursuit of his..." The man is fighting back tears.	“在搜寻他的……”男人强忍住泪水。
+0x0100000600018FAB	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"In pursuit of his..." The man is fighting back tears.	“在搜寻他的……”男人强忍住泪水。
+0x0100000600018FBB	Dialogue Text	KINEEMA / STATION CALL	Half Light	Nothing is working!	什么都没用！
+0x0100000600018FCD	Dialogue Text	KINEEMA / STATION CALL	Logic	That's it. He pulled the plug.	就是这个了。他拔掉插头。
+0x0100000600018FEC	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Sir, I will not have you talk to me in this manner. Over."	“先生，我不允许你这样对我说话。完毕。”
+0x0100000600018FF3	Dialogue Text	KINEEMA / STATION CALL	Suggestion	SAY MY NAME BITCH! What are you doing, you sound way too aggressive.	叫我的名字啊，贱人！你在干什么，你的话实在是太咄咄逼人了。
+0x0100000600018FFF	Dialogue Text	KINEEMA / STATION CALL	Rhetoric	You're blowing it.	你搞砸了。
+0x010000060001901A	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"Oldboy,  is fucky *still* at it?! What the hell does he want now?"	“老小子，那个混账玩意*还在*线上吗？！他现在又想干什么？”
+0x010000060001902A	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"Tell him to sober up and blow himself."	“叫他清醒一点，自己解决下。”
+0x0100000600019040	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"*What* the fuck does he want now? More attention? A fiver? A parade?"	“马伦现在又想要*什么*？更多关注？钱？炫耀？”
+0x0100000600019047	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"No, I think he's requesting personal details of his life." He returns to you. "Officer, you've never shared things of that nature with me. Over."	“不，我觉得他想要自己的个人信息。”他转回你这边。“警官，你没有跟我说过这种信息。完毕。”
+0x0100000600019053	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"What happened is my partner made contact -- it's not good. He's lost his badge *and* his sidearm. He seemed confused, delirious even..." He stops to think.	“现在的情况是：我的搭档主动联系我——这不是什么好事。他弄丢了自己的警徽，*还有*配枪。他好像很困惑，甚至有点神志不清……”他停下来想了想。
+0x0100000600019059	Alternate1	KINEEMA / STATION CALL	Jean Vicquemare	"What happened is my partner made contact. It's not good. He seemed confused, delirious even..." Vicquemare stops to think.	“现在的情况是：我的搭档主动联系我。这不是什么好事。他好像很困惑，甚至有点神志不清……”维克玛停下来想了想。
+0x0100000600019059	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"What happened is my partner made contact. And it's not good. He's lost his badge. He seemed confused, delirious even..." He stops to reflect.	“现在的情况是我的搭档主动联系我。这不是什么好事。他弄丢了自己的警徽。他好像很困惑，甚至有点神志不清……”他停下来沉思着。
+0x01000006000190F8	Dialogue Text	KINEEMA / STATION CALL	Esprit de Corps	Far north -- on the other side of the motorway -- the officer quietly hunches with his hand in the motor carriage.	北边稍远的地方——在高速公路的另一侧——警官沉默地弯下腰，把手伸进机車里。
+0x01000006000190FE	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Good," Vicquemare turns to the others, "Okay everybody, nothing but a prank call here. We all got our laughs, now get back to work!"	“很好，”维克玛转向其他人：“好了，大家，只是个恶作剧电话。我们也开心够了，现在继续回去工作吧！”
+0x0100000600019123	Dialogue Text	KINEEMA / STATION CALL	You	"It's not good."	“不是太好。”
+0x010000060001912D	Dialogue Text	KINEEMA / STATION CALL	Electrochemistry	Feels good to get that off your chest, right? Celebration with beer?	把这事说出来感觉很好，对吗？来杯啤酒庆祝一下？
+0x010000060001913C	Dialogue Text	KINEEMA / STATION CALL	Reaction Speed	Uhm... you don't have a comeback, sorry. It's hard to think like this.	嗯……你没有反败为胜，抱歉。很难这样想。
+0x0100000600019151	Dialogue Text	KINEEMA / STATION CALL	You	"Uhm..."	“嗯……”
+0x010000060001915A	Dialogue Text	KINEEMA / STATION CALL	Half Light	Oh fuck...	该死……
+0x010000070000F865	Dialogue Text	KINEEMA / STATION CALL	You	"For starters, it's *massive*. Got flared cooling vents along the front and hydrogen flasks sticking out too."	“对于新手来说，它很*厚重*。前面有喇叭形的冷却口，而且氢气瓶也突出来了。”
+0x0100000700012207	Dialogue Text	KINEEMA / STATION CALL	Encyclopedia	Dick Mullen is *not* your name. It's the name of a *fictional* detective who would *not* lose his badge.	你的名字*不是*迪克·马伦。这是小说里一个*虚构*警探的名字，而且他*不会*弄丢自己的警徽。
+0x0100002100002412	Dialogue Text	KINEEMA / STATION CALL	Half Light	Now is a good time to say "fuck" and "ass" and so on, that'll make this all right.	现在是最适合说些“卧槽”和“放屁”之类的话，这样就没事了。
+0x0100002F000124E8	Dialogue Text	KINEEMA / STATION CALL	You	"I'm still packing my Villiers."	“我还在装填我的维利耶。”
+0x0100002F000124EF	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	A sigh of relief crackles over the radio. "10-4. Over."	无线电里传出一阵如释重负的叹息。“10-4。完毕。”
+0x0100002F00012506	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	A sigh of relief crackles over the radio. "10-4. He says he's got it."	无线电里传出一阵如释重负的叹息。“10-4。他说在他身上。”
+0x0100002F0001250C	Dialogue Text	KINEEMA / STATION CALL	You	"I have my Villiers right here."	“我的维利耶就在这里呢。”
+0x0100002F00012519	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Losing his badge is bad enough. Tell him to find it and fast! We can't have some gang banger running around with it."	“搞丢警徽已经够糟糕的了。告诉他赶紧把东西找回来！我们可不能让青少年罪犯带着它到处跑。”
+0x0100002F0001251F	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Thank god for that! That would have been a nightmare. I don't even want to imagine the poor *shit* who has to relay that kind of news to the captain.."	“谢天谢地！要不然绝对会是一个噩梦。我甚至都不敢想象，哪个*可怜虫*敢把这种消息汇报给警长……”
+0x0100002F0001252D	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	Another crackled sigh of relief. "Anything else we can do for you? Over."	又是一阵如释重负的叹息。“还有什么能帮到你的吗？完毕。”
+0x0100002F00012534	Dialogue Text	KINEEMA / STATION CALL	You	"I'm doing my best, okay?"	“我已经尽力了，好吗？”
+0x0100002F0001253A	Dialogue Text	KINEEMA / STATION CALL	You	Say nothing.	什么也不说。
+0x0100002F00012544	Dialogue Text	KINEEMA / STATION CALL	You	"Don't be an asshole, I'm on the case."	“别犯浑了，我正在处理这个案子。”
+0x0100002F00012576	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, sir. Sorry, but I'm under orders to give a negative to requests for personal information. Over."	“10-4，先生。抱歉，但是我奉命不能透露任何个人信息。完毕。”
+0x0100002F00012586	Dialogue Text	KINEEMA / STATION CALL	You	"You mean you can't tell me *anything* about me? But I'm me!"	“你的意思是说，你*什么*也不能告诉我了？但是，是我自己的信息哎！”
+0x0100002F0001258C	Dialogue Text	KINEEMA / STATION CALL	You	"Understood."	“明白。”
+0x0100002F00012593	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4. Anything else, sir? Over."	“10-4。还有什么事吗，先生？完毕。”
+0x0100002F0001259D	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4. Orders are still orders. Anything else? Over."	“10-4。命令就是命令。还有什么事吗？完毕。”
+0x0100002F00012C21	Dialogue Text	KINEEMA / STATION CALL	Kim Kitsuragi	The lieutenant's eyes go wide. "But you said..." He shakes his head. "Never mind."	警督睁大眼镜。“但你不是说……”他摇摇头。“算了。”
+0x0100002F000132EF	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"We're all glad to hear you've not lost your gun, officer. Do you need further assistance? Over."	“听到你的警枪没有弄丢，我们大家都很高兴，警官。你需要进一步的援助吗？完毕。”
+0x0100002F00013589	Dialogue Text	KINEEMA / STATION CALL	You	"Didn't you glue your eyes shut earlier? And now you're making fun of *me*?!"	“你之前不是用胶水把眼睛粘上了吗？现在又开始取笑*我*了？！”
+0x0100002F0001358F	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	The man is laughing too hard to form coherent sentences. The only words you can make out are 'lost' and 'badge'.	那人笑得太厉害，一句连贯的话都说不出来。你唯一能辨认出来的词只有‘丢失’和‘警徽’。
+0x0100002F000135C4	Dialogue Text	KINEEMA / STATION CALL	You	"I'm looking for my address. I don't know where I live."	“我正在找我的地址。我不知道自己住哪。”
+0x0100002F000135CA	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4. Your address---"	“10-4。你的地址——”
+0x0100002F000135D1	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Hold up, Jules. He doesn't fucking know where he lives?! Did I hear that right?"	“等等，朱尔斯。他妈的，他不知道自己住哪？！我没听错吧？”
+0x0100002F000135D8	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Seems like it, sir."	“好像是的，先生。”
+0x0100002F000135DF	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"No. Fuck him. Don't tell him anything, you understand? He's been hellbound for the gutter, let him have it."	“不。去他妈的。什么都不要告诉他，你明白了吗？他已经泡进地狱的阴沟里了，让他自作自受。”
+0x0100002F000135EB	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Sorry, sir. Anything more I can do for you? Over."	“抱歉，先生。还有什么我能为你做的吗？完毕。”
+0x0100002F000135FA	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4. Your badge should have most of your personal details? Look over that. Over."	“10-4。你的警徽里应该包含了你的大部分个人信息？仔细检查一下吧。完毕。”
+0x0100002F00013601	Dialogue Text	KINEEMA / STATION CALL	You	"I, uh... I don't have it. My badge."	“我，呃……我没有。警徽。”
+0x0100002F0001360A	Dialogue Text	KINEEMA / STATION CALL	You	"Of course. My badge. I can look at my badge that I have." (Lie.)	“当然了。我的警徽。我可以看看警徽。”（撒谎。）
+0x0100002F00013618	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4. Anything else for you, sir? Over."	“10-4。还有别的事吗，先生？完毕。”
+0x0100004C00000761	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Sergeant Torson here is wondering if you are still in possession of your genitalia. Over."	“托森警长想知道你的命根子还在不在。完毕。”
+0x0100004C0000076C	Dialogue Text	KINEEMA / STATION CALL	You	"Yes, I lost my wiener too, just lay off, okay?"	“是的，我的大香肠也弄丢了，消停点，行吗？”
+0x0100004C00000772	Dialogue Text	KINEEMA / STATION CALL	You	"I left it at his momma's after I fucked her ass all night. Tell him that."	“每天晚上跟他老娘走完后门之后，我就把宝贝放在她那里了。你就跟他这么说。”
+0x0100004C00000778	Dialogue Text	KINEEMA / STATION CALL	You	"I don't need to listen to this. Firewalker out!" (Turn off the radio.)	“我不需要听这个。火行者下线！”（关掉收音机。）
+0x0100004C0000077E	Dialogue Text	KINEEMA / STATION CALL	Kim Kitsuragi	"That did not go well. I guess the important thing is that you followed protocol and reported your lost items."	“看来不太顺利啊。我觉得你应该遵守规章制度，上报不见的东西，这很重要。”
+0x0100004C000007A6	Dialogue Text	KINEEMA / STATION CALL	Kim Kitsuragi	"Did we need anything else here?" He looks around in the cabin.	“还有什么别的需要吗？”他四下看了看乘車舱。
+0x0100004C000007B4	Dialogue Text	KINEEMA / STATION CALL	Coupris Kineema	The silence is almost deafening after you flick off the switch, severing the connection.	在你关掉开关，断开连接后，那片寂静几乎有点震耳欲聋。
+0x0100004C000007BA	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Thank god for that! That would have been a nightmare. I don't even want to imagine the poor prick who has to relay that kind of news to the captain."	“谢天谢地！要不然绝对会是一场噩梦。我甚至都不敢想象，哪个可怜虫敢把这种消息汇报给警长。”
+0x0100004C000007C5	Dialogue Text	KINEEMA / STATION CALL	You	"This might sound odd, but there's *personal details* I'd like to discuss."	“也许听起来会有些奇怪，但我想谈谈*个人信息*。”
+0x0100004C000007D2	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"I guess I can hold off the report for a few days." Oldboy lights another cigarette.	老男孩又点燃一支烟，然后说到：“我猜我可以把报告推迟几天。”
+0x0100004C000007E0	Dialogue Text	KINEEMA / STATION CALL	You	"Uh, can you repeat that?"	“啊，你能重复一遍吗？”
+0x0100004C000007FC	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"This shit does *not* leave this room! Not a word of this to the captain or anyone else. We'll give him a couple of days to pull his shit together!"	“这件破事*不能*从这个房间传出去！这句话千万别跟警长或者其他任何人说。我们会给他几天时间，让他赶紧他妈的振作起来！”
+0x0100004C00000804	Dialogue Text	KINEEMA / STATION CALL	Physical Instrument	The fuck do you need a gun for? Look at the pythons on your arms. You *are* a gun. The biggest one in the world.	你他妈要枪干嘛？看看你胳膊上的蟒蛇。你*就是*一支枪，世界上最大的枪。
+0x0100004C0000080F	Dialogue Text	KINEEMA / STATION CALL	Alice	She sighs. "Right... please hold."	她叹了口气。“好吧……请等一下。”
+0x0100004C00000815	Dialogue Text	KINEEMA / STATION CALL	Alice	"Just a moment, officer..."	“稍等一下，警官……”
+0x0100004C0000081B	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"I'm not going to..."	“我不会这么说的……”
+0x0100004C00000821	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"Ask him!"	“问他！”
+0x0100004C00000827	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Mack, man the door," he gestures Torson to block the doorway, then turns to Minot. "You know what he told me? 'I don't want to get better -- I want to get worse.' Those were his words." He sighs heavily and turns to address the room...	“麦克，守好门，”他朝托森打了个手势，让他堵住门口，然后转向迈诺特。“你知道他跟我说什么吗？‘我不想变好——我想变得更糟糕’这是他的原话。”他重重地叹了口气，然后转向房间……
+0x0100004C0000082D	Dialogue Text	KINEEMA / STATION CALL	Judit Minot	"I just know we can't give up on him when he's at his weakest. He wouldn't..." The crowd in the room has started fidgeting uncomfortably. Someone's trying to slip out unnoticed.	“我只知道我们不能在他最脆弱的时候放弃他。他不会……”房间里的众人开始有些坐立不安。有人想乘人不注意偷溜出去。
+0x0100004C00000833	Dialogue Text	KINEEMA / STATION CALL	Alice	"Just a second, officer..." She puts you on hold, the static crackling softly like a bonfire. After a while you hear an old man greet you from the radio. His rattly voice is oddly familiar:	“稍等一下，警官……”她把你放到保留状态，电流像营火一样，轻轻发出噼里啪啦的声响。过了一会儿，你听到一个电话那头传来一个老人的问候声，他那沙哑的声音让你觉得出奇的熟悉：
+0x0100004C00000839	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"That's a negative. Not going to say that. Over."	“那就是否定了。我不会这么说的。完毕。”
+0x0100004C00000844	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"What's he saying? Share with the class!"	“他说了什么？跟我们分享一下？”
+0x0100004C0000084A	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Yeah? How do you fucking plan to do that, huh?! Get him off the drink?! Go jogging with him in the morning and get him on carrot juice?! He's a lost man!"	“是吗？！那你他妈的打算怎么搞，哈？！让他戒酒？！早晨跟他一起慢跑，让他喝胡萝卜果汁？！他已经彻底迷失了！”
+0x0100004C00000850	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He... He said he sodomized your mother."	“他……他说跟你母亲走过后门。”
+0x0100004C00000856	Dialogue Text	KINEEMA / STATION CALL	Judit Minot	"We must help him." Minot looks down at her neatly polished black shoes. There is a quiet firmness to her voice when she speaks.	迈诺特低头看着她那双锃亮的黑色皮鞋。当她说话时，她的声音平静而坚定：“我们必须帮他。”
+0x0100004C0000085C	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"The prick ate momma's vanilla waffles at the captain's birthday party! Some nerve he's got..."	“那个混蛋在警长的生日宴会上吃过妈妈做的香草华夫饼！他真有胆量敢……”
+0x0100004C00000866	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"Sure her vanilla waffles were the only thing he ate?"	“确定他只吃了她的香草华夫饼吗？”
+0x0100004C00000872	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"Shut up, Chester, this isn't funny. This is my mom we're talking about!"	“闭嘴，切斯特，这一点也不好笑。你们说的可是我妈！”
+0x0100004C00000878	Dialogue Text	KINEEMA / STATION CALL	You	Say nothing.	什么也不说。
+0x0100004C0000087E	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"Tell him to apologize right now!"	“让他现在就给我道歉！”
+0x0100004C00000884	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, come in, officer! Over."	“10-4，呼叫，警官！完毕。”
+0x0100004C0000088A	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Sergeant Torson requests that you apologize for the claims you made about his mother. Over."	“托森警长要求你为刚才说出的关于他母亲的那些言论道歉。完毕。”
+0x0100004C00000890	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, come in..." He hesitates. "...*Fire walker*. Over."	“10-4，呼叫……”他有些犹豫。“……*火行者*。完毕。”
+0x0100004C0000089B	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"Yeah, Mullen was fucked alright. Sounded fucking drunk to me."	他突然插嘴进来：“是啊，马伦他妈的搞砸了。我听起来应该是他妈的喝醉了。”
+0x0100004C000008A1	Dialogue Text	KINEEMA / STATION CALL	You	"Okay, tell him I'm sorry -- It was just banter, I thought that's what cops do."	“好吧，告诉他我很抱歉——开个玩笑而已，没有恶意，我觉得警察都会这么干。”
+0x0100004C000008AC	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He says he's sorry and he didn't mean nothing by it."	“他说他很抱歉，还有他不是有意的。”
+0x0100004C000008B2	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"He what...? He lost his badge?!"	“他什么……？他的警徽不见了？！”
+0x0100004C000008B8	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"Okay, tell him..."	“好吧，告诉他……”
+0x0100004C000008BE	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Enough!" The commotion dies down. All eyes turn to Satellite-Officer Vicquemare. "None of this is funny! It's fucking sad, that's what it is. He's a cop. He's one of us, goddamn this..."	随迁警官维克玛咬住指关节，接着一阵吼声传遍整个房间：“够了！”骚乱瞬间平息下来。所有目光都转向了他。“这一点都不好笑！真他妈太悲哀了，这他妈叫悲哀。他是个警察。他是我们中的一员，真他妈该死……”
+0x0100004C000008C4	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Tell him to find his *goddamn* badge and gun, that's the *only* thing that matters here!"	“告诉他，赶紧找到他那*该死*的警徽和警枪，这是眼下*唯一*重要的事！”
+0x0100004C000008ED	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-2, 10-5. This is 41st, come in! Over."	“10-2，10-5。这里是41分局，呼叫！完毕。”
+0x0100004C000008F3	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"I'm his *goddamn* partner!"	“我是他*该死的*搭档！”
+0x0100004C000008F9	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"Yeah, Mack's right, that was some gnarly shit there..."	他右边那个高个子笑的眼泪还没擦干。“是啊，麦克说得对，妈的痴线……”
+0x0100004C00000903	Dialogue Text	KINEEMA / STATION CALL	Volition	You *really* need to get your shit together, this is nearing a complete meltdown.	你*真的*需要好好振作起来，现在离彻头彻尾的灾难已经很近了。
+0x0100004C00000918	Dialogue Text	KINEEMA / STATION CALL	You	"Fire. Walker."	“火。行者。”
+0x0100004C0000091E	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Fire-*water*? He's lost it... Fuck it, tell him to find his goddamn badge and gun, that's the only thing that matters!"	“火*什么*？他失心疯了……去他妈的，告诉他，赶紧找到他那该死的警徽和警枪，这是眼下唯一重要的事！”
+0x0100004C00000924	Dialogue Text	KINEEMA / STATION CALL	You	"Hey, if you don't like the fallout, maybe *don't* fuck with the Firewalker!"	“喂，如果你不想自食恶果，那也许就*不要*惹毛火行者！”
+0x0100004C0000092A	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Who?!" The disbelief in Vicquemare's voice is overwhelming.	“谁？！”维克玛的声音里有几分难以置信的味道。
+0x0100004C00000930	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-2 (Receiving Well), 10-5 (Relay Message). This is 41st, come in! Over."	“10-2（接收良好），10-5（转达口信）。这里是41分局，呼叫！完毕。”
+0x0100004C00000936	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Wrap it up, don't indulge in his drunken antics!"	“打住，别再沉溺在他酒后的丑态里了！”
+0x0100004C0000093C	Dialogue Text	KINEEMA / STATION CALL	You	"Listen, I've actually lost my gun, too."	“听着，我其实还把枪搞丢了。”
+0x0100004C00000942	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Mack, he says maybe you shouldn't have antagonised the Firewalker in the first place."	“麦克，他说也许你不应该一开始惹恼火行者。”
+0x0100004C00000954	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Satellite-Officer Vicque---"	“随迁警官维克玛……”
+0x0100004C0000095A	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"What do you need, sir? Over."	“你有什么需要，先生？完毕。”
+0x0100004C00000960	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	Mack 'The Torso' Torson is finger-fucking his fist, laughing hoarsely and apparently telling some dirty story to his partner, Chester McLaine, near the entrance.	‘躯干’·麦克·托森用手指头套弄着他的拳头，沙哑地大笑着，显然是在跟自己的搭档，入口处的切斯特·麦克莱恩讲着什么下流的故事。
+0x0100004C00000966	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"I am afraid he might be referring to himself as *Firewater*, sir."	“恐怕他自称是*火行者*，先生。”
+0x0100004C00000970	Dialogue Text	KINEEMA / STATION CALL	Esprit de Corps	A scrawny old man sits in a dusty cubicle, smoking, with a large white rectangle sewn on his vest. In front of him is a box-shaped apparatus with an array of wires and antennas -- the radio switchboard.	一个骨瘦如柴的老人站在一个满是灰尘的小隔间里抽着烟，马甲上还绣着一个巨大的白色长方形。在他面前是一个盒子形状的装置，上面布满一排排电线和天线——是无线电交换机。
+0x0100004C00000976	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He acknowledges your joke and asks you to lay off."	“他收到了你的笑话，要你消停点。”
+0x0100004C00000988	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Lay off? Lay off?! Tell him we'll lay off when he retrieves the goddamn police property that he has been entrusted with."	“消停？他说消停？！告诉他，等他把上面郑重托付给他的警方财物找回来之后，我们再消停。”
+0x0100004C0000098E	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, I know, I already wrote it in a report, but..." He hesitates. "It will stay on my desk for a few days. Over."	“10-4，我知道，我已经写进报告了，但是……”他有些犹豫。“它几天后才会出现在我的桌子上。完毕。”
+0x0100004C000009AC	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Does he actually want something or is he hell-bent on disrupting our work?!"	“他是真的想要干什么，还是不顾一切地想要干扰我们的工作？！”
+0x0100004C000009B2	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Satellite-Officer..."	“随迁警官……”
+0x0100004C000009BF	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-9, repeat message! I didn't get that, sir. Over."	“10-9，重复消息！我没听明白，先生。完毕。”
+0x0100004C000009C5	Dialogue Text	KINEEMA / STATION CALL	You	"No, I think I'm good. I think I'm good without my gun, thanks."	“不，我觉得我没事。就算没了枪，我也挺好的，谢谢。”
+0x0100004C000009D0	Dialogue Text	KINEEMA / STATION CALL	You	"I heard him and I'm on it. "	“我听到他的话了，马上就去办。”
+0x0100004C000009D6	Dialogue Text	KINEEMA / STATION CALL	Inland Empire	You probably don't *want* to continue on this road.	也许你不*想*继续这条路了。
+0x0100004C000009DC	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, affirmative. Officer is in pursuit of his firearm." There's static.	“10-4，肯定。警官在追查他的武器。”有一点杂音。
+0x0100004C00000A03	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"I'm going to report that you are in pursuit of your service weapon. Over."	“我会回报说你在追查自己的警枪。完毕。”
+0x0100004C00000A09	Dialogue Text	KINEEMA / STATION CALL	You	"10-4, Station 41. I've got a urgent business. Over."	“10-4，41分局。我有急事。完毕。”
+0x0100004C00000A15	Dialogue Text	KINEEMA / STATION CALL	You	"Hi, this is... *me* here, I work at your station."	“嗨，是……*我*，我在你们警局工作。”
+0x0100004C00000A1B	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-... uh... excuse me, sir? Over."	“10-……呃……请原谅，先生？完毕。”
+0x0100004C00000A21	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"The officer is describing his genitalia in exaggerated terms. Over."	“这名警官在用夸张的语言描述他的命根子。完毕。”
+0x0100004C00000A2C	Dialogue Text	KINEEMA / STATION CALL	You	"It's got a magnetic accelerator an *arc* that accelerates the energized ball of periwinkle-blue hydrogen-based *blaasma* to near light speed..."	“它有一个电磁加速器，还有一个*电弧*，可以将氢基滨螺蓝*等离子*的能量球加速到接近光速……”
+0x0100004C00000A32	Dialogue Text	KINEEMA / STATION CALL	Interfacing	Click, your index finger goes as the thumb cocks the hammer, click, cock, click... and then nothing. Three-shot, probably. Needs reloading. Break it open.	咔哒，你用食指和翘起的大拇指做成锤子的样子，咔哒，嘀嗒，咔哒……然后停下来。大概是敲了三下。需要重新填充。把它打开。
+0x0100004C00000A38	Dialogue Text	KINEEMA / STATION CALL	Encyclopedia	You are describing a Villiers three-shot 9mm Pepperbox with a revolving barrel.	你在描述一支维利耶9毫米、带转筒的三发转管手枪。
+0x0100004C00000A49	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"So, was there anything else?"	“所以，你还有别的事吗？”
+0x0100004C00000A4F	Dialogue Text	KINEEMA / STATION CALL	You	"You really think I'd lose my *Villiers 9mm*? Nine millimetres of red hot leaden pepper for you right here, boys!"	“你真以为我搞丢*维利耶9毫米*手枪了？小伙子们，给你们看看，9毫米火红热辣的铅制小辣椒！”
+0x0100004C00000A5B	Dialogue Text	KINEEMA / STATION CALL	You	"Triangular barrel, three shot, hammer at the end -- what else do you want from me? To tell you all about my wooden handle? Lay off, boys."	“三角枪管，三发，尾部有锤子——你还想从我这里得到什么？跟你说说我的木柄吗？消停点吧，小伙子们。”
+0x0100004C00000A67	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He's describing his Pepperbox alright."	“他在描述自己的转管手枪。”
+0x0100004C00000A6D	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4 (Message Received), 10-5 (Relay Message). What's your status? Over."	“10-4（收到消息），10-5（转达消息）。请报告你现在的情况？完毕。”
+0x0100004C00000A73	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, what's your status? Over."	“10-4，你现在什么情况？完毕。”
+0x0100004C00000A7D	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Well, I guess he'd better crack the case before sundown then!"	“好吧，那我猜他最好在太阳下山前把案子给破了！”
+0x0100004C00000A87	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, well that's a..."	“10-4，这是……”
+0x0100004C00000A8D	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"He isn't getting a red cent, you can tell him that!"	“他一分钱也拿不到，你可以直接告诉他！”
+0x0100004C00000A99	Dialogue Text	KINEEMA / STATION CALL	You	(Speak into the radio.) "It's a single-shot Armistice Kiejl A9. Over."	（对着无线电说。）“是单发枪，基耶尔止战者A9。完毕。”
+0x0100004C00000A9F	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Says it's a Kiejl 9mm...  Armistice."	“说它是一把基耶尔A9……止战者。”
+0x0100004C00000AAE	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Armistice? What, is he a fucking...? Clearly he doesn't have his Villiers anymore."	“什么？止战者？他妈的，难道他……显然他的维利耶没了。”
+0x0100004C00000AB4	Dialogue Text	KINEEMA / STATION CALL	Judit Minot	"What is going on here? Did something happen?" she asks, startled. Jean Vicquemare turns to her and says...	“这是怎么回事？出什么事了吗？”她惊恐地询问到。让·维克玛转向她，然后说到……
+0x0100004C00000ABE	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Understood, sir. Over."	“明白，先生。完毕。”
+0x0100004C00000AC4	Dialogue Text	KINEEMA / STATION CALL	You	"In contact it *detonates* with the power of a dying star, erasing every living thing from existence. Oh, and did I mention it is dripping with sexy blue blaasma?"	“与它接触时，它会*引爆*出一颗垂死之星的能量，消灭所有生命的存在。哦，我有没有提过它还能发射性感的蓝色等离子光束？”
+0x0100004C00000ACA	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Uh... I'm going to need to put you on speaker for a second. Over."	“呃……我要开一下扬声器。完毕。”
+0x0100004C00000AD0	Dialogue Text	KINEEMA / STATION CALL	You	"Just reporting in. Over."	“只是报道一下。完毕。”
+0x0100004C00000AD6	Dialogue Text	KINEEMA / STATION CALL	You	"My status? I, uh..."	“我的情况？我，呃……”
+0x0100004C00000AE1	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Sounds like he's being deliberately vague."	“听起来他是故意含糊其辞。”
+0x0100004C00000AE7	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"Detective Mullen has done it again! 'Uh... where's my gun?'" the speaker crudely mimics your voice.	“马伦警探又来了！‘呃……我的枪呢？’”说话者粗鲁地模仿着你的声音。
+0x0100004C00000AFC	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"Dear god, he lost his gun!!! Oh my... I can't... He..." The man succumbs to laughter again.	“我的天啦，他的枪不见了！！！我的天……这简直……他怎么能……”那人忍不住又笑了起来。
+0x0100004C00000B02	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"Mack can face the Giant of Koko Nur by himself, but Disco here made him piss his pants!"	“麦克可以自己单挑科科努尔巨人，但是迪斯科却让他尿裤子了！”
+0x0100004C00000B08	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"Oh I... I can't... Fuuuuuck, he lost his... Ask him if he still has his wiener!"	“哦我……我……我不能……该死，他弄丢了他的……问问他的香肠还在不在！”
+0x0100004C00000B0E	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"This isn't really a laughing matter..."	“这真的不是闹着玩的……”
+0x0100004C00000B25	Dialogue Text	KINEEMA / STATION CALL	You	(Put the microphone back in its holder and quit the call.)	（把话筒放回支架，结束通话。）
+0x0100004C00000B2B	Dialogue Text	KINEEMA / STATION CALL	You	"That's affirmative. Over."	“那是肯定的。完毕。”
+0x0100004C00000B31	Dialogue Text	KINEEMA / STATION CALL	You	"I just thought you might have heard of them, that's all."	“我只是觉得你可能听说过他们，仅此而已。”
+0x0100004C00000B3D	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He says he doesn't have it."	“他说他没有。”
+0x0100004C00000B49	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Anything else, sir? Over."	“还有别的事吗，先生？完毕。”
+0x0100004C00000B53	Dialogue Text	KINEEMA / STATION CALL	You	"Nothing. Never mind."	“没什么。没事了。”
+0x0100004C00000B59	Dialogue Text	KINEEMA / STATION CALL	You	"Say. My. Name."	“说出。我的。名字。”
+0x0100004C00000B64	Dialogue Text	KINEEMA / STATION CALL	You	"It's a gun, what can I say? A regular god damn murder weapon, you know how they are -- *bang-bang*."	“它可是枪，我能说什么？一把普通的该死的杀人武器，你知道它们是怎么回事——*砰-砰*。”
+0x0100004C00000B76	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He says it's important to the case."	“他说对案子很重要。”
+0x0100004C00000B94	Dialogue Text	KINEEMA / STATION CALL	You	"Trick question. I'm a martial artist. My entire body is one big gun."	“偏题了。我是个武术家。我的整个身体就是一把枪。”
+0x0100004C00000B9A	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He says he's in trouble, doesn't have a place to sleep."	“他说自己有麻烦了，他没地方睡觉。”
+0x0100004C00000BA6	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-9, come again please. Over."	“10-9，再次呼叫。完毕。”
+0x0100004C00000BAC	Dialogue Text	KINEEMA / STATION CALL	Inland Empire	Oh, *requests a description*, huh? We'll *give* him one. Describe the Blaasma Gun.	哦，*请求描述*，哈？我们会*给*他一个。描述一下那把等离子枪。
+0x0100004C00000BB4	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Uh... He says he is a living weapon and we are trying to trick him."	“呃……他说他是一个活武器，我们想骗他。”
+0x0100004C00000BBA	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Vicquemare said..."	“维克玛说……”
+0x0100004C00000BC0	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Request denied, sir. Over."	“请求驳回，先生。完毕。”
+0x0100004C00000BC6	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-18. State your message, sir."	“10-18。请陈述你的信息，先生。”
+0x0100004C00000BCC	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-18, 10-20? Over."	“10-18，10-20？完毕。”
+0x0100004C00000BD2	Dialogue Text	KINEEMA / STATION CALL	Hand/Eye Coordination	We can do it, brother. You have it in the nerve endings in your hand. You just need to dig into your muscle memory.	我们可以做到的，兄弟。它就在你手中的神经末梢。你只需要挖出自己的肌肉记忆。
+0x0100004C00000BE1	Dialogue Text	KINEEMA / STATION CALL	You	Try to imagine the weapon in your hand.	试着想象手中的武器。
+0x0100004C00000BE7	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He's saying he lost his badge."	“他说自己的警徽不见了。”
+0x0100004C00000BFD	Dialogue Text	KINEEMA / STATION CALL	You	(Whisper to the lieutenant.) "Kim, what are you packing?"	（跟警督说悄悄话。）“金，你配的什么枪？”
+0x0100004C00000C03	Dialogue Text	KINEEMA / STATION CALL	You	Say nothing.	什么也不说。
+0x0100004C00000C09	Dialogue Text	KINEEMA / STATION CALL	Kim Kitsuragi	"It's a single-shot Kiejl A9. An *Armistice* to be precise."	“是一支基耶尔A9单发枪。更准确的说，是一把*止战者*。”
+0x0100004C00000C0F	Dialogue Text	KINEEMA / STATION CALL	You	"Hey, who is this?!"	“喂，你是谁？！”
+0x0100004C00000C15	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Host in heaven, did he lose his gun *and* his mind?"	“我的神啊，他是把警枪*和*脑子都搞丢了吗？”
+0x0100004C00000C1B	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"It's your partner, Satellite-Officer Vicquemare, sir. Over."	“是你的搭档，随迁警官维克玛，先生。完毕。”
+0x0100004C00000C21	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He's asking who you are."	“他问你是谁。”
+0x0100004C00000C27	Dialogue Text	KINEEMA / STATION CALL	You	"Please, I don't wanna be here... I have to..."	“拜托，我不想待在这里……我要……”
+0x0100004C00000C2D	Dialogue Text	KINEEMA / STATION CALL	You	"Look, I don't have it, all right? I don't have my gun."	“看，我这里没有，好吗？我的枪没了。”
+0x0100004C00000C43	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He says it's just a regular gun."	“他说只是一把普通的枪。”
+0x0100004C00000C49	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"What? What is it?! He's still on the line?!"	“什么？搞什么鬼？！他还没挂断吗？！”
+0x0100004C00000C57	Dialogue Text	KINEEMA / STATION CALL	Rhetoric	Just say you lost your gun. Anything else would only make the situation worse here.	就说你把枪弄丢了。说别的只会让情况变得更糟糕。
+0x0100004C00000C5D	Dialogue Text	KINEEMA / STATION CALL	You	"Please just talk human to me. These numbers mean nothing to me."	“请跟我说人话。这些数字对我来说毫无意义。”
+0x0100004C00000C63	Dialogue Text	KINEEMA / STATION CALL	You	"Enough with this now, I have other things to discuss."	“这个说够了，我还有其他的事要讨论。”
+0x0100004C00000C69	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Satellite-Officer McLaine requests a description of your weapon. Over."	“随迁警官麦克莱恩要求描述一下你的武器。完毕。”
+0x0100004C00000C6F	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Losing his badge is bad enough. Tell him to find it and *fast*! We can't have some gangbanger running around with it."	“搞丢警徽已经够糟糕的了。告诉他*赶紧*把东西找回来！我们可不能让青少年罪犯带着它到处跑。”
+0x0100004C00000C7D	Dialogue Text	KINEEMA / STATION CALL	You	"No, I'm alright, I'm all right. I had... other things."	“不，我没事，我挺好的。我还有……其他事情。”
+0x0100004C00000C83	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He asked if he ever told me about his days before joining the RCM."	“他问我，自己有没有说过加入RCM之前的日子。”
+0x0100004C00000C89	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"Ask him..." The speaker gasps for air. "Ask him if he lost his *gun* too!" The room roars with laughter.	“问问他……”说话人喘着气。“问问他是不是把*枪*也搞丢了！”整个房间哄堂大笑。
+0x0100004C00000C8F	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Sergeant Torson wants to know if you lost your gun too. Over."	“托森警长想知道你是不是把枪也搞丢了。完毕。”
+0x0100004C00000C9A	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Uh... No, sir, I haven't. You're not really keen on mentioning your home life, so I've always assumed things weren't that good on that front. Over."	“呃……不，先生，我没有。你不太愿意提起自己的家庭生活，所以我一直假设那方面不太顺利。完毕。”
+0x0100004C00000CA4	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Sergeant Torson was wondering if you found your badge yet? Over."	“托森警长问你有没有找到警徽？完毕。”
+0x0100004C00000CAA	Dialogue Text	KINEEMA / STATION CALL	You	"Yes, tell him I found it from his mother's bed."	“是的，告诉他，我在他妈的床上找到了。”
+0x0100004C00000CB0	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Alright." The operator turns back to you. "That's a negative on the additional funds, sir. Over."	“好吧。”接线员回到你这边。“提供额外资金的要求被否决了，先生。完毕。”
+0x0100004C00000CB6	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Any other good news?"	“还有什么好消息吗？”
+0x0100004C00000CC1	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He's not replying. Looks like he is still looking for it." You can hear laughter in the background.	“他没有回应。看来他还在找。”你听到背景里的笑声更大了。
+0x0100004C00000CCD	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Negative, sir. Over." You can hear laughter in the background.	“否定，先生。完毕。”你听到背景里的笑声更大了。
+0x0100004C00000CE5	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"... new heights even for Captain Sober!"	“……就算是对于清醒的警长来说，这也是一个全新的高度！”
+0x0100004C00000CEB	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Sir, I will not have you talk to me in this manner. Over."	“先生，我不允许你这样对我说话。完毕。”
+0x0100004C00000CF1	Dialogue Text	KINEEMA / STATION CALL	You	Convince them that you didn't lose your gun.	让他们相信你的枪没丢。
+0x0100004C00000CF1	tooltip1	KINEEMA / STATION CALL	You	You didn't give an answer.	你没有给出回应。
+0x0100004C00000CF1	tooltip2	KINEEMA / STATION CALL	You	You still didn't answer.	你还是没有回应。
+0x0100004C00000CF1	tooltip3	KINEEMA / STATION CALL	You	Host allmighty, you still haven't answered anything!	天啦，你还是什么也没回应！
+0x0100004C00000CFF	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Come again, sir, I didn't get that! 10-9. Over!"	“请重复一遍，先生，我没听明白！10-9。完毕！”
+0x0100004C00000D0A	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Did he lose his memory along with his fucking badge?" The man in the background sounds like he's losing his patience.	“他的警徽丢了，不会他妈的连记忆也一起跟着丢了吧？”背景里的男声好像有点不耐烦了。
+0x0100004C00000D10	Dialogue Text	KINEEMA / STATION CALL	You	Say nothing.	什么也不说。
+0x0100004C00000D1B	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-1, you're breaking up. 10-9, repeat please. Over."	“10-1，你的信号断了。10-9，请重复。完毕。”
+0x0100004C00000D29	Dialogue Text	KINEEMA / STATION CALL	You	Don't say anything.	什么也不说。
+0x0100004C00000D2F	Dialogue Text	KINEEMA / STATION CALL	You	"I don't want to be here anymore, I want to go home! Please come and get me..."	“我不想再待在这里了，我想回家！请来接我回去……”
+0x0100004C00000D35	Dialogue Text	KINEEMA / STATION CALL	You	Remain silent with terror.	因恐惧而保持沉默。
+0x0100004C00000D3B	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-9, come in, officer! Over."	“10-9，呼叫，警官！完毕。”
+0x0100004C00000D41	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Come in, officer! 10-9, repeat message please. Did you misplace your firearm? Over."	“呼叫，警官！10-9，请重复消息。你把枪忘在什么地方了吗？完毕。”
+0x0100004C00000D47	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Says he lost his badge and needs to report it."	“他说警徽不见了，需要汇报。”
+0x0100004C00000D4D	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"This is Communications Officer Jules Pidieu, sir. Over."	“我是通讯员朱尔斯·佩迪鲁，先生。完毕。”
+0x0100004C00000D5E	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He says he didn't lose his gun -- *or* his fun, whatever that means."	“他说他的枪没丢——*而且*姜也没丢，我也不知道是什么意思。”
+0x0100004C00000D69	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"Ask him to describe it! His gun! Not his *fun*, just the gun will do..." He laughs.	“让他描述一下！他的枪！不是他的*姜*，只要枪……”他笑了。
+0x0100004C00000D6F	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"State your message, sir. Over."	“请开始你的汇报，先生。完毕。”
+0x0100004C00000D75	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Let us address them now, sir. Over."	“让我们现在就开始吧，先生。完毕。”
+0x0100004C00000D7B	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He says he didn't."	“他说他没有。”
+0x0100004C00000D83	Dialogue Text	KINEEMA / STATION CALL	You	"I wanted to know if you got my badge's description right in your report. Could you read it to me -- name, rank, date of birth?"	“我想知道报告里我警徽的信息对不对。你能念给我听一下——名字，职称，还有出生日期？”
+0x0100004C00000D8B	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"Who lost his badge?"	“谁的警徽丢了？”
+0x0100004C00000D93	Dialogue Text	KINEEMA / STATION CALL	Half Light	Check your pockets! Check your... holy fuck, you don't know where it is, do you?!	检查一下你的口袋！检查一下你的……真他妈该死，你不知道它在哪，是吗？！
+0x0100004C00000DA4	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Uh, listen..." He seems to lower his voice a bit, carefully choosing his words. "It's okay... you can do it, sir. Over."	“呃，听着……”他好像稍微压低了一点声音，小心地组织着自己的词汇。“没事的……你可以的，先生。完毕。”
+0x0100004C00000DB0	Dialogue Text	KINEEMA / STATION CALL	Half Light	Okay, it's gone. Your gun is most definitely gone.	好吧，没了。你的枪绝对是没了。
+0x0100004C00000DBF	Dialogue Text	KINEEMA / STATION CALL	You	"Please just say my name, Jules!"	“直接说出来吧，我的名字，朱尔斯！”
+0x0100004C00000DC9	Dialogue Text	KINEEMA / STATION CALL	You	"I need to report my badge missing."	“我需要汇报一下警徽丢失的事。”
+0x0100004C00000DD5	Alternate1	KINEEMA / STATION CALL	You	"10-10 (Transmission Completed, Standing By). Over." (End call with the 41st.)	“10-10（传送完毕，等待中）。完毕。”（结束与41分局的通话。）
+0x0100004C00000DD5	Dialogue Text	KINEEMA / STATION CALL	You	"That's all for now." (End call with the 41st.)	“目前就这些吧。”（结束与41分局的通话。）
+0x0100004C00000DE3	Dialogue Text	KINEEMA / STATION CALL	You	"I am in dire need of financial assistance."	“我急需财政援助。”
+0x0100004C00000DEF	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Uh... okay, 10-4, sir -- I hear you, relay your question. Over."	“呃……好吧，10-4，先生——我听见了，传达你的问题。完毕。”
+0x0100004C00000DF5	Dialogue Text	KINEEMA / STATION CALL	You	"Yeah, let's wrap this up." (Conclude.)	“是啊，到此为止吧。”（总结。）
+0x0100004C00000E05	Dialogue Text	KINEEMA / STATION CALL	Horrific Necktie	Suddenly the necktie feels like a boa constrictor around your neck, squeezing the dear life out of you.	突然间，脖子上的领带感觉就像是一条蟒蛇，想要压榨你宝贵的生命。
+0x0100004C00000E1C	Dialogue Text	KINEEMA / STATION CALL	You	"No, the other one!"	“不，另外一个！”
+0x0100004C00000E22	Dialogue Text	KINEEMA / STATION CALL	You	"Okay, I heard you -- no funds."	“好吧，我听到了——没有经费。”
+0x0100004C00000E2D	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"Why, did he find it?" The room at the other end of the line erupts in volcanic laughter.	“为什么，他找到了吗？”无线电另一端的房间里爆发出猛烈的笑声。
+0x0100004C00000E38	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"For god's sake, cut this shit out! Tell him to stop wasting time and be a goddamn policeman for a change!"	“看在上帝的份上，少来这套狗屁！告诉他别浪费时间了，改变一下，当个该死的警察吧！”
+0x0100004C00000E3E	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-9, come again, I didn't get that. Over." The animated conversation in the back is making it difficult for him to hear you.	“10-9，再次呼叫，我没听明白。完毕。”背景传来热烈的谈话声，让他很难听见你的声音。
+0x0100004C00000E46	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He asks you to please stop saying he lost his badge."	“他问能不能别说弄丢警徽的事了。”
+0x0100004C00000E4C	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He wants to verify the information on his badge."	“他想核实警徽上的信息。”
+0x0100004C00000E52	Dialogue Text	KINEEMA / STATION CALL	You	"It is paramount to the investigation that you grant me more money."	“再多给我点钱，这对调查来说至关重要。”
+0x0100004C00000E58	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"But of course, it says Dick Mullen -- High General of the Revacholian Cavalry Force."	“当然了，迪克·马伦——瑞瓦肖骑兵队的高级上将如是说。”
+0x0100004C00000E62	Dialogue Text	KINEEMA / STATION CALL	You	"Could you all please just stop saying 'lost his badge' for a moment?!"	“你们能不能稍微消停一会儿，别说‘弄丢警徽’的话了？！”
+0x0100004C00000E68	Dialogue Text	KINEEMA / STATION CALL	Rhetoric	Wait! Before you say anything stupid, think it through!	等等！在你说出什么蠢话之前，先好好考虑一下！
+0x0100004C00000E6E	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"Yeah, Mack's right, this was some gnarly shit there. I mean, before he started begging for money -- it was..."	他右边那个高个子笑的眼泪都没干。“是啊，麦克说得对，妈的痴线。我是说，在他开始开口讨钱的时候——实在是……”
+0x0100004C00000E7B	Dialogue Text	KINEEMA / STATION CALL	You	"Please, I'm begging you here! I don't even have a place to sleep tonight."	“拜托，我求求你们！我今晚都没地方睡觉了。”
+0x0100004C00000E89	Dialogue Text	KINEEMA / STATION CALL	Kim Kitsuragi	He gives you a long concerned look, then nods. "We should get on with our tasks. Work always helps me centre myself. Now... anything else you need from my vehicle or...?"	他关切地看了你很长时间，然后点点头。“我们应该继续完成任务。工作总是可以帮我集中注意力。现在……你还需要我車里的什么东西，或者……”
+0x0100004C00000E8F	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"What? What is it? What can he possibly still want from us?!"	“什么？这是干什么？他还想从我们这儿得到什么？”
+0x0100004C00000E95	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, I hear you. I don't have the authority to grant your request, but...."	“10-4，我听见了。我无权答应你的请求，不过……”
+0x0100004C00000E9B	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He is asking for money."	“他想要钱。”
+0x0100004C00000EA1	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-9. Over."	“10-9。完毕。”
+0x0100004C00000EA7	Dialogue Text	KINEEMA / STATION CALL	You	"I don't want to talk about it. Let's just go."	“我不想提这个。我们走吧。”
+0x0100004C00000EAD	Dialogue Text	KINEEMA / STATION CALL	You	"What, you've never seen a man getting a panic attack before?" (Try to keep breathing.)	“怎么，你之前没见过别人惊恐发作吗？”（试着努力呼吸。）
+0x0100004C00000EB3	Dialogue Text	KINEEMA / STATION CALL	You	"We call it *subterfuge* in the force. Ever heard of it?" (Wipe away tears.)	“我们警察系统都叫这个是*托词*。之前听过吗？”（擦掉眼泪。）
+0x0100004C00000EBE	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-9, repeat message. Over."	“10-9，重复消息。完毕。”
+0x0100004C00000ECA	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Roger that. 10-10. Over and out." With those words the cabin becomes silent again, the radio-microphone resting on its hook.	“收到。10-10。通话完毕。”话音刚落，整个乘坐舱又陷入沉默，无线话筒也回到了自己的位置上休息。
+0x0100004C00000ED0	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"His badge. He lost his goddamned fucking badge."	“他的警徽。他居然他妈的把该死的警徽弄丢了。”
+0x0100004C00000ED6	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"What's going on?"	“出什么事了？”
+0x0100004C00000EE0	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	"He lost his *what* now?!"	“现在他又弄丢*什么*了？”
+0x0100004C00000EE6	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"What is he saying?"	“他说什么？”
+0x0100004C00000EF0	Dialogue Text	KINEEMA / STATION CALL	Kim Kitsuragi	"What was that?" the lieutenant asks in a soft voice, gently grabbing your shoulder. "It's okay, detective."	“那是怎么回事？”警督的语气很温柔，轻轻地抓住了你的肩膀。“没事的，警探。”
+0x0100004C00000EF6	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"Ask him... Ask him to check his hand -- the one without a wine bottle -- I bet that's where his badge is!"	“问问他……”更多笑声传了过来。“让他检查一下自己的手——没拿酒瓶子那只——我打赌警徽就在那里！”
+0x0100004C00000EFC	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"You mean your partner? Over."	“你是说你的搭档吗？完毕。”
+0x0100004C00000F02	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"Supercop here lost his badge!"	“我们的超级警探把自己的警徽搞丢了！”
+0x0100004C00000F08	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Sir, Satellite-Officer Vicquemare says..."	“先生，随迁警官维克玛说……”
+0x0100004C00000F13	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Is it *him*?!" a dry voice asks in the background. "What does he want?"	“是*他*吗？！”背景里响起一个干巴巴的声音。“他想干什么？”
+0x0100004C00000F21	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Is he fucking kidding?!"	“妈的，他在开玩笑吗？！”
+0x0100004C00000F27	Dialogue Text	KINEEMA / STATION CALL	Esprit de Corps	The small room is filled with cigarette smoke, abuzz with laughter, when Officer Judit Minot enters. Her left arm is in bandages and her hair trimmed short.	朱蒂斯·迈诺特警官走进来的时候，整个小房间充满了香烟的味道和笑声。她的左臂打着绷带，头发也剪短了。
+0x0100004C00000F32	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"This is Satellite-Officer McLaine, sir. Over."	“我是随迁警官麦克莱恩，先生。完毕。”
+0x0100004C00000F38	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Satellite-Officer Vicquermare concurs, losing your badge *is* serious. Over."	“随迁警官维克玛表示同意，丢失警徽*真的*很严重。完毕。”
+0x0100004C00000F3E	Dialogue Text	KINEEMA / STATION CALL	You	"Please refer to me with my full name in the future."	“以后请用全名称呼我。”
+0x0100004C00000F44	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Satellite-Officer Vicquemare is wondering if you might be joking and adds that this tarnishes the reputation of the entire station. Over."	“随迁警官维克玛想知道你是不是在开玩笑，还说这样会玷污整个警局的名声。完毕。”
+0x0100004C00000F4A	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He seems intoxicated and keeps asking me to call him by his name."	“他好像喝醉了，一直让我叫他的全名。”
+0x0100004C00000F54	Dialogue Text	KINEEMA / STATION CALL	You	"Any news about my... uhm, family?"	“有没有关于……呃，我家人的消息？”
+0x0100004C00000F5A	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	The radio falls silent and lifeless. The communications officer has disconnected the call.	无线电陷入沉默，死气沉沉的。通讯员断开了电话。
+0x0100004C00000F60	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"I'm the goddamned Hjelmdallermann! Yeah, tell him I hail from the north!" His laughter is high-pitched and joyous, almost childlike.	“我他妈就是来自赫姆达尔的男人！没错，你告诉他，我来自北方！”他的笑声尖锐而喜庆，几乎有点孩子气。
+0x0100004C00000F66	Dialogue Text	KINEEMA / STATION CALL	You	"My badge, I can't find it anywhere. Basically -- it's gone."	“我的警徽找不到了。基本上可以说是——不见了。”
+0x0100004C00000F6C	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Of course it's serious. He lost his fucking badge!"	“当然严重了。他把他妈的警徽弄丢了！”
+0x0100004C00000F72	Dialogue Text	KINEEMA / STATION CALL	Esprit de Corps	Eighteen kilometres to the south, in the 41st Precinct's relay booth, a small crowd has gathered around communication officer Jules "Oldboy" Pidieu -- around a dozen cops.	往南18公里，在41分局的休息室里，一小群人聚集在通讯员“老男孩”朱尔斯·佩迪鲁旁边——大概有10多个警员。
+0x0100004C00000F78	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Oh goddamnit, is he fucking kidding? The whole station's gonna be *dicked* for this."	“天，他是他妈的开玩笑吗？整个警局都会因此*遭殃*的。”
+0x0100004C00000F7E	Dialogue Text	KINEEMA / STATION CALL	You	"Have I ever told you about my life before the RCM?"	“我有没有跟你说过进入RCM之前的生活？”
+0x0100004C00000F8A	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"Fuck me! Mack, come here, you've got to hear this! Dick Mullen lost his badge!"	“我去！麦克，快来，快来听听！迪克·马伦的警徽不见了！”
+0x0100004C00000F90	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He says he needs money."	“他说他需要钱。”
+0x0100004C00000F96	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"I don't think he is."	“我觉得他不是。”
+0x0100004C00000F9C	Dialogue Text	KINEEMA / STATION CALL	You	"Please, I'm scared! I can't... fuck, I can't breathe... Help me, please!"	“拜托，我很害怕！我不能……该死，我不能呼吸了……帮帮我，求你！”
+0x0100004C00000FA7	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He wants to know who you are."	“他想知道你是谁。”
+0x0100004C00000FAD	Dialogue Text	KINEEMA / STATION CALL	You	"I heard him."	“我听到他的话了。”
+0x0100004C00000FB3	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He's asking you to stop. Says this is serious."	“他让你停下来，说这很严重。”
+0x0100004C00000FB9	Dialogue Text	KINEEMA / STATION CALL	Rhetoric	He's trying to keep you from further embarrassing yourself in front of your colleagues.	他试着让你不要继续在同事面前出丑了。
+0x0100004C00000FBF	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He says this has probably happened to other policemen before him and laughs sarcastically."	“他说在他之前，其他警探身上可能也发生过这种事情，而且讽刺地笑了。”
+0x0100004C00000FC5	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, I hear you, officer. I'm just going to make a note here that you are in pursuit of your *misplaced* badge. Over."	“10-4，我听见了，警官。我这边会留下记录——你正在搜寻*丢失*的警徽。完毕。”
+0x0100004C00000FCB	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Dick fucking Mullen, who do you think?"	“他妈的迪克·马伦，你以为是谁？”
+0x0100004C00000FD1	Dialogue Text	KINEEMA / STATION CALL	You	"Very funny. Who's the Mullen-joker?"	“很好笑。谁是小丑马伦？”
+0x0100004C00000FD7	Dialogue Text	KINEEMA / STATION CALL	You	"C'mon operator, tell them to stop. This is serious!"	“拜托，通讯员，让他们停下来。这事很严重！”
+0x0100004C00000FDD	Dialogue Text	KINEEMA / STATION CALL	You	"Ha-ha, officer has lost his badge, ha-ha. Like I'm the first cop to ever misplace his badge."	“哈哈，警官的警徽不见了，哈哈。搞得好像我是第一个弄丢警徽的警察一样。”
+0x0100004C00000FE3	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Is it *him*?!" a dry voice asks in the background. "What does he want?"	“是*他*吗？！”背景里响起一个干巴巴的声音。“他想干什么？”
+0x0100004C00000FE9	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Tell him to stop wasting time!"	“让他别再浪费时间了！”
+0x0100004C00000FF4	Dialogue Text	KINEEMA / STATION CALL	You	"Can't we just move on? I want to get it reported and be done with it." (Proceed.)	“我们就不能先继续吗？我就想做个汇报，然后就结束了。”（继续。）
+0x0100004C00000FFA	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"Did you want anything else, sir?" He chooses to ignore the voice in the background. "*Many* of your colleagues are also here. Over."	通讯员选择忽略背景里的声音。“还有什么需要的吗，先生？”他询问到。“你有*很多*同事也在这里。完毕。”
+0x0100004C00001000	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"He... he terminated the connection." The radio operator is no longer speaking to the microphone and is addressing someone in the background. "I guess he was in a hurry..."	“他……他结束通话了。”通讯员拿开麦克风，扭头看着背景里的某个人。“我猜他很着急……”
+0x0100004C00001010	Dialogue Text	KINEEMA / STATION CALL	Rhetoric	You're going to be looking at a straight jacket if you tell everyone you lost your memory. Be smart about this! Ask if he's there alone.	如果你告诉大家自己失忆了，肯定会被当成一个穿着束身衣的疯子。放聪明点！问问他是不是一个人。
+0x0100004C00001016	Dialogue Text	KINEEMA / STATION CALL	You	Try to loosen its death-grip and breathe.	试着松开它的死亡之握，努力呼吸。
+0x0100004C0000101C	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"Don't give that asshole anything, he's just gonna drink it all!"	“千万别给那个混帐东西，他肯定又会拿去喝酒的！”
+0x0100004C00001022	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, message received. This is a *very* serious situation. I need to 10-22 the captain. Over."	“10-4，收到消息。这是*非常*严重的情况。我需要汇报给10-22警长。完毕。”
+0x0100004C00001028	Dialogue Text	KINEEMA / STATION CALL	You	"What the hell is happening to me?!"	“我到底发生什么事了？！”
+0x0100004C00001034	Dialogue Text	KINEEMA / STATION CALL	Jean Vicquemare	"What is he saying?"	“他在说什么？”
+0x0100004C0000103A	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"It's officer Dick Mullen from the bestseller 'Dick Mullen and the Lost Identity,'" he says fighting off laughter.	“是迪克警官……”他努力忍着笑说到，“……那本畅销书《迪克·马伦与丢失的身份》里的马伦。”
+0x0100004C00001040	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"Mullen's drunk and emotionally aggressive. That's new."	“马伦喝醉酒，情绪有些激动。这还挺新鲜的。”
+0x0100004C00001046	Dialogue Text	KINEEMA / STATION CALL	Horrific Necktie	Hey, if you don't want to have the most *intense orgasm* of your life, fine -- don't! The grip eases a little.	喂，如果你想感受人生中最*激烈的高潮*，那好吧——就不要了！紧缚感稍微放松了一些。
+0x0100005100009631	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"It's officer Dick...." he tries to speak through laughter, "... Mullen from the bestseller 'Dick Mullen and the Lost Identity.'"	“是迪克警官……”他努力忍着笑说到，“……那本畅销书《迪克·马伦与丢失的身份》里的马伦。”
+0x0100005100009639	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	"Ask him..." The speaker succumbs to laughter. "Ask him to check his hand -- the one without a wine bottle -- I bet that's where his badge is!"	“问问他……”更多笑声传了过来。“让他检查一下自己的手——没拿酒瓶子那只——我打赌警徽就在那里！”
+0x0100005100009641	Dialogue Text	KINEEMA / STATION CALL	Mack Torson	Suddenly he interjects: "Yeah, Mullen was fucked alright. Sounded fucking drunk to me."	他突然插嘴进来：“是啊，马伦他妈的搞砸了。我听起来应该是他妈的喝醉了。”
+0x0100005100009649	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	The tall ginger on his right still has tears of laughter in his eyes. "Yeah, Mack's right, this was some gnarly shit there. I mean, before he started begging for money -- it was... "	他右边那个高个子笑的眼泪都没干。“是啊，麦克说得对，妈的痴线。我是说，在他开始开口讨钱的时候——实在是……”
+0x0100005100009651	Dialogue Text	KINEEMA / STATION CALL	Chester McLaine	The tall ginger on his right still has tears of laughter in his eyes. "Yeah, Mack's right, that was some gnarly shit there..."	他右边那个高个子笑的眼泪还没擦干。“是啊，麦克说得对，妈的痴线……”
+0x0100006B000077D5	Dialogue Text	KINEEMA / STATION CALL	You	What's there to think about?	有什么好考虑的？
+0x0100006B000077DB	Dialogue Text	KINEEMA / STATION CALL	You	I need *information*, not fear.	我需要*信息*，不是恐惧。
+0x0100006B000077E0	Dialogue Text	KINEEMA / STATION CALL	Rhetoric	Be smart about this, ask if he's there alone.	放聪明点，问问他是不是一个人。
+0x01000097000000F6	Dialogue Text	KINEEMA / STATION CALL	You	"I have successfully located my 9mm Villiers pistol. It's on me now and I won't lose it again."	“我已经成功找回我的维利耶9毫米手枪了。现在它就在我身上，我再也不会搞丢了。”
+0x01000097000000FC	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, sir. Roger that. And very glad to hear it. I will make relevant changes to the report."	“10-4，先生。收到。很高兴听到这个消息。我会在报告做出相应的修改。”
+0x0100009700000103	Dialogue Text	KINEEMA / STATION CALL	You	"Jules, I've heard that some people think of me as a La Puta Madre's peone... Do you think I'm corrupted?"	“朱尔斯，我听说有人以为我是马德雷教父的爪牙……你觉得我是不是受贿了？”
+0x0100009700000109	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"10-4, sir." There's a pause, as he seems to mull it over behind his enormous radio-microphone. "Well, there's been some talk, sir," he finally says reluctantly.	“10-4，先生。”对方停顿了一下，好像在巨大的无线电麦克风后沉默地思考着。“呃，确实有些传言，先生，”他最后还是不情愿地开了口。
+0x0100009700000127	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"I only meant that there's been some talk in the station, that's all. But there's always some talk in the station. You know how officers in Jamrock are..."	“我的意思是说，只是警局内部有些传言，就这些。不过警局里一直都有各种各样的传言。你也知道加姆洛克的警官什么样……”
+0x010000970000012D	Dialogue Text	KINEEMA / STATION CALL	Jules Pidieu	"I only meant that there's been some talk in the station, that's all. But there's always some talk in the station. You know how officers in Jamrock are..."	“我的意思是说，只是警局内部有些传言，就这些。不过警局里一直都有各种各样的传言。你也知道加姆洛克的警官什么样……”
+0x010000040001215C	Dialogue Text	KINEEMA / SYLVIE	You	"Sylvie? I believe we've met before. This is me, a detective from the Whirling-in-Rags!"	“塞尔维？我相信我们之前见过。是我，褴褛飞旋的警探！”
+0x01000004000121CC	Dialogue Text	KINEEMA / SYLVIE	Volition	Ouch.... That's like twenty points of pride-damage right there, buddy.	好痛……就好像你的自尊受到了20点的伤害，伙计。
+0x01000005000038DF	Dialogue Text	KINEEMA / SYLVIE	You	"He told me he asked you out. Are you saying it didn't happen?"	“他说他邀请你出去约会。你是说这事没发生吗？”
+0x01000005000038E7	Dialogue Text	KINEEMA / SYLVIE	You	"So you do agree that quitting your job just because someone asked you out is an *overreaction*?"	“所以你也同意，只是因为有人邀请你出去约会就辞职有点*反应过度*了？”
+0x01000005000038F0	Dialogue Text	KINEEMA / SYLVIE	You	"You mean me? You needed to get away from *me*?"	“你是说我吗？你需要远离*我*吗？”
+0x0100000500003902	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I *really* don't want to talk about this. Let's just forget about this, okay?"	“我*真的*不想提。忘了这个话题，好吗？”
+0x0100000500003913	Dialogue Text	KINEEMA / SYLVIE	Half Light	Sounds like it's going to be bad. Do you really want to know?	听起来应该挺糟糕的。你真想知道吗？
+0x0100000500003929	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"It almost looked like you pawned it, but believe me, I did *not* ask." She sighs.	“看起来你像是把它当掉了，但是相信我，我*没有*过问。”她叹了口气。
+0x010000050000393A	Dialogue Text	KINEEMA / SYLVIE	Electrochemistry	There is *no* resentment in her tone. She wants you to ask her out. No question about it.	她的语气中并没有*怨恨*。她想等你先开口，这一点是毫无疑问的。
+0x01000006000167C6	Dialogue Text	KINEEMA / SYLVIE	Authority	Garbage!	屁话！
+0x01000006000167CE	Dialogue Text	KINEEMA / SYLVIE	Authority	Push her *further*. Show her the error of her ways.	再*加把劲*推她。让她明白自己的错误。
+0x01000006000167E3	Dialogue Text	KINEEMA / SYLVIE	Logic	So the Union has a phone -- and there's one further down the coast. Got it.	所以工会有一台电话——海岸边也有一台。明白了。
+0x01000006000167EC	Dialogue Text	KINEEMA / SYLVIE	Kim Kitsuragi	"It was someone else." The lieutenant makes a note. "We'll find them sooner or later, officer. It just might take a while."	“是其他人。”警督做了笔记。“我们迟早会找到他们的，警官。只是可能要费点时间。”
+0x01000006000167F2	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"You have to ask someone else. There are thousands of people in Martinaise."	“你得去问问其他人。马丁内斯有好几千人呢。”
+0x01000006000167FA	Dialogue Text	KINEEMA / SYLVIE	Volition	Relax. You'll find them sooner or later -- this will just take some time.	放松。你迟早会找到他们的——只是需要花点时间。
+0x010000060001680C	Dialogue Text	KINEEMA / SYLVIE	You	Am I, though?	不过，我真是吗？
+0x0100000600016819	Dialogue Text	KINEEMA / SYLVIE	Encyclopedia	Rubbish! You're a green hat and feather totin' birdwatcher!	屁话！你是个戴着绿色羽毛帽子的观鸟人！
+0x0100000600016829	Dialogue Text	KINEEMA / SYLVIE	Encyclopedia	Or a cop with brain damage. One of the two.	或者是脑损伤的警察。二者之一。
+0x0100000600016838	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I won't even *mention* you waving your gun around, harassing customers, *threatening* to sing karaoke, threatening to kill yourself..."	“我甚至还没*提到*你拿着枪到处晃，打扰顾客，*恐吓*说要唱卡拉OK，还威胁说要自杀的事……”
+0x0100000600016847	Dialogue Text	KINEEMA / SYLVIE	Inland Empire	Interesting... you still have to find it, however.	有点意思……不过你还是要找到它。
+0x0100000600016869	Dialogue Text	KINEEMA / SYLVIE	Kim Kitsuragi	"Seems like Klaasje wasn't lying when she said it was her." The lieutenant makes a note. "This corroborates her story -- she made the call."	“看起来卡拉洁没有说谎，就是她。”警督记下笔记。“这就证实了她的故事——是她打的电话。”
+0x0100000600016875	Dialogue Text	KINEEMA / SYLVIE	Logic	Seems like Klaasje wasn't lying when she said she made the call. This corroborates.	看起来卡拉洁没有说谎，就是她打的电话。正好证实了这一点。
+0x0100000600016884	Dialogue Text	KINEEMA / SYLVIE	Drama	She iseth the fairest of them all. The ugliness of lies wouldst never escape her lips!	她是所有人中最诚实的那一个。丑陋的谎言永远不会从她的嘴里说出来！
+0x0100000600016894	Dialogue Text	KINEEMA / SYLVIE	Volition	Are you *sure* lieutenant? For some reason, you have a little doubt about that...	你*确定*吗，警督？出于某种原因，你有一点点怀疑……
+0x01000006000168A2	Dialogue Text	KINEEMA / SYLVIE	Volition	I wouldn't be so sure, detective.	我不会这么肯定，警探。
+0x0100000600016A41	Dialogue Text	KINEEMA / SYLVIE	Inland Empire	Interesting... you still have to find a copy though. Before you can blast it.	有点意思……不过你还需要找到一份拷贝——在你毁了它之前。
+0x0100000600016A7E	Dialogue Text	KINEEMA / SYLVIE	You	"Ah yes, *that* paperwork. I found it."	“啊，是的，*那份*文件。我找到了。”
+0x0100000600016A84	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Good. Then it's not lost." She seems a little relieved. "Just don't throw it in the toilet again. Toilets don't work like that."	“很好。那就没有丢。”她好像稍微宽慰了些。“别再把它扔进马桶里了。马桶也不喜欢这样的。”
+0x0100000600016A9B	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Especially when there's a hurricane loose. It's *your* fault for losing them -- not mine."	“特别是你的房间像被台风刮过一样。弄丢它们是*你*的错——不是我的。”
+0x0100000600016AA2	Dialogue Text	KINEEMA / SYLVIE	Inland Empire	Something in you wants to immediately *forget* about this. As if there was a reason you threw them away.	你心里有些东西想让你立即*忘掉*这一切。就好像你扔掉它们是有理由。
+0x0100000600016AB0	Dialogue Text	KINEEMA / SYLVIE	You	"Are you *sure* you don't remember where the paperwork I flushed is?"	“你*确定*不记得我把文件冲到什么地方了？”
+0x0100000600016AB6	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Sorry about that." She doesn't sound like she's too sorry. "Anything else, detective?"	“我很抱歉。”听起来她不是真的抱歉。“还有什么事吗，警探？”
+0x0100000600016ABC	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Yes, I'm sure. Every time we talk about it I'm going to be *more* sure I don't know."	“是的，我确定。每次我们谈到这个的时候，我都会*更加*确定自己不知道。”
+0x0100000600016AD5	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I, ugh... the ones I had to wrench out of your toilet?"	“我，呃……是我从你马桶里掏出来的那些吗？”
+0x0100000600016ADB	Dialogue Text	KINEEMA / SYLVIE	You	"What happened to them?"	“它们怎么了？”
+0x0100000600016AE1	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I... dammit, I don't remember what I did to your damn papers! I don't remember every little thing I do..." Resentment gives way to concern in her voice.	“我……见鬼，我不记得对你那些该死的文件做了什么！不是每件小事我都能记得的……”她声音中的怨恨被关心取代了。
+0x0100000600016AE7	Dialogue Text	KINEEMA / SYLVIE	Half Light	She's worried she might have accidentally done something bad. Then she remembers it's *you*.	她担心自己可能会不小心做了什么坏事。然后她记起来是*你*。
+0x0100000600016AED	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Especially when there's a hurricane loose. It's your fault for losing them -- not mine."	“特别是台风要来的时候。弄丢它们是你的错——不是我的。”
+0x0100000600016AF3	Dialogue Text	KINEEMA / SYLVIE	Inland Empire	Something in you wants to immediately *forget* about this. As if there was a reason you threw them away.	你身体里有某种东西叫嚣着，想让你*忘掉*这一切。就好像你扔掉它们是有理由。
+0x0100000600016AF9	Dialogue Text	KINEEMA / SYLVIE	You	"I put them in my toilet?"	“我把它们丢进厕所的？”
+0x0100000600016AFF	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Yes. You put *something* there. Causing bad water damage in the kitchen. I think it was that."	“是的。你把*什么东西*丢进去了。搞得厨房严重漏水。我想应该就是那个。”
+0x0100000600016B0F	Dialogue Text	KINEEMA / SYLVIE	Empathy	It's *on*. The Love Quest is on -- too late everyone! It's *on*. Take it to Garte now!	*开始*了。恋爱任务开始了——太迟了，大家！已经*开始*了。现在去找加尔特吧！
+0x0100000600019974	Dialogue Text	KINEEMA / SYLVIE	Perception (Hearing)	"God, why can't you just mind your own business..." she mutters.	“老天，为什么你就不能只管自己的事呢……”她嘟囔着。
+0x010000210000253A	Dialogue Text	KINEEMA / SYLVIE	You	"Sorry. Sorry about the song."	“抱歉。那首歌的事，我很抱歉。”
+0x0100002100002540	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"To hell with that song..."	“让那首歌见鬼去吧……”
+0x0100002100002549	Dialogue Text	KINEEMA / SYLVIE	You	"I'm sorry."	“我很抱歉。”
+0x0100002100002712	Dialogue Text	KINEEMA / SYLVIE	Logic	Why not?	为什么不呢？
+0x010000210000271F	Dialogue Text	KINEEMA / SYLVIE	Reaction Speed	If she used to work in the Whirling-in-Rags, then you must have met her.	如果她曾经在褴褛飞旋工作，那你肯定见过她。
+0x010000210000272E	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Oh, all sorts of things. Some disco, rock too. So much disco and rock..."	“哦，各种各样的东西。有迪斯科，还有摇滚。太多迪斯科和摇滚了……”
+0x010000210000283F	Dialogue Text	KINEEMA / SYLVIE	You	"Okay. I don't know what to say."	“好吧。我不知道该说什么。”
+0x0100002100002846	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Me neither."	“我也不知道。”
+0x010000210000313A	Dialogue Text	KINEEMA / SYLVIE	Rhetoric	Whatever this Empathy failure tells you -- *don't* take the quest. It's not wonderful, it's ugly.	不论共情跟你说什么——*不要*接下这个任务。它一点也不好，它很难看。
+0x0100002B00060B07	Dialogue Text	KINEEMA / SYLVIE	Empathy	That's where *you* step in. You're Lieutenant Love, matchmaker extraordinaire! Help the poor girl out, lest she turns into a *spinster*.	这就是*你*要介入的地方。你是爱情警督，超级红娘！帮帮那个可怜的女孩吧，免得她变成一个*老姑娘*！
+0x0100002B00060B17	Dialogue Text	KINEEMA / SYLVIE	You	Oh my god, not a spinster!	我的天啦，老姑娘可不行！
+0x0100002B00060B1D	Dialogue Text	KINEEMA / SYLVIE	You	Yeah. She's a woman. Probably just playing hardball with the goods. Women are just transactional.	是啊。她是个女人。也许只是对商品的态度比较强硬。女人是很看中交易的。
+0x0100002B00060B23	Dialogue Text	KINEEMA / SYLVIE	You	What am I, deranged? A woman doesn't have to be married. She doesn't even have to be in a relationship. Also, feminism.	我这是怎么回事，精神错乱了？谁说女人一定要结婚。她甚至都不需要谈恋爱。又是女权主义。
+0x0100002B00060B29	Dialogue Text	KINEEMA / SYLVIE	You	I'm happy to help, but maybe I could do so without all this internalized misogyny?	我很愿意帮忙，不过如果没有这些内在化的厌女症，也许也能行？
+0x0100002B00060B33	Dialogue Text	KINEEMA / SYLVIE	Empathy	What misogyny? I'm just telling things the way they are. Can't a man be honest in his *own head* anymore?	什么厌女症？我只是就事论事。难道男人就不能在*自己的头脑*里诚实一点吗？
+0x0100002B00060B39	Dialogue Text	KINEEMA / SYLVIE	Empathy	Not a spinster, my god!	绝对不能变成老姑娘，我的天！
+0x0100002B00060B45	Dialogue Text	KINEEMA / SYLVIE	Empathy	What *deranged*? I'm just telling things the way they are. Can't a man even be honest in his *own head* anymore?	什么*精神错乱*？我只是就事论事。难道男人就不能在*自己的头脑*里诚实一点吗？
+0x0100002B00060B58	Alternate1	KINEEMA / SYLVIE	Empathy	You have to intervene on behalf of the Ethnic Nation of Love (Equally of Sun and Lightning)! First calm her down, tell her you've got everything *under control* -- and then go have a boys' talk with Garte himself.	作为爱情民族国度（同样代表太阳和闪电）的代表，你必须介入其中！首先让她冷静下来，告诉她一切都在你的*掌控*之中——然后跟加尔特来一场男人之间的对话。
+0x0100002B00060B58	Alternate2	KINEEMA / SYLVIE	Empathy	You have to intervene on behalf of the People's Republic of Love! First calm her down, tell her you've got everything *under control* -- and then go have a boys' talk with Garte himself.	作为爱情共和国的代表，你必须介入其中！首先让她冷静下来，告诉她一切都在你的*掌控*之中——然后跟加尔特来一场男人之间的对话。
+0x0100002B00060B58	Alternate3	KINEEMA / SYLVIE	Empathy	You have to intervene on behalf of the International Lovetary Fund! First calm her down, tell her you've got everything *under control* -- and then go have a boys' talk with Garte himself.	作为国际爱情基金组织的代表，你必须介入其中！首先让她冷静下来，告诉她一切都在你的*掌控*之中——然后跟加尔特来一场男人之间的对话。
+0x0100002B00060B58	Alternate4	KINEEMA / SYLVIE	Empathy	You have to intervene on behalf of the Combined Ministry of Love and Education! First calm her down, tell her you've got everything *under control* -- and then go have a boys' talk with Garte himself.	作为爱情与教育综合部的代表，你必须介入其中！首先让她冷静下来，告诉她一切都在你的*掌控*之中——然后跟加尔特来一场男人之间的对话。
+0x0100002B00060B58	Dialogue Text	KINEEMA / SYLVIE	Empathy	You have to intervene on behalf of Love! First calm her down, tell her you've got everything *under control* -- and then go have a boys' talk with Garte himself.	你必须以爱情的名义介入其中！首先让她冷静下来，告诉她一切都在你的*掌控*之中——然后跟加尔特来一场男人之间的对话。
+0x0100002B00060B5F	Alternate1	KINEEMA / SYLVIE	Empathy	Think you can do that, Lieutenant Double-Yefreitor Love?\n	你能做到吗，双重荣誉爱情警督？
+0x0100002B00060B5F	Dialogue Text	KINEEMA / SYLVIE	Empathy	Think you can do that, Lieutenant Love?	你能做到吗，爱情警督？
+0x0100002B00060B6C	Dialogue Text	KINEEMA / SYLVIE	You	"Khm..." (To the microphone.) "Are you still there, kiddo? Listen... I've got everything under control."	“嗯……”（对着扩音器。）“你还在吗，姑娘？听着……一切都在我的掌控之中。”
+0x0100002B00060B73	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"No. What?"	“不。什么？”
+0x0100002B00060B80	Dialogue Text	KINEEMA / SYLVIE	You	"You and Garte, right? A little trouble under the sheets? Say no more, papa's got this. Big Poppa."	“你和加尔特，对吧？遇到了一点小问题？不用多说，都交给老爹吧。大老爹我。”
+0x0100002B00060B87	Dialogue Text	KINEEMA / SYLVIE	Empathy	Oh yeah. My point exactly. You know how they are -- transactional and hysteric. Loony broads.	哦耶。这就是我的观点。你知道是怎么回事——交易型，而且还歇斯底里。疯婆子。
+0x0100002B00060B8E	Dialogue Text	KINEEMA / SYLVIE	Empathy	You know what you've got to do. First you've got to calm her down, tell her you've got everything *under control* -- then go and have a little boys' talk with Garte himself.	你知道自己该做什么。首先让她冷静下来，告诉她一切都在你的*掌控*之中——然后跟加尔特来一场男人之间的对话。
+0x0100002B00060B95	Dialogue Text	KINEEMA / SYLVIE	You	"Daddy is going to take you on his lap, little darling."	“老爹要带你装逼带你飞，小宝贝。”
+0x0100002B00060B9B	Dialogue Text	KINEEMA / SYLVIE	You	Please no. I don't want to say any of those things. (Refuse the Love Quest -- although it's *wonderful*.)	请不要这样了。我不想再说这种话。（拒绝这个爱情任务——虽然真的感觉*很棒*。）
+0x0100002B00060BB4	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Oh god." The static appears to breathe heavily. "Please just stay out of my li..."	“天啦。”对方的呼吸开始变得沉重。“离我远一点……”
+0x0100002B00060BBD	Dialogue Text	KINEEMA / SYLVIE	You	"I know, baby, I know. It's just that you've got that sweet woman-child thing that makes men go *crazy*. Especially a man like Garte."	“我知道的，宝贝，我懂。只是你身上有一种可爱的女孩子家家的东西，能让男人为之*疯狂*。特别是加尔特那种男人。”
+0x0100002B00060BC5	Dialogue Text	KINEEMA / SYLVIE	Empathy	You have to *act*, Lieutenant Love. You have to calm that hysteric down, tell it you've got everything under control -- then go and have a little boys' talk with Garte himself.	你必须*行动*起来，爱情警督。首先你必须让这个歇斯底里的女人冷静下来，告诉她一切都在你的*掌控*之中——然后跟加尔特来一场男人之间的对话。
+0x0100002B00060BCD	Dialogue Text	KINEEMA / SYLVIE	Empathy	You're just a gimp. What, you want to be more *empathetic*?	你只是个瘸子。怎么，你想变得更*通情达理*一些？
+0x0100002B00060BD3	Dialogue Text	KINEEMA / SYLVIE	Electrochemistry	Nothing's wrong, it's just *sssssexuality*.	没什么不对的，这只是人类的*原始欲望*。
+0x0100002B00060BEB	Dialogue Text	KINEEMA / SYLVIE	Empathy	You have to *act*, Lieutenant Love. You have to calm that hysteric girl down, tell her you've got everything under control -- and then go and have a little boys' talk with the man himself.	你必须*行动*起来，爱情警督。首先你必须让这个歇斯底里的女人冷静下来，告诉她一切都在你的*掌控*之中——然后跟加尔特来一场男人之间的对话。
+0x0100002B0006502F	Dialogue Text	KINEEMA / SYLVIE	Authority	Khm... Correction: Lieutenant Double-Yefreitor Love.	咳咳……纠正：双重荣誉爱情警督。
+0x0100002B00065039	Dialogue Text	KINEEMA / SYLVIE	You	Stop! That's Lieutenant Double-Yefreitor Love for you.	住嘴！你才是双重荣誉爱情警督。
+0x0100002B0006503F	Dialogue Text	KINEEMA / SYLVIE	Empathy	Of course. So much more love. But now -- react!	当然。还有更多的爱。不过现在——行动起来吧！
+0x0100002B00065056	Dialogue Text	KINEEMA / SYLVIE	Rhetoric	God -- what is happening in your HEAD?!	我的天——你的脑子到底出什么事了？！
+0x0100002B0006505D	Dialogue Text	KINEEMA / SYLVIE	Electrochemistry	Big Big Poppa is happening.	发生大事了。
+0x0100002F0000A0BA	Dialogue Text	KINEEMA / SYLVIE	You	"Was I singing... "The Smallest Church In Saint-Saëns"?"	“我有没有唱过……‘圣桑小教堂’？”
+0x0100002F0000A0CC	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Yes. That's the one you liked to sing along to the *most*. The later it got the more *that one* came on."	“有啊。这是你*最喜欢*唱的一首歌了。时间越晚，*那个*出现的就越多。”
+0x0100002F0000A0DF	Alternate1	KINEEMA / SYLVIE	You	"What else did I sing beside the OO? I'm looking for a song..."	“除了招摇乐团的歌之外，我还唱了别的什么吗？我在找一首歌……”
+0x0100002F0000A0DF	Dialogue Text	KINEEMA / SYLVIE	You	"You said I was singing. What did I sing? I'm looking for a song..."	“你说我在唱歌，我唱的是什么？我在找一首歌……”
+0x0100002F0000A0E6	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"All sorts of things. The OO. Some disco, rock too. So much disco and rock..."	“各种各样的歌。招摇乐团。迪斯科，摇滚也有。迪斯科和摇滚有点太多了……”
+0x0100002F0001340E	Dialogue Text	KINEEMA / SYLVIE	Kim Kitsuragi	The lieutenant goes pale. 'Missing badge?' he mouths to himself, silently.	警督面色苍白。“警徽不见了？”他默默地自言自语到。
+0x0100003100006B62	Dialogue Text	KINEEMA / SYLVIE	You	"Hello, this is the police calling. I have some questions for you about your last days at work."	“喂，我是警察。我想问问你前几天工作的事。”
+0x0100003100006B79	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Oh, right..." She recognizes your voice almost immediately. "Hello, officer, what can I do for you?"	“哦，好吧……”她几乎是瞬间就认出了你的声音。“你好，警官，有什么能帮你的吗？”
+0x0100003100006B8C	Dialogue Text	KINEEMA / SYLVIE	Empathy	You can hear resentment in her tone -- she's not thrilled to be talking to you again.	你可以听出她语气里的愤懑——她一点也不想再次跟你通话。
+0x0100003100006C74	Dialogue Text	KINEEMA / SYLVIE	You	"Wait, before you go... You're mad at me, right? Tell me, what did I do? I can't remember anything."	“等等，先别挂……你很生我的气，对吗？告诉我，我做了什么？我什么也记不清了。”
+0x0100003100006CB1	Dialogue Text	KINEEMA / SYLVIE	You	"Hey, do you want to grab a cup of coffee with me some time?"	“喂，你想不想抽个时间跟我一起喝杯咖啡？”
+0x0100003100006CB8	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"No, absolutely not."	“不，绝对不要。”
+0x0100003100006CC4	Dialogue Text	KINEEMA / SYLVIE	You	"I think I got everything I need, thanks." [End call.]	“我想我已经得到所有必要信息了，谢谢。”[结束通话。]
+0x0100003100006CCB	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I do hope so. Please don't call me again. Bye." She's ready to hang up.	“希望如此。请不要再打给我了。再见。”她准备挂断电话。
+0x0100003100006CDF	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I'm not mad, it's just..." The static sighs again. "You were so drunk and so emotional all the time, and then the *skua thing* happened. It just made me want to quit."	“我没有生气，只是……”对方又叹了口气。“你总是喝得醉醺醺的，然后又很情绪化，然后就发生了*贼鸥*的事。让我很想辞职。”
+0x0100003100006CF0	Dialogue Text	KINEEMA / SYLVIE	You	"What skua thing?"	“什么贼鸥的事？”
+0x0100003100006D1A	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"The stuffed bird. The great skua. You threw it against the wall, while screaming 'fuck that bird' and laughing like a maniac."	“鸟类标本。大贼鸥。你一边把它扔到墙上，一边喊着‘去死吧小鸟’，然后又像个疯子一样大笑。”
+0x0100003100006D21	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I think you said it had been *giving you shit ever since you got there*."	“我想你好像说过：*自从你去了那里之后，它就一直在朝你头上拉屎*之类的话。”
+0x0100003100006D2E	Dialogue Text	KINEEMA / SYLVIE	You	"This sounds like me alright."	“听起来确实很像我说过的话。”
+0x0100003100006D35	Dialogue Text	KINEEMA / SYLVIE	You	"This doesn't sound anything like me, I love birds!"	“听起来一点都不像我，我很爱小鸟的！”
+0x0100003100006D3C	Dialogue Text	KINEEMA / SYLVIE	You	"Bitch bird got what was coming to her."	“那只贱鸟，是它罪有应得。”
+0x0100003100006D43	Dialogue Text	KINEEMA / SYLVIE	You	"Why do I always end up screwing everything up?"	“为什么最后我总是把事情搞砸呢？”
+0x0100003100006D4A	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Didn't seem like you had fun doing it though."	“不过，看起来你也不是很开心。”
+0x0100003100006D59	Dialogue Text	KINEEMA / SYLVIE	You	"So you're telling me that *I* was the one who made you want to quit?"	“所以你是想说，是*我*让你想辞职的吗？”
+0x0100003100006D86	Dialogue Text	KINEEMA / SYLVIE	You	"Go on. I want to know what I did."	“继续。我想知道我做了什么。”
+0x0100003100006D8B	Dialogue Text	KINEEMA / SYLVIE	You	"I think I've heard enough." (Back off.)	“我想我已经听的够多了。”（让步。）
+0x0100003100006D9B	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I bet."	“我猜也是。”
+0x0100003100006DA8	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Well... You were worse than all of them. Honestly, you were getting borderline aggressive."	“呃……你比他们所有人更糟糕。老实说，你已经到达咄咄逼人的边界了。”
+0x0100003100006DB7	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Even about little things, like not turning down the volume at 3 AM. I even *liked* one of those songs you kept listening to on repeat. No more. I hate it now."	“就算是小事也一样，比如凌晨3点也不肯把声音关小。我甚至还*喜欢*上你一直听的某首歌了。不过已经过去了。现在我很讨厌它。”
+0x0100003100006DC1	Dialogue Text	KINEEMA / SYLVIE	You	"Right. Was that all?"	“好吧。就这些吗？”
+0x0100003100006DC8	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Then there was your room. Your *project*, an experiment to see how bad it can get in there."	“然后就是你的房间。你的*计划*，一场想看看到底能有多糟糕的实验。”
+0x0100003100006DCF	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I tried to send the cleaner, but you wouldn't let me. Threatened to 'make me understand'. I had no idea what you meant -- and I *don't* want to know."	“我想叫清洁工，但你不让。威胁说要‘让我明白’。我不知道你什么意思——而且我也*不想*知道。”
+0x0100003100006DD7	Alternate1	KINEEMA / SYLVIE	Sylvie	"And then you screamed something about how you're actually a 'real cool guy' and no one understands it... 'One of the coolest guys there is'. *The* coolest guy in Jamrock. Something about disco too..."	“然后你开始尖叫，说你其实真的是个‘很酷的家伙’，但是没人理解……说自己是‘有史以来最酷的人’。加姆洛克*最酷*的仔。还说了跟迪斯科有关的话……”
+0x0100003100006DD7	Alternate2	KINEEMA / SYLVIE	Sylvie	"And then you screamed something about being the most boring person alive and how everyone leaves you 'cause you're just so *booooring*."	“然后你开始尖叫，说自己是最无趣的人类，所有人都离开你了，‘因为你真的是太太太*无趣*了。”
+0x0100003100006DD7	Alternate3	KINEEMA / SYLVIE	Sylvie	"And then you screamed something about how you are a piece of shit human being and why does anyone even let you work as a police man -- that you'd fire yourself, but you can't even do that..."	“然后你开始尖叫，说自己是一坨狗屎，为什么会有人让你当警察——说你会炒了自己，但是就连这个都做不到……”
+0x0100003100006DD7	Alternate4	KINEEMA / SYLVIE	Sylvie	"And then you screamed something about the end of all times and how everyone is a piece of shit." She takes a deep breath.	“然后你开始尖叫，说什么末日要到了，所有人都是一坨屎什么的。”她深深地吸了一口气。
+0x0100003100006DD7	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"And then you screamed something incomprehensible about churches and the scent of apricots and aquariums." She takes a deep breath.	“还有，你大声嚷嚷着一些教堂，杏子味，还有鱼缸之类让人费解的话。”她深吸一口气。
+0x0100003100006DEA	Dialogue Text	KINEEMA / SYLVIE	You	"Okay, I get it. I wasn't a very good tenant."	“好吧，我明白了。我不是个好住客。”
+0x0100003100006DF2	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"No, you really weren't. You were simply the worst."	“不，你真的不是。你就是最糟糕的那一个。”
+0x0100003100006E13	Dialogue Text	KINEEMA / SYLVIE	You	"I am truly sorry for everything, Sylvie."	“我真心为这一切向你道歉，塞尔维。”
+0x0100003100006E1A	Dialogue Text	KINEEMA / SYLVIE	You	"I was trying to show you the world of tomorrow. The Great Panic at The End."	“我是想向你展示明天的世界。末日大恐慌。”
+0x0100003100006E21	Dialogue Text	KINEEMA / SYLVIE	You	"Well, you're the worst tavern wench I've ever seen!"	“呃，你是我见过的糟糕的酒馆招待！”
+0x0100003100006E28	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"God, I... I knew I shouldn't have brought it up. Just... try not to call me again and let's pretend it never happened."	“天，我……我知道不该提起这件事。只是……别再打给我了，我们就假装这一切从来没有发生。”
+0x0100003100006E37	Dialogue Text	KINEEMA / SYLVIE	You	"Girl, just loosen up a little... Don't you ever party?"	“姑娘，稍微放松一点点……你难道没派对过吗？”
+0x0100003100006E45	Dialogue Text	KINEEMA / SYLVIE	Alice	"Anything else I can help you with, officer?"	“还有什么能帮你的吗，警官？”
+0x0100003100006E4C	Dialogue Text	KINEEMA / SYLVIE	Sylvie	You hear the call breaking up on the other end of the radio and then the already familiar voice:	你听到对方挂断了电话，然后是一道熟悉的声音：
+0x010000310000AB65	Alternate1	KINEEMA / SYLVIE	You	(Test Klaasje's story.) "Was it you who called the police?"	（验证卡拉洁的故事。）“是你打电话报的警吗？”
+0x010000310000AB65	Dialogue Text	KINEEMA / SYLVIE	You	"Was it you who called the police?"	“是你打电话报警的吗？”
+0x010000310000AB6C	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"No, not me."	“不，不是我。”
+0x010000310000AB73	Dialogue Text	KINEEMA / SYLVIE	You	"But why *didn't* you call? Didn't a corpse behind your workplace bother you?"	“那你*为什么*没报警呢？你不觉得工作的地方后面有具尸体很困扰吗？”
+0x010000310000AB85	Dialogue Text	KINEEMA / SYLVIE	You	"Okay, next question." (Back.)	“好吧，下一个问题。”（返回。）
+0x010000310000AB8C	Dialogue Text	KINEEMA / SYLVIE	You	"Do you know who made that call?"	“你知道是谁报警的吗？”
+0x010000310000AB93	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"No, sorry... I don't." She clears her throat. "Not a lot of people have phones around here. Copper thieves take the wires..."	“不，抱歉……我不知道。”她清了清喉咙。“这里有电话的人不多。铜线小偷把电话线剪走了……”
+0x010000310000ABAC	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"What? Of course it bothered me! But I thought the Union already knew about the corpse."	“什么？我当然困扰啊！但是我觉得工会已经知道尸体的事了。”
+0x010000310000ABDA	Dialogue Text	KINEEMA / SYLVIE	You	"I meant us. You should have called *the police*."	“我是指我们。你应该打给*警察*。”
+0x010000310000ABE1	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"No one calls the police." You can hear her adjust the receiver in her hand. "The Union would get angry."	“没人会报警的。”你可以听出她调整了一下手中的听筒。“因为工会的人会生气。”
+0x010000310000ABEE	Dialogue Text	KINEEMA / SYLVIE	You	"Looks like there's a limit to my authority then."	“看来我的权威也是有限度的。”
+0x010000310000AC2A	Dialogue Text	KINEEMA / SYLVIE	You	"I see. Maybe there's something else you can tell me about?" (Back off.)	“我明白了。也许你可以跟我说点别的？”（让步。）
+0x010000310000AC37	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I don't know what to tell you, officer. I didn't call you, because I didn't want to get in trouble with the others, with the Union. I'm sorry about that."	“我不知道有什么可以说的，警官。我没打给你，是因为我不想招惹别人，招惹工会的人。这一点我很抱歉。”
+0x010000310000AC3E	Dialogue Text	KINEEMA / SYLVIE	You	"Tell me, why *exactly* did you let a corpse hang in your own backyard for weeks instead of calling us?" (Push on.)	“告诉我，你为什么宁愿让一具尸体在后院里挂上好几个星期也不给我们打电话呢？”（继续追问。）
+0x010000310000AC45	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I... I didn't want to get in trouble with the others..."	“我……我不想惹上什么麻烦……”
+0x010000310000AC4C	Dialogue Text	KINEEMA / SYLVIE	Empathy	No, don't push her. It sounds as if she's about to cry.	不，别逼她。听起来她好像要哭了。
+0x010000310000AC58	Dialogue Text	KINEEMA / SYLVIE	You	"I see. Don't worry about it, I understand." (Back off.)	“明白。别担心，我能理解。”（让步。）
+0x010000310000AC5F	Dialogue Text	KINEEMA / SYLVIE	You	"Let me get this straight, you ignored the law to save your own skin?"	“我就直说了吧，你是为了保全自己的性命而选择无视法律吗？”
+0x010000310000AC65	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"You do?" She sounds relieved. "What else can I do for you?"	“是吗？”她听起来松了口气。“还有什么能帮你的吗？”
+0x010000310000AC72	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I... I didn't know I had to report it... I... I thought someone would take him down eventually..." Her voice breaks.	“我……我不知道我必须上报……我……我以为最后总会有人把他弄下来的……”她的声音支离破碎。
+0x010000310000AC79	Dialogue Text	KINEEMA / SYLVIE	You	"It's okay, things happen. Not really your fault."	“没事的，事情总会发生。这不是你的错。”
+0x010000310000AC80	Dialogue Text	KINEEMA / SYLVIE	You	"It's a little late for tears, isn't it? Should have used them to summon the police earlier."	“现在哭已经有点太晚了，不是吗？你应该早点用眼泪把警察招来的。”
+0x010000310000AC87	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Yes... I know, it's just..." She takes a deep breath before continuing. "Was there anything else?"	“是的……我知道，只是……”她深深吸了一口气，然后继续说了下去。“还有什么事吗？”
+0x010000310000AC99	Dialogue Text	KINEEMA / SYLVIE	Sylvie	You can almost hear the girl getting smaller on the other end of the line, until she almost drowns in static.	电话线那头女孩的声音几乎越变越小，最后几乎要淹没在静电声中。
+0x010000310000ACAA	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"No..." You can hear her regaining control in the background. "I honestly don't know."	“不……”你可以听出背景里的她又重新夺回了控制权。“我真的不知道。”
+0x010000310000ACB9	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Yeah, go on."	“好吧，继续。”
+0x010000310000ACC4	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Okay..." She's calmer now. Probably because the focus has shifted elsewhere.	“好吧……”现在她冷静多了。也许是因为注意力转移到了其他地方。
+0x010000310000ACD1	Dialogue Text	KINEEMA / SYLVIE	You	"You quit your job at the Whirling -- why?"	“你辞了飞旋旅社的工作——为什么？”
+0x010000310000AD53	Dialogue Text	KINEEMA / SYLVIE	You	"Have you seen my badge?"	“你见过我的警徽吗？”
+0x010000310000AD59	Dialogue Text	KINEEMA / SYLVIE	You	"Have you seen my gun?"	“你见过我的枪吗？”
+0x010000310000AD67	Dialogue Text	KINEEMA / SYLVIE	You	"I showed you my gun? When did it happen?"	“我把枪给你看了？什么时候的事？”
+0x010000310000AD7B	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Yes, I know who you are. You're a police officer... *the law*."	“是的，我知道你是谁。你是一个警官……*你就是法律*。”
+0x010000310000AD82	Dialogue Text	KINEEMA / SYLVIE	You	"My badge is missing. Have you seen it anywhere?"	“我的警徽不见了。你有没有在哪里见过？”
+0x010000310000AD89	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Oh... no, I haven't, sorry."	“哦……不，我没见过，抱歉。”
+0x010000310000AD98	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Please, no. Not this again -- everyone saw your 'cool gun', detective..." She sounds beyond exacerbated.	“拜托了，不要。不要又来一次——人人都看见你那把‘酷炫的枪’了，警探……”她的声音已经出离愤怒了。
+0x010000310000ADA1	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"You were trying to *impress* some people with it. Everyone was eating and..." She stops hesitantly, not sure if she should continue.	“你想要用它*打动*某些人。大家都在吃饭，然后……”她停了下来，欲言又止地，不确定自己该不该继续。
+0x010000310000ADB1	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"No idea. All I know is, next you were waving around money instead. Saying things like 'Big bucks cannot lie' and 'Guns can't buy money, but money can always buy guns'."	“不知道。我只知道接下来你又开始挥舞着手中的钞票。然后喊着什么‘钱是不会撒谎的’，还有什么‘枪买不来钱，但是钱永远可以拿来买枪’。”
+0x010000310000ADC3	Alternate1	KINEEMA / SYLVIE	You	"Hey, I found my patrol cloak earlier, but have you seen my police man uniform?"	“喂，我刚才找到自己的巡逻斗篷了，但是你有没有见过我的警察制服？”
+0x010000310000ADC3	Dialogue Text	KINEEMA / SYLVIE	You	"Have you seen my police man uniform?"	“你见到我的警服了吗？”
+0x010000310000ADC9	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Uniform? I never saw you in any uniform, you had your... *things* on. The disco things."	“警服？我从没见你穿过警服，你穿着你自己的……*衣服*。迪斯科之类的。”
+0x010000310000ADD1	Dialogue Text	KINEEMA / SYLVIE	Esprit de Corps	It feels like you haven't worn yours in a long-long time.	感觉你应该很久很久没穿自己那套了。
+0x010000310000ADE7	Dialogue Text	KINEEMA / SYLVIE	You	Wait, why does she seem angry with you?	等等，为什么她好像对你很恼火？
+0x010000310000ADE7	tooltip1	KINEEMA / SYLVIE	You	She's hiding something.	她有所隐瞒。
+0x010000310000ADE7	tooltip2	KINEEMA / SYLVIE	You	Quick to tell you off.	快点告诉你。
+0x010000310000ADE7	tooltip3	KINEEMA / SYLVIE	You	Garte asked her out.	加尔特约她出去。
+0x010000310000ADE7	tooltip4	KINEEMA / SYLVIE	You	Wanted to get away from you.	想躲开你。
+0x010000310000ADE7	tooltip5	KINEEMA / SYLVIE	You	Made her cry earlier.	之前把她惹哭过。
+0x010000310000ADE7	tooltip6	KINEEMA / SYLVIE	You	Said you're the authority.	说过你是当局的人。
+0x010000310000ADE7	tooltip7	KINEEMA / SYLVIE	You	You asked her out.	你约过她出去。
+0x010000310000ADE7	tooltip8	KINEEMA / SYLVIE	You	Rigorous Self-Critique.	严格的自我批判
+0x010000310000ADE7	tooltip9	KINEEMA / SYLVIE	You	Inexplicable Feminist Agenda.	令人费解的女权主义议程。
+0x010000310000AE08	Dialogue Text	KINEEMA / SYLVIE	You	"Bye, Sylvie."	“再见，塞尔维。”
+0x010000310000AE3B	Dialogue Text	KINEEMA / SYLVIE	You	"I got a hunch your love life is about to take a *very* pleasant turn."	“我有种预感，你的感情生活将会发生一个*非常*愉快的转折。”
+0x010000310000AE4F	Dialogue Text	KINEEMA / SYLVIE	Alice	"Call was terminated by the other party. Anything else, officer?"	“对方终止了通话。还有其他事吗，警官？”
+0x010000310000AE56	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"..."	“……”
+0x010000310000AE66	Dialogue Text	KINEEMA / SYLVIE	You	"I've got a hunch your love life is about to take a *very* pleasant turn." (Give the lieutenant a knowing wink.)	“我有种预感，你的感情生活将会发生一个*非常*愉快的转折。”（朝警督会意地眨眨眼。）
+0x010000310000AE6D	Dialogue Text	KINEEMA / SYLVIE	Kim Kitsuragi	"What?" The lieutenant raises his shoulders. "What is it?"	“什么？”警督抬起肩膀。“这是干什么？”
+0x010000310000AE7A	Dialogue Text	KINEEMA / SYLVIE	You	"You'll see, lieutenant. You will see." (Wink again.)	“你会明白的，警督。你会的。”（再次眨眨眼。）
+0x010000310000AE98	Dialogue Text	KINEEMA / SYLVIE	Empathy	Yes. You have obviously done something to upset her -- at the Whirling-in-Rags, when she was still working there.	是的。你显然做了什么让她很不安的事——当她还在褴褛飞旋工作的时候。
+0x010000310000AEB3	Dialogue Text	KINEEMA / SYLVIE	Empathy	No. She doesn't have a problem with you. It must be someone *else* she's angry about. Some other guy... like *Garte*.	不。她跟你之间没有什么问题。她肯定是在生*其他人*的气。其他男人……比如说*加尔特*。
+0x010000310000AEBA	Dialogue Text	KINEEMA / SYLVIE	You	Yeah, it's definitely some other guy, a guy like *Garte*.	是啊，肯定是其他人，比如说*加尔特*。
+0x010000310000AEC0	Dialogue Text	KINEEMA / SYLVIE	You	Uh, okay... but I'm a guy. Sure it isn't about me?	啊，好吧……但我也是个男人。确定不是我吗？
+0x010000310000AEC8	Dialogue Text	KINEEMA / SYLVIE	Empathy	Trust me, you wouldn't want to be *the guy* here. You know how it is. Yack yack nag nag.	相信我，你肯定不想成为*那个人*。你知道是怎么回事。叽叽喳喳的。
+0x010000310000AED5	Dialogue Text	KINEEMA / SYLVIE	Empathy	You know women and their constant *problems*. Yack yack nag nag. How's one supposed to get *the love* going like that?	你懂女人，还有她们没完没了的*问题*。叽叽喳喳的。怎么能有人让*爱情*那样继续下去呢？
+0x010000310000AF16	Dialogue Text	KINEEMA / SYLVIE	Empathy	No, you're The Guy  -- you're Lieutenant Love, matchmaker extraordinaire! Help the poor girl out, lest she turns into a *spinster*!	不，你就是那个人——你是爱情警督，超级红娘！帮帮那个可怜的女孩吧，免得她变成一个*老姑娘*！
+0x010000310000AF88	Dialogue Text	KINEEMA / SYLVIE	You	"Maybe you can help me identify this one particular song..."	“也许你能帮我认出其中的一个首歌……”
+0x010000310000AFD0	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Which one would that be?"	“哪一首？”
+0x010000310000AFD7	Alternate1	KINEEMA / SYLVIE	You	"One that was really sad, about a small church...?"	“那首特别悲伤的，好像讲的是一座小教堂……？”
+0x010000310000AFD7	Dialogue Text	KINEEMA / SYLVIE	You	"One that was really *sad*."	“那首特别特别*悲伤*的。”
+0x010000310000AFDE	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Sad? I think the one you mean is "The Smallest Church in Saint-Saëns". Butchered that right up..." Her voice carries a tone of disappointment.	“悲伤？我想你说的应该是‘圣桑小教堂’。直到把它毁掉了……”她的声音带着一丝失望。
+0x010000310000B102	Dialogue Text	KINEEMA / SYLVIE	You	"What *others*?"	“*其他人*是谁？”
+0x010000310000B109	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"The other people who live around here. Local people. I... I didn't want trouble... "	“住在这附近的其他人。当地居民。我……我不想惹麻烦……”
+0x010000310000E430	Dialogue Text	KINEEMA / SYLVIE	Reaction Speed	That came so fast you can't but wonder what else would she be good at.	她回答得太快了，让你不禁只能好奇她到底还擅长些什么。
+0x010000310000E443	Dialogue Text	KINEEMA / SYLVIE	You	Yes, what would she be good at?	没错，她擅长什么呢？
+0x010000310000E44B	Dialogue Text	KINEEMA / SYLVIE	Reaction Speed	Baseball? Ring-a-bell Quiz Shows? Catching keys in the air? Petting an angry cat?	棒球？打架？问答节目？空中抓钥匙？安抚炸毛的猫？
+0x010000310000E467	Dialogue Text	KINEEMA / SYLVIE	Empathy	Her voice is resigned and weak.	她的声音顺从而虚弱。
+0x010000310000E479	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Mhmh."	“嗯。”
+0x010000310000E4A6	Dialogue Text	KINEEMA / SYLVIE	You	"Hey, Sylvie, it's the police again."	“喂，塞尔维，又是我，警探。”
+0x010000310000E4AD	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Oh, great." She doesn't sound thrilled. "What else do you need, detective?"	“哦，太好了。”她听起来不是很高兴。“你还有什么需要的吗，警探？”
+0x0100004B000005A0	Dialogue Text	KINEEMA / SYLVIE	You	"What do you mean by that?"	“你这话是什么意思？”
+0x0100004B000005B4	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"You know..." She seems to be looking for words. "What the Union says, goes. People listen to them and they take care of their own, which is, like, everyone here."	“你知道的……”她像是在搜寻词语。“工会说什么就是什么。大家都听他们的，而他们会照顾自己人，差不多就是，这里所有人吧。”
+0x0100004B000005BD	Dialogue Text	KINEEMA / SYLVIE	Kim Kitsuragi	"Legally, no. In reality, yes." He looks around. "Martinaise is *de facto* policed by the Dockworkers' Union."	“法律上不是的。但事实如此，”他看了看周围。“马丁内斯*实际上*是靠码头工人工会来维持治安的。”
+0x0100004B000005C7	Dialogue Text	KINEEMA / SYLVIE	Half Light	The fucking nerves on her?! Trying to hide behind WEAKNESS. You're a GOD. An angry but JUST God.	她神经紧张？！试着隐藏在脆弱背后。你是神。一个愤怒但却公正的神。
+0x0100004B000005CE	Dialogue Text	KINEEMA / SYLVIE	You	(Yell:) "I'M A GOD. YOU REPORT TO ME, NOT TO THE UNION -- IS IT CLEAR?"	（大喊：）“我是神。你应该向我汇报，而不是工会——明白了吗？”
+0x0100004B000005EB	Dialogue Text	KINEEMA / SYLVIE	Rhetoric	This exact conversation has happened before. Establishing authority before this young girl seems to have been important to you in the past. Don't go there again.	以前也发生过一模一样的对话。对于过去的你来说，在这个年轻女孩面前建立权威是很重要的事。别再回去了。
+0x0100004B000005FD	Dialogue Text	KINEEMA / SYLVIE	You	"Wait, how did you first learn I'm a police officer?"	“等等，你一开始怎么知道我是个警探的？”
+0x0100004B0000060D	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"You told me back in the Whirling... you told *everybody*. And showed us your badge... I don't need to hear about it anymore."	“你在飞旋旅社的时候告诉我的……你告诉*所有人*了。还把警徽拿出来给我们看……我不需要再听第二遍了。”
+0x0100004B00000620	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"You were waving it around in everyone's face, begging them to describe it. You said it 'calms you'. And then you started making suicide jokes. It got pretty *graphic*."	“你当着所有人的面挥舞它，让大家形容它。你说它能‘让你冷静’。然后你就开始说些自杀的玩笑话。我又想起那个生动的*画面*了。”
+0x0100004B0000062F	Dialogue Text	KINEEMA / SYLVIE	You	"And what? What did I do?"	“然后呢？我做了什么？”
+0x0100004B00000635	Dialogue Text	KINEEMA / SYLVIE	You	"Actually, I don't want to know. I don't want to know what happened."	“其实呢，我不想知道。我不想知道发生了什么。”
+0x0100004B0000063F	Dialogue Text	KINEEMA / SYLVIE	Drama	Oh, those again? I have been trying to wean you off them.	哦，又要来吗？吾辈一直试着帮您摆脱掉的。
+0x0100004B00000647	Dialogue Text	KINEEMA / SYLVIE	You	Off of what?	摆脱掉什么？
+0x0100004B0000064E	Dialogue Text	KINEEMA / SYLVIE	Drama	You know, when you put your gun, your *actual* gun, on your temple and pretend to shoot your brains out? Off of that. People don't like that.	您知道的，当你掏出您的枪，我是说您*真正*的枪，对准太阳穴，装作想把脑袋打开花的时候？就是摆脱掉这个。大家不是很喜欢这样。
+0x0100004B00000656	Dialogue Text	KINEEMA / SYLVIE	Rhetoric	Hm, I remember this. You were screaming things like "My brains are all over the walls, painting them red. I won't be seeing it, cause these are my brains. I can't see without my brains!" Very nice visuals there.	嗯，我记得这个。你大声嚷嚷着什么“我的脑浆会喷射在墙上，把墙面全部染红。我是看不到了，因为那是我的脑子。没有脑子我什么也看不到！”画面很形象。
+0x0100004B0000065D	Dialogue Text	KINEEMA / SYLVIE	Empathy	Some poor sod was trying to eat his pudding, while you were screaming, spit flying, imitating the *mercy shot* right next to him... Spat some in his food, I don't think he touched it after...	有个可怜的家伙想吃掉他的布丁，然后你开始大叫，吐口水，就在他旁边模仿*悲悯射击*……还朝他的食物吐了点口水，之后他好像就没碰过了……
+0x0100004B0000066D	Dialogue Text	KINEEMA / SYLVIE	Half Light	People tried to back away from you or even slip out of the door, but you screamed: I AM THE GODDAMNED LAW AND YOU HAVE TO LISTEN TO ME, YOU ARE ALL SUSPECTS IN A MURDER INVESTIGATION!	大家想离你远一点，甚至是溜出门外，但你开始大喊什么：“我他妈就是法律，你们都得听我的，你们都是一起凶杀案调查的嫌疑犯！”。
+0x0100004B00000684	Dialogue Text	KINEEMA / SYLVIE	You	"I should have killed myself..."	“我真应该自杀……”
+0x0100004B0000068A	Dialogue Text	KINEEMA / SYLVIE	You	"Why would I threaten to kill myself?! I mean, look at this world, I would love to stay!"	“我为什么威胁说要自杀？！我是说，看看这个世界，我很愿意留下来！”
+0x0100004B00000694	Dialogue Text	KINEEMA / SYLVIE	You	"Yes, but what happened to my gun?" (Just conclude.)	“是的，但是我的枪怎么了？”（总结。）
+0x0100004B0000069C	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"No, please, no more suicide threats! Thank *god* you don't have that stupid gun anymore..."	“不，拜托，别再搞什么自杀威胁了！*谢天谢地*，你总算是没有那把愚蠢的枪了……”
+0x0100004B000006FC	Dialogue Text	KINEEMA / SYLVIE	Composure	Real policemen have uniforms too, by the way. Where's yours?	话说回来，真正的警察都是有制服的。你的去哪了？
+0x0100004B00000718	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Yes, well..." The static on the radio suggests Sylvie doesn't have a comment.	“是的，呃……”安静的电流声代表塞尔维对此没有任何评论。
+0x0100004B0000071E	Dialogue Text	KINEEMA / SYLVIE	You	"Actually, I think I might be a birdie. A birdwatching enthusiast, you know."	“其实，我觉得自己可能是一只小鸟。你知道的，一个观鸟爱好者。”
+0x0100004B00000726	Dialogue Text	KINEEMA / SYLVIE	Sylvie	Her voice reappears from the static: "That's wonderful, really. Maybe you should keep pursuing that hobby. Maybe it would calm you down a little."	电流中再次响起她的声音：“那很好啊，真的。也许你应该继续追求这个爱好。也许这样能让你冷静一些。”
+0x0100004B00000731	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Okay, officer..." Her voice is withdrawing as if she's moving away from the speaker.	“好吧，警官……”她的声音越来越小，就像是远离了听筒一样。
+0x0100004B00000737	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"It was a pretty bird, there since I started working in the Whirling. I really liked her. We called her Scotty..."	“那是只漂亮的小鸟，我刚开始在飞旋旅社工作的时候它就在那了。我真的很喜欢它。我们都叫它斯科蒂……”
+0x0100004B0000073D	Dialogue Text	KINEEMA / SYLVIE	Authority	Crackling static... more static and yes, more of that sweet static. The violence of your words is obviously scaring her.	爆裂的电流声……更多电流声，没错，更多甜蜜的电流声。你言语里透露出的暴力显然是吓到她了。
+0x0100004B0000074D	Dialogue Text	KINEEMA / SYLVIE	You	"Do you know how my paperwork ended up in the trash container behind the Whirling?"	“你知道我的工作报告跑到飞旋旅社背后的垃圾箱里去了吗？”
+0x0100004B00000753	Dialogue Text	KINEEMA / SYLVIE	You	"Do you know who put the victim's clothes in the trash?"	“你知道是谁把被害人的衣服丢进垃圾箱的吗？”
+0x0100004B0000075B	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"No, I don't know. It wasn't me..." She gulps. "I haven't been out there since... I was terrified of the stench and the corpse." She falls silent.	“不，我不知道。不是我……”她有些喘不过气。“我一直没去过那边，自从……我很怕那股恶臭，还有那具尸体。”她陷入沉默。
+0x0100004B000007A8	Dialogue Text	KINEEMA / SYLVIE	You	"Wait -- police documents?"	“等等——警察档案？”
+0x0100004B000007B5	Dialogue Text	KINEEMA / SYLVIE	You	"I must have had some sort of official police documents on me. Do you know where they could be?"	“我身上一定带着某种官方的警察档案。你知道可能在哪吗？”
+0x0100004C00001697	Dialogue Text	KINEEMA / SYLVIE	You	"*I* am the authority around here."	“*我*才是这里的权威。”
+0x0100004C0000169D	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Okay." She obviously doesn't want to challenge your authority. You feel *much* better now.	“好吧。”她显然不想挑战你的权威。现在你感觉*好多了*。
+0x0100004C000016AA	Dialogue Text	KINEEMA / SYLVIE	You	"Wait, Kim," (Lower your microphone.) "Is she speaking truth? The Union is the law around here?"	“等等，金，”（放下你的话筒。）“她说的是实话吗？工会在这里执法吗？”
+0x0100004C000016B2	Dialogue Text	KINEEMA / SYLVIE	Esprit de Corps	Words are not necessary to feel the lieutenant's discontent for the situation.	警督对这种情况的不满，根本不需要用言语来表达。
+0x0100004C000016BC	Dialogue Text	KINEEMA / SYLVIE	You	"What trouble?!"	“什么麻烦？！”
+0x0100004C000016C3	Dialogue Text	KINEEMA / SYLVIE	You	"Okay, I understand."	“好吧，我理解。”
+0x0100004C000016CB	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"You don't live here, you *don't* understand. Squealing is frowned upon here -- everything is dealt with... well, by the Union. Internally."	“你不住在这里，你*不*明白的。这里是不允许告密的——所有一切都是……呃，工会处理的。内部解决。”
+0x0100004C000016D3	Dialogue Text	KINEEMA / SYLVIE	Sylvie	You hear static. Her chin rub against the receiver. Then: "Please, I just didn't want any trouble."	你听到电流的声音。她的下巴摩擦着听筒。接着：“拜托，我不想惹上其他人。”
+0x0100004C000016E3	Dialogue Text	KINEEMA / SYLVIE	Kim Kitsuragi	"Hey!" The lieutenant interrupts with a flicker of anger in his eyes. "If you cannot restrain yourself then I'll be handling the interviews from now on and you can quietly take notes."	“喂！”警督打断了你的话，眼睛里带着一丝愤怒。“如果你控制不了自己，那从现在开始就交给我来询问，你在边上安静做笔记。”
+0x0100004C000016EA	Dialogue Text	KINEEMA / SYLVIE	You	"You got your methods, I got mine lieutenant. Now let me do my job."	“警督，你有你的方法，我也有我的。现在，能让我完成我的工作吗？”
+0x0100004C000016F1	Dialogue Text	KINEEMA / SYLVIE	You	"Sorry, I don't know what came over me, I just lost it -- I might have an anger issue."	“抱歉，我不知道是怎么回事，就是失控了——我可能有愤怒管理方面的问题。”
+0x0100004C000016F8	Dialogue Text	KINEEMA / SYLVIE	Kim Kitsuragi	"Apparently so. Please do try to control yourself." The anger is gone from his eyes and it's almost as if his voice is softer than before.	“显然是这样没错，请试着控制你自己。”怒气从他的眼中消散，他的声音好像都比之前柔和了。
+0x0100004C000016FF	Dialogue Text	KINEEMA / SYLVIE	Esprit de Corps	Cop with an anger issue, underpaid, overworked and on the verge of collapse in both personal and professional life -- that's more of a rule than an exception. And the lieutenant knows this. He understands.	有愤怒管理问题的警察，报酬过低，过度劳累，个人和职业生活都处在崩溃的边缘——这更像是一种惯例，而不是例外。警督也知道这一点。他能理解。
+0x0100004C00001706	Dialogue Text	KINEEMA / SYLVIE	Sylvie	Breathing on the other end suggests that Sylvie is still on the line. She heard everything.	电话那头传来的呼吸声说明塞尔维还没挂电话。她听到了一切。
+0x0100004C00001712	Dialogue Text	KINEEMA / SYLVIE	Kim Kitsuragi	"Fine." The lieutenant clenches his jaw. "But know that I don't approve of such gratuitous volatility."	“好吧。”警督咬紧下巴。“但要知道，我不赞同这种没来由的大喊大叫。”
+0x0100004C00001719	Dialogue Text	KINEEMA / SYLVIE	Esprit de Corps	An angry cop refusing to face his demons and taking his frustration out on others -- just a badge and a gun away from those he's manhandling. A fast burning candle -- that's the side you just exposed to the lieutenant. He doesn't judge, has seen it too many times all ready -- you both have probably, but he takes a mental note.	一个愤怒的警察，拒绝面对心中的恶魔，把自己的挫折发泄到其他人身上——只是因为一枚警徽和一把枪，就选择粗暴地对待其他人。一只快速燃烧的蜡烛——这就是你刚刚暴露在警督前的一面。他没有评判什么，因为已经见过太多太多——你们可能都曾有过，只是他选择记在心里。
+0x0100004C0000172D	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"People don't have the money to have the cables put in again. They use the Union's phone or the one on the coast."	“大家没钱让电线重新投入使用。他们用的都是工会的电话，或者是海岸边的那一台……”
+0x0100004C0000175B	Dialogue Text	KINEEMA / SYLVIE	Authority	Yeah, I think she got it. Good job!	是啊，我想她明白了。干得漂亮！
+0x0100004C00001776	Dialogue Text	KINEEMA / SYLVIE	You	I'm going to let it slide. I don't need answers for every little thing.	我就顺其自然了。不是每一件小事我都需要得到答案。
+0x0100004C0000177C	Dialogue Text	KINEEMA / SYLVIE	You	Kim doesn't have a *uniform* and he seems real to me.	金也没穿*制服*，而且在我看来他很自然。
+0x0100004C00001781	Dialogue Text	KINEEMA / SYLVIE	You	Not my uniform too! God, I should really look into that.	不是吧，连制服也不见了！老天，我真的应该好好调查一下。
+0x0100004C0000178B	Dialogue Text	KINEEMA / SYLVIE	Composure	Right. It's better to not ask too many questions, lest people start thinking you're a *cop* or something.	没错。最好别问太多问题，免得大家开始觉得你是个*警察*或者什么之类的。
+0x0100004C00001799	Dialogue Text	KINEEMA / SYLVIE	Esprit de Corps	There are officers who wear the signature Perseus Black uniforms to the highest ranks in the RCM and end up buried in them as well -- others do it more *casually*. Looks like you're one of them.	有些穿着标志性珀尔修斯黑制服的警官，在RCM一路爬到很高的位置，最后还是穿着它下葬了——其他人更*随意*一些。看来你也是其中之一。
+0x0100004C000017A4	Dialogue Text	KINEEMA / SYLVIE	Esprit de Corps	Somewhere in a dank rental apartment, two police officers stand in the dark. Trash and liquor bottles cover the floor. Things are not good.	在一间潮湿的出租公寓里，两名警官站在黑暗中。地板上铺满了垃圾和酒瓶。情况好像有些糟糕。
+0x0100004C000017AB	Dialogue Text	KINEEMA / SYLVIE	Composure	Yes, you absolutely should. It's awful that you lost it.	是的，你绝对应该这么做。如果弄丢就太可怕了。
+0x0100004C000017B9	Dialogue Text	KINEEMA / SYLVIE	Composure	He's in plainclothes. Voluntarily. It's different from not knowing where your uniform is.	他穿着便衣。这完全是出于个人意识，这跟不知道你的制服在哪是不同的。
+0x0100004C000017C8	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Great." There's relief in her voice. "Anything else?"	“很好。”她的声音有些宽慰。“还有别的事吗？”
+0x0100004C000017E4	Dialogue Text	KINEEMA / SYLVIE	Sylvie	There is silence on the other end of the line.	电话线的那头一片沉默。
+0x0100004C00001824	Dialogue Text	KINEEMA / SYLVIE	Esprit de Corps	One of the men, trying not to slip on old newspapers, makes his way to the window and pulls the curtains apart. Roaches scatter as the light comes in.	其中一个人，尽量躲开了脚下的旧报纸，走到窗边，拉开窗帘。阳光照射进来，蟑螂开始四下逃窜。
+0x0100004C0000182A	Dialogue Text	KINEEMA / SYLVIE	Esprit de Corps	"Goddamn..." officer Michel 'Elfboy' Williams speaks to himself. His partner, Sundance Fischer, looks at the patrol uniform he's wearing -- then at an identical suit framed on the wall. It's blue and covered in dust. "Let's get the fuck out of here," he turns to Williams, "he hasn't been here in days."	“见鬼……”‘精灵男孩’米歇尔·威廉姆斯警官自言自语到。他的搭档圣丹斯·费舍尔看着他身上的巡逻制服——然后看向墙上挂着的那套一模一样的衣服。它是蓝色的，上面布满灰尘。“他妈的，我们赶快出去吧，”他转向威廉姆斯，“他已经几天没来过这里了。”
+0x0100004C0000183D	Dialogue Text	KINEEMA / SYLVIE	Empathy	There's genuine sadness in her voice.	她的声音里流露出真实的悲伤。
+0x0100004C00001845	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I've had sailors fighting, Union guys grabbing my ass, kids stealing booze. Once a guy was glued to the karaoke machine every night for two months. But *you*..." She pauses.	“我见过水手打架，工会的家伙偷摸我的屁股，还有小孩来偷酒。曾经有整整两个月，有个家伙每天晚上都黏在卡拉OK机上。但是*你*……”她停了下来。
+0x0100004C0000184F	Dialogue Text	KINEEMA / SYLVIE	You	"Hold on, which song?"	“等等，什么歌？”
+0x0100004C00001856	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"'We Go On' by the OO." She sighs. "I can't listen to it anymore, you've turned it into a parody."	“招摇乐团的‘继续前行’。”她叹了口气。“我再也听不下去了，你把它变成了一场模仿秀。”
+0x0100004C0000187B	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I, ugh... the ones I had to wrench out of your toilet."	“我……呃……那些档案是我从你的马桶里捡回来的。”
+0x0100004C0000188E	Dialogue Text	KINEEMA / SYLVIE	You	"What happened to them?"	“它们怎么了？”
+0x0100004C00001894	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I... dammit, I don't remember what I did to your damn papers! I don't remember every little thing I do." Resentment gives way to concern in her voice.	“我……见鬼，我不记得对你那该死的文件做了什么！不是每件小事我都会记得的。”她声音里的愤怒为担心让了路。
+0x0100004C0000189E	Dialogue Text	KINEEMA / SYLVIE	Half Light	She's worried she might have accidentally done something bad. Then she remembers it's *you*.	她担心自己可能会不小心做了什么坏事。然后她记起来是*你*。
+0x0100004C000018C0	Dialogue Text	KINEEMA / SYLVIE	Alice	"Anything else I can help you with, officer?"	“还有什么能帮你的吗，警官？”
+0x0100004C000018C6	Dialogue Text	KINEEMA / SYLVIE	Sylvie	You hear a sigh of relief on the other end of the radio. Wordless, the call breaks. Then the already familiar voice:	你听见无线电那头传来一阵放松的叹息声。一阵沉默后，电话中断了。紧接着，那个早已熟悉的声音响起：
+0x0100004C000018CC	Dialogue Text	KINEEMA / SYLVIE	You	"Right, thank you for talking with me. Take care." [Leave.]	“好吧，谢谢你愿意跟我谈话。保重。”[离开。]
+0x0100004C00001954	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Well." There's an uncomfortable pause. "You tried to jam it down the toilet, sir, clogging it completely. After I had *unclogged* the toilet and retrieved the paperwork I threw it out in the trash, thinking you didn't need it."	“呃。”一阵令人不安的停顿。“你试着把它塞进马桶，先生，完全堵住了。我把厕所*疏通*，找回文件之后，就把它们丢进了垃圾箱，我以为你已经不需要了。”
+0x0100004C0000195B	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I am sorry about that." She doesn't sound like she's actually that sorry. "Anything else, detective?"	“我很抱歉。”听起来她不是真的抱歉。“还有什么事吗，警探？”
+0x0100004C00001968	Dialogue Text	KINEEMA / SYLVIE	Conceptualization	There are *way* more inventive ways than a gun to leave this world.	要离开这个世界，我肯定会有很多比用枪更有创意的*方法*。
+0x010000570002193B	Dialogue Text	KINEEMA / SYLVIE	Alice	"Call was terminated by the other party. Anything else, officer?"	“对方终止了通话。还有其他事吗，警官？”
+0x010000570002194D	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"You mean why did I leave the bar?" You can hear her tense up on the other side. "Honestly, I'm... not really comfortable discussing it with you, sir."	“你是说我为什么会离开酒吧？”你能听出另一头她的声音有些紧张。“老实说，我觉得……跟你讨论这件事不太舒服，先生。”
+0x0100005700021954	Dialogue Text	KINEEMA / SYLVIE	You	"Wait, why aren't you comfortable discussing it with me?"	“等等，为什么跟我讨论会不太舒服啊？”
+0x010000570002195A	Dialogue Text	KINEEMA / SYLVIE	You	"Okay. Did you leave because of Garte?"	“好吧。你离开是因为加尔特吗？”
+0x0100005700021962	Dialogue Text	KINEEMA / SYLVIE	You	"Alright, I won't push you on this. Are you ever coming back to work?" (Conclude.)	“好吧，我不会逼你。你还打算回来工作吗？”（总结。）
+0x0100005700021969	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I, uh..." The static wavers. "Let's just say I left because I needed to get away from someone."	“我，呃……”对面的声音摇摆不定。“这么说吧，我离开是因为我需要远离某个人。”
+0x0100005700021970	Dialogue Text	KINEEMA / SYLVIE	You	"Get away from whom?"	“远离谁？”
+0x0100005700021976	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"You know whom."	“你知道是谁。”
+0x010000570002197E	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"What?" She stops abruptly. "No, why would you even think that?!"	“什么？”她突然停了下来。“不是，你为什么会这么想？！”
+0x0100005700021985	Dialogue Text	KINEEMA / SYLVIE	Suggestion	You think you hear a sliver of accusation in her words.	你在她的话语里听到一丝谴责的意味。
+0x0100005700021992	Dialogue Text	KINEEMA / SYLVIE	You	"Sylvie, don't be afraid of that pig. You have to stand up for yourself!"	“塞尔维，别害怕那头猪。你必须为自己挺身而出！”
+0x010000570002199E	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"*Please* don't bring Garte into this, it's none of your business!"	“*请*不要把加尔特卷进来，这跟你一点关系都没有！”
+0x01000057000219A4	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I already said I don't want to talk about this! You're messing everything up again!"	“我已经说过了，我不想谈这个！你又把一切都搞砸了！”
+0x01000057000219B3	Dialogue Text	KINEEMA / SYLVIE	Volition	Don't be paranoid, she's obviously talking about someone else, not you.	别这么偏执，她显然说的是别人，不是你。
+0x01000057000219D5	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Maybe, I don't know..." She seems to relax a little bit. "I just know I have to take some time off right now."	“也许吧，我不知道……”她好像放松了一点。“我只知道现在要放松一段时间。”
+0x0100005700021A70	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Yes, obviously. You were the worst client I've ever seen. And I have seen *so many* assholes in this place..."	“显然是这样。你是我见过的最糟糕的客人。而且我本来已经在这里见过*够多*混帐东西了……”
+0x0100005700021AB9	Dialogue Text	KINEEMA / SYLVIE	You	"But... when I spoke to Garte it seemed like he thought you left because of *him*."	“但是……我跟加尔特聊的时候，感觉他以为你离开是因为*他*。”
+0x0100005700021ABF	Dialogue Text	KINEEMA / SYLVIE	You	"Sounds intense."	“听起来很激烈。”
+0x0100005700021AC5	Dialogue Text	KINEEMA / SYLVIE	You	"That's it? That's not so bad."	“就这些？听起来也没多糟糕嘛。”
+0x0100005700021AD2	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"And *then* I had to deal with your toilet. The one you clogged with *police documents*, causing water damage downstairs in the kitchen."	“*而且*，我还要处理你的卫生间。就是你用*警察档案*堵住的那个，楼下的厨房都因此积水了。”
+0x0100005700021AE3	Dialogue Text	KINEEMA / SYLVIE	You	"What does this Union have to do with anything?"	“那工会跟这个又有什么关系？”
+0x0100005700021AF9	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Wait, really? No, this is absolutely not true. I like Garte, I really do."	“等等，真的吗？不，肯定不是真的。我喜欢加尔特，真的。”
+0x0100005700021B00	Dialogue Text	KINEEMA / SYLVIE	You	"Didn't he cross a line when he asked you out?"	“他邀请你出去的时候，难道没有越界吗？”
+0x0100005700021B28	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"No, I was actually flattered, I've always liked him. It was just bad timing... with the corpse and all that."	“没有，我真的很开心，我一直很喜欢他。只是时机不对……那具尸体，还有其他的事。”
+0x0100005700021B2F	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"I didn't know *what* to say to him later. Then you came and destroyed the place. So I left without explaining. I should have told him maybe..."	“我不知道以后该跟他说*什么*。然后你来了，毁了这个地方。所以我没做任何解释就离开了。也许我应该告诉他的……”
+0x0100005700021B36	Dialogue Text	KINEEMA / SYLVIE	Sylvie	There's a pause. You can almost see her on the other side, the telephone cord coiled around her index.	电话那头突然停了下来。你几乎能看见另一端的她，用食指缠绕着电话线。
+0x0100005700021B41	Dialogue Text	KINEEMA / SYLVIE	You	"I can tell him." (Accept.)	“我可以告诉他。”（接受。）
+0x0100005700021B47	Dialogue Text	KINEEMA / SYLVIE	You	"Understood." (Refuse task)	“明白。”（拒绝任务）
+0x0100005700021B4F	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Right. Well... Are we almost done now, officer?"	“好吧。那……我们可以结束了吗，警官？”
+0x0100005700021B55	Dialogue Text	KINEEMA / SYLVIE	Sylvie	"Okay, but... please don't mess it up. Please don't take out your gun or something."	“好吧，但是……请别再惹麻烦了。不要掏出你的枪，或者其他任何东西。”
+0x0100006B0000794C	Dialogue Text	KINEEMA / SYLVIE	Sylvie	There's no reply from the other end of the line.	电话线另一头没有回应。
+0x0100006B000091BD	Dialogue Text	KINEEMA / SYLVIE	You	"Huh, I don't even know what to say..."	“嗯，我不知道该说什么……”
