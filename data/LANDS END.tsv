@@ -1,0 +1,223 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060001E58D	Dialogue Text	LANDS END / DEPOT DOOR	You	"Okay. I can live with this." (Accept it.)	“好吧。我可以忍受。”（接受它。）
+0x010000060001E594	Dialogue Text	LANDS END / DEPOT DOOR	Kim Kitsuragi	"What else is there to do? *Not* accepting isn't gonna bring the fire brigade in..." He looks at the door with a rueful smile.	“还能怎么做呢？*不*接受也不能让消防队来……”他看着这扇门，脸上带着悲伤的微笑。
+0x010000060001E59E	Dialogue Text	LANDS END / DEPOT DOOR	Conceptualization	At least you can *think* about opening it. About doors in general -- they are, after all, fundamental to your life. Perhaps something useful will come from this?	至少你可以*考虑*打开它。一般而言，说到门——它们毕竟是你生活的基础。也许可以得到一些有用的东西呢？
+0x010000060001E5A5	Dialogue Text	LANDS END / DEPOT DOOR	Esprit de Corps	Relax, he thinks. There's no one in there. If we can't open it, neither can anyone else.	放松，他想到。里面没人。如果我们打不开，别人也不可以。
+0x010000060001E5B0	Dialogue Text	LANDS END / DEPOT DOOR	Conceptualization	At least you can *think* about opening it. About doors in general -- they are, after all, fundamental to your life. Perhaps something useful will come from this?	至少你可以*考虑*打开它。一般而言，说到门——它们毕竟是你生活的基础。也许可以得到一些有用的东西呢？
+0x010000450001C1FE	Dialogue Text	LANDS END / DEPOT DOOR	Door (Unopenable)	An old door, worn by elements, guards the depot. The wind has blown a sand dune in front of it. The door hasn't been opened in a long while. You see a handle.	一扇老旧而破损的门守卫着仓库。前方是被风吹起的一道沙丘。看来这扇门已经有一阵子没开了。你看见一只手柄。
+0x010000450001C20B	Dialogue Text	LANDS END / DEPOT DOOR	You	Walk away. [Leave.]	走开。[离开。]
+0x010000450001C211	Dialogue Text	LANDS END / DEPOT DOOR	Door (Unopenable)	Yes. Better that way. You can't even fathom the rabbit hole you might find yourself in otherwise.	是的，这样最好。反正你连自己身处的兔子洞到底有多深都不知道。
+0x010000450001C219	Dialogue Text	LANDS END / DEPOT DOOR	Door (Unopenable)	You rattle the handle a bit, then push on the door with all your weight -- it does not budge. Not only is it locked, it's also *jammed* shut.	你稍微摇晃了一下手柄，然后用全身的重量去推门——它没有移动分毫。看来它不仅仅是锁了，而且还*卡*的死死的。
+0x010000450001C220	Alternate1	LANDS END / DEPOT DOOR	You	"Huh, the door's shut tight. How can we get in there?"	“哈，门关的很紧。我们怎么才能进去？”
+0x010000450001C220	Dialogue Text	LANDS END / DEPOT DOOR	You	Huh... I wonder what's inside. How can I get in there?	嗯……不知道里面有什么。怎么才能进去呢？
+0x010000450001C231	Dialogue Text	LANDS END / DEPOT DOOR	You	"Whatever, door." [Leave.]	“无所谓了，门。”[离开。]
+0x010000450001C23F	Dialogue Text	LANDS END / DEPOT DOOR	Door (Unopenable)	You can't. This door cannot be opened...	不行。门还是没打开……
+0x010000450001C24A	Dialogue Text	LANDS END / DEPOT DOOR	Kim Kitsuragi	The lieutenant shrugs. "We don't get in there."	警督耸耸肩。“我们不用进去。”
+0x010000450001C251	Dialogue Text	LANDS END / DEPOT DOOR	You	"What do you mean? We get into... like... everywhere."	“你什么意思？我们不是应该……怎么说呢……什么地方都能进得去吧。”
+0x010000450001C257	Dialogue Text	LANDS END / DEPOT DOOR	You	"Come on, we even got in the Light Bending Guy's container, but you're saying we can't get in here?"	“拜托，我们连那个能扭曲光线的超级富豪的集装箱都进了，你居然说这里进不去？”
+0x010000450001C25D	Dialogue Text	LANDS END / DEPOT DOOR	Kim Kitsuragi	"Frankly, you're just going to have to accept the fact that you can't get in through every single door."	“老实说，你还是接受事实吧，不可能每道门都能进去的。”
+0x010000450001C263	Dialogue Text	LANDS END / DEPOT DOOR	Rhetoric	No-no, we've gotten into every door thus far. That's what we do -- we open doors. We're cops, that's our perk. Even Evrart knew that's a part of our M.O.	不不不，迄今为止，我们每道门都进去过了。我们就是做这个的——开门。我们是警察，这是我们的特殊待遇。就连艾弗拉特都知道这是我们的准则。
+0x010000450001C269	Dialogue Text	LANDS END / DEPOT DOOR	You	"But that's who I am. Who *we* are."	“但我就是这样的人啊。*我们*都是。”
+0x010000450001C26F	Dialogue Text	LANDS END / DEPOT DOOR	Kim Kitsuragi	"Yeah, I understand you, I like opening doors as much as the next guy, but this one is simply beyond repair and we don't have the resources needed to open it."	“是啊，我能理解你，我也跟其他人一样喜欢开门，不过这扇门真的修不好了，而且我们也没有打开它的资源。”
+0x010000450001C27B	Dialogue Text	LANDS END / DEPOT DOOR	Door (Unopenable)	EVER.	永远打不开
+0x010000450001C296	Dialogue Text	LANDS END / DEPOT DOOR	Rhetoric	No-no, we've absolutely gotten into everywhere thus far. That's what we do -- we open doors and go through them. We're cops, that's our perk.	不不不，迄今为止，我们每道门都进去过了。我们就是做这个的——开门。我们是警察，这是我们的特殊待遇。
+0x010000450001C29D	Dialogue Text	LANDS END / DEPOT DOOR	You	"I'm not gonna accept this. The door could be part of the investigation."	“我不会接受的。这扇门可能是调查的一部分”
+0x010000450001C2A3	Dialogue Text	LANDS END / DEPOT DOOR	Kim Kitsuragi	"Relax. No one's hiding in there. If we can't open it, others can't either -- and thus they can't get in." He looks at the door with a rueful smile.	“放松。里面没藏着什么人。如果我们打不开，其他人也不行——所以他们也进不去。”他看着这扇门，脸上带着悲伤的微笑。
+0x010000450001C2CA	Alternate1	LANDS END / DEPOT DOOR	You	"What is this thing anyway?"	“话说这到底是什么？”
+0x010000450001C2CA	Dialogue Text	LANDS END / DEPOT DOOR	You	What is this thing anyway?	话说这到底是什么？
+0x010000450001C2D9	Dialogue Text	LANDS END / DEPOT DOOR	Kim Kitsuragi	"It's military -- a service depot of some sort."	“是军方的——大概是维修仓库之类的。”
+0x010000450001C2E0	Dialogue Text	LANDS END / DEPOT DOOR	Door (Unopenable)	The concrete structure looks *military* in origin. Over half a century old at least, but sturdily built.	混凝土结构本身看起来就很*军方*。这里至少有半个世纪了，但是造的很牢固。
+0x010000450001C322	Dialogue Text	LANDS END / DEPOT DOOR	Kim Kitsuragi	"From here to the Whirling? I can't see how..." He looks southeast and blows on his fingers: "The church is in the way."	“从这里到飞旋旅社？我看不出怎么做到……”他看向东南方，往手指吹了口气：“教堂挡住了。”
+0x010000450001C32C	Dialogue Text	LANDS END / DEPOT DOOR	You	"Used to service what?"	“以前是为什么服务的？”
+0x010000450001C338	Alternate1	LANDS END / DEPOT DOOR	Kim Kitsuragi	"The washerwoman mentioned a depot up the coast." The lieutenant looks at the hunching, concrete toad in front of him. "She said it was for moving ammo and cargo across the bay -- this might be it"\n	“洗衣女工说过海岸边有个补给站。”警督看着耸立在他眼前的混凝土蛤蟆。“她说这里是用来向海湾对岸运送弹药和货物的——可能就是这个吧。”
+0x010000450001C338	Dialogue Text	LANDS END / DEPOT DOOR	Kim Kitsuragi	"Probably something that is no longer there." The lieutenant looks at the hunching, concrete toad in front of him.	“也许是已经不在那里的某种东西吧。”警督看着眼前巨大的混凝土堆。
+0x010000450001C348	Dialogue Text	LANDS END / DEPOT DOOR	Visual Calculus	It may have been used to service an aerostatic battleship in the atmosphere? Or a fortification, like a seafort in the bay.	可能是为大气层中的静风舰服务的？或者防御工事，就像海湾的那座海堡。
+0x010000450001C356	Dialogue Text	LANDS END / DEPOT DOOR	You	"Could this structure have been used to take the shot?"	“也许这个建筑以前是用来射击的？”
+0x0100006B0000A17D	Dialogue Text	LANDS END / DEPOT DOOR	You	Open the door.	打开门。
+0x0100006B0000A18A	Dialogue Text	LANDS END / DEPOT DOOR	Door (Unopenable)	There is no success. You didn't succeed here. It's impossible. The door does not open. It is not only locked, it is *jammed* shut.	没成功。你在这里没有成功。这是不可能的。这扇门打不开。它不仅仅是锁了，而且还*卡*的死死的。
+0x0100006B0000A19A	Dialogue Text	LANDS END / DEPOT DOOR	Visual Calculus	For servicing an aerostatic battleship in the atmosphere? Or a fortification, like a seafort in the bay?	为大气层中的静风舰服务的？或者防御工事，就像海湾的那座海堡。
+0x010000060001E705	Dialogue Text	LANDS END / NETPICKER	Volition	True, you ought not love ruins and hell -- and the fading scent of apricots.	这是真的，你不应该去爱废墟和地狱——还有杏子的残香。
+0x010000060001E714	Dialogue Text	LANDS END / NETPICKER	Pain Threshold	You would be incinerated. Or worse.	你会被烧成灰烬的。或者更糟。
+0x010000060001E71C	Dialogue Text	LANDS END / NETPICKER	Suggestion	Maybe some general remarks before you say something big? Work your way up to the *cool*.	在你说些大话之前，也许先来点一般的评论？用你的方式一路达到*酷*的境地。
+0x010000060001E727	Dialogue Text	LANDS END / NETPICKER	You	"There's an interesting lilt in your voice."	“你的声音里有一种很有意思的调调。”
+0x010000060001E72E	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Thank you. I'm half Ubi. My mother was from Ubi Sunt?. Not a lot of sun there, I hear, though I've never been..."	“谢谢。我有一半尤比人的血统。我母亲来自尤比萨特。我听说那里的阳光不多，不过我从没见过……”
+0x0100002A00000CB1	Dialogue Text	LANDS END / NETPICKER	You	"Kim, we ready to do this?"	“金，我们准备好了吗？”
+0x0100002A00000CDB	Dialogue Text	LANDS END / NETPICKER	Rhetoric	She means her kids.	她的意思是她的孩子。
+0x0100002A00000CE5	Dialogue Text	LANDS END / NETPICKER	You	"For the case I need to get *in tune* with the coast."	“为了这个案子的话，我得跟海岸*合拍*才行。”
+0x0100002A00000CEE	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"And its people?" She bursts out laughing. "Glad to be of assistance then."	“还有那里的人吗？”她大笑起来。“很高兴能帮上忙。”
+0x0100002A00000CF8	Dialogue Text	LANDS END / NETPICKER	Inland Empire	So fast as to make it seem like the weather turns at her command.	快的好像天气在她的命令下瞬间转换了。
+0x0100002A00000D02	Dialogue Text	LANDS END / NETPICKER	You	Say nothing. It's stupid. A stupid idea.	什么也不说。太愚蠢了。这主意太愚蠢了。
+0x0100002A00000D09	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	Say nothing? Well, now there's silence. She's looking at the sea. You hear yourself breathing.	什么也不说？好，那就沉默吧。她看着海边，你听着自己的呼吸。
+0x0100002A00000D11	Dialogue Text	LANDS END / NETPICKER	Rhetoric	You should say something. Anything. Maybe the Tequila Sunset thing?	你应该说点什么。什么都行。要不说说龙舌兰日落的事？
+0x0100002A00000D19	Dialogue Text	LANDS END / NETPICKER	You	"Oh."	“哦。”
+0x0100002A00000D1F	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Oh indeed."	“哦哦。”
+0x0100002A00000D2A	Dialogue Text	LANDS END / NETPICKER	Kim Kitsuragi	Uncomfortable shuffle of nylon.	因为尼龙而不舒服的挪动。
+0x0100002A00000D3D	Dialogue Text	LANDS END / NETPICKER	You	Too morbid. Why am I not getting good ideas?	太病态了。我为什么找不到好想法？
+0x0100002A00000D45	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"So now that you know -- you keeping the name?"	“既然你已经知道了——那还保留这个名字吗？”
+0x0100002A00000D4D	Dialogue Text	LANDS END / NETPICKER	Suggestion	Not terribly impressed, not surprised either.	没有留下很深刻的印象，但也不奇怪。
+0x0100002A00000D57	Dialogue Text	LANDS END / NETPICKER	You	"Because it's not human. Humans betray you."	“因为它不是人类。人类会背叛你。”
+0x0100002A00000D61	Dialogue Text	LANDS END / NETPICKER	You	"There's an explanation to this. And it's political. You see..." (Begin a long, impassioned political tirade.)	“有一种解释。而且挺政治的。你也知道……”（开始一段漫长而又慷慨激昂的政治演说。）
+0x0100002A00000D68	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Do they? Some of them do but..." She shrugs. "Sounds to me like you should choose your allies better, that's all."	“是吗？有些人确实会，不过……”她耸耸肩。“在我看来，你应该更好地选择盟友，仅此而已。”
+0x0100002A00000D6F	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, aye -- it's political." She stops you. "No need to step on a soapbox about it. What if we *disagree*?"	“是啊，是啊——是政治。”她阻止了你。“没必要对这个发表什么高谈阔论吧。如果我们*不同意*呢？”
+0x0100002A00000D76	Dialogue Text	LANDS END / NETPICKER	Rhetoric	See? She doesn't *want* to disagree. Good sign. Keep it at that.	看见了吧？她*不想*争执。这是个好信号，继续保持下去。
+0x0100002A00000D7F	Dialogue Text	LANDS END / NETPICKER	Perception (Sight)	She's right. They're made mostly of plastic. A cheap novelty gift you can buy from a flower shop or a kiosk.	她是对的。它们基本是塑料制成的，一个可以从花店或者报摊买到的新鲜又廉价的小礼物。
+0x0100002A00000D89	Dialogue Text	LANDS END / NETPICKER	You	"So... who do you think killed the hanged man?"	“所以……你觉得是谁杀了吊人？”
+0x0100002A00000D90	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Good one. I'm gonna go with *the rope*."	“这是个好问题。我会选*绳子*吧。”
+0x0100002A00000D97	Dialogue Text	LANDS END / NETPICKER	Logic	She thinks it was a riddle. She must not even know of that business. Better that way.	她觉得这是个谜语。她甚至都不知道是怎么一回事。这样更好。
+0x0100002A00000DB1	Dialogue Text	LANDS END / NETPICKER	Shivers	As she walks off the wind picks up, and the light from the sun seems to fade -- the crumbling silhouette of Feld Electrical R&D towers in the distance, beckoning.	她渐渐走远，风也越来越大。太阳的光芒似乎有些褪色——菲尔德电气研究所那破碎的轮廓在远方朝你招手。
+0x0100002A00000DBD	Dialogue Text	LANDS END / NETPICKER	You	Say something about the sun.	说些关于太阳的话题。
+0x0100002A00000DBD	tooltip1	LANDS END / NETPICKER	You	Your lost love.	你失去的爱人。
+0x0100002A00000DBD	tooltip2	LANDS END / NETPICKER	You	Artful background.	狡诈的背景。
+0x0100002A00000DBD	tooltip3	LANDS END / NETPICKER	You	Time to think.	思考的时间
+0x0100002A00000DD0	Dialogue Text	LANDS END / NETPICKER	Conceptualization	Here we go. Two different approaches to cap this off with style.	来了。有两种不同的方法漂亮地结束这一切。
+0x0100002A00000DDE	Dialogue Text	LANDS END / NETPICKER	You	"The only fault with the sun is -- it shines on us as well as our *enemies*."	“太阳唯一的缺点是——它同样也照耀在我们的*敌人*身上。”
+0x0100002A00000DE4	Dialogue Text	LANDS END / NETPICKER	You	(Stare into the sun.) "Yeah, a massive thermonuclear reaction, five billion years old -- the sun is a god."	（盯着太阳。）“是啊，一个50亿岁的巨大热核反应堆——太阳就是一个神明。”
+0x0100002A00000DF3	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye," she nods. "And a benevolent one. When did you last have one of those on your side?"	“是啊，”她点点头。“而且很仁慈。上次有人跟你站在一边是什么时候？”
+0x0100002A00000DFA	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"That it does. But then... we are also enemies to our enemies, eh? And so she shines on us. The cops and the commies, the killers and the saints. You know..."	“确实如此。不过……对于我们的敌人来说，我们也是敌人，不是吗？但它还是会照耀在我们身上。警察和康米党，杀手和圣人。你知道的……”
+0x0100002A00000E07	Dialogue Text	LANDS END / NETPICKER	You	"In my early twenties, maybe?"	“也许在我20岁出头的时候？”
+0x0100002A00000E0D	Dialogue Text	LANDS END / NETPICKER	You	"When I had my love with me."	“当爱情还与我同在的时候。”
+0x0100002A00000E13	Dialogue Text	LANDS END / NETPICKER	You	"Never."	“永远不会。”
+0x0100002A00000E1C	Dialogue Text	LANDS END / NETPICKER	You	"I still do. I'm righteous."	“还是老样子。我是个正直的人。”
+0x0100002A00000E23	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Well -- now you have that giant thing to watch over you. So... to hell with youth." She smiles. "You know..."	“好吧——现在有那个大家伙照看你。所以……让青春见鬼去吧。”她笑了笑。“你也知道……”
+0x0100002A00000E29	Alternate1	LANDS END / NETPICKER	Lilienne, the Net Picker	"The wind's gonna pick up soon and I have to go, but..." She takes her sword out of the scabbard. The blade shines in the gathering dark. 	“很快就要起风了，我也得走了，不过……”她从剑鞘中抽出剑。剑刃在浓郁的黑暗中闪烁着微光。
+0x0100002A00000E29	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"The wind's gonna pick up soon and I have to go, but..." She takes her sword out of the scabbard. The blade reflects the sunlight, a dark orange.	“风很快会起来，我得走了，不过……”她从鞘中抽出佩剑。剑身映照出昏暗的阳光，呈现出一股深橙色。
+0x0100002A00000E30	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Well -- now you have that giant thing to watch over you. So... to hell with love." She smiles. "You know..."	“好吧——现在有那个大家伙照看你。所以……让爱情见鬼去吧。”她笑了笑。“你知道的……”
+0x0100002A00000E36	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Well -- now you have that giant thing to watch over you. So... to hell with cruel gods." She smiles. "You know..."	“好吧——现在有那个大家伙照看你。所以……让残酷无情的神明见鬼去吧”她笑了笑。“你知道的……”
+0x0100002A00000E3C	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Well -- maybe it's that god that makes all those atoms burn up there in that big thing..." She smiles. "You know..."	“这个嘛——也许是神明让所有原子在那个大玩意里燃烧……”她笑了笑。“你知道的……”
+0x0100002A00000E4A	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Have this. The sun's good but it doesn't *stick* things -- I've no use for it anymore."	然后她把它递给了你。“给你。太阳很好，但是它不会*粘着*东西——我已经用不着它了。”
+0x0100002A00000E59	Dialogue Text	LANDS END / NETPICKER	Conceptualization	Say what? Something *interesting*? IMPOSSIBLE.	说什么？说些*有趣*的事吗？不可能的。
+0x0100002A00000E60	Dialogue Text	LANDS END / NETPICKER	You	"Thank you for coming on this walk with me." (Conclude.)	“谢谢你来跟我一起散步。”（结束）
+0x0100002A00000E67	Dialogue Text	LANDS END / NETPICKER	You	"Think we can do this again sometime?"	“也许之后我们可以再来一次？”
+0x0100002A00000E6D	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Farewell." She nods to you and turns to go.	“再见了。”她朝你点点头，然后转身离开。
+0x0100002A00000E76	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Doubt it." She smiles sadly. "But thank you for the company."	她露出悲伤的笑容。“说不好。不过还是谢谢你的陪伴。”
+0x0100002A00000E7E	Dialogue Text	LANDS END / NETPICKER	You	"That sun thing was very pretty, I'm sorry I don't have anything to add..."	“那个叫太阳的玩意挺漂亮的，抱歉我没什么可以补充的……”
+0x0100002A00000E84	Dialogue Text	LANDS END / NETPICKER	You	Please, this is important!	拜托，这很重要！
+0x0100002A00000E8A	Dialogue Text	LANDS END / NETPICKER	You	"Sometimes I feel like I don't have a good brain."	“有时候我总觉得自己的脑子不好使。”
+0x0100002A00000E93	Dialogue Text	LANDS END / NETPICKER	Conceptualization	She turns her head and the plastic fish-hooks rattle in her ears. Nothing share-worthy takes place in your head.	她转过头，塑料鱼钩在耳朵上来回摇晃。你的脑子里没有什么值得分享的东西。
+0x0100002A00000E9A	Dialogue Text	LANDS END / NETPICKER	Volition	Relax. This was still good.	放心。一切还是不错的。
+0x0100002A00000EA3	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye. Brains, generally, aren't very good, are they? I prefer backs, arms, shoulders -- lungs, too." She smiles. "You know..."	“啊。大脑，一般不是特别好，对吧？我更喜欢后背，胳膊，肩膀——还有肺。”她笑了笑。“你知道的……”
+0x0100002A00000EAA	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Thank you. Out there on the other planet -- the sea -- you start seeing things in a strange light. I'm glad I got to share it." She smiles. "You know..."	“谢谢。在另一个行星上——大海——你会开始在奇怪的光芒中看到一些东西。很高兴能和你一起分享。”她笑了笑。“你知道的……”
+0x0100002A00000EBB	Dialogue Text	LANDS END / NETPICKER	Kim Kitsuragi	The lieutenant looks at the sword with distrust in his eyes.	警督看着佩剑，眼里闪过不信任的光芒。
+0x0100002A00000EC2	Dialogue Text	LANDS END / NETPICKER	You	"Are you sure you don't need the sword?" (Look at it.)	“你确定不需要这把剑了吗？”（看着它。）
+0x0100002A00000EC9	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"No. Men around here are too drunk to pose a threat to me."	“不。这里的男人醉得太厉害，对我来说没什么威胁。”
+0x0100002A00000ED1	Dialogue Text	LANDS END / NETPICKER	Esprit de Corps	Do not bring it into a gun fight, he thinks. Please understand it's merely ceremonial.	可别把它带到动枪的场合，他想到。请理解，这不过是种礼仪性的东西。
+0x0100002A00000EDF	Dialogue Text	LANDS END / NETPICKER	Suggestion	This is as far as it goes with her. You'd need to put a year between you and your last drink for anything more.	和她一起差不多就这样了。在你和你的最后一杯酒之间，你得留出一年的时间。
+0x0100002A00000EE8	Dialogue Text	LANDS END / NETPICKER	Shivers	As she walks off the wind picks up, and the light from the sun seems to fade -- the crumbling silhouette of Feld Electrical R&D towers in the distance, beckoning.	她渐渐走远，风也越来越大。太阳发出的光芒似乎有些褪色——菲尔德电气研究所那破碎的轮廓在远方朝你招手。
+0x0100002A00000EFE	Dialogue Text	LANDS END / NETPICKER	Kim Kitsuragi	"I hope this has been refreshing for you, detective," the lieutenant says, watching her leave. "Let's return to our search with a fresh pair of eyes."	“希望这能让你提提神，警探，”警督看着她离去的背影，开口说到。“让我们带着全新的目光继续回去调查吧。”
+0x0100002F00010F5F	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, so here you are. It's late and it's raining. The water is..." She puts her hands out and lets the rain fall on her palms. "Cold. Ice cold."	“啊，你来了。现在很晚了，外面还在下雨。很……”她把手伸了出去，雨滴拍打在她的掌心。“冷。冰冷。”
+0x0100002F00010F69	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, so here you are. Mid-noon and the rain is..." She puts her hand in the rain, "...ice-cold as always. And it appears the drunks and teenagers haven't arrived yet."	“啊，你来了。大中午的，外面的雨……”她把手伸了出去“……像往常一样冰冷。那群醉鬼和年轻人好像还没到。”
+0x0100002F00010F6E	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, so here you are. The sun is up and the rain is..." she puts her hand in the rain, "...cold. Ice cold. I don't mind. At least it keeps the drunks and teenagers at bay."	“啊，你来了。太阳已经升起来了，外面的雨……”她把手伸了出去。“……很冷。冰冷。我倒不介意。至少这样能把那群醉鬼和年轻人挡在海湾。”
+0x0100006B000031F4	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, so here you are. It's late and it's snowing. The snow is..." She extends her hand and catches a snowflake in her palm. "...Well, it's not really snow, it's slush."	“啊，你来了。现在很晚了，外面还在下雪。雪很……”她把手伸了出去，一朵雪花飘落在她的掌心。“……好吧，好像不是真正的雪，是污水。”
+0x0100006B000031FB	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, so here you are. It's late and the sun is going down. It'll be dark soon. If we stay here long enough we will be joined by a cortège of drunks and teenagers."	“啊，你来了。现在不早了，太阳也快要下山。很快天就会黑了。如果我们在这里待得够久，就会有一群醉鬼和年轻人加入我们了。”
+0x0100006B0000320E	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, so here you are. Mid-noon and the snow is..." She catches a flake in her hand. "...well, it's not really snow, it's slush. At least the drunks and teenagers haven't joined us yet."	“啊，你来了。大中午的，外面的雪……”她伸出手去碰触雪花。“……好吧，好像不是真正的雪，是污水。至少那群醉鬼和年轻人还没来。”
+0x0100006B00003213	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, so here you are." She looks around. "I'm a bit surprised we're alone. It's mid-noon and the sun is out. I expected more drunks and teenagers. And drunk teenagers."	“啊，你来了。”她看了看周围。“有点吃惊啊，这里居然只有我们。现在大中午的，太阳也没出来。我还以为会有很多醉鬼。还有醉醺醺的年轻人。”
+0x0100006B00003227	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, so here you are. The sun is up and there's a ton of snow coming down." She catches a flake. "Well, it's not really snow, it's slush. At least it keeps the drunks and teenagers at bay."	“啊，你来了。太阳出来了，还下了好大的雪。”她伸出手去碰触雪花。“好吧，好像不是真正的雪，是污水。至少这样能把那群醉鬼和年轻人挡在海湾。”
+0x0100006B0000322C	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, so here you are. Early in the morning and the sun is up." She breathes in the fresh air. "And not a drunk or teenager in sight. I'm surprised."	“啊，你来了。一大清早的，太阳也刚刚升起。”她呼吸了一口新鲜空气。“没有看见醉鬼或者年轻人，这还挺让人吃惊的。”
+0x0100006B00003277	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Know that you're not the first guy to bring a girl to Land's End. This is what locals call a *make-out spot*. That is not going to happen here today -- I just want to make that clear, dimples." She turns to face the sea once more.	“你不是第一个把女孩带到地之角的人呢。本地人都把这里叫做*情人角*。不过这种事今天不会发生——这一点我要先讲清楚，小酒窝。”她又把脸转向了大海的方向。
+0x0100008100001520	Dialogue Text	LANDS END / NETPICKER	You	"Maybe this was a mistake. Everything feels uncomfortable. I should leave." [Leave.]	“也许这是个错误。一切都感觉不是很舒服。我该走了。”[离开。]
+0x0100008100001525	Dialogue Text	LANDS END / NETPICKER	You	"I'm sorry you had to wait."	“抱歉让你久等了。”
+0x010000810000152B	Dialogue Text	LANDS END / NETPICKER	You	"I'm just trying to be a responsible grown-up."	“我只是想做个有责任心的成年人。”
+0x0100008100001531	Dialogue Text	LANDS END / NETPICKER	You	"Wouldn't miss it for the world."	“我无论如何也不会错过的。”
+0x010000810000153D	Dialogue Text	LANDS END / NETPICKER	You	"I'm actually quite good at *scheduling*."	“其实我还挺擅长*行程安排*的。”
+0x0100008100001543	Alternate1	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, so an officer should be. All that running around must need a lot of *structuring*..." She lets out a little laugh, as she turns to face the setting sun reflected in the waves.	“啊，那就是警官先生了。天天东奔西跑的肯定需要很多*组织设计*吧……”她把脸转向海面上倒影的落日，笑出了声。
+0x0100008100001543	Alternate2	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, so an officer should be. All that running around must need a lot of *structuring*..." She lets out a little laugh, as she turns to face the sun reflected in the waves. 	“啊，那就是警官先生了。天天东奔西跑的肯定需要很多*组织设计*吧……”她把脸转向倒映在海浪上的太阳，笑出了声。
+0x0100008100001543	Alternate3	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, so an officer should be. All that running around must need a lot of *structuring*..." She lets out a little laugh, as she turns to face the morning sun reflected in the waves.	“啊，那就是警官先生了。天天东奔西跑的肯定需要很多*组织设计*吧……”她把脸转向倒映在海浪上的朝阳，笑出了声。
+0x0100008100001543	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, so an officer should be. All that running around must need a lot of *structuring*..." She lets out a little laugh, as she turns to face the sun reflected in the waves.	“啊，警官就应该这样。天天东奔西跑的肯定需要很多*组织设计*吧……”她把脸转向海面上倒影的太阳，笑出了声。
+0x0100008100001549	Dialogue Text	LANDS END / NETPICKER	You	"If you'd rather I left..."	“如果你希望我离开的话……”
+0x0100008100001557	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"The world?" She laughs. "Those big words men like to throw around as though they had weight."	“无论如何？”她笑了笑。“那些爱吹牛的男人总是喜欢信口开河，搞得好像自己是什么重要人物一样。”
+0x010000810000155F	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"So this is what this is -- responsible?" She shrugs. "Well... maybe it is. Maybe you'll have a *revelation* and crack whatever you're on."	“所以是这么回事吗——责任心？”她耸耸肩。“好吧……可能是吧。也许你会得到*启示*，然后破了手上的案子。”
+0x0100008100001565	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	The woman gazes steadily at the waves. A sudden gust picks up her dark hair and lets it fall again, tussled, wild. She brushes a few stray locks from her eyes, and only then spots you approaching.	女人直直地盯着海浪。一阵狂风吹起她的黑发，随后又胡乱放下，凌乱又狂野。她拂去眼前的几缕发丝，才发现渐渐靠近的你。
+0x010000810000156B	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"It's no bother. Don't get many excuses to spend time alone, what with my trio of monsters..."	“没关系的。我很少能找到独处的借口，毕竟家里有三只小怪兽……”
+0x010000810000158C	Dialogue Text	LANDS END / NETPICKER	You	"Probably not but who cares. What's the next step?"	“也许不会吧，管它呢。下一步打算怎么做？”
+0x010000810000159C	Dialogue Text	LANDS END / NETPICKER	Perception (Hearing)	Her laughter is throaty and warm. It rhymes with the waves and the cries of the gulls.	她的笑声沙哑又温暖，与海浪和海鸥的声音交织成一曲韵律诗。
+0x01000081000015B9	Dialogue Text	LANDS END / NETPICKER	Kim Kitsuragi	Keeping a tactful distance, the lieutenant takes out his notebook, demonstrating complete disinterest in your "date."	警督始终保持着恰当的距离，他拿出笔记本，对你的“约会”没有表现出丝毫的兴趣。
+0x01000081000015BF	Alternate1	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, you're the starriest of them all," she says with mock seriousness, then bursts out laughing as she turns to face the sun reflected in the waves.	“嗯，你是其中最耀眼的那一个，”她假装很严肃，随后把脸转向倒映在海浪上的太阳，噗的一声大笑了出来。
+0x01000081000015BF	Alternate2	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, you're the starriest of them all," she says with mock seriousness, then bursts out laughing as she turns to face the setting sun reflected in the waves.	“嗯，你是其中最耀眼的那一个，”她假装很严肃，随后把脸转向海面上倒映的落日，噗的一声大笑了出来。
+0x01000081000015BF	Alternate3	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, you're the starriest of them all," she says with mock seriousness, then bursts out laughing as she turns to face the morning sun reflected in the waves.	“嗯，你是其中最耀眼的那一个，”她假装很严肃，随后把脸转向倒映在海浪上的朝阳，噗的一声大笑了出来。
+0x01000081000015BF	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, you're the starriest of them all," she says with mock seriousness, then bursts out laughing as she turns to face the sun reflected in the waves.	“嗯，你是其中最耀眼的那一个，”她假装很严肃，随后把脸转向海面倒映的太阳，噗的一声大笑了出来。
+0x01000081000015CB	Dialogue Text	LANDS END / NETPICKER	You	"I'm sorry I said I'm sorry..."	“抱歉，我说我很抱歉……”
+0x01000081000015DD	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Now you're just being another kind of fool." She laughs, a playful glint in her eyes. "You should know -- I don't spend time with people out of any sense of obligation."	“现在你又变成另一种傻瓜了。”她笑了笑，眼睛里闪烁着调皮的光芒。“你应该知道——我是不会出于责任感跟别人待在一起的。”
+0x01000081000015E3	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	She shakes her head, laughing. "You're just... what's the word -- *lamentable*, aren't you?"	她摇摇头笑了。“你还真是挺……那个词怎么说来着——*可悲*，对吗？”
+0x01000081000015E9	Dialogue Text	LANDS END / NETPICKER	Perception (Hearing)	Her laughter is throaty and warm. It rhymes with the waves and the cries of the gulls.	她的笑声沙哑又温暖，与海浪和海鸥的声音交织成一曲韵律诗。
+0x01000081000015EF	Dialogue Text	LANDS END / NETPICKER	You	"Yeah. This is a good influence on me."	“是啊。这对我来说是一种很好的影响。”
+0x01000081000015F5	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, by the looks of you, you do. Well, we're here now." She nods to you, a playful glint in her eyes.	“嗯，从你的样子来看，确实如此。好吧，现在我们到了。”她朝你点点头，眼睛里闪烁着调皮的光芒。
+0x01000081000015FB	Dialogue Text	LANDS END / NETPICKER	Perception (Hearing)	Her laughter is throaty and warm. It rhymes with the waves and the cries of the gulls.	她的笑声沙哑又温暖，与海浪和海鸥的声音交织成一曲韵律诗。
+0x010000810000160C	Dialogue Text	LANDS END / NETPICKER	You	"I think I spend too much time alone..."	“我觉得自己已经独处很久了……”
+0x0100008100001612	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	She bursts out laughing. "Let's not get ahead of ourselves, now."	她大笑起来。“现在还不要操之过急，好吗。”
+0x010000810000161E	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Drying out? Becoming religious?" Her face is serious for a moment, but then she smiles warmly. "To hell with it. I'm not going to lecture you about your drinking, not here."	“戒酒？开始信教？”有那么一瞬间，她露出了严肃的表情，接着又换上温柔的笑脸。“见鬼去吧。我才不会跟你讲什么喝酒的大道理，至少在这里不会。”
+0x0100008100001624	Dialogue Text	LANDS END / NETPICKER	You	"It's a rock star thing. Tardiness."	“这是摇滚明星一种习惯。拖延。”
+0x010000810000162F	Dialogue Text	LANDS END / NETPICKER	Empathy	Her thoughts are still elsewhere -- with distances across the water, and with the water itself.	她的思绪还停留在别处——在那遥远的大海彼岸，还有大海本身。
+0x0100008100001635	Dialogue Text	LANDS END / NETPICKER	You	"I've been sober for more than an entire day now."	“我已经清醒一整天了。”
+0x010000810000163B	Dialogue Text	LANDS END / NETPICKER	You	Keep it to yourself. This is only the beginning.	还是保密吧。这才刚刚开始。
+0x0100008100001641	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	She nods to you, a playful glint in her eyes.	她朝你点点头，眼睛里闪烁着调皮的光芒。
+0x010000810000164D	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Let's just admire this piece of the world we happen to have in front of us, a?" She nods to you, a playful glint in her eyes.	“不如还是欣赏一下眼前的这片世界吧，好吗？”她朝你点点头，眼睛里闪烁着调皮的光芒。
+0x0100008100001653	Dialogue Text	LANDS END / NETPICKER	Perception (Hearing)	Her laughter is throaty and warm. It rhymes with the sunlit waves and the cries of the gulls.	她的笑声沙哑又温暖，与阳光映照下的海浪和海鸥的鸣叫交织成一曲韵律诗。
+0x0100008100001663	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"I've seen quite few of those first days, aye. Still, good for you..." She nods to you, a playful glint in her eyes.	“哎，刚开始的日子我没怎么见过。不过，这对你来说是件好事……”她朝你点点头，眼睛里闪烁着调皮的光芒。
+0x01000081000016B6	Dialogue Text	LANDS END / NETPICKER	Authority	Don't be fooled. He's watching you to make sure you don't act unprofessionally.	别被骗了。他一直盯着你，免得你表现的太不专业。
+0x01000081000016BE	Dialogue Text	LANDS END / NETPICKER	You	(Look at her) "You seem surprised that I made it."	（转向她）“你对我的到来似乎很惊讶。”
+0x01000081000016C6	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	She chuckles. "Drinking men aren't known for keeping their appointments."	她咯咯地笑了。“酗酒的男人可不是因为信守承诺出名的。”
+0x0100008100002490	Alternate1	LANDS END / NETPICKER	Lilienne, the Net Picker	The wind ruffles her hair as she looks at the setting sun.	她看着落日，风轻轻吹起了她的头发。
+0x0100008100002490	Alternate2	LANDS END / NETPICKER	Lilienne, the Net Picker	The wind ruffles her hair as she looks at the light slowly spreading across the other coast.	她看着阳光慢慢洒满另一边的海岸，风轻轻吹起了她的头发。
+0x0100008100002490	Alternate3	LANDS END / NETPICKER	Lilienne, the Net Picker	The wind ruffles her hair, silver-streaked in the moonlight.	风轻轻吹起她的头发，上面被月光映照出银色的斑纹。
+0x0100008100002490	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	The wind ruffles her hair as she looks at the sunlit coast across the water.	她看着沐浴在阳光下的海岸，风轻轻吹起了她的头发。
+0x01000081000024AC	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Here it comes," she says. As she turns back to the sea, the weather begins to clear under her steady gaze.	她转回身面向大海，一动不动地凝视海面，天气逐渐开始放晴。“要来了，”她说到。
+0x01000081000024B7	Dialogue Text	LANDS END / NETPICKER	You	"That's the second time you've done that! Are you some kind of sea witch?"	“这是第二次了！你是海洋女巫或者什么的吗？”
+0x01000081000024BD	Dialogue Text	LANDS END / NETPICKER	You	"Wait... did *you* just do that?"	“等等……刚才难道是*你*做的？”
+0x01000081000024C3	Dialogue Text	LANDS END / NETPICKER	You	"You know, I have special abilities too. Pa-ra-na-tu-ral abilities."	“你知道的，我也有特殊的能力。超自然的力量。”
+0x01000081000024C9	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	As she turns to face the sun reflected in the waves and the skyscrapers rising across the bay, you cannot help following her steady gaze.	她转头望向海面上倒影的太阳，摩天大楼在海湾对岸升起，你忍不住追逐她那沉静的目光。
+0x01000081000024D3	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Me? No, no, no." She laughs. "Just grew up on the sea. Know which way the wind's blowing and all."	“我？不，不，不是。”她笑了。“只是在海边长大。知道风往哪个方向吹之类的。”
+0x01000081000024DA	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Knew the weather'd clear up once we got here -- otherwise it would've been a less pleasant stroll, nay?"	“我们一到这儿，我就知道天会放晴——不然这次散步就不会那么愉快了，不是吗？”
+0x01000081000024E2	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Wait, do you think *I* did that? Nay, I just grew up on the sea, that's all. Know which way the wind is blowing."	“等等，你觉得是*我*做的吗？没有，我只是在海边长大而已。知道风会朝哪个方向吹。”
+0x01000081000024E9	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"As for your 'paranatural abilities' -- I'd love to hear about them sometime, really, but can't we just enjoy the view for a moment?"	“至于你的*超自然能力*——以后有空跟我讲讲吧，不过现在能不能先享受一下眼前的这幅美景？”
+0x01000081000024F0	Alternate1	LANDS END / NETPICKER	The Sun	The remains of the dying sun are reflected in the waves and the skyscrapers rising across the bay. Your mind clears for a moment as your senses take it all in -- not just the glass skyscrapers, fragile-looking in the shimmering air, River Esperance flowing into the bay...	没落太阳的残辉映照在海浪上，海湾对岸的摩天大楼正在升起。你全心投入自己的感官，思绪在片刻间变得清晰——不仅仅只有玻璃摩天大楼，在微微发亮的空中显得脆弱易碎；埃斯佩兰斯河汇入了海湾……
+0x01000081000024F0	Dialogue Text	LANDS END / NETPICKER	The Sun	The sun reflected in the waves and the skyscrapers rising across the bay is mesmerizing. Your mind clears for a moment as your senses take it all in -- not just the glass skyscrapers, fragile-looking in the shimmering air, River Esperance flowing into the bay...	太阳映照在海浪上，海湾对岸升起的摩天大楼充满迷人的诱惑。你全心投入自己的感官，思绪在片刻间变得清晰——不仅仅是玻璃摩天大楼，在微微发亮的空中显得脆弱易碎；埃斯佩兰斯河汇入海湾……
+0x01000081000024FD	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Isn't it strange," she breaks the silence abruptly, "For this all-powerful thing, the sun... to be so generous towards us? You know, the best time to go out fishing is usually toward sunset, when the water is warmer..."	“不觉得奇怪吗？"她突然打破了宁静，“这个无所不能的东西，太阳……居然会对我们如此慷慨？你也知道，外出钓鱼最好的时间一般是在黄昏，当海水变温暖的时候……”
+0x0100008100002504	Alternate1	LANDS END / NETPICKER	The Sun	There's salt in the air and the cries of the gulls and the skuas; the grit of sand and the green glint of broken bottles. But still your gaze always returns to the streaks of light, wherever they may be reflected, their fading opulence...\n	空气中弥漫着一股咸咸的味道，还有海鸥和贼鸥在哭叫；沙砾在作响，还有破瓶子在闪烁着绿光。但是你的目光总会回到那耀眼的光斑，无论被反射到什么地方，都发散着褪色的丰饶……
+0x0100008100002504	Dialogue Text	LANDS END / NETPICKER	The Sun	There's salt in the air and the cries of the gulls and the skuas; grit of the sand and the green glint of broken bottles. But still your gaze always returns to the dazzling streaks of light, wherever they may be reflected, their opulence...	空气中有一股咸咸的味道，还有海鸥和贼鸥的鸣叫；沙砾的窸窣声，还有破瓶子闪烁的绿光。但是你的目光总会回到那耀眼的光斑，无论映照在什么地方，都是那样丰饶……
+0x010000810000250B	Dialogue Text	LANDS END / NETPICKER	Encyclopedia	Across the rusty water -- that's La Delta, the financial district. In the mist-covered distance, towers rise as a rebuke to the poverty of this coast.	锈色的大海对岸——是金融区德尔塔。在薄雾笼罩的远方，林立的高塔像是在控诉这片贫瘠的海岸。
+0x0100008100002526	Dialogue Text	LANDS END / NETPICKER	The Sun	The sun also falls on the cape-side tenements and war-torn ruins. An old sea fortress juts out, seemingly impervious to the sheen cast over everything else, shaking you out of your reverie...	太阳映照在廉价的岬岸公寓和饱受战争摧残的废墟上。一栋古老的海堡尤其突出，仿佛并未被那笼罩万物的光芒所影响，将你从幻想中摇醒……
+0x010000810000252E	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"It's bringing us spring, summer... It's entirely on our side, no matter what we do or who we are. For absolutely *no* reason. It's unlike no other powerful being -- certainly no powerful organisation, or government? How can that be?"	“它为我们带来了春天，夏天……不论发生什么，或者不论我们是谁，完全都会站在我们这一边。完全*没有*任何理由。它不像其他强大的存在——肯定不是强大的组织，或者政府？这怎么可能呢？”
+0x0100008100002549	Dialogue Text	LANDS END / NETPICKER	You	"I'm not sure desert people are happy with too much sunlight."	“我不确定生活在沙漠的人会不会很喜欢阳光。”
+0x010000810000254F	Dialogue Text	LANDS END / NETPICKER	You	"Is that why you named your boat 'The Sun'?"	“所以你给自己的船起名为*太阳*？”
+0x0100008100002555	Dialogue Text	LANDS END / NETPICKER	You	Just enjoy the view. (Continue.)	静静欣赏风景。（继续。）
+0x0100008100002567	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Oh, that was a bit of pride, and a bit of superstition..."	“哦，好像是有些骄傲，还有点迷信……”
+0x010000810000256D	Dialogue Text	LANDS END / NETPICKER	Inland Empire	The Sun does little for the dead, and those hopelessly lost in their own minds.	太阳对那些死去的人，还有绝望地迷失在自己脑海中的人来说，是派不上多大用场的。
+0x0100008100002573	Dialogue Text	LANDS END / NETPICKER	Logic	Or people living in desert climates with sparse vegetation and little drinking water.	或者是生活在沙漠气候里，植被稀疏，水源不足那些地方的人。
+0x010000810000258E	Dialogue Text	LANDS END / NETPICKER	Logic	The sun isn't always that great. Think of people living in desert climates with sparse vegetation and little drinking water.	太阳也不总是那么好的。想想那些生活在沙漠气候里，植被稀疏，水源不足那些地方的人。
+0x010000810000259C	Dialogue Text	LANDS END / NETPICKER	Conceptualization	And a bit of conceptual unity too, it being yellow and all...	而且还有些概念上的统一，它也是黄色的，而且……
+0x01000081000025AA	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Now you're just nitpicking." She smiles. "But aye, I concede -- maybe *desert people* sometimes disagree."	“你这就是在挑刺了。”她笑了笑。“不过也是，我让一步——也许*沙漠子民*有时候会不赞同。”
+0x01000081000025BB	Dialogue Text	LANDS END / NETPICKER	You	"The sun isn't exactly an organisation."	“太阳并不算是一个组织。”
+0x01000081000025C1	Dialogue Text	LANDS END / NETPICKER	You	"Well, *something's* gotta be on our side."	“呃，总得*有什么*站在我们这边吧。”
+0x01000081000025CD	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"No." She smirks. "And it will outlive them all."	“不是。”她得意的笑了。“而且它会活的比那些都久。”
+0x01000081000025D3	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	She nods. "I guess we wouldn't really *be* here if that thing wasn't on our team..."	她点点头。“如果它不站在我们这边，我猜我们就不会真的*存在于此*了……”
+0x01000081000025F2	Dialogue Text	LANDS END / NETPICKER	You	"You have fish-hooks in your ears."	“你的耳朵上有鱼钩。”
+0x01000081000025F8	Dialogue Text	LANDS END / NETPICKER	You	"Do you wish you were out there fishing right now?"	“你希望我们现在去钓鱼吗？”
+0x01000081000025FE	Dialogue Text	LANDS END / NETPICKER	You	"This was nice. Thank you." (Conclude the date.)	“这样感觉很好。谢谢你。”（结束约会）
+0x01000081000026D1	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"These?" she turns her head and they dangle. "These aren't real fish-hooks, silly. They're earrings shaped to look like fish-hooks. A drunk called Rosemary brought them to me. I kept them."	“你说这个？”她转过头，耳朵上的东西也跟着摇晃。“这不是真正的鱼钩，傻瓜。只是形状像鱼钩的耳环。一个叫罗斯马雷的醉鬼给我的，所以我就留下了。”
+0x01000081000026D9	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye, always do... I like it. It's like being on another planet. A water planet. With water worries... and water joys."	“嗯，一直这样……我挺喜欢的。就像是在另一个星球。一颗水之星球，有像水一样多的忧虑……还有水一样多的欢乐。”
+0x01000081000026E6	Dialogue Text	LANDS END / NETPICKER	You	"Don't you want to go visit La Delta?"	“难道你不想去德尔塔看看吗？”
+0x01000081000026EC	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Ha! It's enough that my fish goes there. Fifty reál a piece they ask for spring cod..."	“哈！我的鱼能去就够了。春鳕鱼一条就能卖50雷亚尔……”
+0x01000081000026F3	Dialogue Text	LANDS END / NETPICKER	Kim Kitsuragi	The lieutenant makes a show of glancing at his watch and tapping his foot.	警督慢慢瞥了一眼手表，拍了拍脚。
+0x0100008100002773	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"It didn't suck," she smiles. "I'll let you get back to your business now. The twins probably found a land mine by now..."	“感觉还不赖，”她笑了笑。“我就不打扰你继续工作了。我家双胞胎现在都可能都找到地雷了……”
+0x0100008100002829	Dialogue Text	LANDS END / NETPICKER	You	No! Keep quiet about your sordid past.	不！对你肮脏的过去一言不发。
+0x0100008100002831	Dialogue Text	LANDS END / NETPICKER	You	"You know, a past incarnation of myself called himself 'Tequila Sunset.' I wonder why that is."	“你知道吗，我过去的一个化身称呼自己为*龙舌兰日落*。不知道为什么会这样。”
+0x0100008100002838	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"It's a common Revacholian expression." She narrows her eyes. "Means drinking yourself to death."	她眯起双眼。“这是瑞瓦肖人的常用语。意思是把自己喝到死为止。”
+0x0100008100002846	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"And what about you? Keeping the name?"	“那你呢？还留着这个名号吗？”
+0x0100008100002852	Dialogue Text	LANDS END / NETPICKER	You	"Found a corpse recently. He'd had a Tequila Sunset moment."	“最近发现了一具尸体。他倒是享受了一刻的*龙舌兰日落*。”
+0x010000810000285B	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	There's a little pause. "So are you going to keep the name?"	一时间无人言语。“所以你打算保留这个名号吗？”
+0x0100008100002883	Dialogue Text	LANDS END / NETPICKER	You	"Might as well. I don't really have any others."	“也可以。反正我也没其他的。”
+0x010000810000288A	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Well, then..." She shrugs and turns toward the sunlit sea.	“是吗，那好吧……”她耸耸肩，转头望向波光粼粼的海面。
+0x0100008100002892	Dialogue Text	LANDS END / NETPICKER	You	"Lately I've been going by Detective Costeau."	“最近我用的都是库斯托警探。”
+0x0100008100002899	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Well, then, detective Costeau." She chuckles and turns toward the sunlit sea.	“是吗，那好吧，库斯托警探。”她轻声笑了笑，转头望向波光粼粼的海面。
+0x01000081000028B8	Dialogue Text	LANDS END / NETPICKER	You	"Who am I kidding? I'm probably going to drink myself to death whatever name I choose..."	“我这是跟谁开玩笑呢？不管我选了什么名字，很可能都会把自己喝死的……”
+0x01000081000028D3	Dialogue Text	LANDS END / NETPICKER	You	"I think I'm good with Harrier Du Bois these days."	“我最近觉得自己跟哈里尔·杜博阿这个名字相处的不错。”
+0x01000081000028D9	Dialogue Text	LANDS END / NETPICKER	You	"Harry's my name. I don't need any others."	“我叫哈里，不需要其他名字。”
+0x01000081000028DF	Dialogue Text	LANDS END / NETPICKER	You	"This is a new model of me. It will need a new name."	“这是全新的我。它需要一个新名字。”
+0x01000081000028F8	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Well then, Officer Du Bois..." She nods to you, then turns toward the sunlit sea.	“是吗，杜博阿警官……”她朝你点点头，然后转头望向波光粼粼的海面。
+0x01000081000028FE	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Well then, Harry..." She smiles and turns toward the sunlit sea.	“那好吧，哈里警官……”她笑着望向波光粼粼的海面。
+0x0100008100002904	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Can't wait to hear it." She smirks and turns toward the sunlit sea.	“我已经等不及想听到了。”她假笑着，转头望向波光粼粼的海面。
+0x010000810000292C	Dialogue Text	LANDS END / NETPICKER	You	"I prefer just going by my initials. It's more conspiratorial that way. Call me H.D.B.!"	“我还是比较喜欢用大写字母，这样听起来更像个阴谋家。叫我H.D.B.吧！”
+0x0100008100002933	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Well then, H.D.B...." She smiles and turns toward the sunlit sea.	“那好吧，H.D.B…….”她笑着望向波光粼粼的海面。
+0x0100008100002974	Dialogue Text	LANDS END / NETPICKER	You	"Hell yeah! Tequila Sunset all the way!"	“那是当然了！自始自终都是龙舌兰日落！”
+0x010000810000301C	Dialogue Text	LANDS END / NETPICKER	Shivers	Out on the terrace of Les Fruits de Fond, a hip business lunch spot in downtown La Delta, glasses clink over a spread of oysters. Someone can't decide what to eat. Someone recommends the ceviche. Someone shields her eyes, trying to see across the bay...	在红果满枝外面的阳台上——德尔塔中心一处时尚的商务午餐地点，玻璃杯在满桌的牡蛎之间交错碰撞。有人不知道该吃什么。有人推荐酸橘汁腌鱼。有人遮住双眼，想要遥望海湾的对岸……
+0x0100008900000DD8	Dialogue Text	LANDS END / NETPICKER	Lilienne, the Net Picker	"Aye." She nods. "I better head home to the kids."	“是啊。”她点点头。“我还是回去陪孩子吧。”
