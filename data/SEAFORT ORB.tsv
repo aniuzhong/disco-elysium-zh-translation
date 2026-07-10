@@ -1,0 +1,204 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060001EEC0	Dialogue Text	SEAFORT ORB / chain afterthought	Visual Calculus	As a defensive measure locking off that side of the bay.	作为封锁海湾那一边的防御手段。
+0x010000060001EEC8	Dialogue Text	SEAFORT ORB / chain afterthought	You	"This means I *sorta* got into the depot door."	“这就意味着我*算是*进了补给站的大门。”
+0x010000060001EED3	Dialogue Text	SEAFORT ORB / chain afterthought	Cuno	"Dunno, pig, doesn't look like we behind a door right now -- just Cuno's 2 cents of course."	“不知道，猪头，我们现在看起来不像是在大门后面——当然了，这只是坤诺的想法。”
+0x010000060001EED9	Dialogue Text	SEAFORT ORB / chain afterthought	Kim Kitsuragi	"Technically -- no. It doesn't."	“从严格意义上讲——不是的。并没有。”
+0x010000060001EEF1	Dialogue Text	SEAFORT ORB / chain afterthought	You	This means I *sorta* got into the depot door.	这就意味着我*算是*进了补给站的大门。
+0x010000060001EEF7	Dialogue Text	SEAFORT ORB / chain afterthought	Interfacing	He's right.	他说得对。
+0x010000060001EF05	Dialogue Text	SEAFORT ORB / chain afterthought	Interfacing	Technically -- no. Sorry.	从严格意义上讲——没有。很抱歉。
+0x010000450001C372	Dialogue Text	SEAFORT ORB / chain afterthought	Interfacing	The chain trails off into the ocean, connecting the island to the supply depot on the coast.	链条消失在大海里，连接着岛屿和海岸边的补给站。
+0x010000450001C379	Alternate1	SEAFORT ORB / chain afterthought	You	(Point to it.) "This leads to the depot in Land's End."	（指过去。）“这里可以通往地之角的补给站。”
+0x010000450001C379	Dialogue Text	SEAFORT ORB / chain afterthought	You	What for?	为什么？
+0x010000450001C37F	Dialogue Text	SEAFORT ORB / chain afterthought	You	[Finish thought.]	[完成思维。]
+0x010000450001C398	Dialogue Text	SEAFORT ORB / chain afterthought	Interfacing	For bringing supplies: munitions and fuel. You could also raise it, in order to lock the Western bay of Revachol.	为了运送补给品：弹药和燃料。也可以把它抬起来，封锁瑞瓦肖西海岸。
+0x010000450001C3AA	Dialogue Text	SEAFORT ORB / chain afterthought	Kim Kitsuragi	The lieutenant looks at the mechanism overhead. "Ah, yes... so it seems."	警督看着头顶的机械。“啊，是的……好像是这样。”
+0x010000450001C3BD	Dialogue Text	SEAFORT ORB / chain afterthought	You	"What do you think it was used for?"	“你觉得它是做什么用的？”
+0x010000450001C3CA	Dialogue Text	SEAFORT ORB / chain afterthought	Kim Kitsuragi	"For bringing munitions to the island, maybe? And supplies. You could also *lock* the bay, when you raise the chain."	“也许是为了把弹药送到岛上？还有补给品。如果把链条抬起来，还可以*封锁*海湾。”
+0x010000450001C3DD	Dialogue Text	SEAFORT ORB / chain afterthought	You	Lock it from whom?	封锁起来是为了防谁？
+0x010000450001C3E3	Dialogue Text	SEAFORT ORB / chain afterthought	Interfacing	Enemies.	敌人。
+0x010000450001C3FE	Dialogue Text	SEAFORT ORB / chain afterthought	You	What kind of enemies?	什么样的敌人？
+0x010000450001C405	Dialogue Text	SEAFORT ORB / chain afterthought	Interfacing	Enemies of the Commune of Revachol.	瑞瓦肖公社的敌人。
+0x010000450001C424	Dialogue Text	SEAFORT ORB / chain afterthought	Rhetoric	Of the future. Enemies of mankind.	未来的敌人。人类的敌人。
+0x010000450001C42A	Dialogue Text	SEAFORT ORB / chain afterthought	Rhetoric	Enemies of madness. Lunacy. Of the apocalypse taking place here.	疯狂的敌人。精神失常的疯子。就在大灾难降临在这里之后。
+0x010000450001C42F	Dialogue Text	SEAFORT ORB / chain afterthought	Rhetoric	Do not be too eager to greet these enemies, black hearted cavalier -- they were also the enemies of Revachol.	不要急着迎接这些敌人，黑心骑士——他们也是瑞瓦肖的敌人。
+0x010000450001C457	Dialogue Text	SEAFORT ORB / chain afterthought	You	"Lock it from whom?"	“封锁起来是为了防谁？”
+0x010000450001C45E	Dialogue Text	SEAFORT ORB / chain afterthought	Kim Kitsuragi	"From enemies." He looks up ahead. "Enemies of the Commune of Revachol. This seafort was a revolutionary fortification, I believe..."	“敌人”。他抬起头。“瑞瓦肖公社的敌人。我相信这座海堡是大革命时期的要塞。”
+0x0100006B00001761	Dialogue Text	SEAFORT ORB / chain afterthought	Cuno	The boy stares at the mechanism. "Cool fucking chain."	男孩凝视着机械。“这锁链也他妈的太酷了吧。”
+0x0100006B00001775	Dialogue Text	SEAFORT ORB / chain afterthought	Cuno	"Fuck does Cuno know?" He shrugs his shoulders. "Cuno would use it to bring shit to the island."	“坤诺当然他妈的知道了。”他耸了耸肩。“坤诺要用它往岛上运狗屎。”
+0x010000160000312B	Alternate1	SEAFORT ORB / fairweather t500 helmet	You	Don't think this helmet would have helped me anyway. (Look down at your wounds.)	反正这个头盔对我也没什么大用。（低头看向你的伤口。）
+0x010000160000312B	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	You	Don't think this helmet would have helped me anyway. (Look down at your wound.)	反正这个头盔对我也没什么大用。（低头看向你的伤口。）
+0x0100001600003131	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	You	At least my collector's impulse has been satisfied.	至少满足了我的收集癖。
+0x0100001600003137	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	You	I'm sure I'll have a use for this armour in the future.	我很肯定，这件盔甲以后一定用得着。
+0x0100001600003149	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	You	I never cared about collecting the full set. I'm not the collector type.	我从没想过集齐一整套。我也不是收藏家那一挂的。
+0x010000160000314F	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	You	Hey, at least I've got this cool helmet *now*. I can wear it into the next battle.	喂，至少我*现在*搞到这个酷炫的头盔了啊。下次上战场的时候就可以戴上。
+0x0100001600003155	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	Physical Instrument	It would have looked very impressive... Still. You found it all. Now your mortal coil is  *completely* protected. Few cops are this futuristic.	看起来的确会让人印象深刻……不过你还是找齐了。现在你的尘世烦扰已经得到了*完全的*保护。很少有这么未来派的警察。
+0x010000160000315B	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	Physical Instrument	Indeed. You found it all. Now your mortal coil is  *completely* protected. Few cops are this futuristic.	确实。你都找到了。现在你的尘世烦扰已经得到了*完全的*保护。很少有这么未来派的警察。
+0x0100001600003161	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	Physical Instrument	Future use for a future armour. Agreed. Gear up, heavy porcelain man. It's a violent world.	未来派的盔甲当然要用在未来了。武装起来吧，你这个贵重的瓷娃娃。这可是个充满暴力的世界。
+0x010000160000316D	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	Physical Instrument	Yeah, sure, but you would have become nearly invincible.	是啊，当然，你差不多会变得无敌到寂寞。
+0x0100001600003173	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	Physical Instrument	I'm liking the positive attitude. Keep it up, champ.	我喜欢这种积极的态度。继续保持，冠军。
+0x0100001600003182	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	You	At least now I am truly invincible. [Leave.]	至少现在我是真的无敌到寂寞。[离开。]
+0x0100001600003191	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	You	I'll make do. [Leave.]	我会的。[离开。]
+0x01000016000031D1	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	Physical Instrument	But it would have looked really impressive.	但是看起来一定会很让人印象深刻。
+0x01000016000031D7	Alternate1	SEAFORT ORB / fairweather t500 helmet	You	Don't think this helmet would have helped me anyway. (Look down at your wounds.)	反正这个头盔对我也没什么大用。（低头看向你的伤口。）
+0x01000016000031D7	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	You	Don't think this helmet would have helped me anyway. (Look down at your wound.)	反正这个头盔对我也没什么大用。（低头看向你的伤口。）
+0x01000016000031E5	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	You	Can't do anything about it now.	现在我无能为力。
+0x01000016000031EB	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	You	And maybe scared the enemy combatants...	也许还能吓唬吓唬敌方战斗人员……
+0x01000016000031F2	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	Physical Instrument	That's a good attitude to take. I like it. Keep it up, and keep the helmet handy.	这是个好态度。我喜欢。继续保持，善用这个头盔。
+0x01000016000031FA	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	Physical Instrument	Exactly. But no use crying over spilt milk. Keep up the pace. Only forward.	没错。但是事情已成定局，后悔也没用。继续保持这个步调，只要一往直前。
+0x0100001600003209	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	You	[Leave.]	[离开。]
+0x0100008100005A81	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	Endurance	Brother, you've managed to collect all the armour pieces. Too bad it's too late for the big showdown.	兄弟，你已经集齐了所有谜题碎片。可惜已经赶不上最后对决了。
+0x0100008100005A87	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	Physical Instrument	Son, you found another piece of the armour puzzle. Too bad it's too late for the big showdown. And also too late to collect all of them and have a full set.	孩子，你又找到了一个谜题碎片。可惜已经赶不上最后对决了。想把它们全部集齐拼凑在一起也已经太迟了。
+0x0100008100005A8F	Dialogue Text	SEAFORT ORB / fairweather t500 helmet	You	Damn. Perhaps another day. [Leave.]	该死。也许改天吧。[离开。]
+0x0100008900003595	Dialogue Text	SEAFORT ORB / full faln set	Composure	O glorious Falnier! You wear the full set like a true-born hero. The *ULTIMATE PERFORMANCE* of FALN flows in you.	啊，光荣的FALN穿戴者！穿上这一整套的你，像是个地地道道的英雄。FALN的*终极性能*在你的身体里流动。
+0x010000890000359B	Dialogue Text	SEAFORT ORB / full faln set	Composure	You are the most *Ultra* of men. Peak performance!	你是最*终极*的男人。状态达到巅峰！
+0x01000089000035A0	Dialogue Text	SEAFORT ORB / full faln set	Composure	Go on! The fucking sunset awaits, FALN rider!	去吧！该死的落日等待着你，FALN骑士！
+0x01000089000035A7	Dialogue Text	SEAFORT ORB / full faln set	You	I feel... so *dynamic*.	我感到……充满*活力*。
+0x01000089000035AC	Dialogue Text	SEAFORT ORB / full faln set	You	I look so *futuristic*.	我看起来真的特别*未来*。
+0x01000089000035B8	Dialogue Text	SEAFORT ORB / full faln set	Composure	You are Next Century personified, the synthetic man!	你是下个世纪的化身，人造人！
+0x01000089000035C4	Dialogue Text	SEAFORT ORB / full faln set	You	It's like I can do anything. *ANYTHING*!	就好像我无所不能一样。*无所不能*！
+0x01000089000035CB	Dialogue Text	SEAFORT ORB / full faln set	Composure	You are literally untouchable. A god among mere men.	毫不夸张地说，你已经触不可及。你是人类之中的神。
+0x010000450001C6C3	Dialogue Text	SEAFORT ORB / ICM logo questions	Encyclopedia	ICM? This feels familiar somehow...	ICM？感觉好像有点熟悉……
+0x010000450001C6D3	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"Kim, what is the *ICM*?"	“金，*ICM*是什么？”
+0x010000450001C6D9	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"RCM... It sounds like RCM -- Revachol Citizens Militia."	“ICM……听起来像是RCM——瑞瓦肖公民武装。”
+0x010000450001C6DF	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"A white star." (Point to the star on the label.)	“一颗白星。”（指着标签上的星星。）
+0x010000450001C6E5	Dialogue Text	SEAFORT ORB / ICM logo questions	You	[Finish thought.]	[完成思维。]
+0x010000450001C6EC	Dialogue Text	SEAFORT ORB / ICM logo questions	Kim Kitsuragi	"Insulindian Citizens Militia. It's the official name of the communards' army. The Black and White Army of the Revolution."	“伊苏林迪公民武装。是公社军队的官方名称。大革命时期的黑白军。”
+0x010000450001C6F3	Dialogue Text	SEAFORT ORB / ICM logo questions	Encyclopedia	Sounds an awful lot like...	听起来非常相似……
+0x010000450001C707	Dialogue Text	SEAFORT ORB / ICM logo questions	Kim Kitsuragi	"It does."	“它就是。”
+0x010000450001C70E	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"Why?"	“为什么？”
+0x010000450001C715	Dialogue Text	SEAFORT ORB / ICM logo questions	Kim Kitsuragi	"The RCM *may* descend from the ICM."	“RCM*可能*起源于ICM。”
+0x010000450001C722	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"What I'm hearing is -- we descend from the glorious revolutionary army."	“我听过的版本是——我们是光荣的革命军的传承。”
+0x010000450001C728	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"It's a little embarrassing in '51, no? Maybe we need a re-brand?"	“52年的时候是不是有点尴尬？也许我们需要起个新名字？”
+0x010000450001C72E	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"ICM sounds like ICP. Very close to the International Collaboration Police. Nice and *normal* that way."	“ICM听起来跟ICP，也就是国际联合刑警非常接近。这样好像更好，*更正常*一些。”
+0x010000450001C734	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"I just want to be in a normal, right wing police force. That's all I want."	“我只想待在一个普通的右翼警察部队。仅此而已。”
+0x010000450001C73A	Dialogue Text	SEAFORT ORB / ICM logo questions	Kim Kitsuragi	"It's impossible to say." He looks toward the darkened doorway. "It was chaos after the war. The name was good for getting people to join us -- Revachol West was mostly workers and criminals..."	“这很难说。”他望向黑洞洞的门口。“战争之后一片混乱。这个名字很适合鼓励人们加入——瑞瓦肖西边大部分都是工人和罪犯……”
+0x010000450001C741	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"*May*?"	“*可能*？”
+0x010000450001C74E	Dialogue Text	SEAFORT ORB / ICM logo questions	Kim Kitsuragi	"That's just a coincidence, officer. The CoMil was founded in '32..." He bows to inspect the barrel.	“那只是个巧合，警官。国际联合刑警是在32年成立的……”他弯下腰来，检查木桶。
+0x010000450001C755	Dialogue Text	SEAFORT ORB / ICM logo questions	Kim Kitsuragi	"You *are* in a right wing police force. Those times are long gone..." He bows to inspect the barrel.	“你*的确*待在右翼警察部队。那些时光早就已经过去了……”他弯下腰检查木桶。
+0x010000450001C75C	Dialogue Text	SEAFORT ORB / ICM logo questions	Kim Kitsuragi	"No one remembers the ICM, the connotation is less important each year..." He bows to inspect the barrel.	“没人记得ICM，内涵的重要性每年都在衰弱……”他弯下腰检查木桶。
+0x010000450001C763	Dialogue Text	SEAFORT ORB / ICM logo questions	Kim Kitsuragi	"There were all sorts of groups and *groupuscules* back then. It doesn't really matter..." He bows to inspect the barrel.	“那时有各种各样的团体和*小派系*。其实真的不重要……”他弯下腰检查木桶。
+0x010000450001C770	Dialogue Text	SEAFORT ORB / ICM logo questions	Rhetoric	...nice *political* thoughts rush through your neocortex.	……美好的*政治*思维从你的大脑皮层飞速掠过。
+0x010000450001C77F	Dialogue Text	SEAFORT ORB / ICM logo questions	You	Just catch your breath.	先缓口气。
+0x010000450001C785	Dialogue Text	SEAFORT ORB / ICM logo questions	Kim Kitsuragi	"This is better preserved than the others. You can still read the sign..." He bows to inspect the barrel.	他弯下腰检查木桶。“这个比其它的保藏的要好。还能认出上面的符号……”
+0x010000450001C79A	Dialogue Text	SEAFORT ORB / ICM logo questions	Kim Kitsuragi	"No." He looks at it. "An *upside down* star."	“不。”他看了看。“是个*颠倒*的星星。”
+0x010000450001C7A1	Dialogue Text	SEAFORT ORB / ICM logo questions	Encyclopedia	With its horns in the sky -- the symbol of the Commune.	朝天的鹿角——是公社的符号。
+0x010000450001C7A8	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"Are those specks stars too?"	“那些斑点也是星星吗？”
+0x010000450001C7AF	Dialogue Text	SEAFORT ORB / ICM logo questions	Kim Kitsuragi	"No. That's the *uninhabited archipelago*."	“不。那是*无人居住的群岛*。”
+0x010000450001C7B6	Dialogue Text	SEAFORT ORB / ICM logo questions	Encyclopedia	A Dolorian-era symbol of Insulinde. Known as The Face In The Sea.	是德洛莉丝时代伊苏林迪的符号。也被称作是海洋的容貌。
+0x010000450001C7BE	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"Looks old. What's it still doing here?"	“看起来很古老。还留在这里做什么？”
+0x010000450001C7C5	Alternate1	SEAFORT ORB / ICM logo questions	Kim Kitsuragi	"After..." He thinks. "Forty four years? That's not nearly enough to hide what happened here, lieutenant-yefreitor."	“大概是……”他想了想。“44年之后？根本没时间隐藏这里发生的一切，荣誉警督。”
+0x010000450001C7C5	Dialogue Text	SEAFORT ORB / ICM logo questions	Kim Kitsuragi	"After..." He thinks. "Forty four years? That's not nearly enough time to hide what happened here, officer."	“在……”他想了想。“44年之后吗？根本没时间隐藏这里发生的一切，警官。”
+0x010000450001C7D7	Dialogue Text	SEAFORT ORB / ICM logo questions	Kim Kitsuragi	"One of these barrels was still leaking fuel, as you saw. The city is full of things like this. Old bullets, guns, fuel..."	“你也看见了，有只桶还在漏油。这个城市到处都是这种东西。旧子弹，枪支，还有燃料……”
+0x010000450001CA1A	Dialogue Text	SEAFORT ORB / ICM logo questions	Endurance	It's gonna be hard to say them. Carrying around all that weight on a busted crutch is making you pant...	这很难说出口。用一根破拐杖承担着所有重量到处走，让你有些喘不上气来……
+0x010000450001CA29	Dialogue Text	SEAFORT ORB / ICM logo questions	Endurance	A mediocre athlete would pant from dragging around his body on a busted crutch -- but not you, you're thinking about *politics* with blood dripping down your thigh...	一个平庸的运动员才会因为拄着破拐杖拖着身体到处走而气喘吁吁——但你不会，你考虑的是*政治*，带着鲜血顺着你的大腿滑落……
+0x0100008900002600	Dialogue Text	SEAFORT ORB / ICM logo questions	Cuno	He leans in for a closer look. "Dunno. Maybe. Sorta looks like stars to Cuno. Or, like, islands maybe? Fuck does Cuno know..."	他倚下身子，想看的更仔细些。“不知道。也许。坤诺看起来有点像星星。或者说，像小岛？妈的坤诺怎么知道……”
+0x0100008900002606	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"Cuno, what is the *ICM*?"	“坤诺，*ICM*是什么？”
+0x010000890000260C	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"RCM... It sounds like RCM -- Revachol Citizens Militia."	“RCM……听起来像是RCM——瑞瓦肖公民武装。”
+0x0100008900002612	Dialogue Text	SEAFORT ORB / ICM logo questions	You	[Finish thought.]	[完成思维。]
+0x0100008900002618	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"A white star." (Point to it.)	“一颗白星。”（指着星星。）
+0x0100008900002623	Dialogue Text	SEAFORT ORB / ICM logo questions	Cuno	"Who the fuck's gonna move it? The island janitor?"	“谁他妈会动它？岛上的看守吗？”
+0x010000890000262B	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"Looks old. What is it still doing here?"	“看起来很老旧。它还在这儿做什么？”
+0x0100008900002631	Dialogue Text	SEAFORT ORB / ICM logo questions	You	"Are those specks stars too?"	“那些斑点也是星星吗？”
+0x0100008900002637	Dialogue Text	SEAFORT ORB / ICM logo questions	Cuno	"Is this a case for Detective Cuno?" He cracks his knuckles, ready. "Idiot Cat Moon. Inside Car Motors. Is Cuno Magic? He is -- case solved."	“这是坤诺警探的案子吗？”他把手指头掰的啪啪响，一幅准备好的了样子。“ICM是‘白痴的猫与月光’，或者‘汽車发动机里面’的缩写吧。坤诺会魔法吗？答案是他会——案子破了。”
+0x010000890000263D	Dialogue Text	SEAFORT ORB / ICM logo questions	Cuno	"Shit looks upside down to Cuno." He leans to the side, tilting his head.	“坤诺觉得那狗屎看起来是颠倒的。”他靠向一边，歪起脑袋。
+0x0100008900002643	Dialogue Text	SEAFORT ORB / ICM logo questions	Cuno	"Yeah, pig. That's letter shit for you. The *alphabet*."	“是啊，猪头。你才玩那套字母什么的狗屁。*字母表*。”
+0x0100008900002661	Dialogue Text	SEAFORT ORB / ICM logo questions	You	[Finish thought.]	[完成思维。]
+0x010000890000266D	Dialogue Text	SEAFORT ORB / ICM logo questions	You	Huh, what is the ICM?	哈？ICM是什么？
+0x0100008900002673	Dialogue Text	SEAFORT ORB / ICM logo questions	You	It sounds like RCM -- Revachol Citizens Militia.	“这念出来和RCM的发音很像——瑞瓦肖公民武装。”
+0x0100008900002679	Dialogue Text	SEAFORT ORB / ICM logo questions	You	A white star.	一颗白星。
+0x0100008900002684	Dialogue Text	SEAFORT ORB / ICM logo questions	You	Are those specks stars too?	那些斑点也是星星吗？
+0x010000890000268A	Dialogue Text	SEAFORT ORB / ICM logo questions	Encyclopedia	Insulindian Citizens Militia, the official name of the communards' army. The army of the Revolution.	伊苏林迪公民武装。是公社军队的官方名称。大革命的军队。
+0x0100008900002696	Dialogue Text	SEAFORT ORB / ICM logo questions	Encyclopedia	Although it's difficult to say for sure -- the RCM *may* descend from the ICM. At some, dark point in the past...	虽然很难确定——RCM*可能*起源于ICM。源自某个历史上的黑暗时刻……
+0x010000890000269C	Dialogue Text	SEAFORT ORB / ICM logo questions	Encyclopedia	Forty four years is not enough time to hide what happened here, on these islands...	44年根本不够隐藏这些岛屿上发生的一切……
+0x01000089000026A4	Dialogue Text	SEAFORT ORB / ICM logo questions	You	Looks old. What is it still doing here?	看样子这东西有年头了，可它为什么会出现在这儿呢？
+0x01000089000026B8	Dialogue Text	SEAFORT ORB / ICM logo questions	Encyclopedia	The *uninhabited archipelago*. A Dolorian-era symbol of Insulinde -- the Face In The Sea, as they call it.	*无人居住的群岛*。德洛莉丝时代伊苏林迪的符号——大家都叫它，海洋的容貌。
+0x01000089000026BE	Dialogue Text	SEAFORT ORB / ICM logo questions	Encyclopedia	With its horns in the sky -- the symbol of the Commune.	底角朝天——是公社的符号。
+0x01000089000026D0	Dialogue Text	SEAFORT ORB / ICM logo questions	Encyclopedia	With its horns in the sky -- the symbol of the Commune.	底角朝天——是公社的符号。
+0x01000089000026D6	Dialogue Text	SEAFORT ORB / ICM logo questions	Encyclopedia	Thank you, Cuno. It's the Dolorian symbol of Insulinde -- the face in the sea.	谢谢你，坤诺。这是德洛莉丝时代伊苏林迪的符号——海洋的容貌。
+0x01000089000026EB	Dialogue Text	SEAFORT ORB / ICM logo questions	Encyclopedia	Sounds an awful lot like...	听起来真的很相似……
+0x01000089000026F1	Dialogue Text	SEAFORT ORB / ICM logo questions	Encyclopedia	One of the barrels from earlier was still leaking fuel. The city is full of such things.	有只桶还在漏油。这个城市到处都是这种东西。
+0x0100008900002711	Dialogue Text	SEAFORT ORB / ICM logo questions	Encyclopedia	Sounds an awful lot like...	听起来真的很相似……
+0x010000060000E511	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	On the islet? There is almost no wind under the rain quietly falling on the reeds. Bulrushes swaying on the waterline, long dried leaves chafing against each other. The soft raindrops...	这座小岛上吗？这里几乎没有风，雨水安静地拍打着芦苇丛。灯心草在水岸边摇晃，早已凋零的树叶互相摩擦着。多么柔软的雨滴啊……
+0x010000060000E517	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	On the islet? There is almost no wind, just snow quietly falling on the reeds. Bulrushes swaying on the waterline, long dried leaves chafing against each other.	这座小岛上吗？这里几乎没有风，只有雪花静静飘落在芦苇丛中。灯心草在水岸边摇晃，早已凋零的树叶互相摩擦着。
+0x010000450001C4F3	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	The dry grass crackles under your feet as you stop. Far away birds' wings touch the still surface of the sea...	你停了下来，脚下的干草发出哗啦哗啦的声响。远处鸟儿的翅膀触碰着平静的海面……
+0x010000450001C502	Dialogue Text	SEAFORT ORB / quiet on the island	You	What is that flutter?	那边飞来飞去的是什么？
+0x010000450001C508	Dialogue Text	SEAFORT ORB / quiet on the island	You	[Stop listening.]	[不听了。]
+0x010000450001C513	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	The flock of quail departs; now more than a hundred metres away... a hundred and two... a hundred and five...	成群的鹌鹑出发了；现在已经飞到100米开外的地方……102……105……
+0x010000450001C51B	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	On the islet? There is almost no wind, just the light movement of air through the reeds. Bulrushes swaying on the waterline, long dried leaves chafing against each other.	这座小岛上吗？这里几乎没有风，只有一丝空气在芦苇丛中流动。灯心草在水岸边摇晃，早已凋零的树叶互相摩擦着。
+0x010000450001C536	Dialogue Text	SEAFORT ORB / quiet on the island	You	Underneath the flutter...	在那个会飞的东西下面……
+0x010000450001C53E	Dialogue Text	SEAFORT ORB / quiet on the island	Shivers	The great ghost of the air is holding its breath.	空气的幽灵屏住了它的呼吸。
+0x010000450001C545	Dialogue Text	SEAFORT ORB / quiet on the island	Conceptualization	Like a silent orchestra tuning -- at the beginning of some major work.	就像在重要演出之前——默默调音的管弦乐队。
+0x010000450001C54C	Dialogue Text	SEAFORT ORB / quiet on the island	Shivers	Of great importance to the few who attend.	对于参加表演的人来说是非常重要的。
+0x010000450001C561	Dialogue Text	SEAFORT ORB / quiet on the island	You	Ahead...	前方……
+0x010000450001C567	Dialogue Text	SEAFORT ORB / quiet on the island	You	To the east...	东边……
+0x010000450001C56D	Dialogue Text	SEAFORT ORB / quiet on the island	You	To the west...	西边……
+0x010000450001C576	Dialogue Text	SEAFORT ORB / quiet on the island	You	"Kim..."	“金……”
+0x010000450001C57C	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	A low hum. The air slowly moves through a concrete box -- through its ancient slits and cracks. Resonating. Hollow. A big building.	一阵低沉的嗡嗡声。空气缓缓穿过一个混凝土箱子——拂过每一道古老的细缝和裂痕，发出空洞的回声。可真是栋大建筑。
+0x010000450001C583	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	Air flows out of a pillbox window. There is very little there. The air cossets flowers on a meadow? Absolute silence. Reeds motionless. Bulrushes motionless.	空气从一个小窗口流了出来，小到几乎可以忽略不计。轻风爱抚着草地上的花朵？周围鸦雀无声。芦苇静止了。灯心草也一动不动。
+0x010000450001C58A	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	The far away roar of the city, distant like today's dream. Before it, the sound of sand. The low tide filtered through its grains... a bird tending to its feathers.	远处城市的轰鸣，遥远的就像今天的梦境。在那之前，是飞沙的声响。低潮滤过粗细不一的颗粒……一只鸟儿正在梳理自己的羽毛。
+0x010000450001C597	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	A silent hiss, sea air moving through the needles of a pine tree.	海风穿过松树的针叶，发出寂静的嘶嘶声。
+0x010000450001C5A4	Dialogue Text	SEAFORT ORB / quiet on the island	You	Beyond that... further north...	在另一边……更北边一点……
+0x010000450001C5BA	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	Raindrops fall on water, strangely quiet, forming circles in the distance...	雨滴降落在水面上，但却出奇的安静，密密麻麻地在远处围成了一个圆圈……
+0x010000450001C5C1	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	Snow falls on the water, melting away without even a whisper.	雪花飘落在水面上，寂静无声的融化成水。
+0x010000450001C5C9	Dialogue Text	SEAFORT ORB / quiet on the island	You	Below the silence?	而在这沉默之下的是什么？
+0x010000450001C5CF	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	Col Do Ma Ma Daqua.	哈库多玛达塔。
+0x010000450001C5D5	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	A drop of rain falls on a black log. Of an extinguished camp-fire.	大雨浇落在熄灭篝火的黑色残骸上。
+0x010000450001C5ED	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	A flake of snow falls on an extinguished camp-fire. Hiss...	一瓣雪花轻轻飘落在熄灭篝火的黑色残骸上。发出嘶嘶的声响……
+0x010000450001C608	Dialogue Text	SEAFORT ORB / quiet on the island	Perception (Hearing)	A jitter. A sound impatient to happen, but not yet in this world.	有什么东西在晃动。一个声音急不可耐地等待着，但却仍未真正降临这个世界。
+0x010000450001C61B	Dialogue Text	SEAFORT ORB / quiet on the island	Inland Empire	You hear some kind of limb fidget, producing an imperceptible tick...	你听到肢体烦躁不安的动静，发出一种极其细微的滴答声……
+0x010000450001C622	Dialogue Text	SEAFORT ORB / quiet on the island	Inland Empire	We are way out now... Way out in the West.	我们已经走远了……正在遥远的西边。
+0x010000450001C629	Dialogue Text	SEAFORT ORB / quiet on the island	Logic	No, it's just your imagination. You can't hear such things.	不，这只是你的想象。你什么也没听见。
+0x010000450001C642	Dialogue Text	SEAFORT ORB / quiet on the island	You	[Open your eyes, stop listening.]	[睁开你的双眼，别听了。]
+0x010000450001C649	Dialogue Text	SEAFORT ORB / quiet on the island	Kim Kitsuragi	"Yes?"	“什么事？”
+0x010000450001C650	Dialogue Text	SEAFORT ORB / quiet on the island	You	"It's really fucking silent on this island."	“这座小岛还真他妈的安静啊。”
+0x010000450001C656	Dialogue Text	SEAFORT ORB / quiet on the island	You	"It's pretty silent on this island."	“岛上还真够安静的。”
+0x010000450001C65C	Dialogue Text	SEAFORT ORB / quiet on the island	You	"Have you noticed how quiet it is?"	“你有没有注意到这里有多安静？”
+0x010000450001C666	Dialogue Text	SEAFORT ORB / quiet on the island	Kim Kitsuragi	"It is -- is that why we're stopping?"	“是啊——这就是我们停下来的原因吗？”
+0x010000450001C66E	Dialogue Text	SEAFORT ORB / quiet on the island	Kim Kitsuragi	"I have -- is that why we're stopping?"	“我有——这就是我们停下来的原因吗？”
+0x010000450001C683	Dialogue Text	SEAFORT ORB / quiet on the island	You	"Sorry. Let's move." [Leave.]	“抱歉，我们走吧。”[离开。]
+0x010000450001C689	Dialogue Text	SEAFORT ORB / quiet on the island	You	"Mhm. Wait. I have to listen to one more thing."	“嗯。等一下。我再听听。”
+0x010000450001C691	Dialogue Text	SEAFORT ORB / quiet on the island	Kim Kitsuragi	The lieutenant nods, in silence.	警督默默地点点头。
+0x010000450001C9E0	Dialogue Text	SEAFORT ORB / quiet on the island	You	"It... hurts a bit. Maybe the bandage is off?"	“好像……有点疼。也许是绷带开了？”
+0x010000450001C9E6	Dialogue Text	SEAFORT ORB / quiet on the island	Kim Kitsuragi	"It can happen -- is that why we're stopping?"	“有这个可能——这就是我们停下来的原因吗？”
+0x010000450001C9F2	Dialogue Text	SEAFORT ORB / quiet on the island	Pain Threshold	Momentarily the sounds are swept away. Pain shoots up your right foot and into your groin...	刹那间，声音消失了。疼痛像一枚子弹射入你的右脚，一路钻进你的腹股沟……
+0x010000450001C9FF	Dialogue Text	SEAFORT ORB / quiet on the island	Pain Threshold	This is where a lesser man would stop to think about the pain shooting up his right leg and into his groin -- not you, you're concentrated on how...	右脚和腹股沟传来一阵刺痛，如果是个软弱的男人，现在一定会停下脚步——但你不会，你的精神还集中在……
+0x010000450001CA12	Dialogue Text	SEAFORT ORB / quiet on the island	You	"No, I was listening to something."	“不，我没在听什么。”
+0x010000890000256F	Dialogue Text	SEAFORT ORB / quiet on the island	You	"Cuno..."	“坤诺……”
+0x0100008900002576	Dialogue Text	SEAFORT ORB / quiet on the island	Cuno	"What?"	“什么事？”
+0x010000890000257D	Dialogue Text	SEAFORT ORB / quiet on the island	Pain Threshold	Momentarily the sounds are swept away. Pain shoots up your right foot and into your groin...	刹那间，声音消失了。疼痛像一枚子弹射入你的右脚，一路钻进你的腹股沟……
+0x0100008900002588	Dialogue Text	SEAFORT ORB / quiet on the island	Pain Threshold	This is where a lesser man would stop to think about the pain shooting up his right leg and into his groin -- not you, you're concentrated on how...	右脚和腹股沟传来一阵刺痛，如果是个软弱的男人，现在一定会停下脚步——但你不会，你的精神还集中在……
+0x010000890000259D	Dialogue Text	SEAFORT ORB / quiet on the island	You	"It's pretty silent on this island."	“岛上还真够安静的。”
+0x01000089000025A3	Dialogue Text	SEAFORT ORB / quiet on the island	You	"It's really fucking silent on this island."	“这座小岛还真他妈的安静啊。”
+0x01000089000025A9	Dialogue Text	SEAFORT ORB / quiet on the island	You	"Have you noticed how quiet it is?"	“你有没有注意到这里有多安静？”
+0x01000089000025AF	Dialogue Text	SEAFORT ORB / quiet on the island	You	"It... hurts a bit. Maybe the bandage is off?"	“好像……有点疼。也许是绷带开了？”
+0x01000089000025BB	Dialogue Text	SEAFORT ORB / quiet on the island	Cuno	He shrugs. "Spooky-ass island. That's how it is on spooky-ass islands. Silent and shit."	他耸耸肩。“像个幽灵岛一样。这里就是这个狗屁样。除了安静屁都没有。”
+0x01000089000025C1	Dialogue Text	SEAFORT ORB / quiet on the island	Cuno	"Yeah. Spooky-ass island. That's how it is on spooky-ass islands. Silent and shit."	“是啊。像个鬼幽灵岛一样。这里就是这个狗屁样。除了安静屁都没有。”
+0x01000089000025C6	Dialogue Text	SEAFORT ORB / quiet on the island	Cuno	"Fuckin' spooky, yeah. Is what it is."	“是啊，他妈的真像有鬼一样。就是这个鬼样子。”
+0x01000089000025CB	Dialogue Text	SEAFORT ORB / quiet on the island	Cuno	He squints at you. "Is that why we're stopping? So you can *bitch about the bandage*?"	他斜视着你。“这就是我们停下来的原因？听你说些*抱怨绷带的屁话*？”
+0x01000089000025D8	Dialogue Text	SEAFORT ORB / quiet on the island	You	"Mhm. Wait. I have to listen to one more thing."	“嗯。等一下。我再听听。”
+0x01000089000025DE	Dialogue Text	SEAFORT ORB / quiet on the island	You	"Sorry. Let's move." [Leave.]	“抱歉，我们走吧。”[离开。]
+0x01000089000025EA	Dialogue Text	SEAFORT ORB / quiet on the island	Cuno	The kid shrugs. He sniffs, audibly -- then, silence.	孩子耸耸肩。大声吸了一下鼻子——然后，又重归沉默。
+0x01000089000025EF	Dialogue Text	SEAFORT ORB / quiet on the island	You	"No, I was listening to something."	“不，我没在听什么。”
+0x010000060001EF68	Dialogue Text	SEAFORT ORB / walk into water	Volition	No-no, we're not starting with that. Not now. Not this time. This thought is over.	不不，我们不会从那里开始的。现在不行。这次不行。这个想法到此为止。
+0x010000450001D3C8	Dialogue Text	SEAFORT ORB / walk into water	Inland Empire	A strange feeling... looking at the water. Maybe you should just wander off into the sea? Leave it all and walk in...	看着水面……一种奇怪的感觉突然涌现。也许你应该慢慢走进大海？放下一切，就这么走进去……
+0x010000450001D3D9	Dialogue Text	SEAFORT ORB / walk into water	You	Why?	为什么？
+0x010000450001D3DF	Dialogue Text	SEAFORT ORB / walk into water	You	But it's cold...	但是很冷啊……
+0x010000450001D3E5	Dialogue Text	SEAFORT ORB / walk into water	You	[Shake your head.]	[摇摇头。]
+0x010000450001D403	Dialogue Text	SEAFORT ORB / walk into water	Inland Empire	Yes -- cold and still. But love is warm, like the inside of her mouth.	是的——冰冷而宁静。但是爱情是温暖的，就像她温热的口腔。
+0x010000450001D40A	Dialogue Text	SEAFORT ORB / walk into water	Inland Empire	Perhaps there's someone there? Under the water. Waiting for you.	也许那里有人？就在水下，在等待着你。
+0x010000450001D411	Dialogue Text	SEAFORT ORB / walk into water	Conceptualization	Where it has always been.	它一直就在那个地方。
+0x010000450001D418	Dialogue Text	SEAFORT ORB / walk into water	Shivers	In front of the video rental on the corner. At the crossing...	就在转角那家录像带租赁店的前面。那个十字路口……
+0x010000450001D41F	Dialogue Text	SEAFORT ORB / walk into water	Pain Threshold	Baby, you know it's going to hurt.	宝贝，你知道会很疼的。
+0x010000450001D437	Alternate1	SEAFORT ORB / walk into water	Inland Empire	In the rain-mirror of the bay you see Martinaise, reflected. Tall edifices of ruins reach into the water, like shimmering towers. And the shacks too. Pine trees and motor lorries, upside down...	海湾落下的细雨织成一面镜子，你看见了马丁内斯的倒影。高大的废墟泡在水里，仿佛闪闪发光的高塔。那些棚屋也是一样。还有上下颠倒的松树和货車……
+0x010000450001D437	Alternate2	SEAFORT ORB / walk into water	Inland Empire	In the snowing mirror of the bay you see Martinaise, reflected. Tall edifices of ruins reach into the water, like shimmering towers. And the shacks too. Pine trees and motor lorries, upside down...	海湾飘落的雪花连成一面镜子，你看见了马丁内斯的倒影。高大的废墟泡在水里，仿佛闪闪发光的高塔。那些棚屋也是一样。还有上下颠倒的松树和货車……
+0x010000450001D437	Dialogue Text	SEAFORT ORB / walk into water	Inland Empire	In the still mirror of the bay you see Martinaise, reflected. Tall edifices of ruins reach into the water, like shimmering towers. And the shacks too. Pine trees and motor lorries, upside down...	海湾像一面镜子，静静映照出马丁内斯。高大的废墟泡在水里，仿佛闪闪发光的高塔。那些棚屋也是一样。还有上下颠倒的松树和货車……
+0x010000450001D43E	Dialogue Text	SEAFORT ORB / walk into water	You	Yes, please...	是的，拜托……
+0x010000450001D444	Dialogue Text	SEAFORT ORB / walk into water	You	No-no-no-no...	不不不……
+0x010000450001D44C	Dialogue Text	SEAFORT ORB / walk into water	Inland Empire	Oh *fuck* yes. Go there in your head. It's been days since you've thought about her. A week...	哈，就*他妈的*要这样。深入自己的脑海。你有好多天没有想她了。快一星期了吧……
+0x010000450001D452	Dialogue Text	SEAFORT ORB / walk into water	Inland Empire	Yes, yes, yes, yes.	要的，要的，要的，要的。
+0x010000450001D467	Dialogue Text	SEAFORT ORB / walk into water	You	A bottle in my hand?	我手里有个瓶子？
+0x010000450001D46D	Dialogue Text	SEAFORT ORB / walk into water	Electrochemistry	With a bottle in your hand.	你手里有个瓶子。
+0x010000450001D475	Dialogue Text	SEAFORT ORB / walk into water	Electrochemistry	Always.	总是如此。
+0x010000450001D486	Dialogue Text	SEAFORT ORB / walk into water	You	Raise your sight.	抬头遥望。
+0x010000450001D492	Dialogue Text	SEAFORT ORB / walk into water	Inland Empire	Islets and posts like stepping stones lead into the water in front of you. Go. Step in... it's been too long.	面前的小岛和杆子像是深入水中的跳板。走吧。踏进去……已经过了太久。
+0x010000450001D724	Dialogue Text	SEAFORT ORB / walk into water	Perception (Smell)	Smelling of Tutti Frutti and betrayal.	蜜饯冰淇淋，还有背叛的味道。
