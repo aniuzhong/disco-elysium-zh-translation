@@ -1,0 +1,29 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x0100005A0000EC66	Dialogue Text	VILLAGE ORB / aerograffito afterthought	Conceptualization	This phrase is meant to be looked at from above.	这里的措辞就应该从上面看。
+0x0100005A0000EC6D	Dialogue Text	VILLAGE ORB / aerograffito afterthought	You	"Hey Kim, who is this rooftop message for?"	“喂，我说金，屋顶上的这条信息是给谁的？”
+0x0100005A0000EC74	Dialogue Text	VILLAGE ORB / aerograffito afterthought	Kim Kitsuragi	The lieutenant cranes his head and mutters: "GO HOME." He pauses. "It's an *aerograffito*. It's meant for the Coalition aerostatics that keep a lookout on the city from the low troposphere."	警督抬起头低语到：“回家。”他停顿了一下。“这是*静风讯号*。联盟静风舰用的，他们可以从低对流层密切监控这座城市。”
+0x0100005A0000EC7B	Dialogue Text	VILLAGE ORB / aerograffito afterthought	You	(Wag your finger at the clouds.) "GO HOME!"	（对着天上的云挥舞你的手指。）“回家！”
+0x0100005A0000EC8C	Dialogue Text	VILLAGE ORB / aerograffito afterthought	You	Silently nod.	静静地点头。
+0x0100005A0000EC93	Dialogue Text	VILLAGE ORB / aerograffito afterthought	You	"But why are they here?"	“不过，他们为什么会在那里？”
+0x0100005A0000EC98	Dialogue Text	VILLAGE ORB / aerograffito afterthought	You	"How do they stay up in the air like that?"	“他们到底是怎么一直待在半空中的？”
+0x0100005A0000ECA0	Dialogue Text	VILLAGE ORB / aerograffito afterthought	Kim Kitsuragi	"Look," the lieutenant says impatiently. "It's not something that can be explained on the go in couple of sentences. We have more important things to focus on right now, so let's get back to them, alright?"	“我说，”警督有些不耐烦。“这些东西可不是三言两语就能解释清楚的。现在我们还有更重要的事要做，不如先回到正事上来，好吧？”
+0x0100005A0000ECB6	Dialogue Text	VILLAGE ORB / aerograffito afterthought	Conceptualization	The sky is indifferent to your silent nod, but the lieutenant seems to appreciate it. He gives you a fleeting smile.	天空对你沉默的点头毫不关心，但是警督好像对此比较赞赏。你在他脸上捕捉到一个转瞬即逝的微笑。
+0x0100005A0000ECBC	Dialogue Text	VILLAGE ORB / aerograffito afterthought	Conceptualization	The sky feels more bright and welcoming than ever before.	相比寻常，天空变得越发明亮和热忱了。
+0x0100005A0000ECC1	Dialogue Text	VILLAGE ORB / aerograffito afterthought	Conceptualization	The sky feels more ominous and threatening than ever before.	相比寻常，天空变得越发不祥而凶险了。
+0x0100005A0000ECD6	Dialogue Text	VILLAGE ORB / aerograffito afterthought	You	"What is an aerostatic?"	“静风舰是什么？”
+0x0100005A0000ED31	Dialogue Text	VILLAGE ORB / aerograffito afterthought	You	(Wave at the sky.) "Hello, nice international community. Thank you for watching over us."	（朝天空挥手。）“你们好啊，友好的国际社会。感谢你们的监控。”
+0x0100005A0000ED46	Dialogue Text	VILLAGE ORB / aerograffito afterthought	Kim Kitsuragi	"An aerostatic is an airship. A hybrid airship, semi-rigid." He points up to a small dot in the cloudline. "*That* is an aerostatic."	“静风舰是一种飞艇，一种半刚性的混合动力飞船。”他指向云层中的一个小点。“*那个*就是静风舰。”
+0x0100005A0000ED52	Dialogue Text	VILLAGE ORB / aerograffito afterthought	You	"There are airships around? Where can I get one?!"	“这里居然有飞艇的吗？我能去哪儿弄一个？！”
+0x01000089000010E8	Dialogue Text	VILLAGE ORB / aerograffito afterthought	You	"What the hell is that?" (Point to the rooftop message.)	“那是什么鬼？”（指向屋顶的信息。）
+0x0100007800013265	Alternate1	VILLAGE ORB / spirit necktie	You	Hey, I'm trying to stay sober here!	喂，我可是很努力地想保持清醒！
+0x0100007800013265	Dialogue Text	VILLAGE ORB / spirit necktie	You	I really don't care about any bottle. I don't want to look at it.	我真的不在乎什么瓶子。我连看都不想看。
+0x010000780001326D	Dialogue Text	VILLAGE ORB / spirit necktie	You	Where? Bottle? What?	哪里？瓶子？什么东西？
+0x0100007800013273	Dialogue Text	VILLAGE ORB / spirit necktie	Inland Empire	You stop mid-step and put your hand on the garish necktie.	你暂停了中间步骤，直接把手放在了花哨的领带上。
+0x010000780001327B	Dialogue Text	VILLAGE ORB / spirit necktie	Rosemary	In this drunk's hand -- on the pipe there. Glowing blue, a mysterious, otherworldly blue. Filled to the brim with holy mysteries!	在那个醉汉手里——就是管道上那个。有个蓝色的东西在闪闪发光，是一种神秘的、超凡脱俗的蓝。满满充斥着神妙圣事！
+0x0100007800013282	Dialogue Text	VILLAGE ORB / spirit necktie	Electrochemistry	It's hard to know what exactly your vivid interior is speaking of here, but I'm guessing it's got a lot of alcohol in it.	很难知道你那生动活泼的内心世界到底在说些什么，但是我猜，极大可能跟酒精有关。
+0x010000780001328F	Dialogue Text	VILLAGE ORB / spirit necktie	You	Okay. Cool. What do I do next?	好吧。不错。那我接下来该怎么做？
+0x0100007800013295	Dialogue Text	VILLAGE ORB / spirit necktie	You	[Discard thought.]	[抛弃这个想法。]
+0x01000078000132A2	Dialogue Text	VILLAGE ORB / spirit necktie	Horrific Necktie	Oh I think this is about so much *more* than cool. Please go talk to him. See what it's about. I'm *drawn* to it.	哦，我脑子里想的可比这个要*不错*的多了。快去跟他聊聊。看看是怎么回事。我已经被深深*吸引*住了。
+0x01000078000132A8	Alternate1	VILLAGE ORB / spirit necktie	Horrific Necktie	This isn't even *about* that. This is about so much more than regular alcohol. Please go talk to him. See what it's about. I'm *drawn* to it.	根本就跟那个*无关*，这比寻常酒精的意味要多的多。快去跟他聊聊。看看是怎么回事。我已经被深深*吸引*住了。
+0x01000078000132A8	Dialogue Text	VILLAGE ORB / spirit necktie	Horrific Necktie	You *should* care. I'm getting a *very* special vibe from that bottle. Please go talk to him. I need to look at it closer...	你*应该*在乎。我从那个瓶子身上，感觉到一种*非常*特殊的氛围。快去跟他聊聊。我需要再仔细看看……
+0x01000089000015BD	Dialogue Text	VILLAGE ORB / spirit necktie	Horrific Necktie	That bottle, *bratan*! Just look at that bottle!	那个瓶子，*兄弟*！看看那个瓶子！
