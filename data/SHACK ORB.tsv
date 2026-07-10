@@ -1,0 +1,56 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x01000082000086F5	Alternate1	SHACK ORB / elchem with kim	Electrochemistry	Amphetamine, sweet amphetamine! You feel like you should find the source... and maybe get more?	啊，安非他命，甜美的安非他命！你觉得自己应该找出货源……也许还能再多弄点？
+0x01000082000086F5	Alternate2	SHACK ORB / elchem with kim	Electrochemistry	Amphetamine, sweet amphetamine! Maybe this Cuno kid knows where to find more?	啊，安非他命，甜美的安非他命！也许那个叫坤诺的小孩知道能在哪儿找到更多？
+0x01000082000086F5	Dialogue Text	SHACK ORB / elchem with kim	Electrochemistry	Be still, my beating heart... it's amphetamine, sweet amphetamine!	我的心脏狂跳不止！快冷静下来……这是安非他命啊，安非他命！
+0x0100008200008718	Dialogue Text	SHACK ORB / elchem with kim	You	Lick it. Big-style.	舔一口。大口一点。
+0x010000820000871E	Dialogue Text	SHACK ORB / elchem with kim	You	Don't lick it.	不要舔。
+0x010000820000872D	Dialogue Text	SHACK ORB / elchem with kim	Kim Kitsuragi	"But that there was an interesting find -- an alternative path into the harbour that the kid uses. Well done."	“不过确实有个有趣的发现——小孩前往港口的备用通道。做得好。”
+0x0100008200008735	Dialogue Text	SHACK ORB / elchem with kim	Rhetoric	There's a good vague way to ask where he stands on drug use. Professionally, I mean.	这种方法能够从侧面试探出他对使用毒品的态度。我是说，可以利用职业便利。
+0x010000820000873D	Dialogue Text	SHACK ORB / elchem with kim	Electrochemistry	Yeah, swift, lightning justice! Faster... Harder... Justicer!	是啊，迅速，如闪电般的正义！更快……更强……更公正！
+0x0100008200008755	Dialogue Text	SHACK ORB / elchem with kim	Kim Kitsuragi	"See that *ladder* there? It's probably another way into the industrial harbour, no? A secret path the local kids use."	“看到那边的*梯子*了吗？也许是通往工业港口的其他通道，不是吗？可能是本地小孩子的秘密通道。”
+0x0100008200008763	Dialogue Text	SHACK ORB / elchem with kim	You	Lick it, but only a little. An itty-bitty little lick.	舔一小口。非常非常小，特别特别小的那种。
+0x010000820000876A	Dialogue Text	SHACK ORB / elchem with kim	Electrochemistry	Responsible drug use. Just a faint bitter taste on the tip of your tongue. There wasn't enough to get a grown man anywhere.	尽责的毒品使用。你的舌尖品尝到一股淡淡的苦味。这点量不够让一个成年男子怎么样。
+0x0100008200008777	Dialogue Text	SHACK ORB / elchem with kim	Electrochemistry	You run your tongue across the plate four or five times. Like a dog. Still, just a very faint, bitter taste. This isn't enough to get a big man anywhere.	你伸出舌头来回舔了盘子四五下。就像一条狗。不过，还是只有一点非常微弱的苦味。这点量不够让一个成年男子怎么样。
+0x010000820000877D	Dialogue Text	SHACK ORB / elchem with kim	Electrochemistry	Yes, there isn't enough anyway. You'd only be *fooling* yourself.	是的，反正这点量也不多。你不过是在*愚弄*自己。
+0x0100008F00000D83	Dialogue Text	SHACK ORB / elchem with kim	Kim Kitsuragi	The lieutenant isn't studying the powder in the mirror. He's studying you.	警督并不是在研究镜子里的粉末。他在研究你。
+0x0100008F00000DA9	Dialogue Text	SHACK ORB / elchem with kim	You	"Someone has taken narcotics here. Perhaps the police should interfere?"	“有人拿走了这里的麻醉剂。也许警方应该介入？”
+0x0100008F00000DAF	Dialogue Text	SHACK ORB / elchem with kim	You	"I wasn't thinking about taking it, I swear! I was thinking about *justice*."	“我绝对没想过拿走它，我发誓！我不过是想到了*正义*。”
+0x0100008F00000DB6	Dialogue Text	SHACK ORB / elchem with kim	Kim Kitsuragi	"Perhaps not?" He looks at you. "This is below our pay grade, detective. However..." He points to the ladder in the corner.	“还是不要比较好吧？”他看着你。“警探，以我们的薪金等级，不该做这种事。不过……”他指了指角落的梯子。
+0x0100008F00000DBF	Dialogue Text	SHACK ORB / elchem with kim	You	"I've heard amphetamines make you a really good detective. Are *you* a... really good detective?"	“我听说安非他命能让你变成一个真正的好警探。所以，*你*是个好警探吗？”
+0x0100008F00000DC6	Dialogue Text	SHACK ORB / elchem with kim	Kim Kitsuragi	"Of course, detective. *Swift* justice. Don't worry, we don't have to investigate every trace of narcotics..." The lieutenant points to the ladder in the corner.	“当然了，警探。*迅速*的正义。别担心，我们不需要调查麻醉剂的所有来源……”警督指了指角落里的梯子。
+0x0100008F00000DCC	Dialogue Text	SHACK ORB / elchem with kim	Kim Kitsuragi	"No, I'm just a *regular* detective. Thank you very much."	“不，我只是个*普通*的警探。谢谢。”
+0x0100000600017A13	Dialogue Text	SHACK ORB / locust city logic	Kim Kitsuragi	"Well, detective, it appears you're on the way to solving the case..." The lieutenant looks around, writes something in his notebook, and turns to you...	“警探，看来你就快要解决这个案件了……”警督看了看周围，在笔记本里画了几笔，然后转向你……
+0x0100000600017A1D	Dialogue Text	SHACK ORB / locust city logic	Kim Kitsuragi	"The missing locust case, which is a sub-case of the imaginary insect case. So at least *that's* going well."	“蝗虫失踪案，是虚构昆虫案下属的二级案件。至少*那个案子*进行地还不错。”
+0x0100000600017A24	Dialogue Text	SHACK ORB / locust city logic	Perception (Hearing)	Sounds like you found the locusts, detective.	看来你发现蝗虫了，警探。
+0x0100000600017A2B	Dialogue Text	SHACK ORB / locust city logic	You	I need to tell Morell...	我得告诉莫雷尔……
+0x0100000600017A34	Dialogue Text	SHACK ORB / locust city logic	Perception (Hearing)	As you turn away, heaps of leaves are rotting among the mud-cake towers. Dozens of little locusts feed on them, buzzing away with vicious joy...	你转过脸，看到大片大片的树叶在泥蛋糕塔里渐渐腐烂。一群小蝗虫以腐叶为食，带着罪恶的愉悦感在周围嗡嗡低语。坤诺能待在这个地方，真是超越了自己的极限。
+0x0100000600017A3B	Dialogue Text	SHACK ORB / locust city logic	You	"Yes. We need to tell Morell about this immediately."	“没错。我们必须马上告诉莫雷尔。”
+0x0100000600017A42	Dialogue Text	SHACK ORB / locust city logic	You	"Wait -- could this mean the Insulindian phasmid is nearby?"	“等等——难道说伊苏林迪竹节虫就在这附近？”
+0x0100000600017A48	Dialogue Text	SHACK ORB / locust city logic	Kim Kitsuragi	"If anything, the presence of the locusts points to the *opposite* -- the phasmid did not take the bait from the traps."	“如果真有什么的话，那蝗虫的存在指向了*相反*的推论——竹节虫没有拿走陷阱里的诱饵。”
+0x0100000600017A4E	Dialogue Text	SHACK ORB / locust city logic	Kim Kitsuragi	"Instead, it was a kid's prank." He shrugs. "But what do I know?"	“相反，这只是小孩的恶作剧而已。”他耸了耸肩。“不过我怎么知道呢？”
+0x0100000600017A54	Dialogue Text	SHACK ORB / locust city logic	Logic	Use your powers of deduction! You knew the bug was nowhere near here. The phasmid is impairing your judgement.	运用你的推理能力！你知道那只充满魔力的虫子根本不在这里。竹节虫削弱了你的判断能力。
+0x0100000600017A5F	Dialogue Text	SHACK ORB / locust city logic	Kim Kitsuragi	"Of course. I'll leave that to you. You seem to have a *handle* on the phasmid-trap-insect situation."	“当然。这个就交给你了。你好像很会*处理*竹节虫陷阱的情况。”
+0x0100000600017AD5	Dialogue Text	SHACK ORB / locust city logic	You	"We should talk to the kid outside. It was probably him. Get him to stop." [Leave.]	“我们应该跟外面的孩子聊聊。也许是他做的。一定要让他停手。”[离开。]
+0x0100000600017ADC	Dialogue Text	SHACK ORB / locust city logic	Perception (Hearing)	Heaps of leaves are rotting among the mud-cake towers. Dozens of little locusts feed on them, buzzing away with vicious joy. The kid in the yard has really outdone himself here.	大片大片的树叶在泥蛋糕塔里渐渐腐烂。一群小蝗虫以腐叶为食，带着罪恶的愉悦感在周围嗡嗡低语。院子里的小孩能待在这个地方，真是超越了自己的极限。
+0x0100000600017AED	Dialogue Text	SHACK ORB / locust city logic	Kim Kitsuragi	"I'll let you handle that side of things. You're doing just fine."	“这个就交给你处理了。你做的挺不错的。”
+0x01000012000006FF	Dialogue Text	SHACK ORB / locust city logic	Kim Kitsuragi	"Well, detective, it appears you've solved the case..." The lieutenant looks around, writes something in his notebook, and turns to you...	“警探，看来你已经解决这个案件了……”警督看了看周围，在笔记本里画了几笔，然后转向你……
+0x0100008200007C18	Dialogue Text	SHACK ORB / locust city logic	Perception (Hearing)	All around you, the hisses and chirps of locusts fill the musky air. The earthen floor of the shack has been shaped into mounds of mud dotted with little holes for windows.	你周围到处都是蝗虫的嘶鸣声，充斥在弥漫着麝香味的空气中。棚屋的地板堆成了泥土的形状，而上面斑驳的小洞就是窗户。
+0x0100008200007C1E	Dialogue Text	SHACK ORB / locust city logic	Conceptualization	Like skyscrapers, spires of dirt and sand rising. Accommodations for their insectoid inhabitants?	尖尖的泥土和沙石拔地而起，就像摩天大楼一样。应该是昆虫们的住所吧？
+0x0100008200007C2B	Dialogue Text	SHACK ORB / locust city logic	Kim Kitsuragi	"Of the locusts. For the missing locust case, which is a sub-case of the imaginary insect case. So at least *that's* going well."	“是蝗虫的。蝗虫失踪案，是虚构昆虫案下属的二级案件。所以，至少*那个案子*进行地还不错。”
+0x0100008200007C32	Dialogue Text	SHACK ORB / locust city logic	You	"Yes, precisely what I was thinking!"	“没错，我刚好就是这么想的。”
+0x0100008200007C38	Dialogue Text	SHACK ORB / locust city logic	You	"Stop being so sarcastic, Kim."	“别这么刻薄嘛，金。”
+0x0100008200007C40	Dialogue Text	SHACK ORB / locust city logic	Kim Kitsuragi	"Oh, I'm not being sarcastic *at all*. We are making *real* progress here."	“哦，对了，我完全没有*刻薄*。我们*的确*是取得进展了。”
+0x0100008200007C47	Dialogue Text	SHACK ORB / locust city logic	Rhetoric	When someone says they're not being sarcastic, it's usually a good sign that they're being *very* sarcastic.	如果有人说自己并不刻薄，通常都是*非常*刻薄的最佳标志。
+0x0100008200007C55	Dialogue Text	SHACK ORB / locust city logic	Kim Kitsuragi	"Yes." He nods. "I feel we are nearing a *real* breakthrough."	“是的。”他点点头。“我觉得我们*真的*就快有重大突破了。”
+0x0100008200007C5C	Dialogue Text	SHACK ORB / locust city logic	You	"You think the Insulindian phasmid is nearby?"	“你觉得伊苏林迪竹节虫就在附近？”
+0x0100008200007C62	Dialogue Text	SHACK ORB / locust city logic	You	"We should talk to Cuno about this. Get him to stop." [Leave.]	“我们应该跟坤诺聊聊这个。让他停手。”[离开。]
+0x0100008200007C69	Dialogue Text	SHACK ORB / locust city logic	Kim Kitsuragi	"If anything, the presence of the locusts points to the opposite -- the phasmid did not take the bait from the traps. It was Cuno. The phasmid doesn't exist..."	“如果真有什么的话，那蝗虫的存在指向了相反的推论——竹节虫没有拿走陷阱里的诱饵。是坤诺。而且竹节虫根本不存在……”
+0x0100008200007C70	Dialogue Text	SHACK ORB / locust city logic	Logic	Use your powers of deduction! You knew the magic bug was nowhere near here. The phasmid is impairing your judgement.	运用你的推理能力！你知道那只充满魔力的虫子根本不在这里。竹节虫削弱了你的判断能力。
+0x0100008200007C7C	Dialogue Text	SHACK ORB / locust city logic	Kim Kitsuragi	He shrugs. "But what do I know?"	他耸耸肩。“那我怎么知道？”
+0x0100008200007C8C	Dialogue Text	SHACK ORB / locust city logic	You	What is this?	这是什么？
+0x0100008200007C92	Dialogue Text	SHACK ORB / locust city logic	You	I should go and ask him to stop then. [Finish thought.]	我应该去找他，让他停手。[完成思维。]
+0x0100008200007C9C	Dialogue Text	SHACK ORB / locust city logic	Perception (Hearing)	Heaps of leaves are rotting among the mud-cake towers. Dozens of little locusts feed on them, buzzing away with vicious joy. Cuno has really outdone himself here.	大片大片的树叶在泥蛋糕塔里渐渐腐烂。一群小蝗虫以腐叶为食，带着罪恶的愉悦感在周围嗡嗡低语。坤诺能待在这个地方，真是超越了自己的极限。
+0x0100008200007CA3	Dialogue Text	SHACK ORB / locust city logic	Inland Empire	It's an ode to self expression.	这是活出真我的一篇颂歌。
+0x0100008200007CAA	Dialogue Text	SHACK ORB / locust city logic	Conceptualization	It's the work of a self-taught visionary.	这是一位自学成才的博学家的杰作。
+0x0100008200007CCF	Dialogue Text	SHACK ORB / locust city logic	Perception (Hearing)	Sounds like you found the locusts, detective.	看来你发现蝗虫了，警探。
+0x0100008200007CDC	Dialogue Text	SHACK ORB / locust city logic	Kim Kitsuragi	"I'll let you handle the Cuno side of things. You're doing just fine."	“坤诺的问题就交给你处理吧。你做的挺好的。”
