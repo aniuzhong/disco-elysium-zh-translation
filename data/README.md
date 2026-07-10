@@ -4,7 +4,6 @@
   - [📖 政治术语](#-政治术语)
     - [意识形态](#意识形态)
     - [虚构政治实体与地域](#虚构政治实体与地域)
-    - [政治符号](#政治符号)
   - [👮 RCM 警阶体系](#-rcm-警阶体系)
     - [警衔等级](#警衔等级)
     - [特殊头衔](#特殊头衔)
@@ -66,16 +65,6 @@
 | Gottwald | 戈特伍德 |
 | Krenel | 科奈尔 |
 
-### 政治符号
-
-| 英文 | 中文译名 | 说明 |
-|------|----------|------|
-| star-and-antlers | 五角星和鹿角 | 康米主义的图像标志 |
-| Crown of Immortality | 不朽王冠 | 德洛莉丝·黛的圣物 |
-| globe crucigère / scepter | 十字圣球 / 权杖 | 王权与神权象征 |
-| Infra-materialism | 亚唯物主义 | 游戏虚构哲学体系 |
-| race theory | 种族理论 | 测颅先生的极端种族学说 |
-
 ---
 
 ## 👮 RCM 警阶体系
@@ -96,6 +85,6 @@
 
 | 英文 | 中文译名 | 说明 |
 |------|----------|------|
-| Lieutenant Double-Yefreitor | 双重荣誉警督 | 两次拒绝晋升 Captain 后附加的荣誉称号（Harry 专属） |
+| Lieutenant Double-Yefreitor | 双重荣誉警督 | 两次拒绝晋升 Captain 后附加的荣誉称号 |
 | Lieutenant-Yefreitor | 荣誉警督 | 拒绝一次晋升 Captain 后的头衔 |
 | Satellite-Officer | 随迁警官 | 搭档快速晋升时随之提升的附属头衔（如 Jean Vicquemare） |
