@@ -1,0 +1,451 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x0100000400014AFA	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Volition	Harry... I know there's not much to say -- but if nothing else, just remember that you've made it this far. And it's just a bit farther now. Let's finish this.	哈里……我知道你有很多话想说——但是有一点，只要记得你已经走了这么远。而且现在只要再往前一点就好。让我们结束这一切吧。
+0x0100000400014B00	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Half Light	Get the fuck out of here. Fuck this place, fuck this world, fuck this life, fuck this body -- just fucking go.	赶快离开这个鬼地方。这操蛋的世界，操蛋的生活，操蛋的身体——赶紧他妈的走就对了。
+0x0100000400014B06	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Savoir Faire	The sheets are stained red. Your blood's been running again. Keep it together. Just get out of here and finish this fucking thing.	床单被染成了红色。你又开始流血了。振作起来。只要离开这里，然后完成这件破事。
+0x010000060000EB14	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Inland Empire	Your surroundings are undisturbed. While you slept, you were alone. Now that you're awake -- you're still alone.	你的周围一片安静。当你睡着的时候，你只有一个人。现在你醒了过来——还是一个人。
+0x010000060000EB1D	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	"So I talked in my sleep?"	“这么说我睡着了？”
+0x010000060000EB24	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Cuno	"Yeah. No biggie, don't shit yourself. All the worst dreams are about bitches -- you wouldn't *believe* the shit Cuno sees about C..."	“是啊，没什么大不了的，别他妈太在意。最恶劣的梦都是跟婊子有关的——你绝对不会*相信*坤诺看见的那个C……”
+0x010000060000EB2B	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Empathy	It's not good, this C in his dreams.	好像不太妙，他梦里的那个C。
+0x0100002F00012B97	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	(Swallow the blood and conclude.) "Let's investigate that gigantic insect. That's the next step in the *task chain*."	（咽下血，然后总结道。）“我们调查一个那个大混蛋，继续*任务链*的下一环节。”
+0x0100002F00012B9C	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	(Swallow the blood and conclude.) "Let's talk to our perp again. That's the next step in the *task chain*."	（咽下血，然后总结道。）“我们再去跟那个罪犯聊一次，继续*任务链*的下一环节。”
+0x0100002F00012BB3	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	(Swallow the blood and conclude.) "Let's get our perp to confess to the murder. That's the next step in the *task chain*."	（咽下血，然后总结道。）“我们要让那个罪犯认罪，继续*任务链*的下一环节。”
+0x0100002F00012BB8	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	(Swallow the blood and conclude.) "Let's get that motive out of our perp. That's the next step in the *task chain*."	（咽下血，然后总结道。）“我们要弄清罪犯的动机，继续*任务链*的下一环节。”
+0x0100002F00012BBD	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	(Swallow the blood and conclude.) "Let's arrest the perp. That's the next step in the *task chain*."	（咽下血，然后总结道。）“让我们逮捕那个罪犯，继续*任务链*的下一环节。”
+0x0100004000003225	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	Just spit out the blood and get back to work. You're bad ass like that.	把血吐出来，继续回去工作。你就是那种狠角色。
+0x010000450001E032	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Kim Kitsuragi	"You're up quick... How was your sleep?"	“这么快就起来了……睡得怎么样？”
+0x010000450001E03A	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	"Actually -- it was total annihilation, Kim."	“其实——这完全就是毁灭性的灾难，金。”
+0x010000720000789B	Alternate1	SEAFORT INT / AFTERDOLORES TALK	You	"My sleep was deep and invigorating." (Desperately try to cover up all the blood seeping out with your hands.) 	“我睡得很沉，现在感觉精力充沛。”（拼命想掩饰手上渗出的血液。）
+0x010000720000789B	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	"My sleep was deep and invigorating." (Try to cover up the blood seeping out with your hands.)	“我睡得很沉，现在感觉精力充沛。”（试着掩饰手上渗出的血液。）
+0x01000072000078B0	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	"Let's solve the fucking case."	“让我们解决这个该死的案子吧。”
+0x01000072000078BD	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Kim Kitsuragi	"We already solved the case, remember? You were sleeping."	“我们已经解决这个案子了，还记得吗？你刚才在睡觉。”
+0x01000072000078C4	Alternate1	SEAFORT INT / AFTERDOLORES TALK	Kim Kitsuragi	"Are you sure you're okay? You thrashed around, then you bolted up, halfway covered in blood from your wounds."	“你确定没问题吗？你一直翻来覆去，然后蜷缩起来，半边身体沾满了伤口流出来的血。”
+0x01000072000078C4	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Kim Kitsuragi	"Are you sure you're okay? You thrashed around, then you bolted up, half-covered in blood from your wound."	“你确定没问题吗？你一直翻来覆去，然后蜷缩起来，半身沾满了伤口流出来的血。”
+0x01000072000078CB	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	"Oh..."	“哦……”
+0x01000072000078D9	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Kim Kitsuragi	He frowns. "I did not want to wake you -- perhaps I should have? Was it a job dream?"	他皱皱眉。“我不想吵醒你——也许我应该这么做？是关于工作的梦吗？”
+0x01000072000078E0	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	"No, an ex-wife dream."	“不，是关于前妻的。”
+0x01000072000078E6	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	"Yeah. About the job."	“是啊。关于工作的。”
+0x01000072000078EE	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Kim Kitsuragi	The lieutenant nods solemnly.	警督默默地点点头。
+0x01000072000078FA	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	(Swallow the blood and conclude.) "Let's get back to the mainland. That's the next step in the *task chain*."	（咽下血，然后总结道。）“我们回内陆吧，继续*任务链*的下一环节。”
+0x0100007200007900	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	(Swallow the blood and conclude.) "Let's comb the entire island, centimetre by centimetre. That's the next step in the *task chain*."	（咽下血，然后总结道。）“我们一寸一寸地翻遍整个小岛，继续*任务链*的下一环节。”
+0x0100007200007906	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Kim Kitsuragi	"Okay," he replies simply.	“好吧，”他简洁的回答到。
+0x010000720000790C	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Empathy	He's still worried. You must have really thrashed and squealed in your sleep.	他还是很担心。你睡着的时候一定翻腾尖叫的厉害。
+0x0100007200007919	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Kim Kitsuragi	"Of course. I was just thinking maybe you've torn your stitches... Are you ready to move on?"	“当然。我在想是不是伤口裂开了……准备好继续行动了吗？”
+0x010000720000792C	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Kim Kitsuragi	"Don't worry, detective. We'll solve the case. Are you ready?"	“别担心，警探。我们会解决这个案子的。你准备好了吗？”
+0x0100007200007932	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Kim Kitsuragi	"Don't worry, detective. We've solved the case. It's wrapped and done." He looks north. "Are you ready?"	“别担心，警探。我们已经解决这个案子，全部处理好了。”他看向北方。“你准备好了吗？”
+0x0100007200007943	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	"Fuck it."	“去他的吧。”
+0x010000720000794B	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Kim Kitsuragi	"Of course," the lieutenant nods. "You ready?"	“当然，”警督点点头。“准备好了吗？”
+0x0100009700003704	Alternate1	SEAFORT INT / AFTERDOLORES TALK	Kim Kitsuragi	"You thrashed around, then you bolted up, half-covered in blood from your wounds. Are you okay?"	“你一直翻来覆去，然后蜷缩起来，半边身体沾满了伤口流出来的血。你没事吧？”
+0x0100009700003704	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Kim Kitsuragi	"You thrashed around, then you bolted up, half-covered in blood from your wound. Are you okay?"	“你一直翻来覆去，然后蜷缩起来，半身沾满了伤口流出来的血。你没事吧？”
+0x010000970000370E	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Esprit de Corps	I understand -- we've all been through similar things. It can be overcome.	我理解——我们都经历过相同的事情。其实可以克服的。
+0x0100009700003716	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Cuno	"Whoa there, man. You've been squealing and thrashing around, crazy. And now -- you're bleeding too... again." He stares in awe at the streaks of blood covering your body.	“哇塞，伙计。你一直尖叫，还翻来覆去的，像疯了一样。现在——你*又*开始流血了……”他战战兢兢地盯着你身上的大片血痕。
+0x010000970000372B	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	"Cuno... I had this..." (Shake your head) "Fucking dream..."	“坤诺……我做了个……”（摇摇头）“该死的梦……”
+0x0100009700003731	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Cuno	"Yeah, Cuno saw that. A nightmare about bitches."	“是啊，坤诺看见了。关于婊子的噩梦。”
+0x0100009700003737	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	"How did you know?"	“你怎么知道的？”
+0x010000970000373D	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	Just grunt in pain.	只是痛苦的呻吟。
+0x0100009700003764	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Cuno	"Sure, sure. That's why you mumbled about bitches. Real fine."	“当然，当然。所以你一直嘟囔着什么婊子的事。其实挺好的。”
+0x010000970000376A	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Cuno	"Cuno knows that shit. All the worst dreams are about bitches -- you wouldn't *believe* the shit Cuno sees about C..."	“坤诺知道这些破事。最恶劣的梦都是跟婊子有关的——你绝对不会*相信*坤诺梦到的那个C……”
+0x0100009700003770	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Cuno	"Right. Pig takes it like a man. Good for you. Bitches always tryna' damage you with *psi* weapons. *Psi* style -- you wouldn't *believe* the shit Cuno sees about C..."	“没错。猪头要像个男人一样承受。对你来说是好事。婊子总是想用*身体*武器来伤害你。*婊子*的风格——你绝对不会*相信*坤诺梦到的那个C……”
+0x0100009700003783	Alternate1	SEAFORT INT / AFTERDOLORES TALK	You	"I'm fine, really." (Try to cover up the blood seeping out with your hand.) 	“我很好，真的。”（试着掩盖住从指缝中渗出的血迹。）
+0x0100009700003783	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	You	"I'm fine, really." (Try to cover up the blood seeping out with your hands.) "I'm super mega fine."	“我很好，真的。”（试着掩盖住从指缝中渗出的血迹。）“超级无敌好。”
+0x01000097000037AB	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Cuno	"Now let's get this shit back on the road, yo. Just make sure you don't die." He glances at your blood-covered hands. "Cuno's no fucking mortician."	“好吧，那我们他妈的继续上路吧。只要保证你自己别挂掉。”他瞥了一眼你那双沾满鲜血的手。“坤诺他妈的可不是送葬的。”
+0x01000097000037B7	Dialogue Text	SEAFORT INT / AFTERDOLORES TALK	Esprit de Corps	However bad it is, pig, we go on, deputy Cuno thinks. We detect. There's nothing more.	不管有多糟糕，猪头，我们都要继续，副警探坤诺想到。我们要查案。除此之外没有别的。
+0x010000060000E8EC	Dialogue Text	SEAFORT INT / BLAST DOOR	Kim Kitsuragi	The lieutenant knocks on the metal. "I retract my statement. It was naive. Let's look around and get it open."	“好吧。”警督敲打着金属。“我收回自己的话，实在是太幼稚了。我们四处看看，能不能把它打开。”
+0x010000060001EF37	Dialogue Text	SEAFORT INT / BLAST DOOR	Logic	The chances of there being 'important shit' there are rather high, yes.	这里‘很重要的破玩意’的可能性很高，没错。
+0x010000450001CE43	Dialogue Text	SEAFORT INT / BLAST DOOR	Small Blast Door	You see a small metal door nested inside a larger one -- a heavy steel blast door. There is a conventional keyhole above the handle. It's very small.	你看见一面小铁门嵌在一扇更大的门里面。把手上方照例有一个钥匙孔，非常小的钥匙孔。
+0x010000450001CE50	Alternate1	SEAFORT INT / BLAST DOOR	You	"What's on the other side?"	“另外一边有什么？”
+0x010000450001CE50	Dialogue Text	SEAFORT INT / BLAST DOOR	You	What's on the other side?	另外一边有什么？
+0x010000450001CE56	Alternate1	SEAFORT INT / BLAST DOOR	You	"How do we open this?"	“我们怎么打开这个？”
+0x010000450001CE56	Dialogue Text	SEAFORT INT / BLAST DOOR	You	How do I open this?	我该怎么打开它？
+0x010000450001CE5C	Dialogue Text	SEAFORT INT / BLAST DOOR	You	[Leave.]	[离开。]
+0x010000450001CE68	Dialogue Text	SEAFORT INT / BLAST DOOR	Small Blast Door	The door is mute, cold as ice. The lock looks like it may have seen recent use, but it's impossible to tell.	门沉默无语，像坚冰一样冰冷。锁看起来好像最近刚用过，不过也很难说。
+0x010000450001CE76	Dialogue Text	SEAFORT INT / BLAST DOOR	Kim Kitsuragi	"Maybe this is one of the doors we *don't* open?" He looks at the door, then at its bigger brother, then at the lock…	警督看看门，接着看向门的大哥，最后望向锁……“也许这扇也是我们*打不开*的那种门？”
+0x010000450001CE7D	Dialogue Text	SEAFORT INT / BLAST DOOR	Kim Kitsuragi	"All right." The lieutenant knocks on the metal. "I retract my statement. It was naive. Let's look around and get it open."	“好吧。”警督敲打着金属。“我收回自己的话，实在是太幼稚了。我们四处看看，能不能把它打开。”
+0x010000450001CE97	Dialogue Text	SEAFORT INT / BLAST DOOR	Small Blast Door	How indeed? Finding the key seems unlikely...	确实，怎么开？找到钥匙似乎是不可能的……
+0x010000450001CEA0	Dialogue Text	SEAFORT INT / BLAST DOOR	You	"No, this isn't 'One More Door'. We're opening it."	“不，这不是‘又一扇门’。我们会打开它的。”
+0x010000450001CEA6	Dialogue Text	SEAFORT INT / BLAST DOOR	You	"I find us not opening it highly unlikely."	“我觉得要打开它是非常不可能的。”
+0x010000450001CEBA	Dialogue Text	SEAFORT INT / BLAST DOOR	You	"Sure, you're right. We won't have to open it."	“当然，你说得对。我们没必要打开它。”
+0x010000450001CECF	Dialogue Text	SEAFORT INT / BLAST DOOR	Kim Kitsuragi	"Another part of the island probably." The lieutenant looks into the keyhole. "The lock looks like it could still be usable."	“可能是小岛的另一边。”警督望向锁眼。“这把锁看起来还能用。”
+0x010000450001CF50	Dialogue Text	SEAFORT INT / BLAST DOOR	Interfacing	He's right. It would be better to open its *big brother*. A powerful engine hangs under the ceiling -- it must control the blast door.	他是对的。最好还是打开它的*大哥*。天花板上悬挂着一台强力电机——肯定控制着那扇防护门。
+0x010000450001CF56	Dialogue Text	SEAFORT INT / BLAST DOOR	Interfacing	Perhaps you could open its *big brother*? A powerful engine hangs beneath the ceiling -- it must control the blast door. There must be controls somewhere...	也许你可以打开它那位*大哥*？天花板上悬挂着一台强力电机——肯定控制着那扇防护门。这附近一定有什么控制装置……
+0x010000450001CF62	Dialogue Text	SEAFORT INT / BLAST DOOR	You	"You're right. We open the big one -- do you see controls anywhere?"	“你说的对。我们就开那扇大的——你有没有看见控制装置？”
+0x010000450001CF69	Alternate1	SEAFORT INT / BLAST DOOR	Kim Kitsuragi	"Yeah -- on the console just southeast of here. Remember?" He points to it, then shuffles his feet to stay warm. "Let's look around. Getting the blast door open seems like the best plan."	“是啊——就在东南边的控制台上。还记得吗？”他看了看那个方向，然后跺跺脚保持温度。“我们到处看看吧。打开防护门好像是最佳方案。”
+0x010000450001CF69	Dialogue Text	SEAFORT INT / BLAST DOOR	Kim Kitsuragi	"I think there's a console just southeast..."  He shuffles his feet to stay warm. "Let's look around. Getting the blast door open seems like the best plan."	“我想东南方向好像有个控制台……”他跺跺脚保持温度。“我们到处看看吧。打开防护门好像是最佳方案。”
+0x010000450001D889	Dialogue Text	SEAFORT INT / BLAST DOOR	Small Blast Door	The heavy metal door stands as it did, firmly rusted shut into its big brother.	沉重的金属门稳稳地伫立着，死死地锈蚀在它的大哥里面。
+0x010000450001D951	Dialogue Text	SEAFORT INT / BLAST DOOR	Kim Kitsuragi	"Fuel -- generator -- console. That's our best chance." He points to the console at the other end of the room. "That there could open it, once we've put some fuel in the generator."	“燃料——发电机——控制台。这样成功几率最大。”他指着房间另一头的控制台。“那家伙应该能打开它，只要我们往发电机里加点燃料。”
+0x010000450001D978	Dialogue Text	SEAFORT INT / BLAST DOOR	Kim Kitsuragi	"Fuel -- generator -- console. That's our best chance." He points to the console at the other end of the room. "That there could open it, now that the power's on."	“燃料——发电机——控制台。这样成功几率最大。”他指着房间另一头的控制台。“既然电源已经接通了，用那家伙应该就能打开。”
+0x0100006B000017ED	Dialogue Text	SEAFORT INT / BLAST DOOR	Cuno	"Another part of Death Island? Some secret hidden shit, Cuno thinks. Important shit..."	“死亡岛的另一边？坤诺想是一些秘密隐藏地之类的吧。很重要的破玩意..”
+0x0100006B000017F7	Dialogue Text	SEAFORT INT / BLAST DOOR	Cuno	"We fuelled the generator, didn't we?" He points to the console at the other end of the room. "What do you think that shit's for? Let's press some buttons."	“我们已经给发电机加过燃料了，不是吗？”他指着房间另一头的控制台。“你觉得那边那个破玩意是干什么的？走，我们去玩玩按钮。”
+0x0100006B000017FD	Dialogue Text	SEAFORT INT / BLAST DOOR	Cuno	"Cuno don't know how to pick this lock. This one's... military shit." He looks at the door, then at its bigger brother, then at the lock.	他看看门，接着看向门的*大哥*，最后望向锁……“坤诺不知道怎么撬这种锁。这玩意……好像是军方的。”
+0x0100006B00001809	Dialogue Text	SEAFORT INT / BLAST DOOR	Cuno	"What do you think that shit's for? Let's press some buttons." He points to the console at the other end of the room.	他指着房间另一头的控制台。“你觉得那边那个破玩意是干什么的？走，我们去玩玩按钮。”
+0x0100008900000DF3	Dialogue Text	SEAFORT INT / BLAST DOOR	Small Blast Door	Fuel --> generator --> console. Seems like an obvious path, now that the power is on.	燃料——>发电机——>控制台。既然电源已经接通，这就是最显而易见的一条路。
+0x0100008900000DF8	Dialogue Text	SEAFORT INT / BLAST DOOR	Small Blast Door	Fuel --> generator --> console. Seems like the obvious path.	燃料——>发电机——>控制台。这就是最显而易见的一条路。
+0x0100008900000E10	Dialogue Text	SEAFORT INT / BLAST DOOR	Interfacing	He's right. It would be better to open its *big brother*. A powerful engine hangs beneath the ceiling -- it must control the blast door.	他是对的。最好还是打开它的*大哥*。天花板上悬挂着一台强力电机——肯定控制着那扇防护门。
+0x0100008900000E17	Dialogue Text	SEAFORT INT / BLAST DOOR	You	"You're right. We open the big one -- do you see controls somewhere?"	“你说得对。我们把那扇大门打开——你有没有在附近看到控制装置？”
+0x0100008900000E1D	Dialogue Text	SEAFORT INT / BLAST DOOR	You	"No. This is the titular *One More Door*. We're opening it."	“不。从名义上讲，这只是*又一扇门*。我们会打开它的。”
+0x0100008900000E23	Dialogue Text	SEAFORT INT / BLAST DOOR	You	"Sure, you're right. We won't have to open it."	“当然，你说得对。我们没必要打开它。”
+0x0100008900000E29	Dialogue Text	SEAFORT INT / BLAST DOOR	You	"I find that highly unlikely."	“我觉得不太可能。”
+0x0100008900000E2F	Dialogue Text	SEAFORT INT / BLAST DOOR	You	"One of the *very few doors*? Perhaps..."	“*极少数门*的其中之一？也许吧……”
+0x0100008900000E35	Dialogue Text	SEAFORT INT / BLAST DOOR	Cuno	"Fuckin' A, let's get this shit open. Get to the secrets behind. Secret style." He stares at the large doors looming above him.	他盯着上面阴森森的大门。“去他妈的，我们把这破烂玩意打开。找出背后的秘密。用秘密的风格。”
+0x0100008900000E3A	Alternate1	SEAFORT INT / BLAST DOOR	Cuno	"Yeah, the console over there. Remember?" He points to the southeast. "Buttons and shit. Yeah. Yeah. Let's get this big shit open, seems like the best plan."	“是啊，那边的控制台，记得吗？”他指着东南方。“按钮之类的破烂。是啊，是啊。我们把这破玩意打开吧，看起来像是最好的方案。”
+0x0100008900000E3A	Dialogue Text	SEAFORT INT / BLAST DOOR	Cuno	"Yeah, the console over there?" He points to the southeast. "Yeah. Yeah. Let's get this big shit open."	“那边控制台？”他指着东南方。“是啊，是啊。我们把这破玩意打开吧。”
+0x0100000400014B11	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"Fucking great. Spooky island shit is gonna shit on us and we can't even *shoot* it."	“太他妈好了。狗屁幽灵岛要搞我们，但我们都不能*开枪*射它。”
+0x0100000400014B17	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"Don't worry, I've got a gun. No bullets, but I have a gun."	“别担心，我有枪。虽然没子弹，但是我有枪。”
+0x0100000400014B1D	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"Don't worry, kid. I'm a cop. Maybe I don't have a gun, but I'm a cop."	“别担心，孩子。我是个警察。也许我是没枪，但我还是个警察。”
+0x0100000400014B23	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"Are you?" He squints at you -- squints into your soul. "*Are you?*"	“是吗？”他斜视着你——直透你的灵魂深处。“*你是吗*？”
+0x0100000400014B29	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"Don't worry kid. I'm a good guy with a gun."	“别担心孩子。我是个好人，而且还有枪。”
+0x0100000400014B2F	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"Fucking great news, cop. Scare away whatever shit out there's gonna spook on us with an *empty fucking gun*."	“还真他妈是个好消息呢，警察！那就用你那支*该死的空枪*把那些要搞我们的狗屁东西吓出屎吧。”
+0x01000004000150AA	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	Turn: 'Emergency -- Open!'	转到：“紧急——开启！”
+0x010000060000E8FC	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"Wait, what about this fuel I found from my MC?" (Show him the canister.)	“等等，那我汽車里发现的燃料呢？”（给他看看罐子。）
+0x010000060000E902	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"There's barely anything left. That won't work."	他往里面看了看。“基本没剩下什么，应该没什么用。”
+0x010000060000E912	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Reaction Speed	What about the fuel you found in the MC? The red government-marked fuel...	那你在汽車里找到的燃料呢？红色的有政府标记的燃料……
+0x010000060000E927	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"Wait, what about this fuel I found from my MC?" (Show him the canister.)	“等等，那在我汽車里发现的燃料呢？”（给他看看罐子。）
+0x010000060000E92D	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	(Peek into the canister.)	（看一眼罐子。）
+0x010000060000E933	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	Nah, it won't work. The canister feels light.	不行，没用的。这罐子感觉很轻。
+0x010000060000E93C	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Reaction Speed	Yeah, okay. There's barely anything left in there. You have to find a larger supply.	是啊，好吧。里面基本没剩下多少。你得再多找一点才行。
+0x010000060000E943	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"It's sweet you got government fuel -- way sweet -- but there ain't shit left in there. You need, like, a full load. Let's check outside when you're done with this."	他往里面看了看。“你弄到政府燃料真是太好了——好的不得了——不过里面他妈的基本没剩多少货。你需要，大概，满满一罐吧。等你磨蹭完之后，我们出去看看。”
+0x010000060000E950	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Reaction Speed	Of course. Anything else you want with this console?	当然。你还想让这个控制台做什么吗？
+0x010000060000E958	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	The console stands by, mutely. 'Urgence -- Ouvert!' reads a dial key. 'Allumer,' reads another. The frequency band says: 'Radiodiffusé.'	控制台一言不发地站在那里。一个拨号键上显示着“紧急——开启！”另一个是“点亮”。频段显示的是“无线广播”。
+0x010000060000E962	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	Nothing happens.	什么也没发生。
+0x010000060000E975	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"Aw shit, it's on..." He grins. "Turn: Emergency -- Open!"	“操，开了……”他咧嘴一笑。“转动：紧急，开启。”
+0x010000060000E97C	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Interfacing	It's on! Automatic boot. Now, just turn the key...	开了！自动启动。不，只要转动钥匙就行……
+0x010000060001F088	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Shivers	A thin wisp of smoke rises from a charred black firepit... the wind picks up, then dies down again.	一缕薄烟从焦黑的黑火坑中升起……风吹了起来，接着又停了。
+0x010000450001CEFE	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	Green paint flakes off the monoblock aluminium cabinet. There are rows of switches on the front panel, a frequency band and even a keyboard...	绿色的油漆从一体成形的铝制橱柜上剥落。面板上有好几排开关，一个频段，甚至还有一个键盘……
+0x010000450001CF06	Alternate1	SEAFORT INT / FELD INSULAR CONSOLE	You	"What is this then?" 	“这个是什么？”
+0x010000450001CF06	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	What is this? (Run your fingers across the keyboard.)	这是什么？（用手指触碰键盘。）
+0x010000450001CF22	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"The console of an antique computation device." The lieutenant points to the wires running into the machine. "The generator upstairs, with wires coming out. They terminate here."	“一台年代久远的计算设备的控制台。”警督指向机器的电线。“楼上的发电机，就是电线跑出来那个，这里就是它们的终点。”
+0x010000450001CF29	Alternate1	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	A rattling sound, like teeth... the keyboard hasn't been functional in decades. This must be the console of another radiocomputer, albeit a much, much older model. The wires from the generator upstairs are routed into its innards.	一阵咯咯的声音，就像牙齿……键盘已经有十几年没用了。这肯定是另一台无线电脑的控制台，不过型号要旧很多。楼上那台发电机的电线接到了它的内部。
+0x010000450001CF29	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	The keys rattle like teeth as black dust rises from them. This must be the console of some antique computation device. The wires from the generator upstairs are routed into its innards.	黑色的灰尘从钥匙上升起，它们就像牙齿一样发出咯咯的声音。这肯定是台年代久远的计算设备的控制台。楼上那台发电机的电线接到了它的内部。
+0x010000450001CF2F	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	Run your fingers across the keyboard.	用手指触碰键盘。
+0x010000450001CF36	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	The keys rattle like teeth. This keyboard hasn't been functional in decades.	钥匙像牙齿一样发出咯咯的声音。键盘已经有十几年没用了。
+0x010000450001CF48	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"The console of an antique computation device." The lieutenant points to the wires running into the machine. "There was a generator upstairs, with wires coming out. They terminate here."	“一台年代久远的计算设备的控制台。”警督指向机器的电线。“楼上的发电机，就是电线跑出来那个，这里就是它们的终点。”
+0x010000450001CF78	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	Turn: 'Emergency -- Open!'	转到：“紧急——开启！”
+0x010000450001CF7E	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	Slide: 'Radio' dial.	滑到：“无线电”刻度盘。
+0x010000450001CF84	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	Push: 'Light (Interior)'.	推动：“灯光（室内）。”
+0x010000450001CF8B	Alternate1	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	Nothing happens. "We need to restore power before using this, officer. The generator..." He looks upstairs. "It didn't look like there was fuel in it."	什么也没发生。“在使用之前，我们应该先把电源修好，警官。那台发电机……”他看向楼上。“看起来里面好像没有燃料了。”
+0x010000450001CF8B	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	Nothing happens. "We need to restore power before using this, officer. There was a generator that you missed..." He looks upstairs. "It didn't look like there was fuel in it."	什么也没发生。“在用它之前，我们应该先把电源修好，警官。你漏了一台发电机……”他看向楼上。“里面好像没有燃料了。”
+0x010000450001CF93	Alternate1	SEAFORT INT / FELD INSULAR CONSOLE	You	"What does this console *do?*"	“这个控制台是*做什么*的？”
+0x010000450001CF93	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	What does it... *do*?	它到底是……*做什么*的？
+0x010000450001CFA1	Alternate1	SEAFORT INT / FELD INSULAR CONSOLE	You	"Could this open the blast door?"	“也许这个控制台可以打开那扇防护门？”
+0x010000450001CFA1	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	Could this console open the blast door?	也许这个控制台可以打开那扇防护门？
+0x010000450001CFAE	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"'Urgence -- Ouvert!', 'Allumer', 'Radiodiffusé'." He inspects the dials. "Sounds like this device was used to control the electronics here. Maybe it still does?"	他观察着刻度盘。“‘紧急——开启！’。‘点亮’，‘无线广播’。看起来这台设备控制着这里的电子设备。也许现在还能用？”
+0x010000450001CFBD	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"Possibly..." He inspects the dials. "'Urgence -- Ouvert!', 'Allumer', 'Radiodiffusé'. It sounds like this device was used to control the electronics here. Maybe it still does?"	“有可能……”他观察着刻度盘。“‘紧急——开启！’。‘点亮’，‘无线广播’。看起来这台设备控制着这里的电子设备。也许现在还能用？”
+0x010000450001CFD4	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	[Leave.]	[离开。]
+0x010000450001CFDB	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	'Urgence -- Ouvert!' reads one dial key. 'Allumer', reads another. 'Radiodiffusé', says the frequency band.	一个拨号键上显示着“紧急——开启！”另一个是“点亮”。频段显示的是“无线广播”。
+0x010000450001CFEC	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	The console is powered off and covered in dust. 'Urgence -- Ouvert!' reads a dial key. 'Allumer', reads another. The frequency band says: 'Radiodiffusé'.	控制台关机了，上面铺满灰尘。一个拨号键上显示着“紧急——开启！”另一个是“点亮”。频段显示的是“无线广播”。
+0x010000450001D003	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	A dim golden glow animates the console. Faint, like a ghost-light. 'Urgence -- Ouvert!' reads one dial key. 'Allumer', reads another.	控制台上发出一丝黯淡的金色微光，就像鬼火一样闪闪烁烁。一个拨号键上显示着“紧急——开启！”另一个是“点亮”。
+0x010000450001D010	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"It's on..." He smiles. "Turn: Emergency -- Open!"	“打开了……”他露出笑容。“转动：紧急，开启。”
+0x010000450001D051	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"Electrical devices do not work without electricity." The lieutenant looks on as you fiddle with the dial. "We need to power the generator upstairs first."	“电子设备没有电是不能运转的。”警督看着拨弄刻度盘的你。“我们要先给楼上的发电机通上电。”
+0x010000450001D065	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	The lighting in the room turns on with a sizzle. A dim, ambient orange.	房间里的灯嘶嘶的一声打开了，昏暗的橙光照亮了周围。
+0x010000450001D06E	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"No, no, no..." He stares at you as you fiddle with the dial. "We gotta juice this thing first. Power it up! Pow-pow-power it up, get it?"	“不，不，不……”他盯着拨弄刻度盘的你。“我们要先给这玩意加点料。给它通上电！滋滋滋通电，明白了吗？”
+0x010000450001D075	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	Nothing happens as you turn the dial. The power is off, the console stands silent.	你转动刻度盘，什么也没发生。没有通电的控制台静静站立着。
+0x010000450001D081	Alternate1	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	Who's to say this thing even works? You will have to provide it with power first. There was an un-fuelled generator upstairs...	谁说这东西能用来着？你要先给它通上电。楼上有一台没燃料的发电机……
+0x010000450001D081	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	Who's to say this thing even works? You have to supply it with power first. There must be a generator nearby.	谁说这东西能用来着？你要先给它通上电。这附近肯定有台发电机。
+0x010000450001D087	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"Cuno's gonna stop you right there. This..." he strokes the console, "ain't gonna work." He points upward, to the generator. "Not without the juice. You gotta fuel that shit if you want it to work. Let's look outside maybe?"	“坤诺要阻止你。这个……”他拍了拍控制台，“不是这样用的。”他指向前面发电机的方向。“里面没料可不行。你要是想开动这个狗屁玩意，就要先加满燃料。要不我们去外面看看吧？”
+0x010000450001D0AC	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"We should look around outside. There are barrels all over, maybe one of them still has something in it..." He looks into the dim light to his right.	接着，他看向右侧的微光。“我们应该去外面看看。这里到处都是油桶，也许有的里面还有存货……”
+0x010000450001D0ED	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Interfacing	There are barrels all around. One of them must still have fuel in it... Pour it into a generator and voila!	这里到处都是油桶。肯定有只里面有燃料……接着把东西倒进发电机里，就大功告成啦！
+0x010000450001D10D	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	The dial slides under the glass, dark and silent. Restoring electric power has not breathed life into it.	刻度盘在玻璃下方无声地滑动。修好电源也没有为它带来生机。
+0x010000450001D114	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	The dial slides under the glass, silently. You make out defunct stations on the UKV frequency. The words "FELD INSULAR" are written on the band.	刻度盘在玻璃下方无声地滑动。你在UKV频段辨认出了废弃的电台。上面写着“菲尔德岛”。
+0x010000450001D128	Alternate1	SEAFORT INT / FELD INSULAR CONSOLE	You	"Maybe we could contact Soona -- the programmer lady? She could open the door for us remotely." \n	“也许我们可以联系苏娜——那个女程序员？她可以帮我们远程开门。”
+0x010000450001D128	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	Maybe I could contact Soona -- the programmer lady? She could open the door remotely...	也许我可以联系苏娜——那个女程序员？她可以远程开门……
+0x010000450001D135	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Logic	An *idea* lights up in your head...	一个*点子*在你的脑海中点亮……
+0x010000450001D147	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	No. It's too far fetched.	不行。这样有点太牵强了。
+0x010000450001D156	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"This is an air-gapped system." The lieutenant inspects the indicator. "*Off-air,* I think they call it. That won't work."	警督观察着指示器。“这是气隙系统。他们好像把这个叫做*收播*。这样是不行的。”
+0x010000450001D15D	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"Are you sure?"	“你确定吗？”
+0x010000450001D163	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"Okay."	“好吧。”
+0x010000450001D16B	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"No, I'm not, but it would not be very good military technology if programmer ladies could control it remotely. Also, it's ancient. Incompatible."	“不，我不确定。不过如果一个女程序员能远程操控的话，那它就算不上是好的军事技术。而且，它很古老。没办法兼容。”
+0x010000450001D172	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"We're better off looking for a mechanical solution -- if we need one at all."	“我们最好还是寻找一种机械解决方案——如果我们真有需要的话。”
+0x010000450001D188	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"INSULAR..." The lieutenant leans in to inspect the cursive writing. "This is an *off-air* radiocomputer, I believe. Used for military communications."	“岛屿……”警督倾下身子，观察着潦草的字体。“我相信，这是一台*停止工作*的军用无线电脑。用来军事通信的。”
+0x010000450001D196	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Encyclopedia	It's an air-gapped system. An *off-air* military model. Its circuits are nearly impossible to *bend*, i.e. it cannot be remote controlled.	这是一个气隙系统。军用的*收播*型号。它的电路几乎基本上不可能*篡改*，比如说，是无法远程操控的。
+0x010000450001D19D	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Logic	You're right. You're not a *circuit bender*. You don't know about these things.	你说的对。你不是*电路创意改装师*。根本不知道这种事。
+0x010000450001D1A9	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Logic	Wait, actually, this would not be very good military technology if *programmer ladies* could control it remotely... It's probably not connected to the front. Or just plain broken. Nice idea, though...	等等，说实在的，如果一个女程序员能远程操控的话，那它就算不上是好的军事技术……它可能没有连接前台。或者只是简单的坏掉了。不过这主意倒是不错……
+0x010000450001D1D8	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	[Leave.]	[离开。]
+0x010000450001D1FF	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Interfacing	This device was used to control the electronics in the room. It could open doors, control lights, function as a radiocomputer...	这台设备以前是用来控制房间里那些电气设备的。它可以开门，控制电灯，还具有无线电脑的功能……
+0x010000450001D20F	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Interfacing	The boat engine!	船的引擎！
+0x010000450001D215	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"Or we could get some from the boat engine?"	“或者我们可以从船的引擎里弄点出来？”
+0x010000450001D21B	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"Failing that we could... go back to the mainland and get some from..."	“如果失败的话……我们可以返回内陆，然后……”
+0x010000450001D221	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	Nod in agreement.	点头赞同。
+0x010000450001D241	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"But, officer," he looks you in the eye, "then we would have to *swim* back to the mainland. Let's just look around, okay."	“但是，警官，”他看着你的眼睛，“那我们可能就要*游*回陆地了。还是先在周围看看，好吧。”
+0x010000450001D25F	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	The console looks on as you talk, mute and unpowered. Its dials are covered in dust.	你在说，没通电的控制台在看，一言不发。上面的刻度盘满是灰尘。
+0x010000450001D265	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"My Kineema?" He shakes his head. "I don't want to do that. Let's just look around."	“我的锐影？”他摇摇头。“我不想这么做。还是四处看看吧。”
+0x010000450001D282	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	The old button is stuck.	旧按钮卡住了。
+0x010000450001D28C	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	With the door open, the dial switch has locked into place -- a security measure of some sort.	门一打开，刻度盘开关的位置就锁死了——大概是某种安全措施吧。
+0x010000450001D2B4	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	The dial slides under the dusty glass, dark and silent despite the power being on. You make out defunct stations on the UKV frequency. The words "FELD INSULAR" are written on the band.	刻度盘在玻璃下方无声地滑动。你在UKV频段辨认出了废弃的电台。上面写着“菲尔德岛”。
+0x010000450001D713	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Feld "Insular" Console	The glass is dusty, it's hard to make out the writing on the band. Nothing has changed about it.	玻璃很脏，很难看出上面的记号。一切都没有改变。
+0x010000450001D983	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Interfacing	Automatic boot.	自动启动。
+0x010000450001D992	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"I think yes. Let's see..." He points to the emergency dial switch. "That one. The emergency open..."	“好像是。我们来看看……”他指着紧急转动开关。“那一个。紧急按钮打开了……”
+0x010000450001D9AB	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"After you." The lieutenant gestures at the opening.	“你先。”警督朝着开口做了个手势。
+0x010000450001DA72	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"Before -- outside. When we were walking across the sand, I felt someone watching me."	“刚才——在外面。我们走过沙滩的时候，我感觉有人在看着我。”
+0x010000450001DA78	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"What's there?" (Point to the door.)	“那边是什么？”（指向大门。）
+0x010000450001DA7E	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"Let's go." [Leave.]	“我们走吧。”[离开。]
+0x010000450001DA85	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"So did I. Not back there, but... I've felt it since we came here."	“我也是。不在那里，但是……刚到这里我就感觉到了。”
+0x010000450001DA9A	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"I don't know."	“我不知道。”
+0x010000450001DAA2	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"I'm scared."	“我有点害怕。”
+0x010000450001DAA8	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"Don't be. I have a gun." He takes out his sidearm, checks the barrel, then holsters it again.	“不用这样。”他掏出武器，检查了一下枪管，然后又收回枪套。“我有枪。”
+0x010000450001DAAF	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Half Light	A sudden wave of anxiety makes your skin crawl.	突然，一阵焦虑感爬上了你的皮肤。
+0x010000450001DAB8	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Perception (Sight)	Pollen drifts in the light shaft.	花粉在光束中漂浮。
+0x010000450001DAED	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"I don't have a gun."	“我没枪。”
+0x010000450001DAF4	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"Extra good that I do."	“我有，这就更好了。”
+0x010000450001DB03	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"I also have a gun."	“我也有枪。”
+0x010000450001DB09	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"My gun is out of bullets, by the way."	“话说，我的枪没子弹了。”
+0x010000450001DB11	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"Then it's extra good that mine is not."	“我的还有，那不是更好。”
+0x010000450001DB18	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"I know. It was not easy to acquire."	“我知道。来之不易。”
+0x010000450001DB28	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Hand/Eye Coordination	Harry, this reminds you -- you're out of bullets.	哈里，这就提醒了你——你没子弹了。
+0x010000450001DB48	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Half Light	A sudden anxious fear makes your skin crawl.	突然，一阵焦虑感爬上了你的皮肤。
+0x010000450001DB4E	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Perception (Sight)	Pollen drifts in the light shaft.	花粉在光束中漂浮。
+0x010000450001DB59	Alternate1	SEAFORT INT / FELD INSULAR CONSOLE	Small Blast Door	The blast door opens with a series of clicks. A cold wind blows in -- you see darkness behind it...	伴随着一连串的滴答声，防护门打开了。一股冷风吹了近来——你看见它背后的黑暗……
+0x010000450001DB59	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Small Blast Door	The blast door opens with a series of clicks. A shaft of light appears, then widens, as the light shines in.	伴随着一连串的滴答声，防护门打开了。一束光出现了，接着越变越宽，光线也随着照了进来。
+0x010000450001DB70	Alternate1	SEAFORT INT / FELD INSULAR CONSOLE	Small Blast Door	The door comes screeching to a halt. Behind it you see a hole in the concrete wall. A gust of wind blows in.	门嘎吱嘎吱地停住了。在那背后，你看见混凝土墙上有一个洞，一阵风吹了进来。
+0x010000450001DB70	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Small Blast Door	The door comes screeching to a halt. Behind it you see a hole in the concrete wall, where light shines in.	门嘎吱嘎吱地停住了。在那背后，你看见混凝土墙上有一个洞，有光线从里面透出来。
+0x010000450001DB89	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Shivers	No, it's more than that. There's something there, waiting.	不，绝对不止这些。有什么正在那里，等待着。
+0x010000450001DB91	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Shivers	No, it's more than that. There's something there, waiting.	不，绝对不止这些。有什么正在那里，等待着。
+0x010000450001DB9D	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"What if we get into another fight?"	“要是又要跟人起冲突了怎么办？”
+0x010000450001DBA4	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Kim Kitsuragi	"Don't worry. I have a gun." He takes out his sidearm, checks the barrel, then holsters it again.	“别担心。”他掏出武器，检查了一下枪管，然后又收回枪套。“我有枪。”
+0x0100006B00001817	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"Old hardware." He points to the wires running into the machine. "From the big power-box upstairs. Circuit-bender shit. Military-grade."	“旧硬件。”他指着连接在机器上的电线。“应该是从楼上的大电源箱接出来的。电路创意改装之类的狗屁。军事级的。”
+0x0100006B0000182D	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"Try fucking with that one. It's red." He points to the emergency dial switch. It is large and alarmingly red.	他指向紧急刻度盘开关，很大，闪烁着令人惊恐的红光。“试试那个破烂。它是红色的。”
+0x0100006B0000183A	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"Cuno isn't a machine-meister." He stares at the dials. "'Urgence -- Ouvert!', 'Allumer', 'Radiodiffusé'.... Yeah, why the fuck not?"	“坤诺不是机器战神。”他盯着刻度盘。紧急——开启！，’‘点亮，'‘无线广播。’“是啊，妈的为什么不呢？”
+0x0100006B00001840	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"The fuck is this...." He stares at the dials: "'Urgence -- Ouvert!', 'Allumer', 'Radiodiffusé'. Maybe, like, press the buttons or something."	“这都什么垃圾……”他盯着刻度盘。紧急——开启！，’‘点亮，'‘无线广播。’也许，大概是吧，按按钮吧，或者什么之类的。”
+0x0100006B00001846	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"Fuckin' right!" Cuno points to the opening.	“卧槽对了！”坤诺指着开口。
+0x0100006B0000184E	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"Whoa... Told you. Military mega grade. Also, like, four hundred years old, I think? A thousand?"	“哇啊……告诉过你了吧。这是军工级的。而且，差不多，有400多年了吧，我猜？也许1000年？”
+0x0100006B00009C3E	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"Who the fuck is Soona?" he grunts. "Never mind. It won't work. This is fucking... military mega-grade shit, you know? It's also, like, four hundred years old."	“苏娜他妈的又是谁？”他咕噜着。“无所谓了。反正没用的。这他妈可是……军事百万级，你知道的。而且好像，有400多年了吧。”
+0x0100008900001553	Alternate1	SEAFORT INT / FELD INSULAR CONSOLE	Small Blast Door	The door comes screeching to a halt. Behind it you see a hole in the concrete wall. A gust of wind blows in.	门嘎吱嘎吱地停住了。在那背后，你看见混凝土墙上有一个洞，一阵风吹了进来。
+0x0100008900001553	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Small Blast Door	The door comes screeching to a halt. Behind it you see a hole in the concrete wall, where light shines in.	门嘎吱嘎吱地停住了。在那背后，你看见混凝土墙上有一个洞，有光线从里面透出来。
+0x010000890000289D	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Perception (Sight)	Pollen drifts in the light shaft.	花粉在光束中漂浮。
+0x01000089000028A3	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Half Light	A sudden wave of anxiety makes your skin crawl.	突然，一阵焦虑感爬上了你的皮肤。
+0x01000089000028AE	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Shivers	No, it's more than that. There's something there, waiting.	不，绝对不止这些。有什么正在那里，等待着。
+0x01000089000028C1	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"Let's go." [Leave.]	“我们走吧。”[离开。]
+0x01000089000028C7	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"There was something I needed to do with this console first..."	“我还要先弄一下这个控制台……”
+0x01000089000028CD	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"Why? The door is open -- we can just fuck on now."	“为什么？门都开了——我们他妈的可以走了啊。”
+0x01000089000028EA	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"What's there?"	“那里有什么？”
+0x01000089000028F0	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	You	"Before -- outside. When we were walking across the sand, I felt someone watching me."	“刚才——在外面。我们走过沙滩的时候，我感觉有人在看着我。”
+0x01000089000028F6	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"Cuno doesn't know, but Cuno wants to know."	“坤诺不知道，但是坤诺想知道。”
+0x01000089000028FC	Dialogue Text	SEAFORT INT / FELD INSULAR CONSOLE	Cuno	"Cuno knows. This place is spooky as fuck."	“坤诺知道。这地方妈的像闹鬼一样。”
+0x010000060000E52B	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Rhetoric	If anyone's stayed here, they'd need a generator.	如果有人待在这儿，他们会需要一台发电机。
+0x010000060000E556	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	"Someone with basic electrical skills has restored it in order to keep the room warm."	“某个懂基础电气技能的人修好了它，来保持这个房间的温度。”
+0x010000060000E561	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Logic	It's...	那是……
+0x010000060000E570	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	"The fire guy. Some kids told me about a *guy* here. A guy who made a fire."	“那个火人。有几个小孩跟我说过这里的*那个家伙*。一个生火的男人。”
+0x010000060000E577	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Cuno	"All right." He claps his hands. "We're on to something -- Cuno meant fire guy too."	“好吧。”他拍拍手。“我们抓到什么了——坤诺也在说那个火人。”
+0x010000060000E588	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	"Do *you* know anything about a fire guy?"	“*你*认不认识那个火人？”
+0x010000060000E590	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Cuno	"Yeah -- no." He quickly turns his attention back to the generator. "Cuno doesn't come here, I told you."	“是啊——不知道。”他很快又把注意力转回到发电机身上。“坤诺不来这里的，我告诉过你。”
+0x0100000F00010BF1	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Inland Empire	N-n-n-no. This isn't right...	不……不不。不对劲……
+0x0100000F00010C00	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	What's the matter?	怎么了？
+0x0100000F00010C05	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	Ignore it.	忽略它。
+0x0100000F00010C0E	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Inland Empire	'It's cold now,' he was supposed to say. 'But someone has been maintaining it. The wiring has been repaired'...	他本来应该说，“现在是冷的，不过有人一直在维护它。电线也修理过。”……
+0x0100000F00010C13	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Inland Empire	But he's not here to say it. Something *else* got in the way. Events *intervened*...	可是他没有这么说。有什么*别的原因*阻碍了他。事情被*干扰*了……
+0x0100000F00010C18	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	You brush away the thought and turn back to the generator.	你打消了念头，把注意力转回到发电机上。
+0x0100000F00010C25	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Inland Empire	W-w-w-wait. Haven't you heard this before?	等……等等。这话之前是不是听过？
+0x0100000F00010C46	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	"The kind that's favoured by vagrants and fuel thieves. It's been a long winter..."	“流浪汉和偷燃料的小贼就喜欢这种。毕竟冬天这么漫长……”
+0x0100000F00010C4B	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	The lieutenant pauses. Something seems to be pecking at the edge of his concentration. He gives you a sideways look before adding...	警督停顿了一下。似乎有什么东西分散了他的注意力。他瞥了你一眼，然后继续说道……
+0x0100000F00010C50	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	"... Long and cold."	“……漫长而又冰冷。”
+0x0100000F00010C55	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Esprit de Corps	There's no time to dwell on this moment. You've got to keep moving...	这时候没空去细想了。你必须继续行动……
+0x010000450001C881	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	An old cylindrical generator is nested above the ammo lift, with makeshift electrical wiring running out of its side and across the floor. The cables disappear into the wall to your right.	一台老式的圆柱形发电机嵌在弹药电梯上方，临时电线从侧面绕出，一路穿过整个地板。电线最终消失在你右侧的墙上。
+0x010000450001C894	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	The lieutenant puts his hand on the metal barrel, checking for warmth...	警督把手放在金属管上，检查它的温度……
+0x010000450001C8A1	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	"It's cold now," he concludes. "But someone has been maintaining it. The wiring has been repaired."	“现在是冷的，”他总结道。“不过有人一直在维护它。电线也修理过。”
+0x010000450001C8AF	Alternate1	SEAFORT INT / MICROGRID GENERATOR	You	"Where do these wires lead?"	“这些电线通向什么地方？”
+0x010000450001C8AF	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	Where do these wires lead?	这些电线通向什么地方？
+0x010000450001C8B5	Alternate1	SEAFORT INT / MICROGRID GENERATOR	You	"What kind of generator is this?"	“这是哪种发电机？”
+0x010000450001C8B5	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	What kind of generator am I looking at?	我眼前的这台是什么类型的发电机？
+0x010000450001C8BB	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	"What does this mean? A generator here?"	“一台发电机为什么会在这里？这意味着什么？”
+0x010000450001C8C1	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	[Leave.]	[离开。]
+0x010000450001C8C8	Alternate1	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	He looks at the wall socket. "Downstairs, into the console, then from there into the room's electronics."	他看着墙上的插座。“楼下，先进入控制台，然后是房间里的电子产品。”
+0x010000450001C8C8	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	He looks at the wall socket. "Downstairs somewhere."	他看着墙上的插座。“楼下的某个地方吧。”
+0x010000450001C8E5	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	"I don't know. I am not a philosopher."	“我不知道。我不是哲学家。”
+0x010000450001C8EC	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Conceptualization	That is his idea of a joke.	这是他对笑话的定义。
+0x010000450001C8F3	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	"Liquid carbon, I would imagine it takes *mazut*." He points to the open fuel cap on the side of the dynamo.	“液碳，我想应该要烧*重油*吧。”他指着发电机旁敞开的油箱盖。
+0x010000450001C8FA	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	"The kind that's favoured by vagrants and fuel thieves. It's been a long winter... Long and cold."	“流浪汉和燃料小偷就喜欢这种。毕竟冬天这么长……又漫长又冷。”
+0x010000450001C901	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	Tap on the side.	轻拍侧面。
+0x010000450001C909	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	A hollow ring -- the canister is empty. Dust falls from the generator and down into the ammo lift.	一阵空洞的声音响起——里面是空的。灰尘从发电机上震落，落入弹药电梯。
+0x010000450001C917	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	"I meant why is it here?"	“我是说它为什么会在这里？”
+0x010000450001C91D	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	Say nothing.	什么也不说。
+0x010000450001C925	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	"I am. This generator proves the universe is material..." (Kick the generator.)	“我是。这个发电机证明宇宙是物质的……”（踢一脚发电机。）
+0x010000450001C935	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	The wind outside picks up suddenly with a faint howl. Inside it's warm.	外面突然起风了，发出微弱的嚎叫。里面很温暖。
+0x010000450001C93D	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	"Someone with basic electrical skills has restored it in order to keep the room warm. Maybe it's the *fire guy*..."	“某个懂基础电气技能的人修好了它，来保持这个房间的温度。也许是那个*火人*……”
+0x010000450001C94D	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	Put your hand on the machine.	把你的手放在机器上。
+0x010000450001C959	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	It's cold. Rust flakes off and sticks to your palm.	它很冷。锈迹片片剥落，粘在了你的掌心。
+0x010000450001C969	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	This old cylindrical generator waits with its fuel cap open. Makeshift electrical wiring runs out of its side and across the floor.	这是一台老式的圆柱形发电机，上面的油箱盖是敞开的。临时电线从侧面绕出，一路穿过整个地板。
+0x010000450001C982	Alternate1	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	Downstairs, into the console -- it's been established. From there they are distributed across the room...	楼下，接入控制台——已经搭建好了。从那里再分布到整个房间……
+0x010000450001C982	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	Downstairs somewhere -- or into the lighting perhaps? You can't tell.	楼下的某个地方——或者是接入照明系统的？你分辨不出来。
+0x010000450001C9A3	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	The industrial smell of *mazut* rises from the fuel cap. This generator uses heavy oil.	油箱盖中升腾起*重油*的工业味道。这台发电机是重油的。
+0x010000450001D891	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	Pour fuel into the tank.	把燃料倒进罐子里。
+0x010000450001D898	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	The lieutenant assists you, holding the canister up to the fuel tank as you tilt. Dark brown viscous fluid pours out and the room fills with a chemical smell.	警督帮你稳住油桶，你倾斜油桶把燃料倒了进去。深褐色的粘稠液体倾泄而出，整个房间充满一股化学的味道。
+0x010000450001D8A8	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	There's a red starter switch on the side of the cylinder and a start rope on the other side -- the lieutenant flicks the switch.	汽缸一侧有个红色的启动开关，另一侧是一根启动绳——警督扳动了开关。
+0x010000450001D8AF	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	The recoil start wakes the old generator up. The machine sputters like an old war horse before settling down to a rattle.	反冲启动唤醒了这台老发电机。机器像老战马一样发出噼里啪啦的声响，随之嗡嗡地稳定下来。
+0x010000450001D8B7	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	Pull the rope.	拉动绳子。
+0x010000450001D8C6	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	"That should do it."	“这样应该可以了。”
+0x010000450001D8D4	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	The room fills with a pervasive chemical smell as dark brown liquid flows into the tank. There's a red starter switch on one side of the cylinder and a start rope on the other.	深褐色的液体流入罐中，房间四处弥漫着一股化学的味道。汽缸的一侧有个红色的启动开关，另一侧是一根启动绳。
+0x010000450001D8E1	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	Flick the switch.	扳动开关。
+0x010000450001D8E7	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	Pull the rope.	拉动绳子。
+0x010000450001D8F1	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	A tiny red light glitters inside the burnt plastic.	一道微弱的红光在烧焦的塑料里晕染开来。”
+0x010000450001D909	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	The recoil start wakes the old generator up. The machine sputters like an old war horse before settling down to a rattle.	反冲启动唤醒了这台老发电机。机器像老战马一样发出噼里啪啦的声响，随之嗡嗡地稳定下来。
+0x010000450001D911	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	Nothing happens.	什么也没发生。
+0x010000450001D931	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	The tank is far from full, but there should be enough inside to keep it going for a day.	油罐还远远没有装满，但也足够维持一天了。
+0x0100006B00001780	Alternate1	SEAFORT INT / MICROGRID GENERATOR	Cuno	He looks at the wall socket. "Downstairs into that console we saw. And then to the rest of the room. Yeah. Electrical shit."	他看着墙上的插座。“是我们之前在楼下看到的控制台。然后再通往房间的其他地方。是啊。电气之类的狗屁玩意。”
+0x0100006B00001780	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Cuno	He looks at the wall socket. "Dunno, looks like downstairs somewhere..."	他看着墙上的插座。“不知道，看起来像是楼下的某个地方……”
+0x0100006B00001788	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Cuno	"Smells like *mazut*." The kid taps on the open fuel cap on the side of the dynamo. "Heavy fuel shit."	“闻起来像*重油*”。小孩拍了拍发电机侧面开启的油箱盖。“重油之类的狗屁玩意。”
+0x0100006B00001790	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Cuno	Cuno puts his hand on the generator. "This shit's cold."	坤诺把手放在发电机上。“这破玩意凉了。”
+0x0100006B00001796	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Cuno	The boy helps you out, holding the canister up to the fuel tank as you tilt. Dark brown viscous fluid pours out and the room fills with a chemical smell.	男孩帮你扶稳油桶，你倾斜油桶把燃料倒了进去。深褐色的粘稠液体倾泄而出，整个房间充满一股化学的味道。
+0x0100008900002725	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	There's a red starter switch on the side of the cylinder and a start rope on the other side -- Cuno flicks the switch.	汽缸一侧有个红色的启动开关，另一侧是一根启动绳——坤诺扳动了开关。
+0x010000890000272C	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	Pull the rope.	拉动绳子。
+0x0100008900002732	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	The recoil start wakes the old generator up instantly. The machine sputters like an old war horse before settling down to a rattle.	反冲启动立即唤醒了这台老发电机。机器像老战马一样发出噼里啪啦的声响，随之嗡嗡地稳定下来。
+0x010000890000273C	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Cuno	"We're in. We're doing this," he says over the sputter.	“我们搞定了。我们就要这样做，”他的声音盖过了噼啪声。
+0x010000890000275C	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	"What does this mean? A generator here?"	“这是什么意思？一台发电机放在这里？”
+0x0100008900002763	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Cuno	"Fuck does Cuno know?"	“坤诺他妈的怎么知道？”
+0x0100008F00003D6E	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Conceptualization	Is it not the wisest man who knows he knows nothing?	只有最聪明的人才能认识到自己的无知，不是吗？
+0x0100008F00003D74	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Microgrid Generator	The wind outside picks up suddenly with a faint howl. Inside it's warm.	外面突然起风了，发出微弱的嚎叫。里面很温暖。
+0x0100008F00003D7A	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	Say nothing.	什么也不说。
+0x0100008F00003D83	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	"I meant why is it here?"	“我是说它为什么会在这里？”
+0x0100008F00003D89	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Cuno	"Probably because it's winter. Some bums who camp here don't wanna freeze to death? Maybe? Probably. Cuno's probably right..."	“大概因为是冬天吧。有些在这里扎营的流浪汉不想被冻死？也许？可能吧。坤诺也许是对的……”
+0x0100008F00003D8E	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Cuno	"Yeah, Cuno's fucking wise like that. Cuno's gonna be a real wise pig."	“是啊，坤诺就他妈这么聪明。坤诺会变成一头超级聪明的猪。”
+0x0100008F00003D93	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	"You have taught me the meaning of wisdom, Cuno."	“坤诺，你教会了我聪明的含义。”
+0x0100008F00003DAA	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Pain Threshold	A small agony -- minuscule bones may have fractured -- but it proves the point.	有点痛——大概是一块小骨头断裂了——但是刚好就证明了这一点。
+0x0100008F00003DAF	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	You	"...ouch." (Grab your wounded toe.)	“……好痛。”（抓住你受伤的脚趾头。）
+0x0100008F00003DC4	Dialogue Text	SEAFORT INT / MICROGRID GENERATOR	Kim Kitsuragi	He nods approvingly. He even smiles.	他赞许地点点头，甚至露出了笑容。
+0x010000060000E7E1	Dialogue Text	SEAFORT INT / READING MATERIALS	Visual Calculus	Hmm... the print in some of these is pretty small though. This person has good eyesight.	嗯……这里面有些印刷字体挺小的。这人的视力一定很好。
+0x010000060000E7F1	Alternate1	SEAFORT INT / READING MATERIALS	Conceptualization	Still nothing. Just books. The reading materials of this old man out of time.	还是什么也没有，只有书。一个过时老人的读物。
+0x010000060000E7F1	Dialogue Text	SEAFORT INT / READING MATERIALS	Conceptualization	Still nothing. Just books.	还是什么也没有，只有书。
+0x010000060000E817	Dialogue Text	SEAFORT INT / READING MATERIALS	Conceptualization	Oh yes. Under the bed there is a rather extensive collection of *critical theory* -- that is: dour, life-non-affirming left wing literature -- published by small imprints such as Abattoir Firm and Ousia. It's not exactly light reading.	是的。床下好像有相当大量的*批判理论*藏书——换句话说：阴沉，*消极生活*的左翼文献——都是小出版商发行的，比如斗兽场公司和澳希亚出版社。其实算不上是消遣读物。
+0x010000060000E820	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Cuno. Powerful communist theory, rigorous and truthful."	“看啦，坤诺。强大的康米主义理论，严谨又真实。”
+0x010000060000E826	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Cuno. Deranged commie ranting."	“看，坤诺。康米主义者的疯狂妄语。”
+0x010000060000E82C	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Cuno. Downbeat dribble for people who can't get shit done."	“看啦，坤诺。对于那些屁事都做不好的人来说，就是些悲观的蠢话。”
+0x010000060000E832	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Cuno. A book. Left wing. I have no comments -- do you?"	“看，坤诺。一本书。左翼的。我没什么意见发表——你呢？”
+0x010000060000E851	Dialogue Text	SEAFORT INT / READING MATERIALS	Kim Kitsuragi	"Ousia..." he enunciates the word diligently. "Looks like our straggler has kept some literature around -- for a quick ideological fix."	“澳希亚……”他努力念出这个词。“看来我们这位流浪汉保留了一些文献——为了快速修正意识形态的问题。
+0x010000060000E857	Dialogue Text	SEAFORT INT / READING MATERIALS	Cuno	"Yeah. Yeah." He nods, sagely. "Man's hooked on the book. Gotta get his fix. Cuno's seen this shit before. Cuno's never getting hooked on that Hjelmdall shit..."	“是啊，是啊。”他睿智地点点头。“书呆子。他大概是很上瘾吧。坤诺以前见过这种狗屁玩意。坤诺从来都不迷这种赫姆达尔的垃圾……”
+0x010000060000E85D	Dialogue Text	SEAFORT INT / READING MATERIALS	Reading Materials	Your incendiary remark has failed to stir a reaction in these books.	你那煽动性的言论并没有激起这些书的反应。
+0x010000060000E8CE	Dialogue Text	SEAFORT INT / READING MATERIALS	Volition	As usual, he does not respond to the political agitation.	像往常一样，他对政治动乱没有反应。
+0x010000060000E8D9	Dialogue Text	SEAFORT INT / READING MATERIALS	Electrochemistry	He's probably already hooked on *that Hjelmdall shit*. A kid his age.. that's the best Hjelmdall age.	他可能已经迷上*那个狗屁赫姆达尔*了。像他那个年纪的小孩，是最适合赫姆达尔的年纪。
+0x010000060000E8E1	Dialogue Text	SEAFORT INT / READING MATERIALS	Rhetoric	It's hard to get a good argument on -- when your partner gets shot and you're alone.	这种时候很难好好辩论一番——特别是你的搭档中了枪，而你独身一人的时候。
+0x010000060001EF47	Dialogue Text	SEAFORT INT / READING MATERIALS	Rhetoric	Interesting...	有意思……
+0x010000060001EF50	Dialogue Text	SEAFORT INT / READING MATERIALS	Rhetoric	This means we have a critical theory loving vagrant here... interesting.	这就意味着这里有一个热爱批判理论的流浪汉……有意思。
+0x0100004200000389	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Kim. Powerful communist theory, rigorous and truthful."	“看啦，金。强大的康米主义理论，严谨又真实。”
+0x010000420000038F	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Kim. Deranged commie ranting."	“看，金。康米主义者的疯狂妄语。”
+0x0100004200000395	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Kim. Downbeat dribble for people who can't get shit done."	“看啦，金。对于那些屁事都做不好的人来说，就是些悲观的蠢话。”
+0x010000420000039B	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Kim. A book. Left wing. I have no comments -- do you?"	“看，金。一本书。左翼的。我没什么意见发表——你呢？”
+0x01000042000003A1	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Hmm... A book. Left wing. I have no comments -- does anyone else?	嗯……一本书。左翼的。我没什么意见发表——谁有吗？
+0x01000042000003A7	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Hmm... Deranged commie ranting.	嗯……康米主义者的疯狂妄语。
+0x01000042000003AD	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Hmm... Downbeat dribble for people who can't get shit done.	嗯……对于那些屁事都做不好的人来说，就是些悲观的蠢话。
+0x01000042000003B3	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Hmm... Powerful communist theory, rigorous and *truthy*!	嗯……强大的康米主义理论，严谨又*真实*！
+0x010000450001CBA3	Dialogue Text	SEAFORT INT / READING MATERIALS	Reading Materials	Books and magazines lie scattered on the floor and on a makeshift cupboard. They are not particularly well organized.	书和杂志凌乱地躺在地板和一个临时橱柜上，并没有特别收整过。
+0x010000450001CBAA	Dialogue Text	SEAFORT INT / READING MATERIALS	Encyclopedia	Popular depictions of man-versus-nature by amateur naturalists T. and T. Harpin (husband and wife). Widely read by people from all walks of life. Who doesn't like nature? Who doesn't want to *survive*?	业余博物学家T.和T.哈平（夫妻二人）对人与自然的流行描述。在各界人士中广泛流行。谁不喜欢自然呢？谁不想*生存*呢？
+0x010000450001CBB1	Dialogue Text	SEAFORT INT / READING MATERIALS	Reading Materials	Among what is mostly commercial fiction and serialized stories, you find a 'Magazine Cathodique' for electrical engineering. Then it's back to pulp: light erotica, an international thriller about circuit benders...	这里几乎全都是商业小说和连载故事，不过你在其中找到了一本电气工程的‘阴极杂志’。然后是一团纸浆：光之欲念，一部关于电路创意改装的国际惊悚小说……
+0x010000450001CBB8	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Sift through them.	仔细查看。
+0x010000450001CBBE	Dialogue Text	SEAFORT INT / READING MATERIALS	You	[Leave.]	[离开。]
+0x010000450001CBC7	Dialogue Text	SEAFORT INT / READING MATERIALS	Reading Materials	Most are softcovers: serialized *fantastique* and detective stories from the Twenties and Thirties. This disparate digest includes the classic 'Animal Adventures'.	大部分都是平装书：连载*幻想小说*，还有20-30世纪的侦探小说。这些完全不同的书籍里还包含那本经典的“动物冒险”。
+0x010000450001CBDB	Dialogue Text	SEAFORT INT / READING MATERIALS	You	[Leave.]	[离开。]
+0x010000450001CBEE	Dialogue Text	SEAFORT INT / READING MATERIALS	Kim Kitsuragi	"Someone's made themselves a home." The lieutenant inspects a softcover.	“有人把这里当成家了。”警督随手翻看着一本平装书。
+0x010000450001CBFA	Alternate1	SEAFORT INT / READING MATERIALS	Reading Materials	Soft covers, serialized *fantastique* and detective stories -- and a small collection of critical theory from obscure publishing houses. Under the bed.	平装书，连载*幻想小说*和侦探小说——还有一系列无名出版社发行的批判理论作品。就藏在床下。
+0x010000450001CBFA	Dialogue Text	SEAFORT INT / READING MATERIALS	Reading Materials	Softcovers, serialized *fantastique* and detective stories, 'Animal Adventures', a magazine for electrical engineering, and an international thriller. Also: light erotica and some historical novels from the century past.	平装书，连载*幻想小说*，侦探小说，“动物冒险”，一本电气工程学杂志，还有一本国际惊悚小说。除此之外，还有：光之欲念，和一部世纪前的历史小说。
+0x010000450001CC10	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Does anything stand out as unusual?	有没有发现什么不寻常的东西？
+0x010000450001CC10	tooltip1	SEAFORT INT / READING MATERIALS	You	All things communist.	全都是康米主义的。
+0x010000450001CC10	tooltip2	SEAFORT INT / READING MATERIALS	You	Enraged by commies.	被康米主义者激怒。
+0x010000450001CC10	tooltip3	SEAFORT INT / READING MATERIALS	You	Dresscode: Winter revolutionary.	着装要求：冬日革命。
+0x010000450001CC1D	Dialogue Text	SEAFORT INT / READING MATERIALS	Conceptualization	Not that you can tell. This is a digest of someone who's dead bored. Most of it is for entertainment purposes, fittingly right next to the *radiola* on the floor.	你看不出来。这是某个无聊至极的人的藏书。大部分都是用来消遣的，正好适合旁边地板上那个*无线电*。
+0x010000450001CC23	Dialogue Text	SEAFORT INT / READING MATERIALS	Conceptualization	Oh yes. Under the bed, there is a rather extensive collection of *critical theory* -- that is: dour, life-non-affirming left wing literature -- published by small imprints such as Abattoir Firm and Ousia. It's not exactly light reading.	是的。床下好像有相当大量的*批判理论*藏书——换句话说：阴沉，*消极生活*的左翼文献——都是小出版商发行的，比如斗兽场公司和澳希亚出版社。其实算不上是消遣读物。
+0x010000450001CC31	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Nothing? Nothing out of the ordinary?	什么也没有？没什么特别的吗？
+0x010000450001CC37	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Okay.	好吧。
+0x010000450001CC3E	Dialogue Text	SEAFORT INT / READING MATERIALS	Conceptualization	Maybe it's a little old-fashioned? There's a nude mag? More than that, you can't say.	也许有点老套？比如说裸体杂志？比那个还过的话，你也说不出来了。
+0x010000450001CC46	Dialogue Text	SEAFORT INT / READING MATERIALS	Conceptualization	You do feel there's something you're not *getting* here, though. Oh well.	你确实感觉到有些*不太理解*的地方。不过无所谓了。
+0x010000450001CC60	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Kim. Deranged commie ranting."	“看，金。康米主义者的疯狂妄语。”
+0x010000450001CC66	Dialogue Text	SEAFORT INT / READING MATERIALS	Kim Kitsuragi	"Ousia..." he enunciates the word diligently. "I agree -- humanitarian sciences. It stands out. Not a lot of critical theory around in Revachol West..."	“澳希亚……”他努力念出这个词。“我同意——人道主义科学。它确实挺突出的。评判理论在瑞瓦肖西部可不常见……”
+0x010000450001CC6C	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Kim. Powerful communist theory, rigorous and truthful."	“看啦，金。强大的康米主义理论，严谨又真实。”
+0x010000450001CC73	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Kim. Downbeat dribble for people who can't get shit done."	“看啦，金。全是些只有一事无成的废物们才会看的悲观蠢话。”
+0x010000450001CC79	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Kim. A book. Left wing. I have no comments -- do you?"	“看，金。一本书。左翼的。我没什么意见发表——你呢？”
+0x010000450001CC9E	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Hmm... Powerful communist theory, rigorous and *truthy*!	嗯……强大的康米主义理论，严谨又*真实*！
+0x010000450001CCA4	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Hmm... Deranged commie ranting.	嗯……康米主义者的疯狂妄语。
+0x010000450001CCAA	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Hmm... Downbeat dribble for people who can't get shit done.	嗯……对于那些屁事都做不好的人来说，就是些悲观的蠢话。
+0x010000450001CCB0	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Hmm... A book. Left wing. I have no comments -- does anyone else?	嗯……一本书。左翼的。我没什么意见发表——谁有吗？
+0x010000450001CCC6	Dialogue Text	SEAFORT INT / READING MATERIALS	Rhetoric	Your incendiary remark has failed to provoke him.	你那煽动性的言论并没有把他惹火。
+0x010000450001CCCD	Dialogue Text	SEAFORT INT / READING MATERIALS	Kim Kitsuragi	"Ousia..." he enunciates the word diligently. "Humanitarian sciences. Stands out. Not a lot of critical theory around in Revachol West anymore..."	“澳希亚……”他努力念出这个词。“我同意——人道主义科学。它确实挺突出的。批判理论在瑞瓦肖西部可不常见……”
+0x010000450001CCD6	Dialogue Text	SEAFORT INT / READING MATERIALS	Reaction Speed	Wasn't there some in the communist student's room?	那个康米主义学生的房间里不是有这些吗？
+0x010000450001CCED	Dialogue Text	SEAFORT INT / READING MATERIALS	Rhetoric	It's making a *strong* comeback. After all...	它又*强力*复出了。毕竟……
+0x010000450001CD0B	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Kids dig this stuff. There was plenty of it in the student's room. At the apartment building."	“小屁孩就是喜欢探究这种东西。学生的房间里有很多这种书。就在公寓大楼里。”
+0x010000450001CD11	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"A student in the apartment building seemed to have some as well."	“公寓大楼里有个学生好像也有这种书。”
+0x010000450001CD17	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Keep it to yourself.	自己保密。
+0x010000450001CD1F	Dialogue Text	SEAFORT INT / READING MATERIALS	Kim Kitsuragi	"Well, yes. That one student did."	“呃，是的。确实是有个学生。”
+0x010000450001CD26	Dialogue Text	SEAFORT INT / READING MATERIALS	Kim Kitsuragi	He nods. "That one student did have some, yes. It's still out of the ordinary."	他点点头。“没错，那个学生确实有。还是有点不同寻常。”
+0x010000450001CD34	Dialogue Text	SEAFORT INT / READING MATERIALS	Reading Materials	The little books seem inconsequential next to the big pile of frivolous entertainment covering them.	相比盖在上面的那一大堆无聊的娱乐作品来说，这些小册子好像有些不合理。
+0x010000450001CD48	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Critical theory books... What do you think this means?"	“批判理论的书……你觉得这是什么意思？”
+0x010000450001CD69	Dialogue Text	SEAFORT INT / READING MATERIALS	Kim Kitsuragi	"Again, I am not a philosopher. But whoever has lived here -- they have *some* education. And a certain *set* of interests."	“再说一次，我不是哲学家。但是不管谁住在这里——肯定接受过*某种*教育。而且还有某种*特定*的兴趣爱好。”
+0x010000450001CD70	Dialogue Text	SEAFORT INT / READING MATERIALS	Kim Kitsuragi	"Whoever has lived here -- they have *some* education. And a certain set of interests."	“不管谁住在这里——肯定接受过*某种*教育。而且还有某种*特定*的兴趣爱好。”
+0x010000450001CD8B	Dialogue Text	SEAFORT INT / READING MATERIALS	Reading Materials	Your incendiary remark has failed to stir a reaction in these inanimate objects.	你煽动性的言论并没有激起这堆无生命物体的反应。
+0x010000450001CD94	Dialogue Text	SEAFORT INT / READING MATERIALS	Reading Materials	None of these *objects* have anything to add. It's silent in the flak tower.	这些*物体*都没有什么要补充的。高射炮塔楼里鸦雀无声。
+0x010000450001CD9F	Dialogue Text	SEAFORT INT / READING MATERIALS	Logic	Is this not odd? Not a lot of *critical theory* around these days...	难道不奇怪吗？最近很少见到这些*批判理论*了……
+0x010000450001CDA8	Dialogue Text	SEAFORT INT / READING MATERIALS	Reaction Speed	Wasn't there some in the communist student's room?	那个康米主义学生的房间里不是有这些吗？
+0x010000450001CDB7	Dialogue Text	SEAFORT INT / READING MATERIALS	Conceptualization	The little books seem inconsequential next to the big pile of frivolous entertainment covering them.	相比盖在上面的那一大堆无聊的娱乐作品来说，这些小册子好像有些不合理。
+0x010000450001CDBD	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Keep it to yourself.	自己保密。
+0x010000450001CDDD	Dialogue Text	SEAFORT INT / READING MATERIALS	Rhetoric	A vulgar materialist reflection. Critical theory is making a *strong* comeback. After all...	一篇通俗的唯物主义反思。批判理论又*强力*复出了。毕竟……
+0x010000450001CDE3	Dialogue Text	SEAFORT INT / READING MATERIALS	You	A student in the apartment building seemed to have some as well.	公寓大楼里有个学生好像也有这种书。
+0x010000450001CDEE	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Kids dig this stuff. There was plenty of it in the student's room. In the apartment building.	小屁孩就是喜欢探究这种东西。学生的房间里有很多这种书。就在公寓大楼里。
+0x010000450001CE17	Dialogue Text	SEAFORT INT / READING MATERIALS	Conceptualization	Sure. Why not. The little books seem inconsequential next to the big pile of frivolous entertainment covering them.	当然。为什么不呢。相比盖在上面的那一大堆无聊的娱乐作品来说，这些小册子好像有些不合理。
+0x0100006B000017C4	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Cuno. Downbeat dribble for people who can't get shit done."	“看啦，坤诺。对于那些屁事都做不好的人来说，就是些悲观的蠢话。”
+0x0100006B000017CA	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Cuno. Deranged commie ranting."	“看，坤诺。康米主义者的疯狂妄语。”
+0x0100006B000017D0	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Cuno. Powerful communist theory, rigorous and truthful."	“看啦，坤诺。强大的康米主义理论，严谨又真实。”
+0x0100006B000017D6	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Look, Cuno. A book. Left wing. I have no comments -- do you?"	“看，坤诺。一本书。左翼的。我没什么意见发表——你呢？”
+0x0100006B000017E0	Dialogue Text	SEAFORT INT / READING MATERIALS	Cuno	"Yeah. Yeah." He nods, sagely.	“是啊，是啊。”他睿智地点点头。
+0x0100006B000017E5	Dialogue Text	SEAFORT INT / READING MATERIALS	Cuno	"Been readin' shit here," Cuno notes, thoughtfully. "Hooked on the book."	“一直在这里看些狗屁不通的东西，”坤诺若有所思的回答到。“被书迷住了。”
+0x01000089000027E1	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Critical theory books... What do you think this means?"	“批判理论的书……你觉得这是什么意思？”
+0x01000089000027E8	Dialogue Text	SEAFORT INT / READING MATERIALS	Cuno	"Cuno doesn't give a shit. Cuno's not hooked on the book. Tryna get me hooked on it, teachers and shit..."	“坤诺他妈的才不在乎。坤诺他妈的不喜欢书。崔娜想让我对这个着迷,老师啊还有什么之类的狗屁……”
+0x0100008900002806	Dialogue Text	SEAFORT INT / READING MATERIALS	Reaction Speed	Wasn't there some in the communist student's room?	那个康米主义学生的房间里不是有这些吗？
+0x0100008900002811	Dialogue Text	SEAFORT INT / READING MATERIALS	Rhetoric	He has no idea what that means.	他不明白是什么意思。
+0x0100008900002825	Dialogue Text	SEAFORT INT / READING MATERIALS	Conceptualization	The little books seem inconsequential next to the big pile of frivolous entertainment covering them.	相比盖在上面的那一大堆无聊的娱乐作品来说，这些小册子好像有些不合理。
+0x0100008900002830	Dialogue Text	SEAFORT INT / READING MATERIALS	Rhetoric	Critical theory is making a *strong* comeback. After all...	一篇通俗的唯物主义反思。批判理论又*强力*复出了。毕竟……
+0x0100008900002836	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"A student in the apartment building seemed to have some as well."	“公寓大楼里有个学生好像也有这种书。”
+0x010000890000283C	Dialogue Text	SEAFORT INT / READING MATERIALS	You	Keep it to yourself.	自己保密。
+0x0100008900002846	Dialogue Text	SEAFORT INT / READING MATERIALS	You	"Kids dig this stuff. There was plenty of it in the student's room. At the apartment building."	“小屁孩就是喜欢探究这种东西。学生的房间里有很多这种书。就在公寓大楼里。”
+0x010000890000284C	Dialogue Text	SEAFORT INT / READING MATERIALS	Cuno	"Mhm, yeah. Cool. Detective shit." He seems at a loss as to what to add.	“嗯，是啊，牛逼啊。狗屁警探。”他似乎不知道该补充些什么。
+0x0100008900002852	Dialogue Text	SEAFORT INT / READING MATERIALS	Cuno	"Mhm, yeah. Cool. Detective shit." He seems at a loss as to what to add.	“嗯，是啊，牛逼啊。狗屁警探。”他似乎不知道该补充些什么。
+0x01000003000002D5	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Spring Mattress	Sleep.	睡觉。
+0x01000003000002E2	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Spring Mattress	Sleep.	睡觉。
+0x010000060000E533	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Inland Empire	Also -- what if the bad thing happens again?	还有——如果又发生什么坏事呢？
+0x010000060000E5A1	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Logic	Someone has been squatting here. Very recently -- the fire guy the twins mentioned?	有人非法占用了这个地方。就在最近——也许是双胞胎提到的火人？
+0x010000060001EF81	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Endurance	The bed is quite inviting, all things considered. It's much warmer inside than out there...	整体来看，这张床还是很诱人的。里面比外面要暖和多了……
+0x010000450001C9B1	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Spring Mattress	There's a greasy old spring mattress in the corner, resting on piles of softcover books. White linen and a pillow are visible under a worn-out karakul blanket.	角落里有一张油腻的旧弹簧床垫，上面堆放着一些平装书。破烂的羊皮毯下面，能看见白色的床单和一个枕头。
+0x010000450001C9C8	Alternate1	SEAFORT INT / SPRING MATTRESS	You	"No time to rest now." [Leave.]	“现在没时间休息了。”[离开。]
+0x010000450001C9C8	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	No time to rest now. [Leave.]	现在没时间休息了。[离开。]
+0x010000450001CA32	Alternate1	SEAFORT INT / SPRING MATTRESS	You	"Maybe a little shut-eye, just an hour..." [Go to sleep.]	“也许稍微眯一小会儿，就一小时……”[睡觉。]
+0x010000450001CA32	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	Maybe a little shut-eye, just for an hour... [Go to sleep.]	也许稍微眯一小会儿，就一小时……[睡觉。]
+0x010000450001CA3F	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Kim Kitsuragi	"Someone has been squatting here." The lieutenant inspects the bed. "The linen is fresh. Recently washed."	“有人非法占用了这个地方。”警督检查着床。“床单是新的。最近刚洗过。”
+0x010000450001CA46	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Logic	Someone has been squatting here. Very recently.	有人非法占用了这个地方，就是最近的事。
+0x010000450001CA55	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	Inspect the linen.	检查床单。
+0x010000450001CA5C	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Spring Mattress	It stands out because it's freshly washed.	它很显眼，因为刚刚洗过。
+0x010000450001CA6C	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	"How recently..."	“有多近……”
+0x010000450001CA72	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	"Do you think whoever slept here is..."	“你觉得睡在这里的人……”
+0x010000450001CA78	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	"There are signs that someone... lives..."	“有迹象显示有人……生活在……”
+0x010000450001CA80	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Kim Kitsuragi	"You know, officer..." He looks at you with a touch of concern. "You *can* rest here if you're feeling tired. I will keep watch. You could use some rest for what's ahead."	“你知道的，警官……”他带着一丝关心的看着你。“如果你觉得累了，*可以*在这里休息。我会看着的。前面还有很多东西等着我们，你可以先休息一下。”
+0x010000450001CA86	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Kim Kitsuragi	"Yes. Any time. If you need a rest *later*, it's okay by me."	“是的。随时可以。如果你*之后*想要休息，我也没有意见。”
+0x010000450001CA8C	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Spring Mattress	The greasy old spring mattress lies in the corner, fresh linen under the heavy karakul cover.	角落里有一张油腻的旧弹簧床垫，厚重的羊皮毯下是一床崭新的床单。
+0x010000450001CAA4	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Pain Threshold	A flash of pain interrupts you, making you wince instead of letting the words out.	一阵疼痛打断了你的言语，让你缩成了一团。
+0x010000450001CAAF	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Pain Threshold	You force the rest of the sentence out through pain, thick as molasses, no longer able to hear yourself speak.	你强忍住疼痛说出剩下的话语，但痛觉就像糖浆一样浓稠，连你也听不见自己的声音。
+0x010000450001CAF6	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	Could they still be...	他们有没有可能还在这里……
+0x010000450001CAFC	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	How recently...	有多近……
+0x010000450001CB04	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Pain Threshold	You push the rest of the thought through pain thick as molasses, without really concentrating on it.	你忍住宛如糖浆一般厚重的疼痛说出剩下的话语，但是注意力根本没有集中。
+0x010000450001CB0A	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Pain Threshold	A flash of pain interrupts your thought, making you grimace.	一阵疼痛打断了你的言语，让你缩成了一团。
+0x010000450001CB19	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Endurance	Technically speaking, you *could* rest here if you're hurting... someone else has. It should be possible.	从技术的层面来讲，如果你受伤了，*可以*在这里休息……有人就这样做过。所以应该是可行的。
+0x010000450001CB20	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Inland Empire	The mattress is soggy, but that linen feels more inviting than the pain and exhaustion. It's not too cold here...	床垫湿乎乎的，但是床单比疼痛和疲惫要诱人的多。而且这里也不算太冷……
+0x010000450001CB36	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Esprit de Corps	You don't have to be a hero.	你没必要强逞英雄。
+0x010000450001CB48	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Kim Kitsuragi	"The offer still stands," he says, looking out the pillbox window. "Take it -- you don't look so good."	“我的提议仍然有效，”他看向小屋窗外，开口说到。“接受吧——你看起来不是很好。”
+0x010000450001CB58	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Endurance	Still rather inviting, all things considered. It's much warmer inside than out there...	从整体来看，它仍然很诱人。里面要比外面要温暖多了……
+0x010000450001CB76	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Spring Mattress	The greasy old spring mattress lies in the corner.	角落里躺着一张油腻的旧弹簧床垫。
+0x010000450001CB90	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Kim Kitsuragi	"Maybe it's better to get back to the mainland? Rest there -- you've earned it."	“也许最好回到内陆？到了那里再休息吧——这是你应得的。”
+0x010000450001DF70	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Spring Mattress	You face the concrete wall. There's less light there, in the dark corner. Like a dog you lie there...	你面对着水泥墙。黑暗的角落里光线比较微弱。你像条狗一样地躺了下去……
+0x0100006B0000179C	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Cuno	"What, you wanna like... live on this fucking island now?" He crosses his arms. "Go sleep in your own bed."	“什么，你不是想……住在这个该死的破岛上吧？”他把胳膊交叉抱在胸前。“回你自己的床上睡去吧。”
+0x0100006B000017A3	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Cuno	"I'm gonna say it again -- Cuno doesn't feel like carrying your corpse off this island, so maybe you should fucking crash?"	“我再说一次——坤诺可不想把你的尸体从岛上运出去，所以也许你他妈的应该睡一会儿？”
+0x0100006B000017AA	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Cuno	"Hey... Cuno doesn't wanna *hurt your feelings*, but you look like shit. Maybe you should lie down in the bed -- like recover. Before you die."	“喂……坤诺不想*伤害你的感情*，不过你看起来跟狗屎一样。也许你应该在床上躺下——恢复一下。在你死之前。”
+0x0100006B000017B0	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Cuno	"Check this shit. Someone's been squatting here." The kid waves his hand at the bed. "Cuno knows because this shit looks like Cuno's place."	“看看这破玩意。有人非法占用了这里。”他朝着床挥舞双手。“坤诺知道，因为这个破烂地方跟坤诺那里很像。”
+0x0100007200007959	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Spring Mattress	The blanket feels cold. The entire room does -- concrete and cold. Minutes pass. Half an hour maybe? The sounds of the sea beyond grow distant. Your eyelids close. Until...	毛毯感觉有些冷。整个房间都是——硬邦邦，冰冰凉凉。几分钟过去了。也许是半小时？大海的声音越变越遥远。你合上了眼睑。直到……
+0x0100007200007960	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	Curl up with your knees close to your chest.	把膝盖蜷起来，贴在胸口。
+0x010000720000796D	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Endurance	You didn't realize how tired you were. Your body is still nowhere near healed...	你还没意识到自己到底有多累。你的身体还远远没有治愈……
+0x010000720000797D	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	Until?	直到？
+0x0100007200007984	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Spring Mattress	You feel yourself standing up in the darkness. Right next to the mattress. Slowly, the world begins to hatch from the blackness. It's evening...	你感觉自己站在黑暗之中。就在床垫旁边。渐渐地，世界开始从黑暗中孵化出来。
+0x01000072000079B0	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Spring Mattress	You face the concrete wall. There's less light there, in the dark corner. Like a dog you lie there...	你面对着水泥墙。黑暗的角落里光线比较微弱。你像条狗一样地躺了下去……
+0x01000072000079B6	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Endurance	You didn't realize how tired you were. Your body is still nowhere near healed...	你还没意识到自己到底有多累。你的身体还远远没有治愈……
+0x01000072000079C2	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Spring Mattress	The blanket feels cold. It's someone else's blanket, and the room is all concrete and cold. Sounds of the sea beyond grow distant, slowly. Your eyelids close.	毛毯感觉有些冷。整个房间都是硬邦邦，冷冰冰的。大海的声音越变越遥远。你合上了眼睑。
+0x01000072000079C8	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	Pull your legs under your chin.	把腿枕在下巴底下。
+0x0100008900002775	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	"How recently..."	“有多近……”
+0x010000890000277B	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	"Do you think whoever slept here is..."	“你觉得睡在这里的人……”
+0x0100008900002781	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	"There are signs that someone... lives..."	“有迹象显示有人……生活在……”
+0x010000890000278A	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Pain Threshold	A flash of pain interrupts you, making you grimace instead of spewing out the words.	一阵疼痛打断了你的言语，让你缩成了一团。
+0x0100008900002795	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Pain Threshold	You force the rest of the sentence out through pain, thick as molasses, without really hearing it.	你强忍住疼痛说出剩下的话语，但痛觉就像糖浆一样浓稠，连你也听不见自己的声音。
+0x01000089000027A9	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	Huh, I wonder if...	嗯，不知道……
+0x01000089000027BA	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Cuno	"Cool, whatever. Cuno doesn't really give a shit."	“好吧，随你便了。坤诺真他妈不在乎。”
+0x01000089000027CC	Dialogue Text	SEAFORT INT / SPRING MATTRESS	Spring Mattress	Maybe it's actually better on the mainland... in your own bed. This place is getting less welcoming.	也许回内陆会更好一点……回你自己的床上。这个地方变得越来越不舒服了。
+0x01000089000040B3	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	Curl up with your knees close to your chest.	把膝盖蜷起来，贴在胸口。
+0x01000089000040BA	Dialogue Text	SEAFORT INT / SPRING MATTRESS	You	Curl up with your knees close to your chest.	把膝盖蜷起来，贴在胸口。
