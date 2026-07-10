@@ -1,0 +1,306 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060001C238	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Visual Calculus	Remember the tyre tracks in Martinaise? This is where they were leading.	还记得马丁内斯的轮胎印吗？就是通往这里的。
+0x010000060001C246	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Visual Calculus	That *rebel* who jumped the canal and broke the waterlock! This is their doing.	那个跃过运河，弄坏水闸的*叛徒*！这是他们的作为。
+0x010000060001C254	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Rhetoric	Looks like this might take a while. Time to present a good topic for discussion.	看来也许还要一会儿。是时候提出一个好议题了。
+0x010000060001C25C	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Interfacing	Yes. Why haven't you?	是的。你为什么没认出来呢？
+0x010000060001C268	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Electrochemistry	Probably? Try definitely.	也许？肯定要试试。
+0x010000060001C27E	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Logic	The damage is too extensive.	损伤太严重了。
+0x010000060001C287	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Savoir Faire	It's sunken too deep.	它陷得太深了。
+0x010000060001C28F	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Savoir Faire	It's sunken too deep. There is no access ramp to the coast.	它陷得太深了。没有通向海岸的坡道。
+0x010000060001C297	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Logic	This was 20% of the station's vehicular budget?	大概占了警局車辆预算的20%？
+0x01000007000063CF	Alternate1	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"So this is where all the tracks were leading to!"\n	“原来所有痕迹都指向了这里！”
+0x01000007000063CF	Alternate2	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	So this is where all the tracks were leading to!	原来所有痕迹都指向了这里！
+0x01000007000063CF	Alternate3	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	This is where the tracks on the plaza were leading to.	广场上的所有痕迹都指向了这里。
+0x01000007000063CF	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"This is where the tracks on the plaza were leading to."	“广场上的轮胎印一直延伸到这里。”
+0x01000007000063D4	Alternate1	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"This is where the rebel who jumped the canal ended up. Not so daring anymore!"	“这里就是叛逆者跳入运河终结生命的地方。再也不会有人这么勇敢了！”
+0x01000007000063D4	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	This is where the rebel who jumped the canal ended up. Not so daring anymore!	这里就是叛逆者跳入运河终结生命的地方。再也不会这么大胆了！
+0x01000007000063D9	Alternate1	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"A carriage in the sea? Where did this come from?"	“海里有辆汽車？这是从哪里来的？”
+0x01000007000063D9	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	A carriage in the sea? Where did this come from?	大海里的汽車？它是从哪里来的？
+0x0100000700006420	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"It appears to be so." The lieutenant has a peculiar look in his eyes as he inspects the wreckage.	“似乎是这样。”警督看着残骸，眼睛里露出奇怪的光芒。
+0x0100000700006426	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"It appears to be so." The lieutenant has a peculiar look in his eyes as he inspects the wreckage.	“似乎是这样。”警督看着残骸，眼睛里露出奇怪的光芒。
+0x0100000700006430	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	The motor carriage sits in the salty ocean water, cold and sad. It doesn't have an opinion.	汽車坐在咸咸的海水里，冰冷又悲伤。它没有什么意见。
+0x0100000700006437	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Let's investigate."	“我们开始调查吧。”
+0x010000070000643D	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I agree," the lieutenant replies, his eyes never leave the sunken vehicle. "We should definitely investigate."	“我同意，”警督回答到，但他的眼睛始终没有离开那辆沉没的汽車。“我们应该好好调查一下。”
+0x010000070000644B	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	The motor carriage sits in the salty ocean water, cold and sad. It doesn't have an opinion.	汽車坐在咸咸的海水里，冰冷又悲伤。它没有什么意见。
+0x0100000700006452	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"We don't have time for traffic hooliganism right now." [Leave.]	“我们现在没时间管什么交通流氓。”[离开。]
+0x01000007000064B6	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	I wonder what all these people in the city behind me are doing...	不知道我身后城里的人们都在做些什么……
+0x01000007000064BC	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	Dreaming, drinking, fucking, fighting, trying to improve their lives. Wishing for a better tomorrow.	做梦，喝酒，调情，打架，想要改善自己的生活。希望明天能变得更好。
+0x0100000700006551	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Tutorial Agent	Go to your inventory and interact with the item by clicking the INTERACT tab and then INTERACT.	打开你的道具栏，点击互动按钮，然后与里面的道具进行交互。
+0x010000070000689B	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Empathy	It must be cold and lonely down there, in the icy water.	冰水下面一定很冷，很孤独吧。
+0x01000007000068A8	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Inland Empire	It must be cold and lonely down there, in the icy water.	冰水下面一定很冷，很孤独吧。
+0x01000007000068AF	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Interfacing	The seawater is already corroding the fuel lines, metalworks, and undercarriage components. It's seeping into the various modules and short-circuiting the electrical systems, including the electro-magnetic steering and brakes...	海水已经腐蚀了燃料管、金属制品、还有底盘组件。它还渗入了各种各样的组件，让电气系统短路，包括电磁转向器和刹車……
+0x01000007000068C2	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Interfacing	The seawater has already started to corrode the metalworks.	海水已经开始腐蚀金属制品了。
+0x010000070000697D	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Inland Empire	Suddenly you're reminded of the lieutenant's Kineema and the weird feeling about the fish and seaweed you had...	突然间，你想起了警督的锐影，对鱼和海藻产生了一种奇怪的感觉……
+0x0100000700006986	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Inland Empire	You get a sudden sinking feeling. Stomach acid comes up as you look at the motor carriage in the deep, dark, cold water.	你突然有一种下沉的感觉。当你看着汽車泡在那深不见底、冰冷黑暗的海里，你的胃部开始隐隐抽痛。
+0x0100000700006990	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Interfacing	The seawater has already started to corrode the metalworks.	海水已经开始腐蚀金属制品了。
+0x010000070000699F	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Interfacing	The seawater is already corroding the fuel lines, metalworks, and undercarriage components. It's seeping into the various modules and short-circuiting the electrical systems, including the electro-magnetic steering and brakes...	海水已经腐蚀了燃料管、金属制品、还有底盘组件。它还渗入了各种各样的组件，让电气系统短路，包括电磁转向器和刹車……
+0x01000007000069BB	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	The motor carriage sits in the salty ocean water, cold and sad, and doesn't provide an immediate answer.	汽車坐在咸咸的海水里，冰冷又悲伤，它没有立即给出答案。
+0x01000007000069C1	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	The motor carriage sits in the salty ocean water, cold and sad, and doesn't provide an immediate answer.	汽車坐在咸咸的海水里，冰冷又悲伤，它没有立即给出答案。
+0x01000007000069C9	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"My guess is it started its journey from the plaza, where it backed through the fence."	“我猜这段旅程从广场开始，是从栅栏那边倒出来的。”
+0x01000007000069CF	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"My guess is it started its journey from the plaza, where it backed through the fence."	“我猜这段旅程从广场开始，是从栅栏那边倒出来的。”
+0x01000007000069D7	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	The motor carriage sits in the salty ocean water, cold and sad. It doesn't have an opinion.	汽車坐在咸咸的海水里，冰冷又悲伤。它没有什么意见。
+0x01000007000069DD	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"No..." The lieutenant looks at the carriage and then at you. "Not so daring at all."	“不……”警督看着汽車，然后又看向你。“一点也不大胆。”
+0x01000007000069E3	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"No..." The lieutenant looks at the carriage and then at you. "Not so daring at all."	“不……”警督看着汽車，然后又看向你。“一点也不大胆。”
+0x01000007000069F7	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	The motor carriage sits in the salty ocean water, cold and sad. It doesn't have an opinion.	汽車坐在咸咸的海水里，冰冷又悲伤。它没有什么意见。
+0x0100000700006A2A	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	I don't have time for traffic hooliganism right now. [Leave.]	我现在没时间管什么交通流氓。[离开。]
+0x0100000700006A30	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"We don't have time for traffic hooliganism right now." [Leave.]	“我们现在没时间管什么交通流氓。”[离开。]
+0x0100000700006A36	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	I don't have time for traffic hooliganism right now. [Leave.]	我现在没时间管什么交通流氓。[离开。]
+0x0100000700006A3C	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"We don't have time for this right now." [Leave.]	“我们现在没时间管这个。”[离开。]
+0x0100000700006A42	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	I don't have time for this right now. [Leave.]	我现在没时间管这个。[离开。]
+0x0100000700006A5E	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	I should investigate.	我应该调查一下。
+0x0100000700006A65	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	I should investigate.	我应该调查一下。
+0x0100000700006A6B	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	I don't have time for this right now. [Leave.]	我现在没时间管这个。[离开。]
+0x0100000700006A73	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Let's investigate, Kim."	“我们开始调查吧，金。”
+0x0100000700006A7A	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"We don't have time for traffic hooliganism right now." [Leave.]	“我们现在没时间管什么交通流氓。”[离开。]
+0x0100000700006A80	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Let's investigate, Kim."	“我们开始调查吧，金。”
+0x0100000700006A88	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	I don't have time for traffic hooliganism right now. [Leave.]	我现在没时间管什么交通流氓。[离开。]
+0x0100000700006A8E	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	I should investigate.	我应该调查一下。
+0x0100000700006A95	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	I should investigate.	我应该调查一下。
+0x0100000700006A9D	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Let's investigate."	“我们开始调查吧。”
+0x0100000700006AA4	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Let's investigate."	“我们开始调查吧。”
+0x0100000700006AAA	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"We don't have time for traffic hooliganism right now." [Leave.]	“我们现在没时间管什么交通流氓。”[离开。]
+0x0100000700006AB2	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Most suspicious. I should investigate.	太可疑了。我应该调查一下。
+0x0100000700006AB8	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	I don't have time for traffic hooliganism right now. [Leave.]	我现在没时间管什么交通流氓。[离开。]
+0x0100000700006ABE	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Most suspicious. I should investigate.	太可疑了。我应该调查一下。
+0x0100000700006AC7	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Let's investigate."	“我们开始调查吧。”
+0x0100000700006ACD	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"We don't have time for traffic hooliganism right now." [Leave.]	“我们现在没时间管什么交通流氓。”[离开。]
+0x0100000700006AD6	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	A seagull takes off from the half-submerged machine. It's almost like the bird is acknowledging your decision.	一只海鸥从半泡在水里的車上起飞。鸟儿好像在感激你的决定。
+0x0100000700006AE4	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	A seagull takes off from the half-submerged machine. It's almost like the bird is acknowledging your decision.	一只海鸥从半泡在水里的車上起飞。鸟儿好像在感激你的决定。
+0x0100000700006AEB	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I agree," the lieutenant replies, a curious look in his eyes. "We should *definitely* investigate."	“我同意，”警督回答到，眼睛里闪烁出好奇的光芒。“我们*绝对*应该调查一下。”
+0x0100000700006AF9	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I agree," the lieutenant replies, a curious look in his eyes. "We should *definitely* investigate."	“我同意，”警督回答到，眼睛里闪烁出好奇的光芒。“我们*绝对*应该调查一下。”
+0x0100000700006B00	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	A seagull takes off from the half-submerged machine. It's almost like the bird is acknowledging your decision.	一只海鸥从半泡在水里的車上起飞。鸟儿好像在感激你的决定。
+0x0100000700006B0D	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	A seagull takes off from the half-submerged machine. It's almost like the bird is acknowledging your decision.	一只海鸥从半泡在水里的車上起飞。鸟儿好像在感激你的决定。
+0x0100000700006B15	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I agree," the lieutenant replies, a curious look in his eyes. "We should *definitely* investigate."	“我同意，”警督回答到，眼睛里闪烁出好奇的光芒。“我们*绝对*应该调查一下。”
+0x0100000700006B22	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I agree," the lieutenant replies, a curious look in his eyes. "We should *definitely* investigate."	“我同意，”警督回答到，眼睛里闪烁出好奇的光芒。“我们*绝对*应该调查一下。”
+0x0100000700006B2A	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	A seagull takes off from the half-submerged machine. It's almost like the bird is acknowledging your decision.	一只海鸥从半泡在水里的車上起飞。鸟儿好像在感激你的决定。
+0x0100000700006B37	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	A seagull takes off from the half-submerged machine. It's almost like the bird is acknowledging your decision.	一只海鸥从半泡在水里的車上起飞。鸟儿好像在感激你的决定。
+0x0100000700006B3F	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I agree," the lieutenant replies, his eyes never leave the sunken vehicle. "We should definitely investigate."	“我同意，”警督回答到，眼睛里闪烁出好奇的光芒。“我们*绝对*应该调查一下。”
+0x0100000700006BC5	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Fish and seaweed... I thought this was about Kim's car?	鱼和海藻……我以为是关于金的車的？
+0x0100000700006BD0	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Inland Empire	Of course. Everything's okay.	当然了。一切都好。
+0x0100000700006BD7	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Half Light	Everything is *not* okay.	一切都*不好*。
+0x0100000700006BEB	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Endurance	Rust, moss, and sea life have already claimed it for themselves and initiated a slow decomposition process.	锈迹，苔藓和海洋生物已经宣誓了自己的主权，开始了一个缓慢的分解过程。
+0x0100000700006BF3	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	What is the make of this MC? Can I see a logo?	这車是什么牌子的？能看见标志吗？
+0x0100000700006BFA	Alternate1	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"How long has it been here?"	“它在这里多久了？”
+0x0100000700006BFA	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	How long has it been here?	它在这里多久了？
+0x0100000700006C01	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	The logo is too deep in the murky water -- you can't make it out. But you *do* see a monkfish float by.	标志深深的埋在浑水里——你实在辨认不清。但你*确实*看见一只安康鱼漂过。
+0x0100000700006C19	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"The ice hasn't closed around the vehicle yet..." He leans forward to peek into the cold water. "My guess is it's been here since last Saturday or Sunday."	“汽車周围还没有完全结冰……”他的身体前倾，看向冰水下面。“我猜应该上周六或周日就在这里了。”
+0x0100000700006C1F	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	The accident couldn't have happened too long ago. The ice hasn't closed up around the vehicle, so the crash must have happened last Saturday or Sunday.	这个事故应该就发生在不久之前。車身周围还没完全结冰，所以碰撞应该发生在上周六或者周日。
+0x0100000700006C30	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Did you say something, lieutenant?"	“你说什么了吗，警督？”
+0x0100000700006C36	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Yes, yes..." (Rub your chin.) "Crazy recklessness."	“是啊，是啊……”（摸摸你的下巴。）“鲁莽的疯子。”
+0x0100000700006C3C	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Enough gloating. This is serious."	“别再沾沾自喜了。这很严肃的。”
+0x0100000700006C45	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Yet another case of the engine displacement triumphing over the driver's IQ."	“又是一起引擎排量成功战胜司机智商的事故。”
+0x0100000700006C50	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	The sad sunken vehicle refuses to respond.	那辆悲伤的汽車拒绝发表任何回应。
+0x0100000700006C56	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Yes. Quite." The lieutenant seems to be inspecting you more closely than the motor carriage.	“是这样没错。”警督查看你的程度似乎比检修他的汽車时还要细致。
+0x0100000700006C63	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	The motor carriage does not dispute your evaluation of the situation.	汽車没有质疑你对当前形势的评估。
+0x0100000700006C71	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I did not." He gives you a blank stare. "But I'd say it has been here since last Saturday or Sunday."	“我没有。”他茫然地看了你一眼。“但是在我看来，它应该上周六或者周日就在这里了。”
+0x0100000700006C8B	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Yes, yes. Clearly this is a triumph," he remarks dryly. "I'd say the vehicle has been here since last Saturday or Sunday."	“是的，没错。显然是胜利了，”他冷淡地回应着。“我说这辆車上周六或者周日就在这里了。”
+0x0100000700006CA8	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Visual Calculus	The lieutenant's estimate is correct. The incident probably occurred on Sunday eve.	警督的估算是正确的。事故很可能发生在周日晚上。
+0x0100000700006CB4	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Logic	Great idea! Then we can get the things inside. The joyrider must have left something good inside. Guns? Papers? Maybe a cool jacket? A joyrider jacket?	好主意！然后我们就能看看里面的东西。那个司机肯定落了点东西在里面。枪？报纸？也许是一件酷炫的夹克？行者夹克？
+0x0100000700006CC2	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Esprit de Corps	A joyrider jacket? You feel a strange connection to this joyrider. Maybe he's from some kind of Joyriders district and likes blue and white racing livery? Like a cop would.	一件行者夹克？你感觉自己跟这个驾驶员有一种奇妙的联系。也许他是从某个行者街区来的，喜欢蓝白色的赛車制服？比如说，一个警察。
+0x0100000700006CCE	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Reaction Speed	Papers? Papers would be cool. Maybe there's registration inside? Like a person registration? You know, like your badge is!	证件？要是就很酷了。也许里面有登记信息？比如个人登记信息？你知道的，比如说你的警徽！
+0x0100000700006CDB	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	It might be a good idea to wait for the tide to recede.	等待潮水退去也许是个好主意。
+0x0100000700006CE4	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"How long will it take for the low tide to come in?"	“潮水什么时候才会退去？”
+0x0100000700006CEB	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I don't know. An hour or two tops."	“我不知道。最多一两个小时吧。”
+0x0100000700006CF4	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	As you sit down in the old, rusty playground, the world around you becomes very silent.	你坐在破旧生锈的运动场上，周围的世界变得异常安静。
+0x0100000700006CFB	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Perception (Hearing)	The hinges creak under your weight -- dangerously so.	铰链在你的重量下嘎吱作响——有些危险。
+0x0100000700006D02	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	Nothing but the sound of seagulls, high above in the sky, echoing like distant laughter. Ice cracks around the blue motor carriage in the sea.	什么也没有，除了高空中海鸥的鸣叫，宛如遥远的笑声在回响。海中那辆蓝色汽車周围的冰层出现了裂纹。
+0x0100000700006D1E	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Conceptualization	Two birds on a wire, whistling by the seaside. Looking at the water. And a sunken car.	电线上的两只小鸟，对着海岸吹吹口哨，看看水面，还有沉底的車。
+0x0100000700006D2C	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Shivers	The wind blows. In the distance, behind the church, some vagrants are having an argument over a bag of tare they found in the reeds. Further away -- a flock of sea gulls lands.	风在呼啸。远处教堂的后面，有几个流浪汉正在为芦苇丛中发现的一袋回收品争执。更远处——一群海鸥降落了。
+0x0100000700006D35	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Keep blowing.	继续吹。
+0x0100000700006D3B	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Haha, very funny -- so I can't whistle."	“哈哈，很好笑——所以我不会吹口哨。”
+0x0100000700006D41	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"I would like to see you try in this bloody wind."	“这见鬼的风这么大，你倒是试试看啊。”
+0x0100000700006D4A	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"That's right. Just keep at it, it will come to you."	“没错。坚持下去，你会成功的。”
+0x0100000700006D51	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Drama	He's gloating at you. Oh, it's so easy for Mr. Teacher!	他正幸灾乐祸地看着您呢。哦哟，*老师*做起来还真是不费吹灰之力呢！
+0x0100000700006D5D	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Just keep at it, it will come to you."	“坚持下去，你会成功的。”
+0x0100000700006D67	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	You hear the sound echo on the large body of water. Clouds race across the spring sky and suddenly you just feel better. About everything.	你听见宽阔海面传来的回声。云朵在春日的天空飞驰，突然间你感觉好多了。一切都感觉好多了。
+0x0100000700006D6D	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Conceptualization	Okay, okay... that's way better than what you did.	好吧，好吧……比你做的要好多了。
+0x0100000700006D7B	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"I don't know who my mum *or* my dad was..."	“我不知道我妈*或者*我爸是谁……”
+0x0100000700006D81	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"I miss my parents..."	“我想双亲了……”
+0x0100000700006D8B	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Rhetoric	'Okay,' he's thinking. 'I can do this. Let's do this. Who'd want to sit on an anthill? There are no therapeutic benefits to..."	‘好吧，’他想到。‘我可以的。那就来吧。谁会想坐在蚁丘上？而且根本没有什么好的疗效……
+0x0100000700006D99	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Conceptualization	Well, napalm ants for example are used in some rites of passage rituals...	这个嘛，举个例子，蚂蚁汽油弹会在某些通行权仪式上使用……
+0x0100000700006DA9	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Mhmh-mhmh..."	“嗯……”
+0x0100000700006DB1	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"I hope my mom isn't dead..."	“希望我妈还在世……”
+0x0100000700006DBB	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"I guess that's just your way of saying you'd side with the company."	“我猜这只是你支持公司的一种方式。”
+0x0100000700006DC2	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"I understand, you're saying you're siding with the Union."	“我理解，你说你是支持工会的。”
+0x0100000700006DCB	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"I don't think I'm ever gonna find my gun." (Look around.) "The world is so big and my gun is so small..."	“我觉得应该找不到我的枪了。”（看看周围。）“这个世界这么大，我的枪那么渺小……”
+0x0100000700006DE5	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	A dim light scatters from the cloud cover above the city. In it you can see the *blue and white motor carriage* slowly appear  from the water -- centimetre by centimetre as the sea recedes...	微光从城市上空的云层中散落下来。透过光，你看见*蓝白色汽車*慢慢浮现在水面上——随着海浪退去，一厘米一厘米的出现……
+0x0100000700006DEE	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Encyclopedia	It's a Coupris Forty. A work horse of the motor park. Favoured by the working men, government offices, fire fighters I guess, maybe animal control people? You know. Those kinds of people.	这是一辆库普瑞斯40汽車。停車场里的主力。很受工人、政府官员、消防员，我猜还有动物管控局的人青睐？你知道的，就是那一类人。
+0x0100000700006DF6	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Can you make out the marque now?"	“你能辨认出那个标志吗？”
+0x0100000700006DFD	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Can I make out the marque now?	我能辨认出那个标志吗？
+0x0100000700006E05	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	Yes, the emblem, now visible above the waterline, belongs to the Coupris Motor Corporation. Below it stands the model name, *40*.	是的，那个标志已经露出水面，清晰可见，那是库普瑞斯汽車公司的标志。型号名还印在下面，*40*。
+0x0100000700006E11	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Detective, I've been able to make out the marque ever since we arrived. I find it odd that you haven't. It's a Coupris, Model 40." His eyes turn to you.	“警探，我们一到这里，我就能认出那个标志。是一辆库普瑞斯，40型。我很奇怪你没认出来。”他把目光转向了你。
+0x0100000700006E1C	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"It is a simple and rugged machine, favoured by working men, government offices..." He pauses to think. "Firefighters, animal control people. You know, *those* kinds of people."	“这是一台简单又牢固的机器，很受工人和政府官员的青睐……”他停下来想了一会儿。“还有消防员，动物管控局的人。你也知道的，就是*那一类*人。”
+0x0100000700006E32	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"You have a Coupris too. What a coincidence!"	“你也有一辆库普瑞斯。真巧啊！”
+0x0100000700006E39	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Actually not a coincidence. The Kineema is the next generation sports edition of the old 'Forty', which was a real work horse. Favoured by the *police* all over the city..." He raises his finger.	“其实不是什么巧合。锐影是旧40型下一代的跑車款，是一匹真正的役马。整个城市的*警察*都很喜欢它……”他抬起了手指。
+0x0100000700006E40	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Squint your eyes and say: "Is that a number on the side?" (Proceed.)	眯着眼睛说:“侧面是数字吗？”（继续。）
+0x0100000700006E48	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Rhetoric	It's as if he knows what it stands for, but wants you to say it. It's pedagogical.	他好像已经知道它的含义，但却想要听到你亲口说出来。这是一种教育法。
+0x0100000700006E50	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I think I know now, what my favourite blue thing is." He nods. "Yes, my favourite blue thing is a blue police uniform... or blue police livery."	“我好像知道了，最喜欢的蓝色东西是什么。”他点点头。“没错，我最喜欢的蓝色东西是蓝色的警服……或者是蓝色的警察制服。”
+0x0100000700006E5F	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Actually not a coincidence. The Kineema is the next generation sports edition of the 'Forty', which was a real work horse. Favoured by the *police* all over the city." His expression is unreadable.	“其实不是什么巧合。锐影是旧40型下一代的跑車款，是一匹真正的役马。整个城市的*警察*都很喜欢。”他的表情让人难以捉摸。
+0x0100000700006E6E	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Shivers	In a little alley next to Boogie street, a man in stained overalls steps out of a workshop for a cigarette. His hands are bruised and soaked with motor oil and dirt. He breathes smoke out of his nostrils and closes his eyes. The next five minutes are his and his alone.	布吉街旁的一条小巷里，一个穿着肮脏工作服的男人走出車间抽烟。他的手有些青肿，上面满是机油和灰尘。他吸了一口烟，喷出鼻孔，然后闭上双眼。接下来的5分钟里，这里只有他和他自己。
+0x0100000700006E7A	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Logic	Does he know something about the driver of this vehicle?	他会不会知道那个司机的事？
+0x0100000700006E8B	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"It's not uncommon for race cars to have numbers on them."	“赛車上有数字可不常见。”
+0x0100000700006E92	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"But it could also be," he tilts his head and stresses: "... the number of a police precinct. Precinct 41 -- *your* precinct."	“但是也有可能，”他歪着头，加重了语气：“……是警区的数字。41分局——*你*的分局。”
+0x0100000700006E99	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Forty-one is his rank in the underground street racing hierarchy." (Rub your chin.) "Small fish, this one."	“41是他在地下街头赛車等级制度的排名。”（摸摸你的下巴。）“这家伙是条小鱼虾。”
+0x0100000700006E9F	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Forty-one, huh? This street racer is quite the ladies man."	“41，是吗？看来这个街头赛車手是个万人迷。”
+0x0100000700006EA5	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"This must be Tommy 41, the morning host of FM 41!"	“一定是汤米41，FM.41频道的早间主持人！”
+0x0100000700006EAB	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Looks like the factory made a mistake and accidentally called this one Coupris 41." (Scoff.) "Stupid factory."	“看来工厂搞错了，不小心把这个印成了库普瑞斯41。”（嘲笑）“愚蠢的工厂。”
+0x0100000700006EB3	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Right..." The lieutenant is looking at you peculiarly. "*Or* 41 is the number of a police precinct? Your precinct."	“好吧……”警督古怪地看着你。“*或者*41是分局的编号？你的分局。”
+0x0100000700006EBC	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"I hate guessing. District something? A *precinct*? Something municipal?" (Rub your temples -- you're getting a horrible headache.)	“我讨厌猜谜。地区之类的？比如*警察分局*？跟市政相关？”（抚摸你的两鬓——你突然感觉头疼的厉害。）
+0x0100000700006EC2	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Oh god, no..."	“老天，不是吧……”
+0x0100000700006EE8	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"But it could also be," he tilts his head and stresses: "... the number of a police precinct. Precinct 41 -- *your* precinct."	“但是也有可能，”他歪着头，加重了语气：“……是警区的数字。41分局——*你*的分局。”
+0x0100000700006EEF	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"A precinct, yes!" He tilts his head and continues in a soft voice. "A police precinct. Precinct 41 -- *your* precinct."	“是警区，没错！”他歪着头，声音很是轻柔。“是警察的辖区。41分局——*你*的分局。”
+0x0100000700006EF5	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I'm sorry, Harry. I'm so sorry."	“我很抱歉，哈里。我很抱歉。”
+0x0100000700006EFC	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Inland Empire	Forty-one, Precinct 41. A massive pit opens up in your stomach and the most terrible feeling comes over you.	41，41分局。你感觉胃里开了一个巨大的口子，最恐怖的感觉朝你扑面而来。
+0x0100000700006F05	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Inland Empire	A massive pit opens up in your stomach and the most terrible feeling comes over you.	你感觉胃里开了一个巨大的口子，最恐怖的感觉朝你扑面而来。
+0x0100000700006F0F	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Endurance	You feel like you're about to faint and fall off the swing. Your hands get clammy and the air tastes sour to breathe.	你感觉自己快要晕倒，差点从秋千上摔下去。你的双手变得湿冷，呼吸的空气也变得酸苦。
+0x0100000700006F17	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Half Light	Oh god, Harry! Oh god, Harry, what did you do...?!	我的天啦，哈里！老天爷，哈里，你到底做了什么……？！
+0x0100000700006F1E	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Volition	No! Just nope. Say no to this, Harry.	不！不是这样的。说不是，哈里。
+0x0100000700006F3B	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Yes, your car is in the sea. Face it so we can start dealing with this."	“是的，海里那辆就是你的車。好好面对这个现实，这样我们才能解决这个问题。”
+0x0100000700006F43	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"No, no..."	“不，不是……”
+0x0100000700006F51	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"No, it's the street racer."	“不，是街头赛車手的。”
+0x0100000700006F58	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"There were never any street racers. It was always you. You drove your car in the sea."	“根本就没有什么街头赛車手。一直都是你。是你把車开进海里的。”
+0x0100000700006F61	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"But Jacob Irw..."	“但是雅各布·欧文……
+0x0100000700006F67	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"OH MY GOD, IT'S MINE, I DROVE MY CAR INTO THE SEA????!?!?!?!?!!!??!!!!" (Proceed.)	“我的天啦，是我的，是我把車开进海里的？？？！！！？！？！”（继续。）
+0x0100000700007050	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	The lieutenant just shakes his head.	警督只是摇摇头。
+0x010000070000706A	Alternate1	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I'm afraid so, yes. It looks like you started in front of the Whirling, jumped over the canal and then drove your vehicle in the sea right here."\n	“恐怕就是这样。看来你是从飞旋旅社出发，跃过运河，然后把車一路开进了这片海域。”
+0x010000070000706A	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I'm afraid so, yes. It looks like you drove your police motor carriage into the sea, after you jumped across the canal."	“恐怕就是这样。看来是你把警車开进了海里，就在你跳过运河之后。”
+0x01000007000070C4	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Maybe I was in pursuit of someone."	“也许我在追什么人。”
+0x01000007000070CA	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"How do we get it out?"	“我们怎么把它弄出来？”
+0x01000007000070D0	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"I can still fix it."	“我还能修好它。”
+0x01000007000070D6	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"I want it to be Jacob Irw, not me."	“我想它是雅各布·欧文的，不是我。”
+0x01000007000070E0	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Things were going so well, we were just whistling merrily..."	“本来一切都挺顺利的，我们刚刚还在高兴地吹口哨……”
+0x01000007000070E6	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"They're not gonna take me back after this, are they?"	“发生这种事之后，他们应该不会让我回去了吧，是吗？”
+0x01000007000070EC	Alternate1	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"The badge, the gun -- and now THIS."\n	“警徽，警枪——现在又来这个。”
+0x01000007000070EC	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"First my badge and now THIS."	“先是我的警徽，现在又是这个。”
+0x01000007000070F4	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Things were going so well, we were just talking how people have different skins..."	“本来一切都挺顺利的，我们刚刚还在讨论人类不同的肤色……”
+0x01000007000070FA	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Well, at least I can see what's in there now." (Conclude.)	“呃，至少现在能知道里面有什么了。”（总结。）
+0x0100000700007100	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Things were going so well, we were just talking about our mums..."	“本来一切都挺顺利的，我们刚刚还在讨论自己的妈妈……”
+0x010000070000710C	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Of whom?" The lieutenant looks sceptical. "I don't think so. If anything... you were probably drunk."	“谁？”警督看上去很怀疑。“我不这么觉得。如果有什么的话……大概是你喝醉了吧。”
+0x0100000700007118	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Detective," he says almost gently. "We *don't*. A rescue operation really isn't viable at this point."	“警探，”他的声音从未这么温柔。“我们*不会*的。此时此刻，救援行动确实不太可行。”
+0x010000070000712B	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I'm afraid it will have to *be* there like that for many years." He looks around. "Look at it -- parts of it might be salvageable, but overall this machine is a write-off."	“恐怕它会一直待在*那里*好多年了。”他看了看周围。“看看它——有一部分可能还有得救，但是整体来说，这台机器已经报废了。”
+0x0100000700007135	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"So it's just gonna *be* there like that?!"	“所以它就会*一直*这样待在那里？！”
+0x0100000700007147	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"That is very unlikely," the lieutenant replies with a sigh. "All the electrics are toast. That goes for the electromagnetic steering and brake systems as well."	“那不太可能，”警督叹了一口气，回应到。“所有电路都烧坏了。电磁转向器和刹車系统也一样。”
+0x0100000700007150	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"You'd be *lucky* to find one undamaged component in there..." He shakes his head. "In a few months there will be nothing *but* rust left of this vehicle. It'll be cheaper to buy a new one..."	“如果能在里面找一个没有受损的组件，那都算你*走运*了……”他摇摇头。“几个月之后，这辆車里*除了*锈迹之外，什么也不会剩下。买辆新的反而会更便宜一些……”
+0x0100000700007157	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Well, not *cheaper*. This motor carriage costs 40,000 reál... but in the long run it stills makes more sense to buy a new machine than try to refurbish this."	“呃，也不是*特别便宜*。这种汽車大概要40,000雷亚尔……不过从长远来看，买一辆新車要比试着翻修这台更有意义。”
+0x010000070000715E	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"I don't have that kind of money."	“我可没那些钱。”
+0x0100000700007164	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"I couldn't even pay a hostel bill."	“我连旅社的账单都付不起。”
+0x010000070000716A	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"People are gonna be angry at me, aren't they? In Precinct 41."	“他们一定会对我很生气，是吧？41分局的人。”
+0x0100000700007170	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"THIS IS A DISASTER."	“这真是个灾难。”
+0x010000070000717A	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Let's face it, this is a substantial loss to your district's budget." He's avoiding your gaze now. "I mean, my station only has four other vehicles in addition to my Kineema..."	“面对现实吧，对于你们分局的预算来说，这确实是重大的损失。”他避开了你的目光。“我是说，除了我的锐影之外，我们分局只有4台車……”
+0x0100000700007189	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Well, it isn't. It's you. I'm very sorry."	“呃，不是的。是你。我很抱歉。”
+0x0100000700007195	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"People are more valuable than machines." He's trying to cheer you up now. "Training a police officer is even more costly."	“人比机器要贵重的多。”他试着让你振作起来。“训练一个警察比这个可贵多了。”
+0x010000070000719C	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Half Light	*People* yes, but not *you*.	“是*其他人*，但不是*你*。”
+0x01000007000071A8	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	The lieutenant adjusts his glasses and doesn't say anything.	警督调整了一下眼镜，一句话也没说。
+0x01000007000071AF	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Inland Empire	There is also a *fourth* thing you've lost.	你还丢了*第四样*东西。
+0x01000007000071C3	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	A... fourth thing?	第……四样东西？
+0x01000007000071C9	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	I don't wanna hear about that.	我不想听了。
+0x01000007000071D1	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Inland Empire	It's lost forever. Into the deepest of seas.	你已经永远失去它了。它就在最深的海底。
+0x01000007000071D8	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Inland Empire	More precious than the gun, the badge and the motor carriage *combined*. Lost forever. Into the deepest of seas.	比警枪，警徽还有警車*加起来*都更加珍贵。永远地丢失了，就在那最深的海底。
+0x01000007000071E5	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"You can still whistle," the lieutenant says with a smile. "Besides, the night is always darkest before the dawn."	“你还能吹口哨啊，”警督笑着说到。“再说了，黎明前的夜晚总是最黑暗的。”
+0x01000007000071EC	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"We can still do that," the lieutenant says with a smile. "Besides, the night is always darkest before the dawn."	“我们还是可以那样做的，”警督笑着说到。“再说了，黎明前的夜晚总是最黑暗的。”
+0x01000007000071F3	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Well..." The lieutenant shrugs. "Life has a way of pulling the rug from under your feet. But things can only go up from here."	“这个嘛……”警督耸耸肩。“生活总是有办法拆你的台。但是在那之后事情只会越变越好了。”
+0x0100000700007202	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"At least we have a pretty good suspect. If we found your motor carriage in the sea, maybe we'll find her too."	“至少我们找到了一个很好的嫌疑人。如果能在海里找到你的車，说不定也能找到她。”
+0x010000070000720E	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Endurance	Something about his notion gives you strength. Makes you realize this isn't the end of the road yet.	他的想法带给了你力量。让你意识到路还没有走到尽头。
+0x010000070000721A	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Yes. Let's go take a look."	“是的。我们去看看吧。”
+0x010000070000722A	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Oh god, no...	天啦，不……
+0x0100000700007231	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Oh, no-no-no-no-no. Mkm. Not happening! Not on my watch.	哦，不不不不不。不可能的！在我的眼皮子底下可不行！
+0x0100000700007238	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	C'mon, Harry... There's nowhere to run. It's just you and me, old friend.	拜托，哈里……你已经无处可逃了。只有你和我，老朋友。
+0x0100000700007247	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Even if the motor carriage *is* mine, literally anyone could have driven it into the sea.	虽然这辆車*是*我的，但事实是任何人都可能把它开进海里。
+0x0100000700007250	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Oh please, 41 could mean *SO* many things. It's not like I own the number.	拜托，41可能有*很多种*含义。又不是说这个数字属于我一个人。
+0x010000070000725D	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	I'm so sorry, Harry.	我很抱歉，哈里。
+0x0100000700007264	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Volition	No! Just nope. Say no to this, Harry.	不！不是这样的。说不是，哈里。
+0x010000070000726A	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Endurance	You feel like you're about to faint and fall off the swing. Your hands get clammy and the air tastes sour to breathe.	你感觉自己快要晕倒，差点从秋千上摔下去。你的双手变得湿冷，呼吸的空气也变得酸苦。
+0x0100000700007270	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Half Light	Oh god, Harry! Oh god, Harry, what did you do...?!	我的天啦，哈里！老天爷，哈里，你到底做了什么……？！
+0x0100000700007276	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Inland Empire	A massive pit opens up in your stomach and the most terrible feeling comes over you.	你感觉胃里开了一个巨大的口子，最恐怖的感觉朝你扑面而来。
+0x0100000700007286	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	No, no... That's not true! It can't be...	不，不……这不是真的！不可能的……
+0x010000070000728D	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"OH GOD, IT *IS* MINE! I DROVE MY CAR INTO THE SEA!!!"	“天啦，它*真是*我的！我把車开进海里了！！！”
+0x0100000700007293	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"No, no, no." (Shake your head.) "No. No. No..."	“不不不。”（拼命摇头。）“不，不，不……”
+0x010000070000729B	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	No matter how many times you say it, it won't change the truth.	不论你说多少遍，也不会改变事实。
+0x01000007000072A7	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	Yes, Harry. You did.	是的，哈里。就是你做的。
+0x01000007000072C1	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Well, at least I can see what's in there now." (Conclude.)	“呃，至少现在能知道里面有什么了。”（总结。）
+0x01000007000072C7	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	I can fix it.	我能修好它。
+0x01000007000072CD	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Maybe I was in pursuit of someone.	也许我在追什么人。
+0x01000007000072E5	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	How do we get you out?	我们该怎么把你弄出来呢？
+0x01000007000072EB	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	They're not gonna take me back after this, are they?	“发生这种事之后，他们应该不会让我回去了吧，是吗？”
+0x01000007000072F1	Alternate1	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"The badge, the gun -- and now THIS."	“警徽，警枪——现在又来这个。”
+0x01000007000072F1	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"First my badge and now THIS."	“先是我的警徽，现在又是这个。”
+0x0100000700007309	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	The sooner you accept it, the sooner you can move on.	你接受的越早，就越能继续前进。
+0x0100000700007311	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	You were not.	你没有。
+0x0100000700007321	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	We don't.	我们没有。
+0x0100000700007329	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	No, you can't.	不，你不可以。
+0x0100000700007335	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	After losing every single thing you were entrusted with? I wouldn't hold my breath.	在失去我们托付给你的每一件东西之后？我不会屏住呼吸。
+0x0100000700007341	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	Keep moving. You're a shark. You stop -- you die.	继续前进。你是一头鲨鱼。停下来——你就会死。
+0x010000070000734D	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	An aggressive looking seagull lands on the swing set and stares at you with a murderous look. You really need to keep moving.	一只看起来很好斗的海鸥落在了秋千上，它死死地盯着你，目露凶光。你真要继续前进了。
+0x01000007000153BA	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Logic	Unless someone... *someone* was trying to fake his own death and start life anew...	除非有人……*有人*想要假死，重新开始生活……
+0x01000007000153C9	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Logic	Does he know something about that speedracer?	他认识那个赛車手吗？
+0x01000007000153D1	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"No, I mean seriously, it's just a coincidence..."	“不，我是认真的，这只是个巧合……”
+0x0100004C0000AB18	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Volition	Why the doom and gloom? It's just a sunken motor carriage. Some motor carriages are bound to end up in the sea.	为什么搞得这么凄惨？只是一辆沉没的汽車啊。有些汽車注定会沉没在海底的。
+0x0100004C0000AB2E	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	A banged up motor carriage lies half-submerged in the icy water, slowly sinking into the Insulindian ocean. Only the cabin top, rear wheels and the engine remain visible.	一辆破损的汽車半泡在冰冷的水里，慢慢沉入伊苏林迪大洋。只有乘坐舱顶、后轮和引擎还依稀可见。
+0x0100004C0000AB37	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	The motor carriage looks very sad sitting all alone in the ice.	汽車孤独地坐在冰面上，看起来很是悲伤。
+0x0100004C0000AB80	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Well, well, well. Looks like Jacob Irw's journey came to an abrupt end here."	“哎呀呀。看来雅各布·欧文的旅程在这里硬生生的终结了。”
+0x0100004C0000AB87	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Yes, yes. Crazy recklessness." The lieutenant glances at you. "I'd say it has been here since last Saturday or Sunday."	“是啊，是的。近乎疯狂的鲁莽。”警督撇了你一眼。“我看大概上周六或周天，它就已经在这里了。”
+0x0100004C0000AB9A	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Run your hand over the cold metal.	用你的手抚摸冰冷的金属。
+0x0100004C0000ABA7	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	The motor carriage is properly stuck in the ice. Getting it out would require a team of specialists.	汽車正好卡在冰面上。把它弄出来需要一队专业人士。
+0x0100004C0000ABAD	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	Your mocking tone finds no response but the motion of the waves.	你那嘲讽的口吻没有得到一点回应，只有海浪在翻滚着。
+0x0100004C0000AC77	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Interfacing	A single day in the salty seawater would ruin most vehicles, but this one looks worn even in places the saltwater hasn't touched it.	只要在咸海水中待上一天，大部分汽車就报废了，但是看看这一辆，连海水没接触到的地方都已经破烂不堪了。
+0x0100004C0000AC86	Alternate1	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"What should we do?"	“我们应该怎么做？”
+0x0100004C0000AC86	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	What should I do?	我应该怎么做？
+0x0100004C0000AC94	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Let's wait for the low tide and see what's inside."	“等到退潮，然后看看里面有什么。”
+0x0100004C0000AC9B	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	Although the sunken motor carriage is probably flattered by you addressing it, it does not supply an answer.	虽然那辆沉没的汽車可能因为被你找到而高兴，但它却没能提供答案。
+0x0100004C0000ACA2	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Logic	Wait for the low tide -- then you should be able to access the cabin.	等待退潮——然后应该就能进入乘坐舱了。
+0x0100004C0000ACD8	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Sit on the swing and wait for the tide to recede.	坐在秋千上，等待潮水退去。
+0x0100004C0000ACEA	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Hold on, it looks very blue." (Point to the sunken vehicle.)	“等一下，它看起来很蓝。”（指着沉没的汽車。）
+0x0100004C0000ACF1	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Yes, yes, it does."	“是啊，没错。”
+0x0100004C0000ACFF	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Wait in silence.	静静等待。
+0x0100004C0000AD13	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Whistle a tune.	吹口哨。
+0x0100004C0000AD13	tooltip1	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Art cop.	艺术警察。
+0x0100004C0000AD13	tooltip2	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Dresscode: Man of charms.	着装要求：万人迷。
+0x0100004C0000AD1E	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	It's impossible to say if it's happening, if the water is receding. All you feel is a lot of time going by.	浪潮有没有退去，这一点谁也说不上来。你只感觉到时间过了很久。
+0x0100004C0000AD33	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Drama	The tune on your lips forms a strange, yet undeniably beautiful contrast with the surrounding bleakness.	从你嘴唇迸出的旋律奇怪，却又难以否认的美丽，正好与周围的阴郁形成了鲜明的对比。
+0x0100004C0000AD39	Alternate1	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Drama	Spit flies from your mouth, spraying your chest and landing on the ground before you. No sound though.	唾沫星子从你的嘴里飞出，喷溅在你的胸膛上，最后降落在前方的地面。但却没有发出一点声音。
+0x0100004C0000AD39	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Drama	Spit flies from your mouth to your moustache, your chest, the ground before you... No sound though.	唾沫星子从你的嘴里一路飞到你的胡子、胸膛和前方的地面上……但却没有发出一点声音。
+0x0100004C0000AD4C	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	The lieutenant gives you a quick glance. Then, still looking straight ahead, he joins you with a higher-pitched and slightly more melodic trill.	警督飞快地瞥了你一眼。虽然目光仍然直视前方，但他用一段更高亢，而且更有旋律的颤音加入了你。
+0x0100004C0000AD52	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	The lieutenant must think it's rather funny. He smiles and quickly turns away.	警督一定觉得这样很好笑。他笑了笑，然后飞快地转过了脸。
+0x0100004C0000AD5C	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	It's sad that no one and nothing but the sunken vehicle is here to witness it, but the unexpected beauty of the tune lifts your spirits nonetheless.	真可悲，除了那辆沉没的汽車，没有其他人，或者其他东西目睹了这一切，但是这段意想不到的美妙旋律让你的精神为之振奋。
+0x0100004C0000AD71	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"What's your favourite blue thing?"	“你最喜欢的蓝色东西是什么？”
+0x0100004C0000AD78	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Hmm..." The lieutenant is staring at the wreck. "Let me think about it..."	“嗯……”警督盯着残骸。“让我想想……”
+0x0100004C0000AD86	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Horrific Necktie	Raining heavily here, chief -- mind keeping it down a bit?	这里雨下的真大，关键是——能稍微小点声吗？
+0x0100004C0000ADA2	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	In some way it is still sad that no living thing (other than seagulls) is here to witness a man in his prime trying to learn to whistle.	在某种程度上说，没有任何生物（除了海鸥）在这里见证其实挺悲哀的，见证一个男人尝试在他的全盛时期学吹口哨。
+0x0100004C0000ADF9	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	With his lips puckered the lieutenant lets out a beautiful melodic trill that puts even the Insulindic thrush to shame.	警督撅起嘴唇吹出一段美妙的颤音，甚至能让伊苏林迪画眉都羞愧不已。
+0x0100004C0000AE01	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"So, was your dad also... you know..." (Point to your eyes.)	“所以，你爸是不是也……你知道的……”（指着你的眼睛。）
+0x0100004C0000AE08	Alternate1	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I'm pretty sure I told you already, didn't I? My dad and mum are both half-Seolite."	“我很肯定已经告诉过你了，不是吗？我的父亲有一半的西奥人血统。”
+0x0100004C0000AE08	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"My dad and mum are both half-Seolite."	“我的父母都有一半的西奥人血统。”
+0x0100004C0000AE0F	Alternate1	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Oh, right... "	“哦，好吧……”
+0x0100004C0000AE0F	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Oh, so both... "	“哦，所以都是……”
+0x0100004C0000AE42	Alternate1	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"The tide sure is taking its sweet time."	“浪潮肯定在享受它的甜蜜时光。”
+0x0100004C0000AE42	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	The tide sure is taking its sweet time.	浪潮肯定在享受它的甜蜜时光。
+0x0100004C0000AE4F	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"I believe it's following a pattern set millions of years ago by cosmic forces... But I suppose it *could* move quicker, yes."	“我相信它遵循的是几百万年前的宇宙力量设置好的模式……不过我想它*可以*再动的稍微快一点。”
+0x0100004C0000AE56	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	Clouds on the horizon grow darker and the shadow of the swing set keeps climbing. You hear the distant rumble of the city. Thirty minutes pass...	地平线上的云层变得越发昏暗，秋千的阴影一直在爬升。你听见远方城市的轰鸣声。30分钟过去了……
+0x0100004C0000AE65	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	The clouds pass in the sky and the shadow of the swing moves like the hour hand on a time piece... Thirty minutes have passed.	云朵飘过天空，秋千的阴影像时钟上的指针一样移动着……30分钟过去了。
+0x0100004C0000AE73	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	It's unclear whether the sunken vehicle agrees or not, but merely uttering these words gives you the illusion of time speeding up.	那辆沉没的汽車有没有同意还不清楚，但是仅仅说出这些话，就让你产生了时间在加速行走的错觉。
+0x0100004C0000AE80	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Inland Empire	Just like how the crazy daredevil piloting that vehicle must have accelerated into the sea!	就像是那个疯狂又鲁莽的人，他一定是驾驶着那辆汽車加速冲进了大海！
+0x0100004C0000AE87	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Savoir Faire	What a clumsy wuss...	真是个笨手笨脚的胆小鬼……
+0x0100004C0000AEBE	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Would you rather sit on an anthill for an hour or stand in a river of leeches?"	“你更愿意在蚁丘上坐一小时，还是站在布满水蛭的河里？”
+0x0100004C0000AEC4	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Well..." The lieutenant rubs his chin. "Historically, leeches have been used to prevent and even cure many ailments..."	“呃……”警督摸了摸自己的下巴。“从历史上看，水蛭以前会用来防止、甚至是治疗很多种疾病……”
+0x0100004C0000AED9	Alternate1	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"...all I'm saying is I'm surprised people's skin colour varies so drastically. And that I miss my mum."\n	“……我想说的是，人类的肤色能有这么大的不同，还真是让我挺吃惊的。还有，我想我妈了。”
+0x0100004C0000AED9	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"...all I'm saying is I'm surprised people's skin colour varies so drastically."	“……我想说的是，人类的肤色能有这么大的不同，还真是让我挺吃惊的。”
+0x0100004C0000AEE2	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Once again, differences in skin colour are the result of melanin production, liver functions, regional adaptation, and various other factors."	“再说一次，肤色不同是褪黑素、肝功能、区域适应，还有很多种不同因素形成的结果。”
+0x0100004C0000AEE9	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"And your eyes also used to..."	“那以前你的眼睛也……”
+0x0100004C0000AEF2	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	Your voice echoes on the water, strange and out of place in the environment. Thirty more minutes pass.	你的声音在水面上回荡，在这个环境里显得奇怪又不恰当。30分钟过去了。
+0x0100004C0000AEF9	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"If you have to side with either the strikers or the shipping company, who would you choose?"	“如果必须选择一边，你会支持罢工者还是航运公司？”
+0x0100004C0000AF00	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Luckily, I am already a member of an independent organization, and therefore do not have to choose between a rock and a hard place."	“幸好，我已经是一个独立组织的成员，所以我不会进退两难。”
+0x0100004C0000AF07	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"But... if someone puts a gun to your head?"	“但是……如果有人拿枪指着你的头呢？”
+0x0100004C0000AF0F	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Do you think I will ever find my gun?"	“你觉得我还能找到自己的枪吗？”
+0x0100004C0000AF16	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	The lieutenant's expression suddenly turns very serious. "God, I hope so."	警督的神情突然变得很严肃。“老天爷，我倒是希望如此。”
+0x0100004C0000AF1D	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"I've been thinking: if I put enough time into eating right and exercising, I could turn myself into a living weapon. Then I wouldn't even need a gun..."	“我一直在想：如果我花足够的时间去正确饮食，勤加锻炼，是不是就能把我自己变成一个人形武器。然后我甚至都不需要枪了……”
+0x0100004C0000AF2C	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"Yes. Forty-one. What do you think it stands for?"	“是啊。41。你觉得它代表什么？”
+0x0100004C0000AF42	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Is that a Coupris 40?"	“那是库普瑞斯40吗？”
+0x0100004C0000AF4B	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	"It is indeed." The lieutenant nods. "Or more accurately *was*."	“确实是。”警督点点头。“或者更准确的说，*曾经*是。”
+0x0100004C0000AFC3	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Horrific Necktie	Yes. Number 41. As in: Precinct 41. C'mon, man -- that's our ride!	是的。41号。就像：41分局。拜托，伙计——那是我们的座驾！
+0x0100004C0000AFD6	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	Yes, Harry, it's the number 41. The number of our precinct. I hoped you would come back for me...	是的，哈里，它是41号。我们分局的号码。我一直希望你会回来找我……
+0x0100006B00006910	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Visual Calculus	The estimate is correct. The incident probably occurred on Sunday evening.	估计是正确的。这场事故可能发生在周日的晚上。
+0x0100008100000D59	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	Oh sweet, a Coupris 40. A nice little machine.	天啦，一辆库普瑞斯40。可爱的小机器。
+0x0100008100000D60	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	It probably used to be. All wet, bent, and broken -- the old work horse has seen better days.	也许曾经是吧。现在湿漉漉的，扭曲又破败——那匹老马也曾经辉煌过。
+0x0100008900000816	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	You	"Man, this is taking a long time."	“我的天，真是有够久的。”
+0x010000890000081D	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Sunken Motor Carriage	Yes it is. It feels as the city behind you grows silent in the waiting. Seems like an eternity has passed...	是的。感觉你身后的城市都在等待中变得越来越沉默。仿佛已经过去了整整一个来生……
+0x010000890000082B	Dialogue Text	SOUTHCOAST / SUNKEN MOTOR CARRIAGE	Kim Kitsuragi	The lieutenant looks at his wristwatch. "The world turns as fast as it wants."	警督看着手表。“世界想变多快就能有多快。”
