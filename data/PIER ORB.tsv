@@ -1,0 +1,141 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x0100000400014FCB	Dialogue Text	PIER ORB / bustedupwalkwaythought	You	"But lieutenant, think about the splinters!"	“但是警督先生，想想那些碎片！”
+0x0100008F000012DB	Dialogue Text	PIER ORB / bustedupwalkwaythought	Visual Calculus	Woah! What have we here?	哇啊！看看这是什么？
+0x0100008F000012E1	Dialogue Text	PIER ORB / bustedupwalkwaythought	You	A bridge?	一座桥？
+0x0100008F000012E9	Dialogue Text	PIER ORB / bustedupwalkwaythought	Visual Calculus	A bridge with loose nails and rot-infested wood that creaks in the wind. A construction code violation if there ever was one!	一座钉子已经松松垮垮、木板腐烂到在风中嘎吱作响的破桥。如果说曾经有过施工规范的话，这就是违规的范例！
+0x0100008F000012F7	Dialogue Text	PIER ORB / bustedupwalkwaythought	You	Guess I'll have to take my chances.	看来我只能碰碰运气了。
+0x0100008F00002338	Dialogue Text	PIER ORB / bustedupwalkwaythought	You	"Kim, it looks like we've got a construction code violation."	“金，看来这里有起违反施工规范的案件。”
+0x0100008F0000233F	Dialogue Text	PIER ORB / bustedupwalkwaythought	You	Whatever. Let death come. I'm a Revacholian badass.	无所谓了。死神要来就来吧。我可是瑞瓦肖土生土长的混蛋。
+0x0100008F0000234C	Dialogue Text	PIER ORB / bustedupwalkwaythought	Visual Calculus	Oh, pardon me then. I forgot just how *cool* you were.	哎呀，那真是不好意思了。我都忘记你有多*狂拽酷炫*了呢。
+0x0100008F00002353	Dialogue Text	PIER ORB / bustedupwalkwaythought	Endurance	You can take those sharp rocks!	你可以走那些尖锐的岩石！
+0x0100008F0000235B	Dialogue Text	PIER ORB / bustedupwalkwaythought	Visual Calculus	Guess so. Just be careful out there! One false step could cost you dearly!	我想也是。不过要小心点！只要迈错一步，就会让你损失惨重！
+0x0100008F00002362	Dialogue Text	PIER ORB / bustedupwalkwaythought	Kim Kitsuragi	The lieutenant looks around. "True, they never cleaned up the war damage... The rest of Revachol looks better, though."	警督四下看了看。“是啊，他们从来都不会清理战争留下的伤害……不过瑞瓦肖其它地方要好很多。”
+0x0100008F00002369	Dialogue Text	PIER ORB / bustedupwalkwaythought	Kim Kitsuragi	"The bridge is fine enough. Locals use it all the time, after all. It's nothing to worry about." He adjusts his glasses. "Shall we?"	“这座桥已经不错了。毕竟本地人一直都用它。没什么好担心的。”他推了推鼻梁上的眼镜。“我们走吧？”
+0x0100000F0000799A	Dialogue Text	PIER ORB / communistquest	Rhetoric	There it is again! There's a spectral scent haunting this pier, no doubt. And it smells like...	又是这种味道！这个工业港萦绕着一股诡异的气息。闻起来就像……
+0x0100000F000079A1	Dialogue Text	PIER ORB / communistquest	Rhetoric	There! Do you smell that?	对！你闻到了吗？
+0x0100000F000079A8	Dialogue Text	PIER ORB / communistquest	Perception (Smell)	Sea brine, mostly. Because it's a pier.	更多就是海水味儿吧。毕竟这是码头。
+0x0100000F000079AF	Dialogue Text	PIER ORB / communistquest	Rhetoric	Years of turmoil, of hopes and dreams ground beneath the inexorable tides of capital.	那么多年的动乱、希望和梦想都被无情的资本浪潮所淹没。
+0x0100000F000079B6	Dialogue Text	PIER ORB / communistquest	You	Smell what?	闻到什么？
+0x0100000F000079BB	Dialogue Text	PIER ORB / communistquest	You	I don't smell anything.	我什么也没闻到。
+0x0100000F000079C4	Dialogue Text	PIER ORB / communistquest	Rhetoric	Can you not detect that inimitable whiff of dissatisfaction and restlessness, that sense that the world is in need of dramatic, even violent re-ordering?	你难道感觉不出那种不满和不安的独特*气味*吗？感觉就像是这个世界需要强烈地，甚至是*暴力地*去重建秩序一般。
+0x0100000F000079CC	Dialogue Text	PIER ORB / communistquest	You	(Close your eyes and take a deep breath.)	（闭上眼睛然后深呼吸。）
+0x0100000F000079D2	Dialogue Text	PIER ORB / communistquest	You	Are you saying there's a communist nearby?	你是说这附近有康米主义者吗？
+0x0100000F000079DE	Dialogue Text	PIER ORB / communistquest	Rhetoric	What do you smell?	你闻到什么了？
+0x0100000F000079E5	Dialogue Text	PIER ORB / communistquest	Perception (Smell)	The first thing that strikes you is the overwhelming brine. You imagine yourself underwater, a hundred-legged arthropod scuttling along the murky silt at the bottom of the sea...	你首先闻到的是扑面而来的海水味。你幻想着自己身处水下，有只长着一百条腿的节肢动物在海底阴暗的淤泥中穿行……
+0x0100000F000079F4	Dialogue Text	PIER ORB / communistquest	Perception (Smell)	But then the unmistakable reek of *seagull shit* hits you, buoyed along on the air currents, an acrid melody atop mouldering chords of wood rot and heavy fuel oil.	紧接着，一阵强烈的*海鸥屎*的臭味随风而来，与腐木和重燃油的气味交织成一段刺鼻的旋律。
+0x0100000F000079FB	Dialogue Text	PIER ORB / communistquest	Perception (Smell)	Nothing. Or at least, nothing in particular. As far as you're concerned, your nose seems to be purely decorative.	什么也闻不到。至少没有什么特别的气味。对你而言，鼻子纯粹只是一种装饰。
+0x0100000F00007A10	Dialogue Text	PIER ORB / communistquest	Kim Kitsuragi	"Still smelling for communists, detective?"	“还在闻康米主义者的气味吗，警探？”
+0x0100000F00007A19	Dialogue Text	PIER ORB / communistquest	Kim Kitsuragi	"Everything in order, detective?" The lieutenant gives you a quizzical look.	“一切正常吗，警探？”警督疑惑地看着你。
+0x0100000F00007A20	Dialogue Text	PIER ORB / communistquest	Perception (Smell)	It smells like a pier, in other words. A completely ordinary pier, that provokes no ideological associations whatsoever.	换句话说，闻到的就是码头应该有的味道。这只是一个很普通的码头，无法激发什么意识上的联想。
+0x0100000F00007A27	Dialogue Text	PIER ORB / communistquest	Rhetoric	Absolute rubbish. Your politico-olfactory cortex doesn't deceive you. The smell is coming... from that balcony over there!	绝对是垃圾的味道。你的政治嗅觉皮层不会欺骗你。气味从阳台那边……飘过来了！
+0x0100000F00007A2F	Dialogue Text	PIER ORB / communistquest	Rhetoric	Without a doubt. Your politico-olfactory cortex doesn't deceive you. The smell is coming... from that balcony over there!	毋庸置疑。你的政治嗅觉皮层不会欺骗你。气味从阳台那边……飘过来了！
+0x0100000F00007A3F	Dialogue Text	PIER ORB / communistquest	You	You mean from Cindy?	你是说辛迪的味道？
+0x0100000F00007A44	Dialogue Text	PIER ORB / communistquest	You	You mean from that scary-looking girl in the old lady coat?	你是说那个穿着老妇人外套，看起来很吓人的姑娘吗？
+0x0100000F00007A4D	Dialogue Text	PIER ORB / communistquest	Rhetoric	Certainement! A precocious communist youth, a symbol of a kinder, more hopeful future. Now's your chance to *establish contact* with your revolutionary brothers and sisters.	肯定的！那位早熟的康米主义青年象征着更美好、更有希望的未来。你现在可以去和革命兄弟姐妹们*搭上线*了。
+0x0100000F00007A57	Dialogue Text	PIER ORB / communistquest	Inland Empire	A chance to establish contact with the future! What a beautiful, *terrible* thought...	这是一个与未来搭上线的机会！这是多么美丽，又多么*可怕*的想法……
+0x0100000F00007A5F	Dialogue Text	PIER ORB / communistquest	You	"It's kind of a personal errand."	“这是个人事务。”
+0x0100000F00007A64	Dialogue Text	PIER ORB / communistquest	You	"I'm smelling for communists, Kim."	“我在闻康米主义者的气味，金。”
+0x0100000F00007A69	Dialogue Text	PIER ORB / communistquest	You	"I'm working on developing my political consciousness."	“我在努力培养自己的政治觉悟。”
+0x0100000F00007A6E	Alternate1	PIER ORB / communistquest	You	"Just taking in the morning air, like a normal detective."	“我只是像一个普通的警探一样呼吸着早晨的空气罢了。”
+0x0100000F00007A6E	Alternate2	PIER ORB / communistquest	You	"Just taking in the afternoon air, like a normal detective."	“我只是像一个普通的警探一样呼吸着下午的空气罢了。”
+0x0100000F00007A6E	Alternate3	PIER ORB / communistquest	You	"Just taking in the evening air, like a normal detective."	“我只是像一个普通的警探一样呼吸着傍晚的空气罢了。”
+0x0100000F00007A6E	Alternate4	PIER ORB / communistquest	You	"Just taking in the night air, like a normal detective."	“我只是像一个普通的警探一样呼吸着夜晚的空气罢了。”
+0x0100000F00007A6E	Dialogue Text	PIER ORB / communistquest	You	"Just taking in the fresh air, like a normal detective."	“我只是像一个普通的警探一样呼吸着新鲜的空气罢了。”
+0x0100000F00007A88	Dialogue Text	PIER ORB / communistquest	Kim Kitsuragi	"A personal errand."	“个人事务。”
+0x0100000F00007A8D	Dialogue Text	PIER ORB / communistquest	Kim Kitsuragi	"You're smelling for..."	“你在闻……”
+0x0100000F00007A92	Dialogue Text	PIER ORB / communistquest	Kim Kitsuragi	"You're developing your..."	“你在培养你的……”
+0x0100000F00007A97	Dialogue Text	PIER ORB / communistquest	Kim Kitsuragi	"There's a lot to take in, isn't there?" The lieutenant wrinkles his nose.	“你要呼吸的东西有点多啊，嗯？”警督皱了皱鼻子。
+0x0100000F00007AAB	Dialogue Text	PIER ORB / communistquest	Kim Kitsuragi	"You know what? I'll just leave you to it. Carry on, detective."	“那我就不打扰你了，你继续吧，警探。”
+0x0100000F00007AB0	Dialogue Text	PIER ORB / communistquest	Kim Kitsuragi	"I'm struggling to see the connection with our investigation, but I'm sure *all will be revealed* in time."	“我觉得这跟我们的调查没什么关系，但我相信*一切都会水落石出*。”
+0x0100000F00007AB5	Dialogue Text	PIER ORB / communistquest	Kim Kitsuragi	"You do remember that we're investigating a *murder*, yes? I would appreciate it if you reserved your political projects for after-hours."	“你还记得我们正在调查一起*谋杀案*吗？我真心希望你能把你的政治追求留到空闲时间去。”
+0x0100000F00007AC0	Dialogue Text	PIER ORB / communistquest	Rhetoric	The lieutenant lacks your highly developed politico-olfactory cortex. The smell is undeniable. And it's coming... from that balcony up there!	警督没有你那种*高度发达*的政治嗅觉。这气息是无可争辩的。来了……气味从阳台那边传来了！
+0x0100000F00007ADB	Dialogue Text	PIER ORB / communistquest	You	"Yes."	“对。”
+0x0100000F00007AE5	Dialogue Text	PIER ORB / communistquest	Kim Kitsuragi	"Well, I'll be over here when you've finished." The lieutenant nudges a piece of trash with his foot.	“好吧，我在这儿等你忙完。”警督用脚碰了碰地上的垃圾。
+0x0100000F00007AEA	Dialogue Text	PIER ORB / communistquest	Kim Kitsuragi	"Uh huh."	“嗯哼。”
+0x0100000F00007AEF	Dialogue Text	PIER ORB / communistquest	Kim Kitsuragi	"No offence, detective, but you're not particularly *subtle*."	“无意冒犯，警探，但你有点不太*精明*。”
+0x0100000F00007AF4	Dialogue Text	PIER ORB / communistquest	You	"No."	“不。”
+0x0100000F00007AF9	Dialogue Text	PIER ORB / communistquest	You	"What makes you say that?"	“你为什么那么说？”
+0x0100000F00007B0A	Dialogue Text	PIER ORB / communistquest	Esprit de Corps	His impatience is feigned. He's actually curious to see how this *personal errand* shakes out.	他的急躁是装出来的。他其实对*私人事务*的结果很好奇。
+0x0100000F00007B0F	Dialogue Text	PIER ORB / communistquest	Esprit de Corps	He'll tolerate this *personal errand*, but his patience is wearing thin.	他会容忍这次*私人事务*的，但是他的耐心已经快耗尽了。
+0x0100000F00007B18	Dialogue Text	PIER ORB / communistquest	Drama	The lieutenant issss *not* persuaded, sssssire.	警督并*没有*被你说服，大人。
+0x0100000F00007B1E	Dialogue Text	PIER ORB / communistquest	Savoir Faire	The lieutenant's right. It's sort of amazing how *un-subtly* you're sniffing the air around you, almost like you're *trying* to call attention to yourself.	警督说得没错。你总是莫名其妙、装腔作势地嗅着周围的气息，就好像*想要*获得关注一样。
+0x0100000F00007B24	Dialogue Text	PIER ORB / communistquest	Rhetoric	What the lieutenant thinks is irrelevant. Your politico-olfactory cortex is lighting up like a holiday display. The scent of communism is overwhelming, and it's coming right... from that balcony over there!	警督的想法不重要。你的政治嗅觉皮层就像节日街景一般被点亮。康米主义的气味扑面而来，来了……气味从阳台那边传来了！
+0x0100000F00007B3D	Dialogue Text	PIER ORB / communistquest	You	I *still* don't smell anything.	“我*还是*什么都闻不到。”
+0x0100000F00007B42	Dialogue Text	PIER ORB / communistquest	You	(Close your eyes and take a deep breath.)	（闭上眼睛然后深呼吸。）
+0x0100000F00007B47	Dialogue Text	PIER ORB / communistquest	You	I can *kind of* smell dreams being ground down by capital.	我嗅到了*某种*梦想被资本碾碎的味道。
+0x010000060001BB3B	Dialogue Text	PIER ORB / searails	Endurance	This is where the damage came from. From somewhere in the inlet. The cannons.	伤害就是从这里来的。就在水湾的某个地方。是大炮。
+0x010000060001BB45	Dialogue Text	PIER ORB / searails	Encyclopedia	Coalition Warship Archer can shoot fifty shells a minute, on twenty co-aligned arches. They will reach the city in 58 seconds.	20艘联盟国军舰‘弓箭手’阵列成行，一分钟可以发射50枚炮弹，能在58秒内抵达这座城市。
+0x010000060001BB4D	Dialogue Text	PIER ORB / searails	Half Light	He fears the discussion might lead to disagreements. As it often does.	他担心讨论可能会引起分歧。这是常有的事。
+0x010000060001BB55	Dialogue Text	PIER ORB / searails	Shivers	Underwater, iron helmets have sunk deep into the sand and the mud. Helmets of soldiers. And their fingerbones, too. And clavicles. Littering the ocean floor...	海水下面，铁头盔深深陷入沙子和淤泥里。那是士兵们的头盔。还有他们的手指骨和锁骨，零星散落在的海底……
+0x01000089000015F7	Dialogue Text	PIER ORB / searails	Visual Calculus	Ruination has come. The broken arches betray the once grand history of this building. It towered over the harbour, until *it* happened.	毁灭降临了。残破的拱桥背叛了这栋建筑曾经光辉荣耀的历史。它高高耸立在港口上方，直到*那件事*的发生。
+0x0100008F00001E12	Dialogue Text	PIER ORB / searails	You	Form a guess about what happened.	猜猜发生了什么。
+0x0100008F00001E17	Dialogue Text	PIER ORB / searails	Savoir Faire	The wind blows through your hair. The sea breeze cuts around you, high on the balcony, as you stare over the edge at the sea.	轻风拂过你的发丝。你站在高高的阳台上，抬眼望向大海的边际，被海风紧紧缠绕。
+0x0100008F00001E1E	Dialogue Text	PIER ORB / searails	You	[Discard thought.]	[放弃思维。]
+0x0100008F00001E26	Dialogue Text	PIER ORB / searails	Visual Calculus	The tenement acted as a defensive wall against the worst of the shelling. Until it was destroyed, and they had a direct firing line.	在炮火连天的日子里，这栋房子就是防守的城墙。直到它被完全摧毁，就再也无法阻挡炮火一路前行。
+0x0100008F00001E32	Dialogue Text	PIER ORB / searails	Visual Calculus	A great force from the northeast fired into the city. Heavy artillery shelled the coastline, fired from the water -- a straight shot into Revachol.	一支强大的军队从东北方攻进城市。重型火炮轰击着海岸线，炮弹从水面飞跃而来——直直地坠落在瑞瓦肖。
+0x0100008F00001E39	Dialogue Text	PIER ORB / searails	You	Look at the ruins in the water.	看着水中的废墟。
+0x0100008F00001E3F	Dialogue Text	PIER ORB / searails	You	Take in the ocean.	感受这片海洋。
+0x0100008F00001E45	Dialogue Text	PIER ORB / searails	You	I wonder what *I* look like up on this edge.	不知道站在边缘的*我*会是什么样子。
+0x0100008F00001E4B	Dialogue Text	PIER ORB / searails	You	Time to go. [Finish thought.]	该走了。[完成思维。]
+0x0100008F00001E6D	Dialogue Text	PIER ORB / searails	Savoir Faire	From the eyes of a seagull: a nest of brown hair not worth the fifty foot dive. From a pedestrian on the dock: a rugged man staring out to sea, mere feet from fatality. From a guest on the balcony of the Whirling-in-Rags: a silhouette imposing enough to be seen at a distance.	在海鸥的眼睛里：一窝棕色头发并不值得俯冲50英尺。在码头行人的眼里：一个粗旷的男人眺望着大海，离死亡不过数英尺远。在褴褛飞旋露台上的客人眼里：只是远方的一个威风堂堂的人形轮廓。
+0x0100008F00001EA2	Dialogue Text	PIER ORB / searails	Visual Calculus	Those arches acted as support for something greater than what you see now.	那些拱桥支撑着的东西，远比你现在能看见的要伟大。
+0x0100008F00001EA9	Dialogue Text	PIER ORB / searails	Visual Calculus	Only three storeys stand where nine to twelve once did. Restoration has failed. What the shelling took out was never re-built.	曾经这里大概有9到12层，现在只剩下3层。重建失败了。炮火留下的伤痕，永远也无法恢复从前。
+0x0100008F00001EB1	Dialogue Text	PIER ORB / searails	Visual Calculus	The waves of the Martinaise inlet roll over the fallen remains of the building. The dark waters obscure the better part of the remains.	马丁内斯水湾的海浪在倾覆的建筑残骸上翻滚。昏黑的海水掩盖了大半边的残骸。
+0x0100008F0000225C	Dialogue Text	PIER ORB / searails	You	Who did this? This damage?	是谁？造成了这样的伤害？
+0x0100008F00002262	Dialogue Text	PIER ORB / searails	Visual Calculus	A fleet -- the combined armies of Occident and Graad, with Mesque volunteers. A five-nation army. Hundreds of vessels.	一支舰队——奥西登和格拉德的联合军，还有梅斯克的志愿军。由5个国家组成的联军，还有他们的上百支船舰。
+0x0100008F0000227F	Dialogue Text	PIER ORB / searails	You	"Hey Kim. Do you know who *shelled* our city?"	“我说，金。你知道是谁*炮击*了我们的城市吗？”
+0x0100008F000022DA	Dialogue Text	PIER ORB / searails	Kim Kitsuragi	"The Coalition," says the lieutenant. "But that was a long time ago. I think we should move on. It's chilly up here."	“联盟国，”警督回答到。“不过已经是很久之前的事了。我们还是走吧。这里很冷。”
+0x0100008F000022E6	Dialogue Text	PIER ORB / searails	Logic	What didn't fall into the ocean was used as scrap; what wasn't used as scrap was thrown into the ocean.	有用之物早已弃沉海底，而残存之物也已蚀为废墟。
+0x0100008F000022F0	Dialogue Text	PIER ORB / searails	Visual Calculus	They massed airships further down, in the bay of Revachol. The artillery was so powerful, the ships not only required gyroscopic stabilization -- they were anchored into the ocean floor as well.	他们在瑞瓦肖的海湾边集结了大量飞艇。大炮是如此的强大，船舰需要的不仅仅是回转稳定性——它们还被锚定在了海底。
+0x0100008F000022F6	Dialogue Text	PIER ORB / searails	Visual Calculus	Many are still there to this day. If you squint, you can just barely see the shadow on the water, far in the northeast. Cannons still ready to placate Revachol.	直到今天，很多都还在那里。如果眯着眼睛，依稀能辨别出水下的阴影，隐藏在遥远的东北方。大炮依然矗立着，随时准备安抚瑞瓦肖。
+0x0100008F00002615	Dialogue Text	PIER ORB / searails	Empathy	He does not like talking politics of this kind.	他不太喜欢谈论这类政治话题。
+0x0100008F0000261F	Dialogue Text	PIER ORB / searails	Shivers	The chill is bracing. The salt hangs in the air. The wind from the ocean pushes at you, smoothing your moustache.	寒意袭来。空气中飘荡着咸咸的味道。海上的风迎面扑来，抚平了你的胡须。
+0x0100000F00011853	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	There! On that balcony. Do you see it? It's an artist!	就在那边！在阳台上。你看见了吗？是位艺术家！
+0x0100000F00011860	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Conceptualization	A strong aura of *originality* surrounds the girl in question.	这个姑娘身上散发着强烈的*原创*气息。
+0x0100000F0001186B	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Half Light	Quick, kill it with fire before it organises a *happening*!	快点，赶在事情*发生*之前，一把火把它烧了！
+0x0100000F00011874	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	How can you tell?	你怎么知道？
+0x0100000F00011879	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	Yes, I can sense the *originality*...	嗯，我能感觉到*原创*的气息……
+0x0100000F0001187E	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	All stations beware, it's a level three happening-alert!	各单位注意，这是三级事故警报！
+0x0100000F00011883	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	Not now. I'm on a roll. [Leave.]	现在不行，我运气正好着呢。[离开。]
+0x0100000F00011891	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	The dishevelled hair, cheap clothes, slumping posture that suggests an unearned sense of superiority...	散乱的头发、廉价的着装、慵懒的姿势，这些体现出了一种不协调的优越感……
+0x0100000F00011896	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	Seems to be one of those conceptual types... not good. If we proceed cautiously we might get something tangible out of her.	她似乎是那种概念型的人……不太妙。如果我们谨慎一点，或许可以从她嘴里套出点有用的东西。
+0x0100000F0001189B	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	Yes, this seems to be one of those *conceptual* types... not good. If we proceed cautiously we might get something tangible out of her.	没错，她似乎是那种概念型的人……不太妙。如果我们谨慎一点，或许可以从她嘴里套出点有用的东西。
+0x0100000F000118A6	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Empathy	Hints of deep emotional trauma that have led to ironic detachment...	严重情感创伤的痕迹导致了这种十分讽刺的超然态度……
+0x0100000F000118AD	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	It's all there if you know how to read people. Commanders of the streets like me have it down to a tee. I'll teach you. Listen up...	如果你知道怎么读懂人的心思，那就可以。像我这种街道头头对这种事情很擅长。我会教你的。听好了……
+0x0100000F000118BC	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	Alright, I'm listening. What's the plan?	好吧，我听着呢。所以计划是什么？
+0x0100000F000118C1	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	I know how to handle this, no need to coach me. [Leave.]	我知道该怎么办，你不用教我。[离开。]
+0x0100000F0001199C	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	A streak of individuality. As you wish...	如你所愿，展露个性……
+0x010000580001D861	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	There! On that balcony. Do you see it?	那儿！在阳台上。你看见了吗？
+0x010000580001D867	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	Cindy? Yes, that's where I'm headed...	辛迪？对，我正准备过去……
+0x010000580001D86D	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	See *what*? (Squint your eyes.)	看见*什么*？（眯起双眼。）
+0x010000580001D875	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	Not now. I'm on a roll. [Leave.]	现在不行，我运气正好着呢。[离开。]
+0x010000580001D87C	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	Straight into a bullring with no prep talk? No-no-no. It's your first sales negotiation, Savvy's gotta give you the do-s and don't-s.	不来段赛前演说就直接进斗牛场吗？不不不。这是你第一次的销售谈判，什么该做什么不该做全凭悟性。
+0x010000580001D882	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	The *artisto*. Now hold up, you can't go into a bullring without a prep talk. It's baby's first sales negotiation after all! Savvy's gotta give you the do-s and don't-s.	*艺术*。等等，不来段赛前演说是不能直接进入斗牛场的。这是宝贝的第一次的销售谈判！什么该做什么不该做全凭悟性。
+0x010000580001D89C	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Half Light	Oh no, not a *happening*!! I don't like the sound of that...	别，不要*这样*！！我不喜欢这种声音……
+0x010000580001D8A3	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Pain Threshold	That's a pathetic-looking *bull*. Where are the sharpened horns ready to puncture your gristle? There's no real danger here.	那头*公牛*看上去很可怜。那准备刺穿你软骨的尖锐犄角在哪儿呢？这里根本没有什么真正的危险。
+0x010000580001D8AA	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Drama	Rehearsal helps fine tune a performance. Learn your lines so they can flow out of you like Herc Zeitung's legendary soliloquy in 'Hoppla, jetzt komm ich!'!	排练可以提高演出效果。你要记住你的台词，这样你就能像赫克·泽依顿在《我回来了》当中讲出那段传奇独白一样，把你要说的话脱口而出！
+0x010000580001D8B0	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	Alright, I'm listening.	好吧，我听着呢。
+0x010000580001D8C0	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	Artistos are known to *repel* wealth. It bounces off their skin like rubber. The moment a reasonable business proposal enters their periphery, they go and get 'political'.	众所周知，艺术家们*厌恶*金钱。金钱会像橡胶一般，只要碰触到他们的皮肤就会被弹开。如果有一份合理的商业计划书放在他们眼前，他们便会开始考虑“政治”因素。
+0x010000580001D8C7	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	What you need to do is lure them in with a strong one-liner -- get them on your side before you've even finished a sentence. Show us what you've got -- pretend you're facing the SKULL-girl!	所以你只需要用一句精炼的箴言吸引他们——在话还没说完之前，就让他们已经站在你这边了。我们来看看你的本事吧——假装你现在面对的就是骷髅女孩！
+0x010000580001D8D2	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	I've got this. Trust me. [Leave.]	我明白了，相信我。[离开。]
+0x010000580001D8D9	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	A streak of individuality? As you wish...	展露个性？如你所愿……
+0x010000580001D8E1	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Rhetoric	It's true, some of them are known to turn the entire thing into a happening.	确实，他们中有人很清楚怎么让某些事变成现实。
+0x010000580001D8F0	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	(Lean in.) Hey beautiful. Let's go for a walk on the *wild side*.	（靠近些。）嘿，美女。我们去*野外*散个步吧。
+0x010000580001D8F6	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	Hand over your art. Put it in the bag. NOW!!	把你的作品交出来，放进袋子里。快点！！
+0x010000580001D8FC	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	Excuse me, could I please take a look at your art?	不好意思，我可以看一眼你的作品吗？
+0x010000580001D903	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	What is this, a dating agency? Are you looking for a Pretty Young Thing to sponsor? Never mix business and pleasure -- *never*.	这是什么东西，婚介所吗？你要去赞助年轻漂亮的小姐吗？绝对不要把工作和娱乐混为一谈——*绝对不要*。
+0x010000580001D90C	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	It's your lucky day! I'm in the market for some original *art* by the crème de la crème.	你今天可真走运！我正好想买一些优秀画家的原创*作品*。
+0x010000580001D913	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	Holy-moly, are we being arrested here?! Only tax inspectors and debt collectors speak like that. You don't want to start your business relationship with the wrong vibe.	天呐，这是被逮捕了吗？！只有税务稽查员和收债人才会这么说吧。你不也不想在糟糕的氛围里开启商业联系吧。
+0x010000580001D918	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Electrochemistry	Counterpoint! What if pleasure *is* your business? Gigolos make bank *and* get that wet-wet. It's never too late to change careers...	正相反！如果娱乐*就是*你的工作呢？小白脸既可以赚钱*又可以*爽到。现在换职业还不算太迟……
+0x010000580001D91D	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Reaction Speed	But it would catch her off-guard. That's *always* an advantage.	但这样能让她措手不及。这*绝对*是一大优势。
+0x010000580001D923	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	Boring... BORING... Yawning my jaw off here... Next!	无聊……无聊……我打哈欠打得下巴都快掉了……下一个！
+0x010000580001D930	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	Mamma mia, if this isn't the Top Seller in La Delta! Everyone knew you'd eventually get it right...	妈妈咪呀，这不是德尔塔的畅销冠军吗！大家都知道你一定会成功的……
+0x010000580001D936	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Suggestion	Hmm, it's a decent start, but you might need to change strategies down the line...	嗯，这是个不错的开场白，不过可能得彻底改变一下策略……
+0x010000580001D940	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	Okay then, off you go! Let's see what you've got.	那好吧，你去吧！让我们看看你的本事。
+0x010000580001D94B	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	Mamma mia, if this isn't the Top Seller in La Delta! No one expected you to nail this on the *first* try -- *congratulazioni*!	妈妈咪呀，这不是德尔塔的畅销冠军吗！谁也不指望你*第一次*尝试就能成功——*祝你好运*！
+0x010000580001D963	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Empathy	It's polite. What's wrong with being polite?	这是礼貌。礼貌有什么不好的？
+0x010000580001D97A	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Suggestion	Nonsense, no one 'repels wealth', the businessmen just don't know how to entice them.	胡说，没人会*厌恶金钱*，只是商人们不知道怎么去引诱他们。
+0x010000580001FB47	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	There! Right in front of you. Do you see it?	看！就在你面前。看见了吗？
+0x010000580001FB5D	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	There! Right in front of you. Do you see it? It's an artist!	看！就在你面前。看见了吗？是一位艺术家！
+0x010000580001FB6C	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	Savoir Faire	What you need to do is lure them in with a strong one-liner -- get them on your side before you've even finished a sentence. Show us what you've got -- pretend you're facing the girl!	所以你只需要用一句精炼的箴言吸引他们——在话还没说完之前，就让他们已经站在你这边了。我们来看看你的本事吧——假装你现在面对的就是那个姑娘！
+0x0100005800020625	Dialogue Text	PIER ORB / ultraliberal quest pre-cindy	You	(Whip out your finger pistols and bang them in the sky.) It's your lucky day! I'm in the market for some original *art* by the crème de la crème.	（掏出你的手指枪朝天空开枪。）“今天算你走运！我正好在找原创*艺术品*里精品中的精品。”
