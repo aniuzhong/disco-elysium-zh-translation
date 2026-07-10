@@ -1,0 +1,380 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000040000DBD5	Dialogue Text	PLAZA ORB / bulletholes esprit	Esprit de Corps	The sight of bullet holes stirs something in you, making you forget the lieutenant's surname.	看着弹孔似乎激起了你内心深处的某种东西，让你忘记了警督的姓氏。
+0x010000040000DBDB	Dialogue Text	PLAZA ORB / bulletholes esprit	You	"Kim, look, bullet holes!"	“金，看，弹孔！”
+0x010000040000DBE3	Dialogue Text	PLAZA ORB / bulletholes esprit	You	[Discard thought.]	[放弃思维。]
+0x010000040000DBEA	Dialogue Text	PLAZA ORB / bulletholes esprit	You	Look closer first.	先靠近点看。
+0x010000040000DBF1	Dialogue Text	PLAZA ORB / bulletholes esprit	Esprit de Corps	The fading marks are too degraded to draw any forensic conclusions. Just chips in the sandstone.	痕迹已经深深褪去，从法医学角度来讲，很难得出任何结论。不过是砂岩上的一些缺口罢了。
+0x010000040000DC01	Dialogue Text	PLAZA ORB / bulletholes esprit	Esprit de Corps	If only Kim were here right now! You could ask him if he sees a case here. The sight of those bullet holes stirs something in you.	如果现在金在这里就好了！你可以问问他有没有在这里嗅到罪案的味道。这些弹孔激起了你内心深处的某种东西。
+0x010000040000DC8F	Dialogue Text	PLAZA ORB / bulletholes esprit	Kim Kitsuragi	"Where?" He looks around.	“哪里？”他看了看四周。”
+0x010000040000DC96	Dialogue Text	PLAZA ORB / bulletholes esprit	You	(Point to the chips in the wall.) "Someone has been shot! We're cops, we should solve it."	（指着墙壁上的缺口。）“有人中枪了！我们是警察，必须解决这个案件。”
+0x010000040000DC9D	Dialogue Text	PLAZA ORB / bulletholes esprit	You	"Nothing, forget about it." [Finish thought.]	“没什么，忘了吧。”[完成思维。]
+0x010000040000DCAC	Dialogue Text	PLAZA ORB / bulletholes esprit	Kim Kitsuragi	"There?" He looks to the wall. "Those are *old*."	“那里的吗？”他看着墙壁。“那些*很旧*了。”
+0x010000040000DCB3	Dialogue Text	PLAZA ORB / bulletholes esprit	You	"What do you mean old?"	“你说旧是什么意思？”
+0x010000040000DCB9	Dialogue Text	PLAZA ORB / bulletholes esprit	You	"Oh, okay then." [Finish thought.]	“哦，那好吧。”[完成思维。]
+0x010000040000DCC1	Dialogue Text	PLAZA ORB / bulletholes esprit	Kim Kitsuragi	He nods. "We should focus on present crimes -- from the present century."	他点点头。“我们应该专注于眼前的案子——本世纪的案子。”
+0x010000040000DCC9	Dialogue Text	PLAZA ORB / bulletholes esprit	You	"Oh, you mean like from the Revolution?"	“哦，你是说大革命时期的吗？”
+0x010000040000DCD2	Dialogue Text	PLAZA ORB / bulletholes esprit	Kim Kitsuragi	"Yes, the one that happened half a century ago." He blinks. "Those bullets were fired during the Revolution and do not warrant an investigation by officers of civil law."	“是的，半个世纪之前发生的事。”他眨眨眼。“那些子弹是大革命时期射出的，所以并没有民法警官调查的必要。”
+0x010000040000DCD9	Dialogue Text	PLAZA ORB / bulletholes esprit	Kim Kitsuragi	"These bullets were fired during the Revolution, over half a century ago. They do not warrant investigation."	“那些子弹是大革命时期射出的，已经过去半个多世纪了。所以没有调查的必要。”
+0x010000040000DCEE	Dialogue Text	PLAZA ORB / bulletholes esprit	You	"Okay. What can you tell me about this Revolution?"	“好吧。那跟我说说这个大革命的事吧？”
+0x010000040000DCF4	Dialogue Text	PLAZA ORB / bulletholes esprit	You	"Alright then." [Finish thought.]	“那好吧。”[完成思维。]
+0x010000040000DD05	Dialogue Text	PLAZA ORB / bulletholes esprit	You	"Okay. What can you tell me about the Revolution?"	“好吧。那跟我说说这个大革命的事吧？”
+0x010000040000DD12	Dialogue Text	PLAZA ORB / bulletholes esprit	Kim Kitsuragi	"Not much. I don't have a *fresh perspective* on it. Shall we go?"	“我知道的不多，因为我也没有*亲眼见证*。可以走了吗？”
+0x010000040000DD2F	Dialogue Text	PLAZA ORB / bulletholes esprit	Visual Calculus	They look pretty ancient...	它们看起来很古老……
+0x01000006000174DC	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Inland Empire	Was that -- could it be -- the Col Do Ma Ma Daqua?! No. It's probably just your *imagination* ringing in your ear...	那不是——难道真的是——哈库多玛达塔？！不会。可能只是你的耳朵产生*幻听*了吧……
+0x01000006000174E4	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	You	"Wait, Kim, do *you* hear a high pitched noise?"	“等等，金，*你*有没有听到一个很高亢的噪音？”
+0x01000006000174EB	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Kim Kitsuragi	"No. I don't hear the Col Do Ma Ma Daqua -- and neither do you."	“没有。我没听见哈库多玛达塔的声音——也没听到你的。”
+0x01000006000174F8	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Inland Empire	Of course he doesn't. He's DEAF.	他当然没有了。他耳朵聋了。
+0x010000060001B3EE	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	You	Go then, leave! Leave like everything else! (Don't.)	那好吧，走吧！像其他东西一样离开！（不要。）
+0x010000060001B3F4	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Inland Empire	So it does. It's gone. All that's left for you -- is the disco.	就这样吧。它走了。现在唯一为你留下来的——只有迪斯科。
+0x0100008100002BB5	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	You	Probably not. [Discard thought.]	也许不是。[放弃思维。]
+0x0100008100002BBC	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	You	Is it? Is there a ringing? (Listen more closely.)	是吗？好像有铃声？（再靠近一点听。）
+0x0100008100002BC3	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Inland Empire	There seems to be. An *extremely* high pitched ring. Ultrasonic. Lena said it was very high-pitched, right? It's like something *tickles* your ear.	好像确实有。一阵*特别*高亢的铃声，超声波。莉娜说过它的音调非常高，对吗？就好像有什么在给你的耳朵*挠痒痒*。
+0x0100008100002BCC	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Logic	Lena also said that it couldn't be heard by any other animal -- including humans. What you're hearing must just be a regular bird.	莉娜还说其他动物听不到——包括人类。你听到的肯定只是普通的鸟叫。
+0x0100008100002BE4	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Inland Empire	But you're not a regular animal. You're not even a regular cop. You see -- and hear! -- beyond the veil.	但你不是普通动物啊。你甚至都不是个普通警察。你会看——还会听！——甚至可以超越来世。
+0x0100008100002BEA	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Perception (Hearing)	Honestly, your ear isn't hearing a whole lot. The distant hum of the industrial harbour. The traffic. But, admittedly -- there *is* a high pitched noise somewhere there too. But then, isn't there always...	说实话，你的耳朵能听到的不多。远处工业港的轰鸣。嘈杂的交通。但是必须承认——那里的某个地方*确实*有一阵高亢的噪音。但是话又说回来，不总是这样吗……
+0x0100008100002C00	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	You	Listen closely first.	先仔细点听。
+0x0100008100002C06	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Inland Empire	There it is again! You are about to re-discover a long-lost species!	又来了！你即将重新发现一种灭绝已久的物种！
+0x0100008100002C0D	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	You	Keep listening.	继续听。
+0x0100008100002C14	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Inland Empire	It must be very close... maybe, just maybe it will come toward you...	应该离的很近……也许，也许它朝你的方向走来……
+0x0100008100002C1D	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Savoir Faire	Yeah, but how are you going to catch it?	是啊，但是你该怎么抓到它呢？
+0x0100008100002C26	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Composure	Keep still! It might perch on your shoulder.	站好别动！它可能会停在你的肩膀上。
+0x0100008100002C2D	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	You	Hold very still and hope the bird comes to perch on your shoulder. (Proceed.)	乖乖站稳，希望那个鸟儿会飞过来停在你的肩膀上。（继续。）
+0x0100008100002C54	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	You	Move your head toward the sound. (Proceed.)	把你的脑袋移向声音传来的方向。（继续。）
+0x0100008100002C5C	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Inland Empire	Oh no! The sound -- it's moving away, somewhere over there -- go after it!	哦不！那个声音——它离开了，就在那边的某个地方——快追！……
+0x0100008100002C63	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Inland Empire	No... Too late. It's gone... There is no ringing anymore. Just the sound of the streets.	不……太迟了。它走了……你再也听不见鸣叫，只剩下街道传来的声响。
+0x0100008100002C71	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Physical Instrument	What are you doing? You're a police officer, not a pansy ornithologist. The only birds you should be looking for are healthy women of child-bearing age.	你在做什么？你是个警察，不是同性恋鸟类学家。你唯一应该寻找的鸟类，只有处在生育年龄的健康女性。
+0x0100008100002C8D	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Inland Empire	Keep your ears peeled, then. If the species really has migrated to Martinaise, you're sure to hear it again.	那就竖起耳朵注意听。如果这个物种真的迁移到了马丁内斯，你一定能再次听见。
+0x0100008100002C93	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	You	No, come back, please! (Listen more.)	不，快回来，拜托！（接着听。）
+0x0100008100002CC6	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Horrific Necktie	Remember that asshole Roy who wanted you to take me off? He didn't like music, only sounds. What a loser. It's good you're not like him. You and disco will be together forever.	还记得那个想让你赶走我的混账罗伊吗？他不喜欢音乐，只喜欢声音。真是个废材。还好你不喜欢他。你和迪斯科才应该永远在一起。
+0x0100008100002CCC	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Electrochemistry	Don't be a weirdo like that Roy at the pawnshop who doesn't like music. You don't need *sounds* when you have beats.	别学当铺那个古怪的罗伊，他都不喜欢音乐。但是当你找到节拍的时候，根本就不需要*声音*。
+0x0100008100002CFE	Dialogue Text	PLAZA ORB / col do ma ma daqua afterthought	Reaction Speed	That pawnbroker -- Roy -- was into natural sounds too. Maybe you could talk to him.	那个当铺老板——罗伊——也很喜欢大自然的声音。也许你应该跟他聊聊。
+0x010000040000AB65	Dialogue Text	PLAZA ORB / gaston cheating	You	Take a closer look.	仔细看一看。
+0x010000040000AB6B	Dialogue Text	PLAZA ORB / gaston cheating	You	That's none of my concern. [Discard thought.]	那不关我的事。[放弃思维。]
+0x0100002F00009F57	Dialogue Text	PLAZA ORB / gaston cheating	Gaston Martin	...then suddenly he leans forward and uses the 0-end of the measuring tape to nudge his opponent's balls further from the small brown sphere in the pit. As he does this, he complains about his back.	……突然间，他倾向前方，用卷尺标了0的那一头把对手的球撞得离坑里的棕色小球又远了一点。他一边做着，一边抱怨着自己的后背。
+0x010000310000090B	Dialogue Text	PLAZA ORB / gaston cheating	Composure	*Something* isn't right about this game.	这个游戏感觉*有些*不太对劲。
+0x0100003100000912	Dialogue Text	PLAZA ORB / gaston cheating	René Arnoux	Despite his limp, the man in the uniform moves with efficient grace. His motions are measured and precise.	虽然走路一跛一跛的，但那个穿制服男人的动作十分优雅。他的行动慎重而又精准。
+0x0100003100000919	Dialogue Text	PLAZA ORB / gaston cheating	Gaston Martin	The jolly-looking man in the checkered jacket moves lazily. Like a giant tomcat stretched out in the sun...	一个满面春风，穿着格子夹克的男人懒洋洋地移动着。就像一只巨大的公猫在太阳底下伸懒腰……
+0x0100006400000619	Dialogue Text	PLAZA ORB / gaston cheating	René Arnoux	Apparently oblivious to his partner's treachery, the uniformed man grabs a ball and takes aim again.	那个穿制服的男人显然没有注意到同伴的诡计，他抓起一个球，再次开始瞄准。
+0x0100002B00004C58	Dialogue Text	PLAZA ORB / get a drink	Electrochemistry	Look at that lucky boozer there, the heaviest drinker on the planet! Look at his liquor-abusing excuse of a face -- those swollen bug-eyes, that muttering mouth.	看看那个幸运的酒馆，整个星球上最疯狂的酒徒！看看他那张写满酗酒借口的脸——那双肿胀的圆眼，那张喋喋不休的嘴。
+0x0100002B00004C5E	Dialogue Text	PLAZA ORB / get a drink	You	No, I don't want a *sip* of that. [Discard thought.]	不，我*一小口*都不想喝。[放弃思维。]
+0x0100002B000050C7	Dialogue Text	PLAZA ORB / get a drink	You	I'd like more than a sip. I'd abuse *the devil itself* out of that liquor.	我想要的可不止一小口。我真想把酒精这个*恶魔本身*一口气喝光。
+0x0100002B00005105	Dialogue Text	PLAZA ORB / get a drink	Electrochemistry	Then you should run for it, rascal. Become a modern hunter, tame that nasty urge inside of your guts. Reward your electrochemistry!	那你就该快点跑起来，无赖。成为一个现代猎人，驯服你内心深处那股肮脏的欲望。奖励你的电化学！
+0x0100002B0000510C	Dialogue Text	PLAZA ORB / get a drink	You	You betcha! I was born to drink. A new day, a new bottle!	那还用说！我生来就爱喝酒。新的一天，一瓶新酒！
+0x0100002B00005112	Dialogue Text	PLAZA ORB / get a drink	You	Fuck, I don't know... maybe I shouldn't rush head-first into bad habits? I'll leave that alcohol be for now.	该死，我不知道……也许我不应该这么匆忙地一头扎进坏习惯里？我暂时还是不碰酒了。
+0x0100002B00005119	Dialogue Text	PLAZA ORB / get a drink	Electrochemistry	Yeah, wildo, time to get a drinking problem so massive that even stars collapse around it. Become an alcoholic!	是啊，呆子，是时候把你的酗酒问题放大，大到连星星都会在它周围陨落吧。变成一个酒鬼吧！
+0x0100002B00005120	Dialogue Text	PLAZA ORB / get a drink	Electrochemistry	And while you're there, maybe you should hop by the Anonymous Alcoholics as well. You *lamo*.	当你到那儿的时候，也许你应该从匿名酗酒者旁边跳过去。你真是要*笑死爹了*。
+0x0100002B00005144	Dialogue Text	PLAZA ORB / get a drink	Electrochemistry	I wonder how many litres of sheer alcohol has he consumed today? I bet you'd like a sip of that. Give it a real taste of your manly mouth.	不知道他今天喝了多少纯酒精？我打赌你一定很想稍微来上一小口吧。让你那张爷们无比的嘴，品尝一下真正的味道吧。
+0x0100002B00037BA5	Dialogue Text	PLAZA ORB / get a drink	You	Wait... what is happening?	等等……出什么事了？
+0x0100002B00037BAC	Dialogue Text	PLAZA ORB / get a drink	Electrochemistry	That old rummy here brings back some good memories. Remember how great that piss in your pants used to feel? Warm and cosy, just the way you like it. Time to get yourself another drink and soak those pants for *good*!	那个老酒鬼想起一些美好的回忆了。还记得尿在裤子里的感觉有多好吗？温暖又惬意，正好是你喜欢的感觉。是时候再给自己来一杯，*好好地*尿湿你的裤子吧！
+0x0100000600017398	Dialogue Text	PLAZA ORB / hardie volition afterthought	Volition	You think you have a pretty hot suspect right now, don't you? That Ruby of yours.	你觉得自己找到了一个很可疑的嫌疑人，是吧？你那位露比。
+0x010000060001739E	Dialogue Text	PLAZA ORB / hardie volition afterthought	You	Yeah? And?	是啊？怎么？
+0x0100004C0001343A	Dialogue Text	PLAZA ORB / hardie volition afterthought	Volition	Notice how it came together without casting too much suspicion on *Klaasje* -- it was nice and *Ruby-centric* in the end.	发现没有，它是怎么集合在一起，又没有让*卡拉洁*背上太多嫌疑的——真的挺不错的，结果最后又是*以露比为中心*。
+0x0100004C00013466	Dialogue Text	PLAZA ORB / hardie volition afterthought	You	What do you mean?	你什么意思？
+0x0100004C0001346C	Dialogue Text	PLAZA ORB / hardie volition afterthought	You	I don't need this criticism right now, this chapter is closed. [Discard thought.]	我现在不需要评判，这一篇章已经结束了。[放弃思维。]
+0x0100004C00013472	Dialogue Text	PLAZA ORB / hardie volition afterthought	Volition	Anything strike you a bit off about this mish-mash?	你有没有觉得这个乱七八糟的事有点不太对劲？
+0x0100004C0001347D	Dialogue Text	PLAZA ORB / hardie volition afterthought	You	Well... the bullet didn't have to come from the roof, it could have come from anywhere on the coast.	呃……子弹不是从屋顶射出的，应该是从海岸上的某个地方。
+0x0100004C00013482	Dialogue Text	PLAZA ORB / hardie volition afterthought	You	The bullet was jacketed -- these don't just lie around everywhere, do they...	子弹有包壳——这种东西不会到处都有，是吧……
+0x0100004C00013487	Dialogue Text	PLAZA ORB / hardie volition afterthought	You	So far no one has mentioned hearing the shot.	目前为止，没人提过听见枪声。
+0x0100004C0001348C	Dialogue Text	PLAZA ORB / hardie volition afterthought	You	Perhaps thinking that Ruby's fondness for girls might drive her to murder was a bit sensationalist.	也许露比因为喜欢女性而杀人这个观点有些太感觉论了。
+0x0100004C00013494	Dialogue Text	PLAZA ORB / hardie volition afterthought	Volition	Notice how this hasn't come up at all -- even Hardie and his boys didn't mention it. Neither did you.	你注意到这点一直都没出现吗——就连哈迪和他的兄弟们都没提过。你也一样。
+0x0100004C0001349B	Dialogue Text	PLAZA ORB / hardie volition afterthought	Volition	No-no, that wasn't sensationalist at all, that is a *perfectly* valid reason for someone to kill someone.	不不，这一点都不感觉论，反而是杀人*最完美*的正当理由。
+0x0100004C000134A1	Dialogue Text	PLAZA ORB / hardie volition afterthought	Suggestion	See, even he acknowledges that it's a good reason!	看见了吧，就连他都承认这是个好理由！
+0x0100004C000134A7	Dialogue Text	PLAZA ORB / hardie volition afterthought	Volition	Man, really? You're, like... just the most compromised of them all. Man, maybe you should just fire this one, it's completely useless.	伙计，你认真的吗？你就像是……他们里面最缺少抵抗力的那一个。也许你应该炒掉这家伙，它一点用都没有。
+0x0100004C000134AD	Dialogue Text	PLAZA ORB / hardie volition afterthought	You	I don't know, my roof route theory was solid.	我不知道，我的屋顶路线理论挺可靠的。
+0x0100004C000134B3	Dialogue Text	PLAZA ORB / hardie volition afterthought	Volition	Yeah, the route was pretty solid. Good work there. Still...	是啊，路线是很可靠。这一点做得很好。不过……
+0x0100004C000134B9	Dialogue Text	PLAZA ORB / hardie volition afterthought	You	It turned out the bullet was an antique...	结果那颗子弹已经很久远了……
+0x0100004C000134BF	Dialogue Text	PLAZA ORB / hardie volition afterthought	Volition	True. Strange how you conducted the whole *advanced ballistics analysis* and then hand-waved it?	的确。很奇怪，你进行了一整套*先进的弹道学分析*，然后又向它挥手告别？
+0x0100004C000134C5	Dialogue Text	PLAZA ORB / hardie volition afterthought	You	The footprints in the pinball workshop didn't fit with the Odd Sole's prints on the crime scene...	弹球工作室的脚印跟犯罪现场留下的奇怪鞋印并不符合……
+0x0100004C000134DE	Dialogue Text	PLAZA ORB / hardie volition afterthought	You	I'm done thinking about this. [Finish thought.]	我不想再想这个了。[完成思维。]
+0x0100004C000134E4	Dialogue Text	PLAZA ORB / hardie volition afterthought	Volition	That's right. *Finish thought*. Just finish it and conveniently go on. She's watching you leave right now, you know that? Free as a bird on that roof. Lighting up a cigarette and thinking: am I glad Ruby's in this shit and not me!	没错。*完成思维*。结束这一切，然后顺利地继续前进。她现在正看着你离开，你知道吗？就像屋顶上的那只鸟一样自由。点燃一根烟，想着：还好卷入这摊破事的人是露比，不是我！
+0x010000640000DB34	Dialogue Text	PLAZA ORB / hardie volition afterthought	Volition	No, they didn't.	不，并不符合。
+0x0100006B0000420E	Dialogue Text	PLAZA ORB / hardie volition afterthought	Volition	Absolutely. It could have come from *anywhere*. But you're suddenly so certain it came from the roof behind the window.	绝对是这样。它可能来自*任何地方*。但是你突然很确定它是从窗户后的屋顶射出来的。
+0x0100006B00004215	Dialogue Text	PLAZA ORB / hardie volition afterthought	Volition	Good point. It is rather rare these days... But do continue.	说得好。最近这些日子挺少见的……但是继续吧。
+0x0100007800011021	Dialogue Text	PLAZA ORB / hardie volition afterthought	Logic	Don't listen to this guy. The theory was solid. He's just jealous. Move on, it's no use harassing her further.	别听这个家伙瞎说。这个理论很可靠。他只是嫉妒。还是离开吧，继续骚扰她也无济于事
+0x0100006B0000655E	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Logic	Give up. You'll never find the answer. There's no other copy of "Dick Mullen and the Mistaken Identity" here.	放弃吧。你永远找不到答案的。这里没有“迪克·马伦和错误身份”的副本。
+0x0100006B00006565	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	You	Wait, I've got it: It was *communism*.	等等，我明白了：是*康米主义*。
+0x0100006B0000656B	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	You	The dirty police captain.	腐败的警长。
+0x0100006B00006571	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	You	The junkie art collector.	吸毒的艺术收藏家。
+0x0100006B00006577	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	You	The politician's twat son.	政治家的败家儿子。
+0x0100006B0000657D	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	You	It was love did them in.	是爱毁了他们。
+0x0100006B00006583	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	You	Fuck you, book! It *was* Dick Mullen.	去死吧，书！那*是*迪克·马伦。
+0x0100006B00006589	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Conceptualization	Hang on, you can do this. *Use your imagination*. You know who the suspects are, just... make it up.	坚持住，你能做到的。*运用你的想象力*。你知道嫌疑犯是谁，只要……和解就行。
+0x0100006B00006595	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Conceptualization	So, who killed Charlie Spillane and Deanna Deneuve, detective? Just fucking pick one.	所以，到底是谁杀了查理·斯皮兰和狄安娜·德诺芙，警探？他妈的挑一个啊。
+0x0100006B000065A9	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	You	There's got to be a way to solve this.	一定有办法解决的。
+0x0100006B000065AE	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	You	I guess that's it. Maybe it's better this way. [Finish thought.]	我想就这样吧。也许这样更好。[完成思维。]
+0x0100006B000065B6	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	You	But, why?	但是，为什么呢？
+0x0100006B000065BD	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Logic	Because that's how the world works. Some stories never get finished. You shouldn't expect there to be a tidy, satisfying ending.	因为世界就是这么运转的。有些故事永远也不会完结。你不可能期待永远都会有一个整整齐齐又令人满意的结局。
+0x0100006B000065C7	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Logic	There isn't. If only you had more time... more resources... who knows what you could have come up with?	没有的。如果你有更多时间……更多资源……谁知道你还会想出什么？
+0x0100006B000065CD	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	You	Man, what a disappointment. [Finish thought.]	我的天，真是太令人失望了。[完成思维。]
+0x0100006B000065DA	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Inland Empire	But... but... what if you never find out how *your* story ends?	但是……但是……如果你永远也不知道*自己*的故事是如何完结的呢？
+0x0100006B000065E0	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Logic	Maybe if there had been more money... and less speed...	也许如果钱再多一点……思必得再少一点……
+0x0100006B000065E7	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Electrochemistry	Or *MORE* speed!	或者思必得*再多一点*！
+0x0100006B000065F4	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Logic	Or *that*, yes. Either way, you might've been able to come up with an answer. But not like this.	或者*那个*，是的。不管怎么说，你也许能想出一个答案。但是这样可不行。
+0x0100006B00006602	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Logic	It still doesn't make sense, but who cares? Yes, Dick Mullen, the famous detective, killed his best friend and a dame he just nailed in cold blood. But why'd he do it? Unclear!	还是说不通，不过谁在乎呢？是的，迪克·马伦，著名警探，冷血地杀害了最好的朋友和一个他刚刚看中的女人。但他为什么要这么做呢？不清楚！
+0x0100006B00006608	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Logic	Sure, why not? Everyone knows politicians are corrupt, and what's more corrupt than letting your entitled spawn run around offing people?	当然了，为什么不呢？人人都知道政治家是腐败的，还有什么能比让你的孩子到处瞎跑更腐败的呢？
+0x0100006B0000660D	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Logic	It makes sense: Junkies and art collectors both need a steady stream of income, and what better way to generate income than... murdering a couple of people.	有道理：毒品贩子和艺术收藏家都需要稳定的收入来源。那么，要想产生收入，还有什么能比……杀人更好的方法呢。
+0x0100006B00006612	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Logic	Sounds good. You can't trust the fuzz, after all. They *say* they've got your back, but do they *really?* More like they've got a *knife* in your back.	听起来不错。毕竟你不能相信那些杂音。他们*说*会在背后支撑你，但他们*真的*这么做了吗？他们更像是在你背后*插刀*才对吧。
+0x0100006B00006617	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Logic	Sure, yes. They died of an over-abundance of love. Just loved each other to death. Couldn't get enough love. And now they're dead.	当然了，没错。他们死于过于沉重的爱。把对方爱到死。永远也要不够的爱。所以现在他们都死了。
+0x0100006B0000661C	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Logic	Okay, sure. A defunct political ideology came and murdered a couple of people. History repeats itself, and the whole cycle starts again...	好吧，当然了。一个不复存在的政治意识形态来了，然后杀了几个人。历史重演，整个循环又重新开始……
+0x0100006B00006627	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Conceptualization	Doesn't matter. The choice has been made. You caught the criminal -- It was Dick Mullen all along. Who's the real detective now? That's right, it's you. Rest easy tonight, *real detective*.	没关系。反正已经做出选择了。你抓住了罪犯——一直以来都是迪克·马伦。看看现在谁才是真正的警探？没错，就是你。今晚可以高枕无忧了，*真警探*先生。
+0x0100006B00006630	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Conceptualization	Way to go, public corruption cop. You've seen first-hand how the powerful tip the scales of justice in their favour, but today you tipped them back *just a little*. You can rest easy tonight.	就该这么做，公共腐败警察。你已经亲眼看见那些有权有势的人是如何让正义的天平朝他们倾斜的，但是今天你把它稍微歪回来了*一点*。今晚你可以睡个好觉了。
+0x0100006B00006638	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Conceptualization	Well done, ace detective. You put a dangerous junkie *and* art collector behind bars -- two birds with one stone! Now put your feet up and take a breather.	干得好，王牌警探。你抓住了一个危险的毒品贩子，*还有*一个艺术收藏家——这是一石二鸟啊！现在高高抬起你的双脚，好好松一口气吧。
+0x0100006B0000663F	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Conceptualization	You've seen it yourself, haven't you? Maybe that cuts a little close to the bone, *jaded cop*. Take it easy -- Don't let the memory of old betrayals haunt you tonight.	你亲眼见过了，不是吗？也许那道伤口离骨头稍微近了点，*疲惫警察*。放松点——今晚别让昔日的背叛记忆困扰你了。
+0x0100006B00006646	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Conceptualization	Why not? Love gets a lot of people killed... Speaking of, aren't you a little close to the edge, yourself, lover-cop? Better lay off that love stuff, if you can.	为什么不呢？爱情让很多人为此丧命……说到这里，你自己是不是也有点太靠近边缘了，爱情警探？如果可以的话，最好还是放下爱情这玩意吧。
+0x0100006B0000664D	Dialogue Text	PLAZA ORB / mullen mistaken identity conclusion	Conceptualization	Case closed, and with no time to spare. Ideologies are dangerous, but communism won't be troubling the people anymore -- all thanks to you, politico-detective.	案子破了，一定要争分夺秒。意识形态很危险，但是康米主义再也不会让人们烦恼了——一切多亏了你，政治警探。
+0x010000070001A981	Dialogue Text	PLAZA ORB / neither man clicked	Inland Empire	Awful lonely here. No ruckus. No old men playing their little ball game.	这里只有可怕的孤寂。没有喧闹。没有玩小球游戏的老人。
+0x010000070001A988	Alternate1	PLAZA ORB / neither man clicked	You	"Where did the old guys go?"	“那帮老家伙去哪了？”
+0x010000070001A988	Dialogue Text	PLAZA ORB / neither man clicked	You	Yeah, where did the old guys go?	是啊，那些老家伙去哪了？
+0x010000070001A98E	Dialogue Text	PLAZA ORB / neither man clicked	You	That's just how craters are. [Discard thought.]	弹坑不就是这样的吗。（抛弃思维。）
+0x010000070001A99F	Dialogue Text	PLAZA ORB / neither man clicked	Kim Kitsuragi	"You mean the guys who were playing pétanque?"	”你是说玩地掷球的那些人？”
+0x010000070001A9A6	Dialogue Text	PLAZA ORB / neither man clicked	Inland Empire	The pétanque players?	地掷球玩家？
+0x010000070001A9AD	Dialogue Text	PLAZA ORB / neither man clicked	You	"Yeah, where did they go?"	“是啊，他们去哪了？”
+0x010000070001A9B4	Dialogue Text	PLAZA ORB / neither man clicked	You	Yeah, where did they go?	是啊，他们去哪了？
+0x010000070001A9BB	Dialogue Text	PLAZA ORB / neither man clicked	Kim Kitsuragi	"Have you noticed people sometimes appear and disappear in places? It's called *doing things*."	“你有没有注意到有时候人们会在某些地方出现或者消失？这就叫*做事*。”
+0x010000070001A9C8	Dialogue Text	PLAZA ORB / neither man clicked	Inland Empire	Home? To work? To get something from somewhere? Who knows what people are doing when we're not looking.	回家了？去工作了？去别处拿东西了？谁知道我们没注意的时候大家都在干什么。
+0x010000070001AA73	Alternate1	PLAZA ORB / neither man clicked	You	Maybe they too died during the mercenary tribunal?	也许他们也死在雇佣兵宣判中了？
+0x010000070001AA73	Dialogue Text	PLAZA ORB / neither man clicked	You	"Wait, maybe they died during the mercenary tribunal?"	“等等，也许他们在雇佣兵宣判的时候死了？”
+0x010000070001AA79	Dialogue Text	PLAZA ORB / neither man clicked	You	"But what if I wanted to talk to them?"	“但是，如果我想跟他们说话呢？”
+0x010000070001AA7F	Alternate1	PLAZA ORB / neither man clicked	You	Right. Time to move. [Leave.]	没错。该走了。[离开。]
+0x010000070001AA7F	Dialogue Text	PLAZA ORB / neither man clicked	You	"Right. Let's move." [Leave.]	“好吧。我们走。”[离开。]
+0x010000070001AA8B	Dialogue Text	PLAZA ORB / neither man clicked	Inland Empire	It's very unlikely. Everyone scattered once the tribunal started. They're probably fine.	不太可能。宣判刚开始每个人都吓跑了。他们可能没什么事。
+0x010000070001AA91	Dialogue Text	PLAZA ORB / neither man clicked	Kim Kitsuragi	"They didn't," the lieutenant calms you. "Trust me. I saw the bodies."	“他们没有，”警督的话让你平静下来。“相信我。我看过尸体了。”
+0x010000070001AAA1	Dialogue Text	PLAZA ORB / neither man clicked	Kim Kitsuragi	"You'll get them next time," the lieutenant replies, looking at the empty crater.	“下次再找他们吧，”警督看着空荡荡的弹坑回复到。
+0x010000070001AAA7	Dialogue Text	PLAZA ORB / neither man clicked	Inland Empire	You'll get them next time. But let's be honest, they weren't even in the suspects list.	下次再找他们吧。不过说实在的，他们都不在嫌疑人名单上。
+0x010000070001AAB5	Dialogue Text	PLAZA ORB / neither man clicked	Kim Kitsuragi	"And, I mean... it would be one twist too many if it turned out these two old men were our killers. That's just unlikely. No..." He seems pleased with himself. "We would only have wasted our time here."	“还有，我是想说……如果这两个老人是我们要找的凶手，那就太过分了。那是不可能的。不会的……”他似乎对自己很满意。“我们只会在这里浪费时间。”
+0x010000070001AAC5	Dialogue Text	PLAZA ORB / neither man clicked	Inland Empire	You would have wasted *so* much time talking to these two pensioners. Precious case-time.	跟这两个领退休金的人聊天会浪费你*太多*时间的。宝贵的查案时间。
+0x010000070001AADC	Dialogue Text	PLAZA ORB / neither man clicked	Logic	He's probably right.	他也许是对的。
+0x010000070001ACDA	Alternate1	PLAZA ORB / neither man clicked	You	Damn. Looks like I missed asking these guys about the dried May bells.\n	该死。看来我错过问他们枯萎铃兰的机会了。
+0x010000070001ACDA	Dialogue Text	PLAZA ORB / neither man clicked	You	"Damn, I missed asking these guys about the dried May bells."	“该死，我没问那些人干铃兰的事。”
+0x010000070001ACE1	Dialogue Text	PLAZA ORB / neither man clicked	Inland Empire	No need to beat yourself down over it. It probably wasn't the definitive piece of the puzzle. Still, somehow it feels like May bells matter somehow.	没必要过分责怪自己。它可能不是谜题的最后一片答案。不过，不知道为什么，铃兰就是感觉很重要。
+0x010000070001ACE7	Dialogue Text	PLAZA ORB / neither man clicked	Kim Kitsuragi	"Don't beat yourself up about it. I think I gave you a pretty exhaustive answer about those flowers and what they mean."	“不要因此责怪自己。关于那些花和它们的含义，我想你已经给出了一个十分详尽的答案。”
+0x010000070001AD9F	Dialogue Text	PLAZA ORB / neither man clicked	Physical Instrument	Enough with the goddamn flowers already! Are you a cop or a florist?	别再管那些该死的花了！你是警察还是花匠啊？
+0x010000070001ADA6	Dialogue Text	PLAZA ORB / neither man clicked	Logic	It was probably nothing anyway. Just a little thought you had.	反正可能也没什么。只是你自己的一个小想法。
+0x010000070001ADAD	Dialogue Text	PLAZA ORB / neither man clicked	Inland Empire	*Still* you can't shake the feeling that somehow these may bell do actually matter. If only a little bit.	*不过*，你还是无法摆脱这些铃兰的确很重要的感觉。只有一点点就好了。
+0x010000070001AEDA	Dialogue Text	PLAZA ORB / neither man clicked	Empathy	The lieutenant is thinking of all the time you've spared. He likes it.	警督想的是你所有省下来的时间。他喜欢这样。
+0x0100008F0000285F	Dialogue Text	PLAZA ORB / plazatilecoat	Shivers	I am here... Please, listen... It will be hard to hear me…	我在这里……请好好听……要想听到我的声音并不容易……
+0x0100008F00002865	Dialogue Text	PLAZA ORB / plazatilecoat	You	I hear you! Please, talk to me! What do you want?	我听见了！拜托你，跟我说话吧！你想要什么？
+0x0100008F0000286B	Dialogue Text	PLAZA ORB / plazatilecoat	You	Who are you?	你是谁？
+0x0100008F00002871	Dialogue Text	PLAZA ORB / plazatilecoat	You	Oh, no. No, no. Whatever you are, I don't want you in my head.	哦，不不不。不管你是谁，我不想你出现在我的脑子里。
+0x0100008F00002877	Dialogue Text	PLAZA ORB / plazatilecoat	Shivers	I am so glad… I have no time... The place of many words, before the one so much like yourself... Try to hear me there...	我很高兴……我没有时间了……在这个千言万语的地方，在一个很像你的人面前……尝试寻找我的声音吧……
+0x0100008F0000287D	Dialogue Text	PLAZA ORB / plazatilecoat	Shivers	I am what has always been here for you… Please... The place of many words, before the one so much like yourself... Try to hear me there...	我就是一直在这里等着你的人……请你……在这个千言万语的地方，在一个很像你的人面前……尝试寻找我的声音吧……
+0x0100008F00002883	Dialogue Text	PLAZA ORB / plazatilecoat	Shivers	Forgive me... I have no other way to reach you... Please -- the place of many words, before the one so much like yourself... Try to hear me there...	原谅我……要想找到你，我别无他法……请求你——在这个千言万语的地方，在一个很像你的人面前……尝试寻找我的声音吧……
+0x010000040000AC97	Dialogue Text	PLAZA ORB / rain shivers	Shivers	All around you, rain falls on the great city of Revachol. Rain drips from the eaves and floods the gutters, washing the filth away.	淅淅沥沥的雨水坠落在伟大的瑞瓦肖城。雨滴从屋檐滑落，淹没了水沟，把脏东西冲刷得一干二净。
+0x010000040000ADAE	Dialogue Text	PLAZA ORB / rain shivers	You	What am I doing?	我在做什么？
+0x010000040000ADC0	Dialogue Text	PLAZA ORB / rain shivers	You	Shake the shivers off. [Discard thought.]	抖掉身上的寒颤。[放弃思维。]
+0x010000040000ADCF	Dialogue Text	PLAZA ORB / rain shivers	Shivers	The spring thaw must be here. The snow is melting...	一定是到了春季解冻的时间。雪花正在融化……
+0x010000040000ADD9	Alternate1	PLAZA ORB / rain shivers	Shivers	Looking up at the sky, cold water dripping from your hat.	抬头望向天空，冰冷的雨水从你的帽子上滴落。
+0x010000040000ADD9	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Looking up at the sky, cold water dripping from your hair.	抬头望向天空，冰冷的雨水从你的头发上滴落。
+0x010000040000ADE0	Dialogue Text	PLAZA ORB / rain shivers	You	What do I see?	我看见什么了？
+0x010000040000ADE7	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Grey sky like great battleships, clouds colliding with one another. Rain falls down on the world.	像大战舰一样的灰色天空，白色的云朵互相碰撞着。雨点降落在这个世界上。
+0x010000040000ADFD	Dialogue Text	PLAZA ORB / rain shivers	You	How does it feel?	感觉怎么样？
+0x010000040000AE04	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Your shirt sticks to your chest. The shoulders of your disco blazer grow heavy. The cold finds its way in under your skin. You shiver, and the city shivers with you.	你的衬衫紧贴在胸膛。迪斯科夹克肩部的位置变得沉重起来。寒冷一路钻到你的皮肤之下。你颤抖着，整个城市也跟着你一起颤抖。
+0x010000040000AE0F	Dialogue Text	PLAZA ORB / rain shivers	Composure	You're not dressed for this weather. You should get an overcoat, or a patrol cloak.	你身上的衣服并不适合这样的天气。你应该找一件大衣，或者巡逻斗篷。
+0x010000040000AE21	Dialogue Text	PLAZA ORB / rain shivers	You	What's in the north?	北边有什么？
+0x010000040000AE27	Dialogue Text	PLAZA ORB / rain shivers	You	What's in the east?	东边有什么？
+0x010000040000AE2D	Dialogue Text	PLAZA ORB / rain shivers	You	What's in the south?	南边有什么？
+0x010000040000AE33	Dialogue Text	PLAZA ORB / rain shivers	You	What is in the west?	西边有什么？
+0x010000040000AE4B	Dialogue Text	PLAZA ORB / rain shivers	Composure	There's a Frittte on the corner. A plastic coat is folded into a small triangle under the counter by the window. Beyond that, the strikebreakers have gathered.	街角有一间弗利多便利店。一件叠成小三角的塑料衣堆放在窗边的柜台下面。再往前，就是工贼的聚集地了。
+0x010000040000AE52	Dialogue Text	PLAZA ORB / rain shivers	Shivers	The great gates of the industrial harbour are locked. A chill runs down your back. You shudder like an animal trying to shake water from its hide.	工业港口的大门紧锁着。你的后背感到一阵寒意。你像只动物一样抖动着，试着把水从皮毛上甩下来。
+0x010000040000AE5A	Dialogue Text	PLAZA ORB / rain shivers	You	Clench your teeth to stop shuddering.	咬紧牙关，让自己不再发抖。
+0x010000040000AE60	Dialogue Text	PLAZA ORB / rain shivers	You	Shake your shoulders again.	再摇摇你的肩膀。
+0x010000040000AE68	Dialogue Text	PLAZA ORB / rain shivers	Shivers	You shudder, looking down at your feet. Dirty rainwater runs veins into the plaza snow.	你看着自己脚下，不住的颤抖着。肮脏的雨水在广场的雪地上蜿蜒流淌。
+0x010000040000AE76	Dialogue Text	PLAZA ORB / rain shivers	You	What's below?	下面是什么？
+0x010000040000AE80	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Behind the gates -- heaps of supply crates. Red and blue metal shipping containers slick with rain. The Greater Revachol Industrial Harbour is an artificial mountain range. Immense wealth resides within, and immeasurable poverty in its shadow.	大门下面——是一堆补给箱。红蓝相间的航运集装箱被雨水冲刷地滑溜溜的。瑞瓦肖大工业港是一座人造山脉，将巨大的财富蕴藏其中，也将不可估量的贫穷掩在了它的阴影之下。
+0x010000040000AE87	Dialogue Text	PLAZA ORB / rain shivers	You	And beyond that?	在那上面呢？
+0x010000040000AE8E	Dialogue Text	PLAZA ORB / rain shivers	You	And before that?	在那前面呢？
+0x010000040000AE95	Dialogue Text	PLAZA ORB / rain shivers	Shivers	You -- on the Martinaise plaza. A small dot looking up at the sky. Droplets form on your eyelashes.	你——站在马丁内斯广场。就像一个凝望天空的小点。雨滴从你的睫毛上滑落下来。
+0x010000040000AE9C	Dialogue Text	PLAZA ORB / rain shivers	Shivers	La Drisienne, King Dris's Passenger Harbour. Cruise ships flanked by dock arms. Cranes watching over the mouth of the river distributary.	德瑞斯利恩，德瑞斯国王的客运港口。游船两侧都是码头武装。起重机在河流的支流口上遥望。
+0x010000040000AEA3	Dialogue Text	PLAZA ORB / rain shivers	You	What is across the distributary?	支流的对岸是什么？
+0x010000040000AEAA	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Couron, the lower middle class. Distributary after distributary cuts the city blocks in half. Seven-story buildings trail off into the rain.	科戎，中下层阶级的聚居地。一道道支流将这座城市的街区切割成两半。七层楼的建筑逐渐消失在雨中。
+0x010000040000AEB1	Dialogue Text	PLAZA ORB / rain shivers	Shivers	A silvery curtain of rain over the houses. The class divide.	银色的雨幕覆盖在房屋上，就此将阶层分割开来。
+0x010000040000AEB8	Dialogue Text	PLAZA ORB / rain shivers	You	What is beyond the Couron?	科戎上面是什么？
+0x010000040000AEBF	Dialogue Text	PLAZA ORB / rain shivers	Rhetoric	You have never been there. They don't need the law east of the river.	你从没去过那里。河流的东岸不需要法律。
+0x010000040000AECC	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Sheets of rain over the water. A flight of stairs leading into the ocean. Wave after wave washing the coast of Martinaise, with its motorboats and gently swaying reeds.	雨滴坠落在水面上。一段楼梯延伸入海。大海的波浪冲刷着马丁内斯海岸，还有那些停靠在岸边的摩托艇和微微轻摆的芦苇丛。
+0x010000040000AF2B	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Capeside apartments -- tower blocks crowd one another, 4.46 mm bullets still lodged in their war-torn stone walls.	岬岸公寓——高大的塔楼鳞次栉比，4.46毫米的子弹还卡在被战争摧毁的石墙上。
+0x010000040000AF32	Dialogue Text	PLAZA ORB / rain shivers	Inland Empire	Will you ever go there?	你会去那里吗？
+0x010000040000AF5D	Dialogue Text	PLAZA ORB / rain shivers	You	What's above?	上面是什么？
+0x010000040000AFD8	Dialogue Text	PLAZA ORB / rain shivers	Shivers	A traffic jam. Rain thrumming on the roofs of motor vehicles. Inside, drivers watch water streaming down their windshields. The statue of a king shudders, he too is cold. The canal bridge has been raised.	大塞車。雨滴拍打在汽車顶上。車里，司机们看着雨水从挡风玻璃上汩汩地流淌下来。国王的雕像也在颤抖着，因为他也觉得太冷了。运河的大桥已经抬升起来了。
+0x010000040000AFE6	Dialogue Text	PLAZA ORB / rain shivers	You	What's on the other side?	另一边是什么？
+0x010000040000AFED	Dialogue Text	PLAZA ORB / rain shivers	Shivers	The road ascends; a raised motorway loops above the ghetto. Beneath its concrete columns -- a sea of rooftops, woodwork, and tar stretches northward. Four-story buildings as far as the rain can fall. The snows melt in Jamrock.	道路向上伸展着；高架高速公路在贫民区上方盘旋。水泥柱下方——是一片屋顶的海洋，木制品，还有焦油一路向北方延伸。雨滴所及之处，是四层楼的建筑。雪花在加姆洛克融化。
+0x010000040000AFF4	Dialogue Text	PLAZA ORB / rain shivers	You	"Motherfucker." [Finish thought.]	“狗娘养的。”[完成思维。]
+0x010000040000AFFA	Dialogue Text	PLAZA ORB / rain shivers	Shivers	These spring thaw will not last. The winter will return to Revachol.	春季冰雪融化的季节不会持续太久。冬季很快会重新降临瑞瓦肖。
+0x010000040000B007	Dialogue Text	PLAZA ORB / rain shivers	You	What is Jamrock?	加姆洛克是什么？
+0x010000040000B00E	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Urban coastline, rain dripping off eternite-covered roofs. Cinder blocks left over from half-finished construction. A defunct research and development building once seized by revolutionaries. An old wooden church stands on stilts above the water.	城市海岸线，雨水从亘石覆盖的屋顶滴落。半成品建筑的煤渣砖随意丢弃了一地。一栋曾经被革命者占领的废弃研究大楼。一座古老的教堂高高地矗立在海面上。
+0x010000040000B015	Dialogue Text	PLAZA ORB / rain shivers	You	And beyond that?	那上面呢？
+0x010000040000B01C	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Coal City, end of all lines.	煤城，所有线路的终点。
+0x010000040000B02A	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Collapsed storm drains. Old sewage systems flooded with rainwater. Hidden weapon caches from the Revolution. Doors leading down to Le Royaume -- the catacombs to which, for three centuries, they delivered the blue-blooded dead.	暴风雨铺天盖地。老旧的下水道系统被雨水淹没，将大革命时期遗留下来的秘密武器隐藏。向下方延伸的大门通向王国——三个多世纪以来，他们将贵族死者不断送往陵寝。
+0x010000040000B041	Dialogue Text	PLAZA ORB / rain shivers	Shivers	The skyscrapers of La Delta, the financial district. Faint golden light seeps from the office windows.	金融区德尔塔的摩天大楼。办公室的窗户渗出微弱的金色光芒。
+0x010000040000B077	Dialogue Text	PLAZA ORB / rain shivers	You	Who are you, ghosts?	你是谁，幽灵？
+0x010000040000B07D	Dialogue Text	PLAZA ORB / rain shivers	You	What is down the shore?	海岸下面是什么？
+0x010000040000B083	Dialogue Text	PLAZA ORB / rain shivers	You	Run your fingers through your dampened hair.	用手指拂过你湿漉漉的头发。
+0x010000040000B08F	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Your hair is an oily mess flecked with ash from neighbouring coal plants. Smoke stacks rise somewhere in the distance.	你的头发油腻腻的，上面还沾着附近煤场吹出的点点飞灰。远处的某个地方，烟囱伸长了它的脖子。
+0x010000040000B0A6	Dialogue Text	PLAZA ORB / rain shivers	You	Will I?	我会吗？
+0x010000040000B0AC	Dialogue Text	PLAZA ORB / rain shivers	You	Let go of the feeling.	放开这种感觉。
+0x010000040000B0B4	Dialogue Text	PLAZA ORB / rain shivers	Shivers	No. You are just one of the hundreds of thousands who watch them rise across the bay from Martinaise every day.	不。你只是千百万人中的一个，看着它们每天从马丁内斯海湾的对岸升起。
+0x010000040000B0BB	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Your hair sticks to your forehead, cold and wet.	你的头发贴在额头上，冰冷又潮湿。
+0x010000040000B0CE	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Revachol is the capital of the world. Jamrock is the capital of Revachol. Droplets form on your eyelashes.	瑞瓦肖是世界的中心。加姆洛克是瑞瓦肖的中心。雨水从你的睫毛上滴落下来。
+0x010000040000B0D5	Dialogue Text	PLAZA ORB / rain shivers	Inland Empire	It's home.	这是家。
+0x010000040000B0DC	Dialogue Text	PLAZA ORB / rain shivers	You	And closer to here?	那这附近呢？
+0x010000040000B0E3	Alternate1	PLAZA ORB / rain shivers	Shivers	A yard. Rain falls onto the roof of a woodshed. Coal leaks into a puddle beneath the feet of a dead man. He swings from a tree, a gaping hole in his bare, rotting chest. 	一个院子。雨水从小木棚的屋顶上滑落下来。煤灰漏进死人脚下的一个水坑里。他挂在树上来回摇荡，赤裸腐烂的胸口有一个大洞。
+0x010000040000B0E3	Dialogue Text	PLAZA ORB / rain shivers	Shivers	A yard. Rain falls onto the roof of a woodshed. Coal leaks into a puddle beneath a dead man's feet. He swings from a tree, bloated. Droplets of rain slip from his cold cheeks.	一个院子。雨水从小木棚的屋顶上滑落下来。煤灰漏进死人脚下的一个水坑里。他挂在树上来回摇荡，尸体已经有些膨胀。雨滴从他冰冷的脸颊滑过。
+0x010000040000B0EB	Dialogue Text	PLAZA ORB / rain shivers	Shivers	You realize you still have only one shoe. Nearby, on the balcony of the Whirling-in-Rags hostel-cafeteria, a single crocodile-skin shoe now fills with rainwater.	你意识到自己只穿了一只鞋。褴褛飞旋旅社的阳台附近，一只鳄鱼皮鞋里积满了雨水。
+0x010000040000B0F1	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Two green snakeskin shoes stand at attention on the mosaic paving of the plaza.	两只绿色的蛇皮鞋立正站在广场地砖上。
+0x010000040000B0F7	Dialogue Text	PLAZA ORB / rain shivers	Shivers	You realize you have no shoes on. Your feet are red with cold.	你意识到自己没穿鞋子，脚都被冻红了。
+0x010000040000B109	Dialogue Text	PLAZA ORB / rain shivers	Kim Kitsuragi	From the corner of his eye, the lieutenant gives your feet a worried glance. Rain drips from his glasses.	警督眼角的余光透露出对你双脚的担忧。雨滴从他的眼镜上滑落下来。
+0x010000040000B111	Dialogue Text	PLAZA ORB / rain shivers	You	"It's cool. I'm in control."	“这样感觉挺酷的，一切都在我掌控之中。”
+0x010000040000B117	Dialogue Text	PLAZA ORB / rain shivers	You	"I should probably do something about this."	“也许我应该做点什么。”
+0x010000040000B121	Dialogue Text	PLAZA ORB / rain shivers	You	Say nothing.	什么也不说。
+0x010000040000B128	Dialogue Text	PLAZA ORB / rain shivers	Shivers	The rain falls.	雨水滑落。
+0x010000040000B12F	Dialogue Text	PLAZA ORB / rain shivers	Kim Kitsuragi	The lieutenant nods, then looks east.	警督点点头，然后朝东边看去。
+0x010000040000B136	Dialogue Text	PLAZA ORB / rain shivers	Kim Kitsuragi	The lieutenant nods, then looks east.	警督点点头，然后朝东边看去。
+0x010000040000B141	Dialogue Text	PLAZA ORB / rain shivers	You	What is there?	那是什么？
+0x010000040000B147	Dialogue Text	PLAZA ORB / rain shivers	You	Look up.	向上看。
+0x010000040000B169	Dialogue Text	PLAZA ORB / rain shivers	You	Why am I not there?	为什么我不在那里？
+0x010000040000B16F	Dialogue Text	PLAZA ORB / rain shivers	You	What am I doing here?	我在这里做什么？
+0x010000040000B175	Dialogue Text	PLAZA ORB / rain shivers	You	Where do I live?	我住在哪里？
+0x010000040000B189	Dialogue Text	PLAZA ORB / rain shivers	Shivers	To be in Martinaise, where no one goes. At the run-off point of a long-forgotten canal, in the whitest part of town. In the shadow of the day the Revolution failed.	在马丁内斯，那是没有人去过的地方。在一条早已被人遗忘的运河径流口，也是整个镇子上最苍白的地方。在白昼的阴影下，大革命以失败告终。
+0x010000040000B192	Dialogue Text	PLAZA ORB / rain shivers	Shivers	On a street there that flows like a muddy river in the snow, with fire traps rising on either side. A film rental opens its doors to the rain, an armoured motor carriage rushes past the corner where you used to walk together... Suddenly, the hair on your back rises.	街道宛如雪地流过的一弯泥泞河水，它的两边肃立着没有太平门的建筑。淅淅沥沥的雨中，一家电影租赁店还在营业，一辆装甲汽車从角落疾驰而过，那里就是你们曾经一起走过的地方……突然间，你感觉背上的汗毛全都竖了起来。
+0x010000040000B1A0	Dialogue Text	PLAZA ORB / rain shivers	Shivers	YOU CANNOT RETURN.	你再也回不去了。
+0x010000040000B1E5	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Standing in the rain, looking north, where Jamrock Rock City stretches inland.	站在雨里，眺望北方，摇滚都市加姆洛克在那里向内陆延伸。
+0x010000040000B1FA	Dialogue Text	PLAZA ORB / rain shivers	You	Where the hood, where the hood, where the hood at?	我的猎犬在哪？我的豪车在哪？我的弟兄们在哪？
+0x010000040000B201	Dialogue Text	PLAZA ORB / rain shivers	Shivers	HAVE A BROTHER IN THE CUT. WHERE THE WOOD AT?	哪里的大雨不停下？有人就在那陋巷里倒下。
+0x010000040000B215	Dialogue Text	PLAZA ORB / rain shivers	You	Shudder, look further...	浑身颤抖着，继续向远方眺望……
+0x010000040000B21D	Dialogue Text	PLAZA ORB / rain shivers	Shivers	In the rain-swept distance above the rooftops of Jamrock, a re-purposed silk mill stands perched above the motorway exit. Precinct 41 hunches in the rain.	远方一阵倾盆大雨，拍打着加姆洛克的屋顶，高速公路的出口旁坐落着一间改造过的丝绸厂。41分局在大雨中弓起了腰。
+0x010000040000B227	Dialogue Text	PLAZA ORB / rain shivers	Esprit de Corps	Satellite-Officer Jean Vicquemare rushes down the Precinct stairs, umbrella in hand. It's unopened. He doesn't seem pleased about the spring rain.	随迁警官让·维克玛从辖区的楼梯上冲了下来，手里还拿着一把没有撑开的伞。他看上去好像不是很喜欢这场春雨。
+0x010000040000B233	Dialogue Text	PLAZA ORB / rain shivers	Esprit de Corps	On the bridge, Officers Torson and McLaine are standing guard. Torson wears jeans and a fishnet wifebeater. Satellite-Officer Vicquemare passes by, and the young man remarks to him...	桥上，托森和麦克莱恩警官正在站岗。托森穿着牛仔裤和一件贴身鱼网背心。随迁警官维克玛经过，年轻人跟他搭起了话……
+0x010000040000B23B	Dialogue Text	PLAZA ORB / rain shivers	Mack Torson	"Where's your homo, homey?"	“你的同性恋朋友去哪了，基佬？”
+0x010000040000B242	Dialogue Text	PLAZA ORB / rain shivers	Jean Vicquemare	"What?"	“什么？”
+0x010000040000B249	Dialogue Text	PLAZA ORB / rain shivers	Chester McLaine	"It's not like that. They're what you call *hetero-sexual life partners*. They have a battle-tested relationship. A 'bröderbund', if you will."	“不是这样的。他们是大家口中的*异性恋生活伴侣*。彼此之间的关系久经考验。如果你喜欢的话，可以称之为‘兄弟情'。”
+0x010000040000B250	Dialogue Text	PLAZA ORB / rain shivers	Jean Vicquemare	"Huh? Yeah." He opens his umbrella, but the wind immediately turns it inside out.	“哈？是吗。”他打开雨伞，但却立即被狂风吹翻了过来。
+0x010000040000B257	Dialogue Text	PLAZA ORB / rain shivers	Mack Torson	"Hetero -- sexual. Life -- partners."	“异性——恋。生活——伴侣。”
+0x010000040000B25E	Dialogue Text	PLAZA ORB / rain shivers	Jean Vicquemare	"Funny apery." Vicquemare struggles with his umbrella, the ribs are protruding from its canopy. "Male-centric workplace humour. Have you seen him?"	“你这模仿的有点意思啊。”维克玛还在跟雨伞抗争，伞骨从雨篷中突了出来。“男性为主的工作场所专属的幽默。你见着他了吗？”
+0x010000040000B265	Dialogue Text	PLAZA ORB / rain shivers	Mack Torson	"Is there something wrong?"	“出什么问题了吗？”
+0x010000040000B26C	Dialogue Text	PLAZA ORB / rain shivers	Jean Vicquemare	"No, nothing. It's just... Judit went to his place and found the Monday mail unopened. I think he's still *there*. You didn't, like, drink with him over the weekend did you?"	“没，没什么。只不过……茱蒂特去他那看了看，发现周一的邮件没开过封。我觉得他应该还在*那里*。你不会……周末跟他一起喝酒去了吧？”
+0x010000040000B278	Dialogue Text	PLAZA ORB / rain shivers	Esprit de Corps	It's the only home you have now. But you can't go back. Not like this.	现在这是你唯一的家了。但是你不能回去。这样可不行。
+0x010000040000B28B	Dialogue Text	PLAZA ORB / rain shivers	Chester McLaine	"That would be *irresponsible*."	“那也*太不负责任*了。”
+0x010000040000B292	Dialogue Text	PLAZA ORB / rain shivers	Jean Vicquemare	"In Martinaise. He's in Martinaise."	“在马丁内斯。他就在马丁内斯。”
+0x010000040000B2AD	Dialogue Text	PLAZA ORB / rain shivers	Mack Torson	"With that animal? Never again, man. What, is he still down there, in... you know, south of the interchange? The... what was it?"	“跟那只野兽吗？再也不会了，伙计。什么，你说他还在那里，在……你知道的，枢纽站南边？那个……是什么来着？”
+0x010000040000B2B9	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Your vision blurs. You wipe your face with your hand. The rain stings your eyes, making you look up and blink.	你的视线变得模糊。你用手搓了搓脸。雨水刺痛了你的双眼，你不由得抬起头，眨了眨眼。
+0x010000040000B2C3	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Coalition aerostatics hang like apparitions under the cloud cover. Way up there -- where rain forms -- rotors flutter silently. Your sight clears.	联盟的静风舰就像幽灵一样悬挂在云层中。就在那上方——雨水形成的地方——转子静静地振动着。你的视线变得清晰起来。
+0x010000040000B2D8	Dialogue Text	PLAZA ORB / rain shivers	Kim Kitsuragi	"This rain will not let up any time soon. You should get a raincoat. There's a Frittte to the east. They sell them there."	“这场雨不会很快就停的。你应该弄一件雨衣。东边有一间弗利多，那里有得卖。”
+0x010000040000C9AC	Dialogue Text	PLAZA ORB / rain shivers	Shivers	The ruins of a half-sunken seafort crumble on an inlet. Beyond the Bay of Revachol, ghosts rise into the sky.	海湾入口的海堡早已崩塌瓦解，只剩废墟半沉在水中。瑞瓦肖的海湾之上，幽灵慢慢升往天空。
+0x010000040000C9B6	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Hallways collapsed from the mortar hits of a war that was lost long ago. Clotheslines go to waste in the rain. Radios play.	走廊早已在许久之前那场败仗的炮火洗礼下垮塌。晒衣绳在雨水中变成了废物。你听见收音机的声音。
+0x01000004000159C6	Dialogue Text	PLAZA ORB / rain shivers	Kim Kitsuragi	"This rain will not let up any time soon. At least we're dressed for it -- let's keep moving."	“这场雨不会很快就停的。不过至少我们身上的衣服还能扛住——继续前进吧。”
+0x01000004000159DE	Dialogue Text	PLAZA ORB / rain shivers	Kim Kitsuragi	"This rain will not let up any time soon. I'd recommend you put on your coat."	“这场雨不会很快就停的。我建议你穿上外套。”
+0x010000060001020A	Dialogue Text	PLAZA ORB / rain shivers	Rhetoric	The morning news.	早间新闻。
+0x0100000600010210	Dialogue Text	PLAZA ORB / rain shivers	Rhetoric	The news at noon.	午间新闻。
+0x0100000600010215	Dialogue Text	PLAZA ORB / rain shivers	Rhetoric	The evening news.	晚间新闻。
+0x010000060001021A	Dialogue Text	PLAZA ORB / rain shivers	Rhetoric	Midnight news and reruns.	午夜新闻和重播节目。
+0x01000081000016FB	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Your shirt sticks to your chest. The shoulders of your jacket grow heavy. The cold finds its way under your skin. You shiver, and the city shivers with you.	衬衫紧贴在你的胸口。夹克的肩部变得沉重。寒冷一路钻到你的皮肤之下。你颤抖着，整个城市也跟着你一起颤抖。
+0x0100008100001708	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Your shirt sticks to your chest. The cold finds its way under your skin. You shiver, and the city shivers with you.	衬衫紧贴在你的胸口。寒冷一路钻到你的皮肤之下。你颤抖着，整个城市也跟着你一起颤抖。
+0x010000810000170E	Dialogue Text	PLAZA ORB / rain shivers	Shivers	The shoulders of your jacket grow heavy. The cold finds its way under your skin. You shiver, and the city shivers with you.	夹克的肩部变得沉重。寒冷一路钻到你的皮肤之下。你颤抖着，整个城市也跟着你一起颤抖。
+0x010000810000171A	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Water runs down your bare chest. The cold finds its way under your skin. You shiver, and the city shivers with you.	雨水沿着你赤裸的胸膛滑落。寒冷一路钻到你的皮肤之下。你颤抖着，整个城市也跟着你一起颤抖。
+0x010000810000172F	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Humid. Your coat shields you from the rain while the city shivers around you.	潮湿。外套帮你挡住了雨水，周围的整座城市都在随你一起颤抖。
+0x010000810000175B	Dialogue Text	PLAZA ORB / rain shivers	Shivers	Winter's grip on the city is loosening. The spring thaw is here.	冬季放松了对这座城市的掌控。春融期已经到来。
+0x0100008100001763	Dialogue Text	PLAZA ORB / rain shivers	You	Finally. What now?	总算好了。现在呢？
+0x0100008100001781	Dialogue Text	PLAZA ORB / rain shivers	Shivers	A yard. Rain falls onto the roof of a woodshed. Filthy water pools around a body. Droplets of rain slip from the dead man's cold cheeks.	一个院子。雨水从小木棚的屋顶上滑落下来。脏水在尸体旁汇成一弯水池。雨滴从死人冰冷的脸颊上滑过。
+0x0100008100001787	Dialogue Text	PLAZA ORB / rain shivers	Shivers	A yard. Rain falls onto the roof of a woodshed. The lingering odour of decomposition mixes with that of damp soil.	一个院子。雨水从小木棚的屋顶上滑落下来。脏水在尸体旁汇成一弯水池。腐烂迟迟不散的味道跟潮湿的泥土味混合在了一起。
+0x0100008100001964	Dialogue Text	PLAZA ORB / rain shivers	Shivers	More coalition aerostatics. Way up there -- where rain forms -- rotors flutter silently. Your sight clears.	更多联盟的静风舰。就在那上方——雨水形成的地方——转子静静地振动着。你的视线变得清晰起来。
+0x0100008100001AFB	Dialogue Text	PLAZA ORB / rain shivers	Esprit de Corps	Patrol Officer Judit Minot stands beneath the awning overhanging the entrance, struggling to open her big black umbrella.	巡警茱蒂特·迈诺特站在入口悬挂的雨篷下，挣扎着想要撑开自己的黑色雨伞。
+0x0100008100003149	Dialogue Text	PLAZA ORB / rain shivers	Nix Gottlieb	The Precinct surgeon, chewing on a piece of candy, throws her a questioning glance, walking by: "Need a hand with that?"	分局的外科医生嘴里咀嚼着一颗糖果，路过的时候向她投去了疑问的一瞥：“需要帮忙吗？”
+0x0100008100003150	Dialogue Text	PLAZA ORB / rain shivers	Judit Minot	"No. Thank you. I got it." She gets the umbrella to open, and, with a quick smile and nod to the surgeon, sprints down the steps. The rain falls all around her...	“不用了，谢谢。我自己能行。”她撑开雨伞，笑着朝医生点点头，随后快步冲下了台阶。雨水降落在她的周围……
+0x01000081000031D4	Dialogue Text	PLAZA ORB / rain shivers	Mack Torson	"Wonder if Vic's found his long lost boyfriend yet." He looks over at Chester McLaine and breaks into a laugh at his own joke. The rain falls outside.	“不知道维克有没有找到他那个失踪很久的男朋友。”他看着切斯特·麦克莱恩，突然被自己的话给逗笑了。雨在外面淅淅沥沥地下着。
+0x01000081000031DB	Dialogue Text	PLAZA ORB / rain shivers	Chester McLaine	"Mack, they're *hetero-sexual life partners*. It's not like that," his partner smirks. "But yeah. There's trouble in paradise for that duo, Tequila Sunset has..." The sound of the rain grows so loud it drowns out his voice.	“老兄，他们是*异性恋生活伴侣*。不是那样的，”他的同伴假笑到。“不过也是。那种双人组的天堂里也是有麻烦的，龙舌兰日落总是……”雨声越来越大，把他的声音渐渐淹没。
+0x0100000400014E50	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Wait -- your old friend has prepared you for this -- at great cost to himself. Make sure you have the spirit bomb in your hand when *shit goes south*.	等等——你的老朋友帮你准备好了——本人还为此付出了极大的代价。当等*情况变坏*的时候，记得手里一定要准备好酒精炸弹。
+0x0100000400014E68	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Wait -- your old friend has prepared you for this -- at great cost to himself. Make sure you have the spirit bomb in your hand when *shit goes south*.	等等——你的老朋友帮你准备好了——本人还为此付出了极大的代价。等*情况变坏*的时候，记得手里一定要准备好酒精炸弹。
+0x0100000400015F33	Dialogue Text	PLAZA ORB / spirit bomb ready	Hand/Eye Coordination	For God's sake -- find some bullets before you go any further. An unloaded gun won't do you any good!	看在老天爷的份上——继续前进之前先找点子弹吧。没上膛的枪也没什么大用啊！
+0x0100000400015F3E	Dialogue Text	PLAZA ORB / spirit bomb ready	Hand/Eye Coordination	For God's sake -- find some bullets before you go any further. An unloaded gun won't do you any good!	看在老天爷的份上——继续前进之前先找点子弹吧。没上膛的枪也没什么大用啊！
+0x0100000400015F4F	Dialogue Text	PLAZA ORB / spirit bomb ready	Hand/Eye Coordination	For God's sake -- find some bullets before you go any further. An unloaded gun won't do you any good!	看在老天爷的份上——继续前进之前先找点子弹吧。没上膛的枪也没什么大用啊！
+0x0100006B000091CF	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Stop. Now. It is time.	停。就是现在。时间到了。
+0x0100006B000091D4	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Yes. And it's not going to be fun.	是的。而且一点都不会好玩。
+0x0100006B000091D9	Dialogue Text	PLAZA ORB / spirit bomb ready	You	Time for the tribunal?	审判时间到了？
+0x0100006B000091DE	Dialogue Text	PLAZA ORB / spirit bomb ready	You	Time to party?	派对时间到了？
+0x0100006B000091E3	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Time for grim, serious, deadly, dangerous. It's not going to be fun.	残酷、严肃、致命、危险的时间到了。而且一点都不会好玩。
+0x0100006B00009206	Dialogue Text	PLAZA ORB / spirit bomb ready	You	What am I supposed to do?	我应该做什么？
+0x0100006B0000920C	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Be prepared. Make sure you have your pepperbox in your hand.	做好准备。保证手里握着你的转管手枪。
+0x0100006B00009211	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Your old friend has prepared you for this -- at great cost to himself. Make sure you have the spirit bomb in your hand when *shit goes south*.	你的老朋友已经为你准备好了——他付出了非常大的代价。等*情况变坏*的时候，记得手里一定要准备好酒精炸弹。
+0x0100006B00009216	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Be prepared. Wield Ruby's double-barrelled pistol.	做好准备。用上露比的双管手枪。
+0x0100006B00009940	Dialogue Text	PLAZA ORB / spirit bomb ready	Hand/Eye Coordination	What you have isn't enough. You'll need more firepower. A ranged weapon.	你现有的东西还不够。你需要更强的火力。一只远程武器。
+0x0100006B00009946	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Stop. Just up ahead: danger.	站住。前方等待你的是：危险。
+0x0100006B0000994C	Dialogue Text	PLAZA ORB / spirit bomb ready	Hand/Eye Coordination	You are prepared. Don't put away your friend. Your weapon.	你已经准备好了。不要抛弃你的朋友。你的武器。
+0x0100006B00009952	Dialogue Text	PLAZA ORB / spirit bomb ready	Interfacing	Raindrops slip from the barrels of your Villiers 9mm pistol.	雨点从你的维利耶9毫米手枪的枪管上滑落。
+0x0100006B00009958	Dialogue Text	PLAZA ORB / spirit bomb ready	Interfacing	Your fingers reflexively reach for the Villiers 9mm pistol in your pocket.	你的手指反射性地扣住了口袋里的维利耶9毫米手枪。
+0x0100006B0000995E	Dialogue Text	PLAZA ORB / spirit bomb ready	Perception (Hearing)	You hear what sounds like an enthusiastic gurgling coming from the spirit bomb in your pocket.	你听见口袋里酒精炸弹的声音，它好像正在狂热的大笑。
+0x0100006B00009966	Dialogue Text	PLAZA ORB / spirit bomb ready	You	[Discard thought.]	[放弃思维。]
+0x0100006B0000996C	Dialogue Text	PLAZA ORB / spirit bomb ready	You	Sounds ominous.	听起来不太吉利啊。
+0x0100006B00009972	Dialogue Text	PLAZA ORB / spirit bomb ready	You	For what?	什么时间？
+0x0100006B00009978	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Crisis, death. You can feel it in your blue soul.	危机，死亡。你可以在自己蓝色的灵魂中感觉到它。
+0x0100006B0000997D	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	It is.	确实是。
+0x0100006B00009982	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	No, no. You cannot get off that easy. This is serious. Lives are at stake.	不不。你不可能这么简单就动身。这很严肃。生命危在旦夕。
+0x0100006B000099A4	Dialogue Text	PLAZA ORB / spirit bomb ready	Authority	What a shitty gun. But it's better than nothing.	这枪也太次了。不过总比没有的好。
+0x0100006B000099AA	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Yours included.	还包括你的。
+0x0100006B00009C73	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Arm yourself with anything you can. Unless you have... nothing? Because you didn't find your lost gun? Then just walk to your death.	想尽一切办法武装自己。除非你……什么也没有？因为你没找到丢失的枪？那你就准备踏入死亡之路吧。
+0x010000780001335A	Dialogue Text	PLAZA ORB / spirit bomb ready	You	"Kim, there's danger. Up ahead."	“金，我感觉到危险。就在前面。”
+0x0100007800013361	Dialogue Text	PLAZA ORB / spirit bomb ready	Kim Kitsuragi	"Yes. I hear commotion..." He cups his ear. "Let's go."	“是的。我听见了骚乱的声音……”他竖起耳朵。“我们走吧。”
+0x010000780001336D	Dialogue Text	PLAZA ORB / spirit bomb ready	Electrochemistry	You know what you should do? Take out the spirit bomb...	你知道自己应该做什么吗？把酒精炸弹拿出来……
+0x0100007800013375	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Shush. He's not drinking the spirit bomb. He's putting it in his hand and he's going to be ready.	嘘。他没有喝掉酒精炸弹。他把它放在手里，然后就准备好了。
+0x0100007800013389	Dialogue Text	PLAZA ORB / spirit bomb ready	Rhetoric	I can talk you out of it, whatever it is.	不管是什么，我都可以说服你的。
+0x0100007800013390	Dialogue Text	PLAZA ORB / spirit bomb ready	Suggestion	You're too likable to die. Don't worry.	你这么讨人喜欢，不会死的。别担心。
+0x01000081000042E7	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Stop. Just up ahead: danger.	站住。前方等待你的是：危险。
+0x01000081000042EE	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	You are prepared. Don't put away your friend. Your weapon. It is glowing in your hand, ready to serve.	你准备好了。不要抛弃你的朋友。你的武器。它在你的手里闪闪发光，随时准备为你服务。
+0x0100008100004306	Dialogue Text	PLAZA ORB / spirit bomb ready	Composure	Raindrops slip down the oily fabric of the tail end of your necktie-turned-fuse.	雨滴降落在你那条油腻领带引线的末端。
+0x0100008100004314	Dialogue Text	PLAZA ORB / spirit bomb ready	Composure	Snow gathers on the oily fabric of the tail end of your necktie-turned-fuse.	雨滴降落在你那条油腻领带引线的末端。
+0x0100008100004321	Dialogue Text	PLAZA ORB / spirit bomb ready	Composure	The oily tail end of your necktie-turned-fuse glistens in the cool spring light.	你那条油腻领带引线末端在寒冷的春光中闪耀。
+0x0100008100004335	Dialogue Text	PLAZA ORB / spirit bomb ready	Interfacing	Snowflakes speck the barrels of your Villiers 9mm pistol.	雪花斑驳地飘落在你的维利耶9毫米手枪的枪管上。
+0x010000810000433B	Dialogue Text	PLAZA ORB / spirit bomb ready	Interfacing	The barrels of your Villiers 9mm pistol shine threateningly in the cold spring light.	维利耶9毫米手枪的枪管在寒冷的春光中闪烁着威胁性的光芒。
+0x0100008100004343	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Stop. Just up ahead: danger.	站住。前方等待你的是：危险。
+0x0100008100004349	Dialogue Text	PLAZA ORB / spirit bomb ready	Hand/Eye Coordination	You are prepared. Don't put away your friend. Your weapon.	你准备好了。不要抛弃你的朋友。还有你的武器。
+0x0100008100004359	Dialogue Text	PLAZA ORB / spirit bomb ready	Interfacing	Snowflakes speck the barrels of your Nachtwey A80 pistol.	雪花斑驳地飘落在你的纳克特威A80手枪的枪管上。
+0x010000810000435E	Dialogue Text	PLAZA ORB / spirit bomb ready	Interfacing	The barrels of your Nachtwey A80 pistol shine threateningly in the cold spring light.	纳克特威A80手枪的枪管在寒冷的春光中闪烁着威胁性的光芒。
+0x0100008100004363	Dialogue Text	PLAZA ORB / spirit bomb ready	Interfacing	Raindrops slip from the barrels of your Nachtwey A80 pistol.	雨滴降落在你的纳克特威A80手枪的枪管上。
+0x0100008100004378	Dialogue Text	PLAZA ORB / spirit bomb ready	Authority	Why don't you take out your trusty Villiers instead?	为什么不拿出你最信赖的维利耶呢？
+0x010000810000437E	Dialogue Text	PLAZA ORB / spirit bomb ready	Logic	There really isn't much of a difference between these two guns...	这两把枪真的没多大区别……
+0x0100008100004384	Dialogue Text	PLAZA ORB / spirit bomb ready	Authority	What?! You can't compare the sidearm issued to you personally by the RCM to the pistol of a known criminal?	什么？！你不能拿RCM发给你个人的武器跟一个知名罪犯的手枪做比较吧？
+0x0100008100004392	Dialogue Text	PLAZA ORB / spirit bomb ready	You	I'm ready to do this.	我已经准备好了。
+0x0100008100004398	Dialogue Text	PLAZA ORB / spirit bomb ready	You	I'll feel prepared as soon as I switch out my real police gun.	当我掏出真正的警枪时，就已经感觉准备好了。
+0x010000810000439E	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Good. Be ready to take damage.	很好。那就准备承受伤害吧。
+0x01000081000043A4	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Do what you need to do. And then keep moving toward the future.	做你需要做的事吧。然后继续朝着未来前进。
+0x01000081000043B9	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	Stop. Just up ahead: danger.	站住。前方等待你的是：危险。
+0x01000081000043F5	Dialogue Text	PLAZA ORB / spirit bomb ready	Interfacing	Water streams down your Kvalsund KR+2 Multi-Tool. It looks impressive -- but what can it do against military-grade weaponry?	雨水从你的库瓦桑德KR+2多用工具上淌下。它是让人印象深刻——但是怎么可能对抗军事级武器呢？
+0x01000081000043FB	Dialogue Text	PLAZA ORB / spirit bomb ready	Physical Instrument	Water streams down your prybar. Or crowbar. Or prybar. Call it what you will -- it doesn't stand a chance against military-grade weaponry.	雨水从你的撬棍上淌下。或者是铁撬。或者叫撬棒也行。随你怎么称呼——但它在军事级武器面前毫无胜算。
+0x0100008100004401	Dialogue Text	PLAZA ORB / spirit bomb ready	Encyclopedia	Statistically speaking, sabres have proven to be rather ineffective against  military technology.	从统计学的角度来讲，军刀已经被证实完全无法有效对抗军事技术。
+0x0100008100004407	Dialogue Text	PLAZA ORB / spirit bomb ready	Interfacing	Snowflakes stick to your Kvalsund KR+2 Multi-Tool. It looks impressive -- but what can it do against military-grade weaponry?	雪花附着在你的库瓦桑德KR+2多用工具上。它是让人印象深刻——但是怎么可能对抗军事级武器呢？
+0x010000810000440D	Dialogue Text	PLAZA ORB / spirit bomb ready	Physical Instrument	Snowflakes stick to your prybar. Or crowbar. Or prybar. Call it what you will -- it doesn't stand a chance against military-grade weaponry.	雪花附着在你的撬棍上。或者是铁撬。或者叫撬棒也行。随你怎么称呼——但它在军事级武器面前毫无胜算。
+0x0100008100004413	Dialogue Text	PLAZA ORB / spirit bomb ready	Encyclopedia	Statistically speaking, sabres have proven to be rather ineffective against advanced military technology.	从统计学的角度来讲，军刀已经被证实完全无法有效对抗先进的军事技术。
+0x0100008100004419	Dialogue Text	PLAZA ORB / spirit bomb ready	Interfacing	Your Kvalsund KR+2 Multi-Tool looks impressive, shining in the cold spring light -- but what can it do against military-grade weaponry?	你的库瓦桑德KR+2多用工具在寒冷的春光下闪闪发亮，给人留下了深刻的印象——但是它能怎么对抗军事级武器呢？
+0x010000810000441F	Dialogue Text	PLAZA ORB / spirit bomb ready	Physical Instrument	You try to take comfort in the weight of your prybar. Or crowbar. Or prybar. Call it what you will -- it doesn't stand a chance against military-grade weaponry.	你试着从手中撬棍的重量上寻求安慰。或者是铁撬。或者叫撬棒也行。随你怎么称呼——但它在军事级武器面前毫无胜算。
+0x0100008100004425	Dialogue Text	PLAZA ORB / spirit bomb ready	Encyclopedia	Statistically speaking, sabres have proven to be rather ineffective against advanced military technology.	从统计学的角度来讲，军刀已经被证实完全无法有效对抗先进的军事技术。
+0x01000081000044C2	Alternate1	PLAZA ORB / spirit bomb ready	You	"I prefer hand-to-hand combat. It's more honourable."	“我更喜欢徒手格斗。这样更光荣一些。”
+0x01000081000044C2	Dialogue Text	PLAZA ORB / spirit bomb ready	You	I prefer hand-to-hand combat.	我更喜欢徒手格斗。
+0x01000081000044C8	Dialogue Text	PLAZA ORB / spirit bomb ready	You	"I'm not sure I feel ready for what lies ahead."	“我不确定有没有准备好面对前方的一切。”
+0x01000081000044CE	Alternate1	PLAZA ORB / spirit bomb ready	Inland Empire	And you think you're off to die an honourable death? What about the lives of the people depending on you?	那你是想光荣的死去了？那依靠你的那些人呢，他们的性命怎么办？
+0x01000081000044CE	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	This is not the time to discuss preferences. It's not just your own life that will be at stake.	没时间讨论什么偏好了。不仅仅是你一个人的生命危在旦夕。
+0x01000081000044D4	Dialogue Text	PLAZA ORB / spirit bomb ready	Kim Kitsuragi	"Then you'd better get ready." He frowns, then quickly adds, "Whatever happens, I've got your back."	警督皱了皱眉。“那你最好做好准备，”他飞快地补充到。“不论发生什么，我都在你背后。”
+0x01000081000044E3	Dialogue Text	PLAZA ORB / spirit bomb ready	You	I'll fight with my bare hands if I have to.	如果有必要的话，我就用两只手战斗。
+0x01000081000044E9	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	It would be better if you didn't have to. It's not just your own life that will be at stake.	如果不用这样会更好一些。不仅仅是你一个人的生命危在旦夕。
+0x01000081000044F2	Dialogue Text	PLAZA ORB / spirit bomb ready	You	I'm scared...	我害怕……
+0x01000081000044F9	Dialogue Text	PLAZA ORB / spirit bomb ready	Inland Empire	This isn't the time for fear. Go.	现在没时间害怕。走吧。
+0x010000040000C88A	Dialogue Text	PLAZA ORB / working class husband	Authority	There! Working class drunk! You know what this means, right?	看啦！工人阶级醉汉！你应该知道这是什么意思，对吧？
+0x010000040000C891	Dialogue Text	PLAZA ORB / working class husband	Authority	Who's Dick Mullen now?	迪克·马伦又是谁啊？
+0x010000040000C898	Dialogue Text	PLAZA ORB / working class husband	You	[Discard thought.]	[放弃思维。]
+0x010000040000C89E	Dialogue Text	PLAZA ORB / working class husband	You	Case solved!	案子解决了！
+0x010000040000C8A6	Dialogue Text	PLAZA ORB / working class husband	You	I am.	是我。
+0x010000040000C8AD	Dialogue Text	PLAZA ORB / working class husband	Authority	Cracked it. All in a good day's work.	全部搞定。只用好好工作一天就够了。
+0x010000040000C8B4	Dialogue Text	PLAZA ORB / working class husband	You	Wait, what did I crack exactly?	等等，我到底搞定什么了？
+0x010000040000C8BB	Dialogue Text	PLAZA ORB / working class husband	You	Open and shut. I don't even need to think about this anymore. Goodbye. [Finish thought.]	太明显了。我甚至都不用再想一遍。再见。[完成思维。]
+0x010000040000C8C2	Dialogue Text	PLAZA ORB / working class husband	Authority	What do you mean *what did I crack*? Look at how working class that drunk is!	你说*我搞定什么了*是什么意思？看看那个醉汉有多工人阶级？
+0x010000040000C8C9	Dialogue Text	PLAZA ORB / working class husband	You	It's her husband! The missing husband!	那是她的丈夫！那个不见的丈夫！
+0x010000040000C8CF	Dialogue Text	PLAZA ORB / working class husband	You	It's the future leader of a proletarian uprising.	那是工人阶级起义的未来领袖。
+0x010000040000C8D5	Dialogue Text	PLAZA ORB / working class husband	You	It's... uhm... some third option?	那是……呃……第三个选项？
+0x010000040000C8E7	Dialogue Text	PLAZA ORB / working class husband	Authority	No. Stop goofing around, recruit!	不是。不要再搞些乱七八糟的了，新人！
+0x010000040000C8ED	Dialogue Text	PLAZA ORB / working class husband	Authority	No, it's not.	不，不是的。
+0x010000040000C8FB	Dialogue Text	PLAZA ORB / working class husband	Authority	Yes. And you found him. Now go and tell the working class woman. Protect and serve, recruit!	是的。而且你发现他了。现在去告诉那个女工人吧。保护市民，服务市民，新人！
+0x010000040000C902	Dialogue Text	PLAZA ORB / working class husband	Logic	Didn't she repeatedly tell you her husband isn't missing though?	她不是再三告诉你自己的丈夫没有失踪吗？
+0x010000040000C909	Dialogue Text	PLAZA ORB / working class husband	Empathy	But he *is* missing. You heard her, the worry in her voice.	但他*确实*失踪了啊。你也听到她说了，口气那么担心。
+0x0100002B0000542A	Dialogue Text	PLAZA ORB / working class husband	Authority	Do marriages make any sense? Does honour? You're not a filthy philosopher, you're an officer of law. It's time to *ace this case* and not brood over your reputation. We can deal with the perception management later.	婚姻有意义吗？很光荣呢？你不是一个肮脏的哲学家，你是一名执法人员。是时候*把案子放在第一位*了，不要太计较自己的名声。我们可以之后再处理知觉管理的问题。
+0x0100002B0000543C	Dialogue Text	PLAZA ORB / working class husband	Authority	Not honourable, recruit!! Not honourable at all.	没什么好光荣的，新人！一点都不光荣。
+0x0100002B00005448	Dialogue Text	PLAZA ORB / working class husband	You	This is non-sense. [Discard the thought.]	这都是废话。[放弃思维。]
+0x0100002B00005455	Dialogue Text	PLAZA ORB / working class husband	You	Give me champagne! I'm going *in*.	给我来杯香槟！我要*加入*。
+0x0100002B0000545B	Dialogue Text	PLAZA ORB / working class husband	You	This doesn't add up. I'm only making a fool of myself.	这样说不通。我只会让自己出洋相的。
+0x0100002B00005467	Dialogue Text	PLAZA ORB / working class husband	Authority	There's no need for champagne when there's honour, recruit. Go and tell the working class woman what you found *right now*.	如果有荣誉的话，就不需要香槟了，新人。*马上*把你的发现告诉女工人吧。
