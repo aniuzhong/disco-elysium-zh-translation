@@ -1,0 +1,185 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060001854E	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	There it still is -- inviting you to...	它还在那儿——邀请着你……
+0x0100000600018557	Dialogue Text	OFFICE / FILE CABINET	You	Anything interesting? (Browse them.)	有什么有意思的吗？（浏览。）
+0x0100000600018561	Dialogue Text	OFFICE / FILE CABINET	Inland Empire	Doesn't look too incriminating -- but still feels like a *find*.	好像没什么犯法的——不过感觉还是有*发现*的。
+0x0100000600018569	Dialogue Text	OFFICE / FILE CABINET	Electrochemistry	What is so special about this *borscht*? Code for drugs? Booze? Blood?	这个*罗宋汤*有什么特别的？毒品的暗号？酒？血？
+0x0100000600018571	Alternate1	OFFICE / FILE CABINET	You	Take another look at the note.	再看一眼便条。
+0x0100000600018571	Dialogue Text	OFFICE / FILE CABINET	You	Read the note.	阅读便条。
+0x0100000600018578	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	All items on the list have been crossed out and the note itself is crumpled.	清单上所有项目都被划掉了，便条本身也皱皱巴巴的。
+0x010000060001857E	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	REMEMBER, LEO!\n\n* EVRART'S SHOES\n* SPECIAL WHIRLING BORSCHT\n* WATER EVRART'S PLANTS\n* SWEEP OFFICE FLOOR\n* MORE BANNERS	一定要记住，利奥！\n\n*艾弗拉特的鞋子\n*飞旋餐厅特制罗宋汤\n*给艾弗拉特的植物浇水\n*打扫办公室的地板\n*再多一点横幅
+0x0100000800001170	Dialogue Text	OFFICE / FILE CABINET	You	"Never mind the note." (Close the drawer.)	“不管便条。”（关上抽屉。）
+0x0100000800001177	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	It appears to be a to-do list written in large, uneven capital letters:	看起来像是一张任务清单，上面都是歪歪斜斜的大写字母：
+0x010000080000117D	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	The drawer slides shut smoothly.	抽屉缓缓关上了。
+0x0100000800001187	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	REMEMBER, LEO!\n\n* EVRART'S SHOES\n* SPECIAL WHIRLING BORSCHT\n* WATER EVRART'S PLANTS\n* SWEEP OFFICE FLOOR\n* MORE BANNERS	一定要记住，利奥！\n\n*艾弗拉特的鞋子\n*飞旋餐厅特制罗宋汤\n*给艾弗拉特的植物浇水\n*打扫办公室的地板\n*再多一点横幅
+0x01000008000011DF	Alternate1	OFFICE / FILE CABINET	Kim Kitsuragi	He inspects the note. "One of his aides must have left it. Nothing incriminating here."\n	他看了看便条。“肯定是他的助手留下的。这里没什么犯法的。”
+0x01000008000011DF	Alternate2	OFFICE / FILE CABINET	Kim Kitsuragi	"Evrart Claire, probably -- the head of the Débardeurs' Union." He inspects the note. "Leo must have left it. Nothing incriminating here."\n	“可能是艾弗拉特・克莱尔--装卸工会的会长。”他看了看便条。“应该是利奥留在这里的。这里没什么犯法的。”
+0x01000008000011DF	Alternate3	OFFICE / FILE CABINET	Kim Kitsuragi	He inspects the note. "Leo must have left it. Nothing incriminating here."\n	他看了看便条。“肯定是利奥留下的。这里没什么犯法的。”
+0x01000008000011DF	Dialogue Text	OFFICE / FILE CABINET	Kim Kitsuragi	"Evrart Claire, probably -- the head of the Débardeurs' Union." He inspects the note. "One of his aides must have left it. Nothing incriminating here."	“可能是艾弗拉特·克莱尔--装卸工会的会长。”他看了看便条。“应该是他的助手留在这里的。没什么犯法的。”
+0x01000008000011EB	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	All items on the list have been crossed out and the note itself is crumpled.	清单上所有项目都被划掉了，便条本身也皱皱巴巴的。
+0x01000008000011FE	Alternate1	OFFICE / FILE CABINET	Kim Kitsuragi	"Evrart has someone running errands for him." He points to the list. "Nothing incriminating here, though."\n	“艾弗拉特找人帮他跑腿。”他指了指清单。“不过，这里没什么犯法的。”
+0x01000008000011FE	Alternate2	OFFICE / FILE CABINET	Kim Kitsuragi	"The Débardeurs' Union leader, Evrart Claire, has Leo running errands for him." He points to the list. "Nothing incriminating here, though."\n	“装卸工会的会长，艾弗拉特・克莱尔，让利奥帮他跑腿。”他指了指清单。“不过，这里没什么犯法的。”
+0x01000008000011FE	Alternate3	OFFICE / FILE CABINET	Kim Kitsuragi	"Evrart has Leo running errands for him." He points to the list. "Nothing incriminating here, though."\n	“艾弗拉特让利奥帮他跑腿。”他指了指清单。“不过，这里没什么犯法的。”
+0x01000008000011FE	Dialogue Text	OFFICE / FILE CABINET	Kim Kitsuragi	"The leader of the Débardeurs' Union, Evrart Claire, has someone running errands for him." He points to the list. "Nothing incriminating here, though."	“装卸工会的会长，艾弗拉特·克莱尔，找人帮他跑腿。”他指了指清单。“不过，这里没什么犯法的。”
+0x010000080000120A	Dialogue Text	OFFICE / FILE CABINET	You	(Turn to the lieutenant.) "Look, Kim, a to-do note with a list of errands for *Evrart*."	（转向警督。）“看，金，一张帮*艾弗拉特*跑腿的待办事项清单。”
+0x0100000800001210	Dialogue Text	OFFICE / FILE CABINET	You	Ignore the note.	无视便条。
+0x0100000800001216	Dialogue Text	OFFICE / FILE CABINET	Logic	The *special* borscht seems a bit odd in the list.	清单上这个*特制*罗宋汤好像有点奇怪。
+0x0100002F0001144C	Dialogue Text	OFFICE / FILE CABINET	You	Open the drawer.	打开抽屉。
+0x0100004C00006A1C	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	The drawer opens smoothly. Inside is a well-organized selection of brown folders.	抽屉顺畅地打开了。里面放着整洁有序的棕色文件夹。
+0x0100004C00006A25	Dialogue Text	OFFICE / FILE CABINET	Interfacing	It's probably on rails.	大概已经装上火車了。
+0x0100004C00006A32	Dialogue Text	OFFICE / FILE CABINET	You	Close the drawer. [Leave.]	关上抽屉。[离开。]
+0x0100004C00006B06	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	The drawer slides shut smoothly.	抽屉缓缓关上了。
+0x0100004C00006B0E	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	On second glance, someone has forgotten to properly close one of the drawers.	再一看，有人忘记把其中一个抽屉关好了。
+0x0100004C00006B16	Dialogue Text	OFFICE / FILE CABINET	You	Ignore drawer for now. [Leave.]	先不管那个抽屉。[离开。]
+0x0100004C00006B21	Dialogue Text	OFFICE / FILE CABINET	Kim Kitsuragi	"It's *unfortunate* for the Union to just leave their paperwork lying around like this..."	“工会的人就把文件这么放着，还真是有点*不幸*呢……”
+0x0100006B000060F6	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	The file cabinet stands steady as ever and the unlocked drawer slides out to greet you.	文件柜还是一如以往地稳稳站着，倒是没上锁的抽屉滑出来迎接你。
+0x010000820001F16E	Dialogue Text	OFFICE / FILE CABINET	Esprit de Corps	...let's see what's inside, he thinks.	……看看里面有什么吧，他在想。
+0x010000820001F1C0	Dialogue Text	OFFICE / FILE CABINET	You	Browse through the folders.	翻阅文件夹。
+0x010000820001F1CE	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	Hundreds of documents containing logistical data. Two kinds of transactions stand out: materials coming into Revachol from the outside world -- from Mundi, Graad, and even Iilmaraa...	抽屉里有好几百份物流数据的文件。其中有两类交易比较突出：从外部世界——蒙迪、格拉德、甚至是伊尔玛进口到瑞瓦肖的物料……
+0x010000820001F1DB	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	It's hard to make sense of this thicket of company names, dates, quantities, and percentages. You try to focus, but the lines are getting blurry...	这么厚厚一沓公司名称、日期、数量还有百分数，很难弄清它们的含义。你试着集中精神，但是那些线条变得越来越模糊……
+0x010000820001F1EA	Dialogue Text	OFFICE / FILE CABINET	You	Force yourself to go through the folders.	强迫自己仔细查看文件。
+0x010000820001F1EA	tooltip1	OFFICE / FILE CABINET	You	Volition thought focusing.	集中意志力。
+0x010000820001F1EA	tooltip2	OFFICE / FILE CABINET	You	Dresscode: Modus Mullen.	着装要求：模式马伦。
+0x010000820001F1FC	Dialogue Text	OFFICE / FILE CABINET	Volition	Look how blurry all the lines on these papers are -- how unwieldy your own willpower is to yourself. You're like an absurdist Samaran monk -- focusing through not focusing.	看看这些文件上的线条有多模糊——看看你自己的意志力有多么的笨拙。你就像个荒诞派的萨满僧人——通过不集中来让自己集中。
+0x010000820001F202	Dialogue Text	OFFICE / FILE CABINET	Volition	Whatever's hidden here is hidden well. Concentration isn't enough, only a trained accountant, with a background in logistics, would be able to *really* make sense of it. However there *is* a little hand-written note, stuck on the side of the drawer.	不管这里到底隐藏着什么，确实隐藏的很好。专注是不够的，只有拥有物流背景、训练有素的会计师，才能*真正*搞懂里面的含义。不过，抽屉侧面*确实*卡着一张手写的便条。
+0x010000820001F20A	Dialogue Text	OFFICE / FILE CABINET	Conceptualization	Hermeneutics was almost within your grasp, but now only vague letters float before your eyes. Less meaningful, but aesthetically more pleasing.	你差一点就能掌握解释学了，但是现在你眼前浮现的只是模糊不清的字母。字义消退了，但从审美的角度来看更赏心悦目了。
+0x010000820001F21D	Dialogue Text	OFFICE / FILE CABINET	You	Could I actually focus through *not* focusing?	我真的可以通过*不集中*来集中吗？
+0x010000820001F223	Dialogue Text	OFFICE / FILE CABINET	You	Leave the folders alone for now.	暂时不管那些文件夹。
+0x010000820001F22A	Dialogue Text	OFFICE / FILE CABINET	You	"If I let my eyes go completely out of focus, all shapes start melting into each other."	“如果我让自己的双眼完全不对焦，这些形状就会开始互相融合。”
+0x010000820001F232	Dialogue Text	OFFICE / FILE CABINET	Volition	You are a police officer, not a spiritual healer. You can focus the normal way by turning your attention to something and not letting go.	你是个警察，不是灵性治疗师。你可以用正常的方式来集中，只要把注意力集中到一件事情上，然后不放松就可以了。
+0x010000820001F242	Dialogue Text	OFFICE / FILE CABINET	Kim Kitsuragi	"Is that what you're doing with those folders over there?"	“你就是这样处理那些文件夹的吗？”
+0x010000820001F249	Dialogue Text	OFFICE / FILE CABINET	You	"Yes."	“是啊。”
+0x010000820001F24F	Dialogue Text	OFFICE / FILE CABINET	You	"No, of course not."	“没有啊，当然不是了。”
+0x010000820001F255	Dialogue Text	OFFICE / FILE CABINET	You	"Let's just get back to work, lieutenant."	“我们还是继续工作吧，警督。”
+0x010000820001F25E	Dialogue Text	OFFICE / FILE CABINET	Kim Kitsuragi	"Right." The lieutenant's expression stiffens. "This is probably not relevant to our case. After all, we are not investigating an accounting mystery."	“很好。”警督的表情略显僵硬。“这个可能跟我们的案子没有关系。毕竟我们不是在调查什么会计谜案。”
+0x010000820001F26A	Dialogue Text	OFFICE / FILE CABINET	Kim Kitsuragi	"Good." He turns away from the file cabinet. "This is probably not relevant to our case anyway. After all, we are not investigating an accounting mystery."	“很好。”他转身离开了文件柜。“这个可能跟我们的案子没有关系。毕竟我们不是在调查什么会计谜案。”
+0x010000820001F272	Dialogue Text	OFFICE / FILE CABINET	Kim Kitsuragi	"My thought exactly, officer." He turns away from the file cabinet. "Shall we?"	“我也是这么想的，警官。”他转身离开了文件柜。“可以走了吗？”
+0x010000820001F284	Dialogue Text	OFFICE / FILE CABINET	Volition	You're trying hard, but the data here is *unbelievably* dry. Something about containers...	你很努力地尝试，但是这些数据简直枯燥的让人*难以置信*。但是这些集装箱……
+0x010000820001F2ED	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	...and the same materials being handed over to companies inside Revachol. Couron, Coal City, La Delta, and Jamrock are listed among the many districts where the imports are being sold.	……还有相同的物料运往瑞瓦肖的一家公司。这些进口商品在很多区域销售，其中就包括科戎、煤城、德尔塔和加姆洛克。
+0x010000820001F407	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	The file cabinet stands steady as ever. Sliding out a drawer presents you the folders you already went through. On top of them is the handwritten note.	文件柜还是一如以往地稳稳站着。打开的抽屉里装着你已经翻阅过的文件夹。在那上面是一张手写的便条。
+0x010000820001F419	Dialogue Text	OFFICE / FILE CABINET	File Cabinet	You already went through all of these.	你已经都翻过一遍了。
+0x010000820001FA2A	Dialogue Text	OFFICE / FILE CABINET	You	Look at the note.	查看便条。
+0x010000060001858B	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Punch Clock/Payphone	Still calling... then...	还在呼叫中……然后……
+0x01000006000185A4	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Shivers	Tiny heels, tip-toeing down the road. Beautiful steps, light-footed, with a lifetime ahead of them. You look up and the air seems to grow darker.	细高跟，踮着脚走在路上。脚印很漂亮，步伐轻盈，往后余生就在它们之前延展开来。你抬头仰望，天空似乎变得更加阴暗了。
+0x01000021000010A2	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"My name is Harry Du Bois. Do you have anything on my name?"	“我叫哈里·杜博阿。我名下有租借什么东西吗？”
+0x01000021000010AA	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"My name is Harry Something. Do you have anything on my name?"	“我叫哈里什么的。我名下有租借什么东西吗？”
+0x01000021000010B0	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	"What did you say your last name was?"	“您刚才说姓什么来着？”
+0x01000021000010B8	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"Something."	“姓什么的，我也不知道。”
+0x01000021000010BF	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"Can't we do it without my last name? I can't really remember it."	“非要姓氏吗？我真的记不住了。”
+0x01000021000010C5	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	"Listen, man, I can't help you without your surname." He sounds annoyed now. "If you need further assistance you can visit us on the corner of Voyager and Main. Are we done?"	“我说这位哥们，没有姓氏我帮不到你。”他的声音明显有些不耐烦。“如果你还需要什么的话，可以到远航路和主路的拐角的店里来。还有别的事吗？”
+0x01000021000010CC	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	"*Something?* Listen, I can't help you." He sounds annoyed now. "If you need further assistance you can visit us on the corner of Voyager and Main. Are we done?"	“*不知道*？听好了，那我帮不了你。”他的声音明显有些不耐烦。“如果你还需要什么的话，可以到远航路和主路的拐角的店里来。还有别的事吗？”
+0x01000021000010D6	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"My name is Raphaël Ambrosius Costeau. Do you have anything on my name?"	“我叫拉斐尔·安普罗修斯·库斯托。我名下有租借什么东西吗？”
+0x01000021000010DD	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	"Raphaël *what*? Listen, I can't help you over the phone." He sounds annoyed now. "If you need further assistance you can visit us on the corner of Voyager and Main. Are we done?"	“拉斐尔，*什么*？是这样的，电话里我没办法帮你。”他的声音明显有些不耐烦。“如果你还需要什么帮助的话，可以到远航路和主路的拐角的店里来。还有别的事吗？”
+0x010000820001EDD3	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Punch Clock/Payphone	The machine swallows your coin and seems to be waiting for your next move.	机器吞掉了你的硬币，好像在等着你的下一步行动。
+0x010000820001EDD8	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	[Leave.]	[离开。]
+0x010000820001EDE8	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	Let your muscle memory dial a random number.	用自己的肌肉记忆随便拨一个号码。
+0x010000820001EDE8	tooltip1	OFFICE / PUNCHCLOCK AND PHONE	You	Heard your name.	听过你的名字。
+0x010000820001EDE8	tooltip2	OFFICE / PUNCHCLOCK AND PHONE	You	Long Way Home.	漫漫回家路。
+0x010000820001EDE8	tooltip3	OFFICE / PUNCHCLOCK AND PHONE	You	Amber Die with a Mosquito.	带蚊子的琥珀骰子。
+0x010000820001EDF6	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	"No."	“不认得。”
+0x010000820001EDFC	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	"Maybe you called to extend your rental period? Do you need to extend your rental period?"	“你打过来是想延长租借期吗？是否需要延长租借期呢？”
+0x010000820001EE02	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"Maybe, but I don't even know my *name*."	“也许是吧，但是我不记得自己的*名字*了。”
+0x010000820001EE37	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"What is this place?"	“这是什么地方？”
+0x010000820001EE3D	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	"Video Revachol is a 24 hour video rental. We rent eight and ten millimetre film for home use. This is Lemmy."	“瑞瓦肖影像店全天24小时为您提供录影带租借服务。我们提供家用的8毫米以及10毫米影片。我是莱米。”
+0x010000820001EE43	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"Do you know me?"	“你认得我吗？”
+0x010000820001EE49	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"Why did I call you?" (Continue.)	“我为什么要打给你？”（继续。）
+0x010000820001EE5B	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	...a crackle, someone picks up! They say: "Video Revachol, 24 hour video rental. We rent eight- and ten-millimetre film for home use. This is Lemmy, how may I help you?"	……那头传来嘟嘟的声响，有人接通了！一个声音响起：“瑞瓦肖影像店全天24小时为您提供录影带租借服务。我们提供家用的8毫米以及10毫米影片。我是莱米，请问您需要什么服务？”
+0x010000820001EE89	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"My name is Harrier Du Bois. Do you have anything on my name?"	“我叫哈里尔·杜博阿。我名下有借什么东西吗？”
+0x010000820001EE8F	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"No, I meant what is this place to *me*?"	“不是，我是说，对于*我*来说，是什么地方？”
+0x010000820001EE95	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	"Sir, I don't know. It's a video rental. Maybe you rent videos here?"	“先生，我不知道。这里是录像带租借店。也许你在这里租过录像带？”
+0x010000820001EE9B	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	"If you need any further assistance you can visit us on the corner of Voyager and Main." He sounds annoyed now. "I can't help you over the phone -- are we done?"	“如果您还需要更多帮助的话，可以到远航路和主路的拐角找我们。”他的声音听起来有些窝火。“我在电话里可帮不了你什么忙——还有别的事吗？”
+0x010000820001EEA1	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	"Uh... it's not an easy watch." He reads: "'After the death of his daughter and subsequent divorce, Zsiemsk immigrant Igidius Wójcik tries to come to terms with the onset of dementia...'"	“呃……这个片子并不好看。”他念到：“他的女儿去世，紧接着又跟老婆离婚，在那之后，西姆斯科就移民到伊戈迪斯·武伊齐克，静静等待痴呆症发作……”
+0x010000820001EEAE	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	He concludes: "No wonder no one's been missing it. Still, it would be great if you could return it to us. We're on the corner of Voyager and Main."	他总结道：“难怪没人挂念它。不过，要是你能把它还过来就最好了。我们就在远航路和主路的拐角。”
+0x010000820001EECD	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Inland Empire	*It*.	*是它*。
+0x010000820001EFAC	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Punch Clock/Payphone	An imposing combination of a punch-clock and a payphone is looking down at you from the wall. A note on the side says: "Tokens unavailable due to strike. Use change."	一个很显眼的组合挂在墙上俯视着你：一个打卡钟和一台公共电话。旁边有一张便条，上面写着：“由于罢工，无法使用代币。请使用硬币。”
+0x010000820001EFB1	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Punch Clock/Payphone	The already familiar cold touch of plastic welcomes you as you pick up the handset.	你拿起听筒，塑料那冰冷而又熟悉的触感还在欢迎着你。
+0x010000820001EFBD	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	Insert 10 cents.	投入10分的硬币。
+0x010000820001EFD6	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Interfacing	Your fingers run over the dial pad. 005... that's the dialling code for Revachol -- 49-52... and a moment of hesitation before entering the final numbers: 993.	你的手指划过拨号盘。005……——那是瑞瓦肖的电话区号——49-52……犹豫片刻之后，你拨动了最后几个数字：993。
+0x010000820001EFDB	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Interfacing	It's unclear whether you actually have muscle memory. Right now your finger is just drawing vaguely occult patterns in the air.	为什么真有肌肉记忆这种事，还不是很清楚。眼下，你的手指不过是在空气中茫然地描绘着神秘的图案。
+0x010000820001EFEC	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	Useful patterns?	有用的图案？
+0x010000820001EFF3	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	I might try this again later.	也许之后我可以再试一次。
+0x010000820001EFFA	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Interfacing	Undoubtedly, no.	毫无疑问，没用。
+0x010000820001F001	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Interfacing	Sure, why not. Muscle memory is a tricky thing.	当然，为什么不可以呢。肌肉记忆是一种比较难以捉摸的东西。
+0x010000820001F014	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Physical Instrument	Nothing tricky about that. You just *do*, *fail*, *repeat* until it works. All it takes is motivation and practice.	没什么难以捉摸的。你只不过是*去做*，*失败*，*重复*直到成功为止。只需要动机和实践而已。
+0x010000820001F028	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Perception (Hearing)	The voice of a youngster on the other end sounds as enthusiastic as that of a man walking towards the gallows.	电话那头响起一个年轻的声音，就像走向绞刑架的人那样热情。
+0x010000820001F058	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	"Let me fire up the machine..." Keys are being pressed in the background. "Du Bois... Du Bois..."	“我先开动机器……”电话那头传来钥匙转动的声音。“杜博阿……杜博阿……”
+0x010000820001F05F	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"What kind of a film is that?"	“是什么类型的电影？”
+0x010000820001F065	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"Oh, okay. Thanks."	“哦，好吧。谢谢。”
+0x010000820001F07E	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	"If you can, return it to us on the corner of Voyager and Main."	“如果可以的话，能不能把它还回来呢？我们就在远航路和主路的拐角。”
+0x010000820001F087	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Empathy	He thinks you're pulling a prank on him.	他觉得你在戏弄他。
+0x010000820001F0AD	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Shivers	On the corner of Voyager and Main a large neon sign hangs on the side of a building: "Video Revachol, 24h." It's raining and there is almost no traffic on the street. A woman's footprints in the mud lead away from the front door.	远航路和主路的拐角，一栋建筑旁边悬挂着一个巨大的霓虹灯广告牌：“瑞瓦肖影像店，24小时营业。”天上正在下雨，街道上几乎没有来往的車辆。前门的泥地里残留着一个女人的脚印。
+0x010000820001F0DF	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Inland Empire	Suddenly you feel like you don't want to hear about video rentals anymore. You don't want to hear about *any of it*. It was all shit. It's over.	突然之间，你不想知道录像带租赁的事了。你*什么*都不想知道。那一切都是屁话。全都结束了。
+0x010000820001F0F9	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	The call is terminated by the other party. You're left with the discomforting sound of the disconnect tone.	对方挂上了电话。你被一个人留在原地，耳边传来恼人的断线音。
+0x010000820001F101	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	What was all shit?	都是些什么狗屁玩意？
+0x010000820001F110	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"Kim, I feel sad about Video Revachol 24h."	“金，我为24小时营业的瑞瓦肖影像店感到悲伤。”
+0x010000820001F11D	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	"We're done." Hang up the phone. [Leave.]	“没事了。”挂上电话。[离开。]
+0x010000820001F124	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Kim Kitsuragi	"That's enough for you today," the lieutenant says quietly. "Let's conclude this call."	“今天差不多就这样吧，”警督静静地开了口。“结束这次通话吧。”
+0x010000820001F155	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Punch Clock/Payphone	The payphone hangs mutely on the wall. There isn't much more to do here.	公共电话一言不发地挂在墙上。在这里没什么要做的了。
+0x010000820001FA0B	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Punch Clock/Payphone	Calling...	拨号中……
+0x010000820001FA13	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Punch Clock/Payphone	Calling...	拨号中……
+0x010000820001FA1B	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	Video Revachol, 24h	"Here we are! You haven't rented anything in five years, but you still have a copy of *Blue Ocean Hell* from November '46. Wooh, not a fun film, that one."	“您好！您已经有5年没在这里租过东西了，不过您名下还有一部46年11月租的*蓝海地狱*。呃，那部电影可算不上有趣呢。”
+0x010000820001FAF5	Dialogue Text	OFFICE / PUNCHCLOCK AND PHONE	You	Quietly hang up the phone. [Leave.]	静静地挂上电话。[离开。]
+0x0100000F0000E7B6	Dialogue Text	OFFICE / SECRETARYS RADIO	Office Radio	A common office radio, like any of those found in countless waiting rooms, lounges, and other semi-public spaces all over the world.	一个普通的办公室收音机。跟全世界无数等候室、休息室与其他半公共空间里的收音机没什么区别。
+0x0100000F0000E7C1	Alternate1	OFFICE / SECRETARYS RADIO	You	"Kim, how do I get the transceiver out of this thing?"	“金，你知道怎么把收发器从这东西里拿出来吗？”
+0x0100000F0000E7C1	Dialogue Text	OFFICE / SECRETARYS RADIO	You	How do I get the transceiver out of this thing?	我要怎么把收发器从这东西里拿出来？
+0x0100000F0000E7DC	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"What do you need with another transceiver? It's almost exactly like the one you took from that radiocomputer in the Doomed Commercial Area."	“你又要收发器干什么？这跟你从诅咒商业区的无线电脑上拿下来的那个没什么区别吧。”
+0x0100000F0000E7E2	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	The lieutenant gives you a brief nod.	警督对你点了点头。
+0x0100000F0000E7E7	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"You sound pathological, you know that? Now come on, let's stop wasting time."	“我觉得你有点毛病，知道吗？行了，别浪费时间了。”
+0x0100000F0000E7EC	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"There's usually a little switch somewhere... Ah, yes, it's the one that says 'RELEASE'." The lieutenant points to the side of the radio.	“一般都会在哪里有个小开关……啊，对，写着‘解除’的那个。”警督指着收音机的侧面。
+0x0100000F0000E7F2	Dialogue Text	OFFICE / SECRETARYS RADIO	You	"But Kim, I need to collect *all* the radio transceivers. For thoroughness' sake."	“可是，金，我必须收集*所有*收发器。确保万无一失。”
+0x0100000F0000E7FA	Dialogue Text	OFFICE / SECRETARYS RADIO	You	"Good point, no need to be greedy."	“说得对，没必要这么贪心。”
+0x0100000F0000E805	Dialogue Text	OFFICE / SECRETARYS RADIO	Office Radio	You have no need for this transceiver, because you already have one just like it.	你用不着这个收发器，因为已经有一个和这差不多的了。
+0x0100000F0000E80C	Dialogue Text	OFFICE / SECRETARYS RADIO	You	Good point, no need to be greedy.	说得对，没必要这么贪心。
+0x0100000F0000E811	Dialogue Text	OFFICE / SECRETARYS RADIO	You	But what if I want *another* one, as a backup?	但我要是*还*想要个备用的呢？
+0x0100000F0000E81A	Dialogue Text	OFFICE / SECRETARYS RADIO	Office Radio	The radio appreciates your restraint. It buzzes contentedly.	收音机嗡嗡作响，仿佛在感谢你的克制。
+0x0100000F0000E820	Dialogue Text	OFFICE / SECRETARYS RADIO	Office Radio	The radio appears to disapprove of your acquisitiveness. Its buzz seems to drive you away.	收音机嗡嗡作响，仿佛对你的贪婪十分不满，想要把你赶走。
+0x0100000F0000E829	Dialogue Text	OFFICE / SECRETARYS RADIO	Office Radio	It's quite easy. Simply flip the switch labeled 'RELEASE' to disengage the lock that holds the transceiver unit in place.	太容易了。只要拨动写着“解除”的开关，就能解除卡住收发器的锁定。
+0x0100000F0000E830	Dialogue Text	OFFICE / SECRETARYS RADIO	You	Flip the release switch.	拨动解除开关
+0x0100000F0000E838	Dialogue Text	OFFICE / SECRETARYS RADIO	Office Radio	The lock disengages with a nice click. You may now safely remove the transceiver unit.	锁在发出一声清脆的咔哒声后解除了。你现在可以安全地拿走收发器元件了。
+0x0100000F0000E84C	Dialogue Text	OFFICE / SECRETARYS RADIO	You	Examine the transceiver.	查看收发器。
+0x0100000F0000E851	Dialogue Text	OFFICE / SECRETARYS RADIO	You	[Leave.]	[离开。]
+0x0100000F0000E857	Dialogue Text	OFFICE / SECRETARYS RADIO	You	"How does this compare to your DynaWave, Kim?"	“这个跟你的动力波比起来怎么样，金？”
+0x0100000F0000E85C	Dialogue Text	OFFICE / SECRETARYS RADIO	You	"Do you think we'll actually be able to reach the Coalition with this?"	“我们真能靠这个到联盟去吗？”
+0x0100000F0000E87F	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"I wouldn't like to guess. Your performance so far doesn't exactly inspire confidence, but all sorts of things are possible..."	“不好说。你目前的表现让人实在提不起信心，但一切皆有可能吧……”
+0x0100000F0000E892	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"*You* could reach the Coalition and have your talk about *la responsabilité*... *I* could grow 10 centimetres and become a flanker for the Stormers."	“*你*可能会到联盟去宣扬你的所谓*责任*……而*我*也可能会再长高10厘米，成为突击队的侧卫……”
+0x0100000F0000E899	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"Who's to say what's possible and what's not?"	“什么事有可能，什么事没可能，这谁说得清呢？”
+0x0100000F0000E8E8	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"It doesn't, frankly. Don't get me wrong, this appears to be a *fine* transceiver for a general audience, but it's not something a serious radio-head would use." He shrugs.	“说实话，不是。别误解我的意思了，这对普通的听众来说是个*不错*的收发器，但真正靠无线电干活的人可不会用它。”他耸了耸肩。
+0x0100000F0000E8EF	Dialogue Text	OFFICE / SECRETARYS RADIO	You	"That's fine. I'm not interested in 'pissing competitions,' as you know."	“行吧。你也知道，我对‘撒尿比赛’之类的东西完全没有兴趣。”
+0x0100000F0000E8F4	Dialogue Text	OFFICE / SECRETARYS RADIO	You	"Well, I guess this will just have to do, then."	“行吧，那看来也只能这样了。”
+0x0100000F0000E8F9	Dialogue Text	OFFICE / SECRETARYS RADIO	You	(Clench your fist.) "I'll show you yet, Kitsuragi."	（握紧你的拳头）“你就看着吧，曷城。”
+0x0100000F0000E905	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"Of course not, detective. This is *strictly* business." The lieutenant smiles to himself.	“当然不是，警探。这*完全*就是生意。”警督自己笑了笑。
+0x0100000F0000E90C	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"I suppose it will." The lieutenant smiles to himself.	“也许会吧。”警督自己笑了笑。
+0x0100000F0000E911	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"Show me what, detective?" The lieutenant seems immensely pleased by your irritation.	“看着什么，警探？”你的愤怒似乎令警督觉得好笑。
+0x0100000F0000E921	Dialogue Text	OFFICE / SECRETARYS RADIO	Office Radio	There's nothing obviously remarkable about it. It's about the size of a common pasta box, with knobs of molded plastic. What else is there to say?	没什么特别值得注意的地方。跟普通的披萨盒差不多大，还有塑压开关。还有什么可说的呢？
+0x0100000F0000E928	Dialogue Text	OFFICE / SECRETARYS RADIO	Conceptualization	If this transceiver were a person, it would be an accountant at a large logistics firm. Perfectly competent, but unexceptional.	如果收发器是个人，那一定会是个大型物流公司的会计。精明能干，普普通通。
+0x0100000F0000E93E	Dialogue Text	OFFICE / SECRETARYS RADIO	You	"I prefer a transceiver with a little more *flash and style*."	“我想要个*更闪耀、更有个性*的收发器。”
+0x0100000F0000E943	Dialogue Text	OFFICE / SECRETARYS RADIO	You	"Reliable and unassuming. My kind of transceiver."	“可靠又谦逊。是我喜欢的那种收发器。”
+0x0100000F0000E948	Dialogue Text	OFFICE / SECRETARYS RADIO	You	"Sorry for stealing you, transceiver, but there was no other way."	“抱歉把你给偷了，收发器，但我没有办法。”
+0x0100000F0000E94D	Dialogue Text	OFFICE / SECRETARYS RADIO	You	"There's something *ominous* about this radio transceiver. It's an ill omen."	“这个收发器感觉有些*不太吉利*。不是个好兆头。”
+0x0100000F0000E952	Dialogue Text	OFFICE / SECRETARYS RADIO	You	(Tap it with your knuckles.) "Yeah, this'll do."	（用你的指关节敲一敲）“嗯，这样就行了。”
+0x0100000F0000E957	Dialogue Text	OFFICE / SECRETARYS RADIO	You	"I guess pure functionality is itself a kind of aesthetics."	“或许纯粹的功能本身就是一种美学。”
+0x0100000F0000E986	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"I'm sure the transceiver understands, detective. Now let's go."	“收发器一定会明白的，警探。好了，我们走吧。”
+0x0100000F0000E991	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"Hmm. I don't think the people who typically buy these machines are very concerned with questions of *style*."	“哼。我觉得买这种机器的人一般不会关心什么*个性*的问题吧。”
+0x0100000F0000E997	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"Yes, 'reliable and unassuming' are *definitely* words I'd use to describe you."	“没错，‘可靠又谦逊’这种话形容你*正合适*。”
+0x0100000F0000E99D	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"I'm not sure where you're getting that. It's a perfectly fine transceiver and this is a perfectly ordinary office."	“我搞不懂你在说什么。这是个很不错的收发器，这里是个很普通的办公室。”
+0x0100000F0000E9A4	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"I suppose it does have a certain 'no-nonsense' appeal, if you prefer that sort of thing."	“如果你喜欢那种东西，或许它确实有种‘严肃’的魅力吧。”
+0x0100000F0000E9AA	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"Very good. Let's get going then."	“很好。我们走吧。”
+0x0100000F0000E9B0	Dialogue Text	OFFICE / SECRETARYS RADIO	Office Radio	The transceiver appears glad to be of service.	收发器似乎很乐意为人服务。
+0x0100000F0000E9B6	Dialogue Text	OFFICE / SECRETARYS RADIO	Office Radio	The transceiver appears quite at peace with its appearance.	收发器看起来似乎很平静。
+0x0100000F0000E9BC	Alternate1	OFFICE / SECRETARYS RADIO	Office Radio	It's true. The transceiver appears quite forgiving.	没错。收发器似乎相当宽容。
+0x0100000F0000E9BC	Dialogue Text	OFFICE / SECRETARYS RADIO	Office Radio	The transceiver appears to understand and forgive you.	收发器似乎理解并原谅了你。
+0x0100000F0000E9C2	Dialogue Text	OFFICE / SECRETARYS RADIO	Office Radio	The transceiver appears slightly bewildered by your comment.	你的言论似乎令收发器有些困惑。
+0x0100000F0000E9C8	Dialogue Text	OFFICE / SECRETARYS RADIO	Office Radio	The transceiver appears slightly hurt by your comment.	你的言论似乎令收发器有些受伤。
+0x0100000F0000E9CE	Alternate1	OFFICE / SECRETARYS RADIO	Office Radio	Regardless, the transceiver appears to take your words as a compliment.	不过，收发器似乎觉得你在夸它。
+0x0100000F0000E9CE	Dialogue Text	OFFICE / SECRETARYS RADIO	Office Radio	The transceiver appears to take this as a compliment.	收发器似乎觉得你在夸它。
+0x0100000F0000EA0C	Dialogue Text	OFFICE / SECRETARYS RADIO	Office Radio	With its transceiver gone, the radio has ceased its peristent buzzing. It is as silent as a headstone.	没有了收发器，收音机那持续不断的嗡嗡声也就停了下来。现在它安静得仿佛一块墓碑。
+0x0100005300004DF5	Dialogue Text	OFFICE / SECRETARYS RADIO	You	"To be honest, I mostly just want to ride on Coalition Warship Archer."	“说实话，我只想联系上联盟国战舰弓箭手号。”
+0x0100005300004E00	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"You've surprised me more than once during the course of our investigation, but I have to say it still seems like a *remote* scenario." He shrugs.	警督耸耸肩。“我们调查的时候你已经让我吃过不少回惊了，但我还是想说，这事儿*实在*太遥远了……”
+0x0100005300004E06	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"But now you've got what you came for, so I suppose we'll have to see this business through."	“但既然你已经拿到了想要的东西，或许我们能把这事儿办成吧。”
+0x0100005300004E0C	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"I certainly understand the impulse, but this is our job, detective. Our whole *raison d'être*. At some point, we'll need to return to it."	“我能理解这种冲动，但这是我们的工作，警探。是我们*存在的理由*。我们迟早都得回到这上面来的。”
+0x0100005300004E12	Dialogue Text	OFFICE / SECRETARYS RADIO	You	"I think I just need a break from our main case for a bit."	“我可能得先把手头的主要案子放一放了。”
+0x0100005300004E18	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"To be perfectly frank, I have my reservations about this whole antenna scheme. But who knows? We may yet be surprised."	“说实话，我对天线的计划持保留意见。但谁说得清？没准会有惊喜呢……”
+0x0100005300004E1E	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"I'm more interested in *why* you're so fixated on this idea in the first place."	“我更感兴趣的是，*为什么*你会对这事这么执着。”
+0x0100005300004E24	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"But here's the thing, detective. *We're* the proper channels. Doing our work, right here on the ground, is how we'll solve this case. There's no need to bring the Coalition into this."	“但事情是这样的，警探。我们是*名正言顺*的，解决这个案子的办法就是光明正大地做自己的工作。没必要把联盟给扯进来。”
+0x0100005300004E2A	Dialogue Text	OFFICE / SECRETARYS RADIO	You	"We can't assign *la responsabilité* if we don't go through the proper channels."	“要是我们名不正言不顺，那就没法分配*职责*了。”
+0x0100005300004E30	Dialogue Text	OFFICE / SECRETARYS RADIO	Kim Kitsuragi	"Let me make a prediction, detective. You are not going to see the inside of a Coalition warship anytime soon."	“我来给你猜猜吧，警探。你一时半会是见不到联盟战舰里头什么样的。”
+0x010000580001C79B	Dialogue Text	OFFICE / SECRETARYS RADIO	You	[Leave.]	[离开。]
