@@ -1,0 +1,376 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x010000060001E8BA	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Endurance	This one isn't used to being suited this long. She's uncomfortable; will open fire just to hurry things along.	这个人不习惯长时间地穿着盔甲。她很难受；她会先开火，只是为了让事情的进度快一点。
+0x01000007000082C9	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Suggestion	Yes. This will be good. It will calm him down and won't cost any more lives. Lives that could be spared.	是的。这样就好。这样就能让他冷静下来，谁也不会死。那些可以挽救的性命。
+0x0100004500018ACE	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	I should talk to him about the hanged man.	我应该跟他聊聊吊人。
+0x0100004500018ACE	tooltip1	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	His name was Ellis Kortenaer	他的名字叫埃利斯・科顿艾尔。
+0x0100004500018ACE	tooltip2	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	He was fostered	他是被收养的。
+0x0100007800012E58	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Suggestion	Dangerous! Ask about him first. You don't want personal facts about his dead friend coming out of your mouth -- *he* has to start it.	危险！先问问他的事。你可不想他那位亡友的个人信息从你的嘴里说出来——应该让*他*先开口。
+0x0100007800012E5E	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Suggestion	Of course! Nothing bad will happen. Talk about his dead friend! He seems stable enough to take it.	当然！不会发生什么糟糕的事。聊聊他那位死去的朋友！他的情绪看起来足够稳定，应该能接受。
+0x0100007800012E6C	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"I knew you weren't a god damn scab leader!"	“我知道你不是什么该死的工贼头子！”
+0x0100007800012E80	Alternate1	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"Who are you -- a major?"	“你是谁——一位少校吗？”
+0x0100007800012E80	Alternate2	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"Who are you -- *Korty*?"	“你是谁——*科迪*？”
+0x0100007800012E80	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"Who are you?"	“你是谁？”
+0x0100007800012E87	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Sergeant Major Raul Kortenaer -- reporting in to burn this fucking mud hut to the ground!" He points at the Whirling-in-Rags...	“军士长劳尔·科顿艾尔——我要把这个该死的小土楼烧成灰烬！”他指向褴褛飞旋……
+0x0100007800012E93	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Yeah, I don't fucking *act* so well. Lely had a hard-on for making faces for you natives. Fucking food-aid shit..." He wipes his mouth. "That shit is done now. Trigger time."	“是啊，我他妈的*演的*不是很好。莱利很会在你们这群土著面前扮鬼脸。什么粮食援助之类的狗屁……”他擦了擦嘴。“现在都他妈的结束了。开枪时间到了。”
+0x0100007800012E99	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Perception (Hearing)	As he moves, the interlocking pieces of his armour click, softly.	随着他的动作，盔甲上的扣件发出轻轻的咔哒声。
+0x0100007800012EC0	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Logic	...click, click, click! The realization comes to you, like a picture puzzle coming together: His name is Raul Kortenaer -- the dead man's name is Ellis Kortenaer. He's *brothers* with the deceased!	……咔哒，咔哒，咔哒！你突然之间顿悟了，就像最后一块归位的拼图：他的名字叫劳尔·科顿艾尔——死去的人叫埃利斯·科顿艾尔。他们是*兄弟*！
+0x0100007800012EC7	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Empathy	No -- probably foster brothers! Ellis was put into a foster home, remember...	不——也许是义兄弟！埃利斯被扔进了寄养家庭，还记得吗……
+0x0100007800012ECE	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Logic	Korty -- Kortenaer. Major Raul *Korty* Kortenaer. Friends with Lely. Raul and Lely.	科迪——科顿艾尔。少校劳尔·*科迪*·科顿艾尔。莱利的朋友。劳尔和莱利。
+0x0100007800012ED7	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"Kortenaer -- I know that name."	“科顿艾尔——我知道这个名字。”
+0x0100007800012EDD	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"His parents left him in a fucking leaf compactor."	“他的父母把他留在了一台该死的树叶压缩机旁边。”
+0x0100007800012EE3	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"Listen, your Lely -- everyone says good things about him. He was a talker."	“听着，你的莱利——大家都说他是个好人。他很健谈。”
+0x0100007800012EE9	Alternate1	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	(Conclude.) "Your brother did not deserve to go out like that. I promise -- I *will* find his killer."	（总结。）“你的兄弟不应该就这样死去。我保证——我*一定*会找出杀他的凶手。”
+0x0100007800012EE9	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	(Conclude.) "Your colonel did not deserve to go out like that. I promise -- I *will* find his killer."	（总结。）“你的上校不应该就这样死去。我保证——我*一定*会找出杀他的凶手。”
+0x0100007800012EF0	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	He sways from left to right, inspecting you.	他左右摇摆着，探察着你。
+0x0100007800012EF7	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"Raul and Ellis Kortenaer..." Look him in the eye. "I'm sorry about your brother, Raul."	“劳尔和埃利斯·科顿艾尔……”看着他的眼睛。“我对你的兄弟感到很抱歉，劳尔。”
+0x0100007800012EFE	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"He wasn't my fucking brother! We just grew up on the same farm and got beat into place by the same sick fuck..."	“他妈的，他不是我的兄弟！我们只是在同一个农场长大，被同一个变态从小打到大……”
+0x0100007800012F06	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"And then went to the same military academy. And the same unit. And the same war..."	“之后进了同一所军事学院。编入同一个部队。参加了同样的战争……”
+0x0100007800012F0C	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"You were foster brothers. I know that."	“你们是义兄弟。我知道的。”
+0x0100007800012F19	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Same fucking mudhut town too..." he looks around, then wipes his face with his armoured glove.	“同一个该死的破镇子……”他看了看周围，然后用盔甲手套抹了抹自己的脸。
+0x0100007800012F29	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Half Light	Beaten by a foster parent, or someone on the farm?	被同一个寄养父母殴打，还是农场上的其他人？
+0x0100007800012F33	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Who... Lely?"	“谁……莱利？”
+0x0100007800012F3A	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"Yes. When he was small... just an infant."	“是的。当时他还很小……只是个婴儿。”
+0x0100007800012F44	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Fuck do you mean *talker*?"	“你说*健谈*是他妈什么意思？”
+0x0100007800012F51	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kim Kitsuragi	"We've heard testimony. People say he was charismatic. A nice guy to be around."	“我们听过证词了。大家都说他很有魅力，是个很好的人。”
+0x0100007800012F58	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Yeah, he liked to chat up the natives. Share leaflets, squeeze a bit of kipt ass here and there. Great fucking idea that turned out to be..." He points toward the yard.	“是啊，他喜欢跟土著聊天。发发传单，这里那里地招惹一些吉皮特。本来他妈的挺好的想法，结果却变成……”他指向院子。
+0x0100007800012F5F	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"If Lely was here, he would spare the lot of you. Maybe shoot one for show. But me..." He points to himself. "I'm not a big fan of public affairs, clay-monkey. I'll gun every one of you down for what you did."	“如果莱利在这里，他会饶了你们这些人吧。也许会杀一个做做秀。但是我……”他指着自己。“我可不是什么公共事务的狂热粉丝，土猴子。我会把你们一个个都毙了，让你们为自己所做的一切付出代价。”
+0x0100007800012F66	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	De Paule	"Ready to open fire, major. At your command."	“准备好开枪了，少校。听你指挥。”
+0x0100007800012F78	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"You don't *know* shit. Lance Corporal, why don't you.." He turns to the radio officer on this right...	“你根本什么都不*知道*。准下士，你为什么不……”他转向右侧的电报员……
+0x0100007800012F7F	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Suggestion	You lost him. Quick!	你要压不住他了。快点！
+0x0100007800012F86	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Reaction Speed	Don't let him finish the sentence!	别让他说完这句话！
+0x0100007800012F92	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kim Kitsuragi	"We researched him. We contacted the ICP and looked at his birth records. That was in there. And other things..."	“我们研究过他。联系过ICP，查了他的出生记录。就在那里，还有其他事情……”
+0x0100007800012F99	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"They fucking put Lely in a leaf compactor and now these cunts finished the job..." He waves at the gang huddled by the doors.	“他们他妈的就把莱利放在一个树叶压缩机里，结果现在这些婊子把活干完了……”他朝挤在门边的人挥了挥手。
+0x0100007800012FA2	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	De Paule	"It's a mind-fuck, Korty. He wasn't put it a leaf compactor. They're making it up to fuck with us." She glances at him. "Major, permission to..."	“他们是想操纵你的想法，科迪。他没有被放在树叶压缩机里。他们瞎编出来，就他妈的为了糊弄我们。”她瞥了他一眼。“少校，请允许我……”
+0x0100007800012FA9	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Pain Threshold	There's real anguish in his voice. A drunken sadness suddenly engulfs him. Memories...	他的声音充满真切的痛苦。突然间，一阵悲伤将他吞没。记忆……
+0x0100007800012FB1	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Suggestion	...open fire -- we can't have that. Interfere, now!	……开火——我们不能让这种事发生。马上介入！
+0x0100007800012FBB	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"Banaital, '41... that really happened didn't it?"	“巴奈塔，41年……真的发生过，对吗？”
+0x0100007800012FC2	Alternate1	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"He had blue eyes didn't he -- your brother."	“他的眼睛是蓝色的，不是吗——你的兄弟。”
+0x0100007800012FC2	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"He had blue eyes didn't he -- your colonel."	“他的眼睛是蓝色的，不是吗——你的上校。”
+0x0100007800012FCB	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Baby blue, yeah... Like someone fucked up and put a baby's eyes on a grown man." He smiles, pulling his face in a strange way.	他笑了，脸以一种奇怪的方式拉长了。“淡蓝色，是啊……他妈的好像有人搞错了，把婴儿的眼睛放在了一个成年人的身上。”
+0x0100007800012FD2	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Our colonel did what he had to do. It was either one cunt, or a hundred of them. Ruud here..." He points to him.	“我们的上校做了他该做的事。要么是一个婊子，要么就是一百个。这位鲁德……”他指向他。
+0x0100007800012FD9	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Ruud Hoenkloewen	"... in your shit-pipes, right..." Indecipherable mumbling.	“……在你的菊花里，是吗？”他发出一阵很难听清的咕哝声。
+0x0100007800012FE0	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"He likes to fire mortars at random coordinates. Wipe out mud-huts like that. When he gets *bored*. Lely knew how to command."	“他喜欢随意朝坐标点发射迫击炮。把那种土房子炸成平地。当他感到*无聊*的时候就会这样。莱利知道怎么下命令。”
+0x0100007800012FE7	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kim Kitsuragi	"He was a good commander. I can see you miss him."	“他是个好指挥官。我能看出你很想念他。”
+0x0100007800012FEE	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Oh yeah, he would have commanded this fuck-hell way better than I did. But that didn't happen, because Hayseed Bill and Kipty the Kipt here..." he points to Titus and Eugene.	“是啊，他肯定指挥地比我他妈的要好的多。但是这一切并没有发生，因为这个该死的乡巴佬还有吉皮特……”他指向提图斯和尤金。
+0x0100007800012FF4	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"...fucking murdered him. Had him stink the village up for two weeks after. And you fucks did nothing." He points at you.	“……他妈的杀了他。之后就让他臭烘烘地在那里挂了两个星期。而你，他妈的什么也没做。”他指向你。
+0x0100007800012FFC	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Alain	"Listen, man. We told you we..."	“听着，伙计。我们告诉过你，我们……”
+0x0100007800013003	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Told us WHAT?!" He staggers forward. "What did you say? Who said that? Tattoo-fuck -- you'll die FIRST."	“告诉我什么？！”他向前踉跄了一步。“你说什么？谁说的？死纹身佬——第一个死的就是你。”
+0x0100007800013035	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"It was creepy, but bitches... bitches like that shit, I guess. Or... I don't know what bitches like. I just know how to mow down *cloths*."	“有点诡异，但是那些婊子……我猜婊子就喜欢那个吧。或者……我不知道婊子喜欢什么。我只知道怎么残杀*野人*。”
+0x0100007800013047	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	The Gardener	"They... they didn't..." The woman holds on to her side, teeth rattling.	“他们……他们没有……”女人抓紧身侧，牙齿在打颤。
+0x010000780001304F	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Find his killer?! Cop, his killer stands right there!" He waves at the men behind you. "Shitting his pants -- and *you're* standing in the way protecting them."	“找出杀他的凶手？警察，杀他的凶手就站在这里！”他朝着你身后的男人挥挥手。“连屎都拉在裤子里了——而*你*他妈的还站在那里保护他们。”
+0x0100007800013056	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Find his killer?! Cop, his killers stand right there!" He waves at the men behind you. "Shitting their pants -- and *you're* standing in the way protecting them."	“找出杀他的凶手？警察，杀他的凶手就站在这里！”他朝着你身后的男人挥挥手。“他们连屎都拉在裤子里了——而*你*他妈的还站在那里保护他们。”
+0x010000780001305D	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	...and then he bellows: "For killing, maiming and humiliating our commanding officer -- you're all sentenced to death by lead!"	……他接着大吼到：“因为谋杀，残害还有羞辱我们的指挥官——你们全都被判死刑！”
+0x0100007800013066	Alternate1	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Shush, sister..." He squints at her. "Blood's all gone out now. Not long to go till the rattle starts. One down, girl -- six to go..."	“闭嘴，娘们……”他斜了她一眼。“现在血都快流光了。不久之后就会开始惊恐。干掉一个，姑娘——还剩下6个……”
+0x0100007800013066	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Shush..." He squints at her. "Blood's all gone out now. Not long to go till the rattle starts. One down, girl -- seven to go..."	“嘘……”他斜了她一眼。“现在血都快流光了。不久之后就会开始惊恐。干掉一个，姑娘——还剩下7个……”
+0x010000780001306F	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"I know what this tactic is, Silo Sam." He stares at you, eyes pink from the alcohol -- fingers tapping the pistol. "You're gonna die for them. Right here. Today."	“我知道你在玩什么策略，大块头。”他瞪着你，眼睛被酒精染成了粉红色——手指轻轻拍打着手枪。“你会为他们而死。就在这里。就是今天。”
+0x0100007800013090	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"Told us WHAT?!" He staggers forward. "What did you say? Tattoo-fuck, you'll die NEXT. Right when the she-kipt's out..."	“告诉我什么？！”他向前踉跄了一步。“你说什么？死纹身佬，下一个死的就是你。就在这个女吉皮特之后……”
+0x01000078000130A1	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Suggestion	Big talk, but that leaf compactor won't leave his mind any time soon. It's a small thing -- but it got him off centre...	吹牛，但是那台树叶压缩机暂时不会从他的脑海里离去了。这是件小事——但是让他偏离中心了……
+0x01000078000130B5	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Half Light	This did nothing. You think you were on to something?! You *just* wasted time... please, act.	这样没用的。你觉得自己说到点子上了？！这*只是*在浪费时间……拜托，快点行动吧。
+0x01000078000130BE	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Suggestion	Big talk, but you got him to admit he's a bad leader. It's a small thing -- but it got him off centre...	吹牛，但是你让他亲口承认自己不是个好领袖。这是件小事——但是让他偏离中心了……
+0x01000078000130CE	Alternate1	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	Am I sure? He's already shot one person...	我确定吗？他已经朝一个人开枪了……
+0x01000078000130CE	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	He doesn't seem stable at all....	他看起来一点都不稳定……
+0x01000078000130D4	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"I feel like I got to know your dead friend. During our investigation."	“我想自己有些了解你的亡友，就在调查的过程中。”
+0x01000078000130DB	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Suggestion	Ever better! It will further destabilize him -- costing time and maybe even lives!	这样更好！这样就能进一步让他动摇——浪费时间，甚至是生命！
+0x01000078000130E2	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"You don't fucking TALK TO ME about my brother, loincloth!" He squeezes the words out from between clamped lips, his hand on the pistol...	“妈的，不许你提我兄弟，野人！”话语从他紧闭的双唇中艰难地迸了出来，他把手放在了手枪上……
+0x01000078000130EA	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Logic	Uhm... this might be a *very* bad moment to come up with this, but he's *Korty* right?	呃……也许现在真的*很不适合*提这个，但他叫*科迪*，对吧？
+0x01000078000130F0	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Suggestion	Okay, yes. Immediate failure. Things are worse now. He's observing your every motion carefully...	好吧，好吧。瞬间失败。现在情况变得更搞糟了。他非常小心地观察着你的一举一动……
+0x01000078000130FE	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	Yes, go on. I don't want to do anything but say that thing down there.	是的，继续。除了说出那句话，我什么也不想做。
+0x0100007800013105	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Logic	The man he's mourning was called Ellis *Kortenaer*. Korty could be short for Kortenaer? Could they be brothers? Ask him that. What could go wrong. It's a discovery!	他悼念的那个男人叫埃利斯·*科顿艾尔*。也许科迪是科顿艾尔的简称？也许他们是兄弟？问问他吧。能出什么问题呢。好歹是个发现！
+0x010000780001310C	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	You	"Hey... I don't mean to pry but the hanged man -- was he your brother?"	“那个……我不想刺探什么，但是那个被吊起来的男人——是你的兄弟吗？”
+0x0100007800013113	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Suggestion	Yes. This will be good. It will calm him down and won't cost any lives. Lives that could have been otherwise spared.	是的。这样就好。这样就能让他冷静下来，谁也不会死。那些本来可以幸免的性命。
+0x010000780001311F	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Rhetoric	And if not -- lives aren't *that* important anyway (including yours). There are billions of them, being lived.	如果不行——反正性命也*没那么*重要（包括你自己的。）活着的人，还有数十亿呢。
+0x0100007800013138	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Kortenaer	"You don't fucking TALK TO ME about my brother, loincloth!" He squeezes the words out from between clamped lips, his hand on the pistol...	“不许你他妈的提我的兄弟，野人！”话语从他紧闭的双唇中艰难地迸了出来，他把手放在了手枪上……
+0x0100007800013143	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Suggestion	Okay, yes. Immediate failure. Things are worse now. He's observing your every motion carefully...	好吧，好吧。瞬间失败。现在情况变得更搞糟了。他非常小心地观察着你的一举一动……
+0x01000078000139FF	Dialogue Text	TRIBUNAL / I GOT TO KNOW THE HANGED MAN	Suggestion	Okay. Good.	好吧，很好。
+0x0100004500018B76	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Kortenaer	"You think I care what that company cunt thinks?" He laughs. It's a hollow laughter.	“你以为我关心公司那个婊子在想什么吗？”他笑了，笑声十分空洞。
+0x0100004C00019031	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	You	"She is going to be mad when she hears about this."	“如果她听到这个，一定会疯掉的。”
+0x0100004C00019038	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	You	"What if I just call her now, huh?" (Raise your voice).	“如果我现在就打给她呢，哈？”（抬高你的声音）。
+0x0100004C0001903F	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	You	"Wild Pines is not going to forgive you massacring a bunch on innocent people."	“如果你屠杀了这群无辜的人，野松公司是不会原谅你的。”
+0x0100004C00019085	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Kortenaer	"She's fucking GONE!" The shout echoes back from the Whirling windows. "She fucking sailed off! You're *alone*."	“他妈的，她已经走了！”呼喊声在飞旋旅社的窗户上回荡。“她个婊子已经坐船跑了！就剩你*一个人*了。”
+0x0100004C00019158	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Kortenaer	The man stares at you with bloodshot eyes, a bull ready to charge -- he's not listening, but looking for an opening...	男人用充满血丝的眼睛瞪着你，就像一头准备冲锋的公牛——他根本没听进去，只想寻找一个机会……
+0x0100004C00019214	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	You	"Okay. Let me just say one thing..." (Change the topic.)	“好吧。听我说一件事……”(换个话题。）
+0x0100004C0001921B	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	De Paule	"Fucking waste this fuck!" The woman squawks.	“别他妈的再说些屁话了！”女人尖声抗议到。
+0x0100007800012311	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Reaction Speed	Now is NOT a good time to strike. He's looking right at your hands. Do something else, get him distracted...	现在可不是进攻的好时候。他正直直地盯着你的双手。做点别的事，让他分心……
+0x010000780001231A	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Titus Hardie	"Stay cool," Titus shouts to his men in the background. "How is she?"	“冷静点，”提图斯对着背后的男人尖叫到，“她怎么样了？”
+0x0100007800012328	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Titus Hardie	"Stay cool, don't do anything stupid," Titus shouts to his men in the background.	“冷静点，别做傻事，”提图斯对着背后的男人尖叫到。
+0x010000780001232E	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	The Gardener	"I'll be okay... I'll be..." She puts her bloody hand on her heart and starts shaking.	“我会没事的……我会……”她用扎满鲜血的血捂住胸口，身体开始颤抖。
+0x0100007800012340	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Shanky	"Guys, I, uh..." The little guy breaks formation. "I'd just get in the way. I don't even have a gun."	“伙计们，我，呃……”一个小个子离开了队伍。“我在这儿只是碍事。我连枪都没有。”
+0x0100007800012346	Alternate1	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Kortenaer	"She'll be gone soon too. Company bitch is gone. Lely's cunt is gone. Lely's gone. Fuck are we still doing in this shithole?" He looks around, tired suddenly -- sad even.	“她很快会死。公司的那个婊子走了，莱利的马子走了。他妈的为什么我们还在这个粪坑做什么？”他看了看四周，突然显得有些疲惫——甚至可以说是悲伤。
+0x0100007800012346	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Kortenaer	"She'll be gone soon too. Company bitch is gone, Lely's gone. Fuck are we still doing in this shithole?" He looks around, tired suddenly -- sad even.	“她很快会死。公司的那个婊子走了，莱利死了。妈的我们还在这个粪坑做什么？”他看了看四周，突然显得有些疲惫——甚至可以说是悲伤。
+0x010000780001234F	Alternate1	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Kortenaer	"The company bitch is gone. Lely's cunt is gone. Lely's gone. Fuck are we still doing in this shithole?" He looks around, tired suddenly -- sad even.	“公司的那个婊子走了，莱利的马子走了。他妈的为什么我们还在这个粪坑做什么？”他看了看四周，突然显得有些疲惫——甚至可以说是悲伤。
+0x010000780001234F	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Kortenaer	"The company bitch is gone. Lely's gone. Fuck are we still doing in this shithole?" He looks around, tired suddenly -- sad even.	“公司的那个婊子走了，莱利死了。妈的我们还在这个粪坑做什么？”他看了看四周，突然显得有些疲惫——甚至可以说是悲伤。
+0x010000780001235F	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Titus Hardie	"Hold your ground.“ Titus turns to his men as the other one runs to the yard. "Any more of you run I'll shoot you myself. We're *doing* this -- together."	当他跑向院子——提图斯回头对自己的人说：“给我守在这里。你们谁再敢跑，我就亲自毙了你们。大家一起*上*——所有人一起。”
+0x0100007800012374	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Half Light	They're *afraid*. All of them. Trembling reeds in the wind. They'll run, scatter, soon. One by one.	他们*害怕*了。所有人都一样。就像在风中颤抖的芦苇。很快，他们会四散逃跑，一个接着一个。
+0x0100007800012384	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Esprit de Corps	No. The rest will stay. They will hold their ground. Even if it means dying here -- with you.	不。其他人会留下来。他们会坚守在原地。就算这意味死在这里——跟你一起。
+0x010000780001238C	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Esprit de Corps	They're huddled close, in a formation. Steel. The rest will stay. Even if it means dying here -- with him.	他们紧紧地挤在一起，组成一个队形。其他人会留下来。就算这意味死在这里——跟他一起。
+0x010000780001239A	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Kortenaer	"She's gone, you stupid fuck." He points to the sea. "Sailed off five minutes ago. She doesn't give a shit about you silos. You're *alone*."	“她已经走了，你个狗娘养的蠢驴。”他指向大海。“5分钟前就开船跑了。她个婊子根本不在乎你。你只剩*自己一个人*了。”
+0x01000078000123A0	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	You	"We're working together. She knew you're out of control. She told me."	“我们一起工作的。她知道你已经失去控制了，是她告诉我的。”
+0x01000078000123B4	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Perception (Sight)	As you look to the bay you see a small green sail on the horizon -- by the crumbling seafort -- growing smaller...	你望向海湾，看见地平线上摇摇欲坠的海堡附近——有一面小帆船——越变越小……
+0x01000078000123BD	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Kortenaer	"She's gone, you stupid fuck." He points to the sea. "Sailed off -- five minutes ago. She doesn't give a shit about you silos..."	“她已经走了，你这头狗娘养的蠢驴。”他指向大海。“5分钟前就开船跑了。她他妈的根本不在乎你……”
+0x010000780001245D	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Empathy	He isn't just boasting. He really doesn't care. Back out of this *now* or it'll get bad.	他不是在吹牛。他是真的不在乎。*现在*赶快收手，不然情况一定会变糟。
+0x01000078000139E0	Dialogue Text	TRIBUNAL / JOYCE WOULDN'T LIKE THIS!	Volition	Ignore her. She's not the main threat yet.	不理她。她现在不是最主要的威胁。
+0x010000060001E8C2	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Hand/Eye Coordination	Technically, the other man has the biggest gun, but... we're beyond that now.	从严格意义上讲，另一个人的枪才是最大的，不过……现在那个话题已经过了。
+0x010000060001E8D0	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Reaction Speed	You only have time for *one* argument, choose wisely...	你只剩下*一次*争辩的时间，选择明智一些……
+0x010000060001E8E7	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Rhetoric	Easy, now... Tell them these men didn't do it. There's a peaceful way out!	放轻松，现在……告诉他们不是这些人做的。肯定能有和平的解决办法！
+0x010000060001E8F4	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Rhetoric	Easy, now! Easy. Just tell them these men didn't do it. There's a peaceful way out...	现在，放轻松！放轻松。只要告诉他们不是这些人做的。肯定能有和平的解决办法……
+0x0100004500018AF0	Alternate1	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	"Does your employer give you the right to conduct tribunal?"	“你的雇主给你审判的权利了吗？”
+0x0100004500018AF0	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	"Krenel does not give you the right to conduct a tribunal!"	“科奈尔也不代表你拥有私自审判的权利！”
+0x0100004C0001940F	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	"I don't care. It's not okay to kill civilians and local law enforcement officers."	“我不在乎。反正不能杀害平民百姓和当地的执法人员。”
+0x0100004C00019416	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	"You were called *Downwell* once. What happened?"	“你们曾经叫*深井*。发生什么事了？”
+0x0100004C00019467	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	"This tribunal is against the law. The international law."	“这个宣判是违反法律的。国际法。”
+0x0100004C0001946E	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Kortenaer	The large man laughs. "Look around you, livestock... we're about to butcher the lot of you! Where is your *international law*?"	大个子男人笑了。“看看你周围，都是牲畜……我们会宰了你们这群人！你的*国际法*去哪里了？”
+0x0100004C00019490	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Kortenaer	"If I fuck and kill you, hang you to that street light..." He points to it. "... by your shit-pipes -- then that's called a *necessary display of force*."	“如果我他妈的杀了你，把你吊在街灯上……”他的手指往那个方向。“……用你的肠子把你吊起来——那才叫*必要的武力展示*。”
+0x0100004C00019497	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Kortenaer	"No one's going to give a shit about dead loincloths." He snorts. "That's reality."	“没人他妈的会关心一个死掉的野人。”他发出轻蔑的鼻音。“这就是现实。”
+0x0100004C000195C2	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Kortenaer	"What always happens when you get good at your job. That name meant night raids, fucking extra-judicial funkytime... burned villages. Shit that sounds bad on the radio."	“当你的工作越来越上手的时候，总会发生这种事。那个名字代表夜袭，他妈的法外私刑……燃烧的村庄。在收音机里听起来绝对他妈的糟糕透顶。”
+0x0100004C000195CD	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Kortenaer	"The same thing happened when we were called whatever-the-fuck it was. Probably won't be called *Krenel* for much longer either..." He looks around.	“当我们被称作是*不知道哪里来的混账*的时候，就会发生相同的事。不过也许*科奈尔*这个名字也叫不了太久……”他看了看周围。
+0x0100004C000195D4	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Kortenaer	"Not after this shit."	“发生这件破事之后就不会了。”
+0x0100004C000195F7	Alternate1	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	"Just to be clear -- are you officially in charge of this unit after the death of your colonel?"	“我只想明确一点——你们的上校死后，你是这个小队的正式负责人吗？”
+0x0100004C000195F7	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	"Just a question -- who's in charge of your unit after the death of your colonel?"	“有个问题——你们的上校死后，谁负责你们这个部队？”
+0x0100004C0001963E	Alternate1	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Kortenaer	"Me, I fucking *told* you -- I'm a Krenel major with 15 years of live-combat experience. When my colonel gets hanged by clay-monkeys I lead the platoon on a retaliation strike."	“是我，我他妈*告诉*过你了——我是科奈尔的一名少校，有十五年的作战经验。我们的上校被这群泥猴子吊死之后，就由我来引导这次报复打击行动。”
+0x0100004C0001963E	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Kortenaer	"I am a Krenel major with over 15 years of live-combat experience. When my colonel gets hanged by clay-monkeys I lead the platoon on a *retaliation strike*."	“我是一名科奈尔少校，拥有15年以上的实战经验。我们的上校被那帮土猴子吊死之后，我负责领导小队进行*报复打击*。”
+0x0100004C0001964B	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	"So you are the highest ranking of the three of you?"	“所以说在你们三个之中，你的军衔最高了？”
+0x0100004C00019652	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	"Hold on, what's the highest rank in Krenel?"	“等一下，科奈尔的最高军衔是什么？”
+0x0100004C00019658	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	"As the leader of this group -- reconsider your actions. This does not need to end in bloodshed."	“那就作为这个团体的领导——重新考虑一下你的行动。这一切不需要以流血冲突结束的。”
+0x0100004C00019660	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Kortenaer	"King Reaper," he says without irony.	“收割者之王，”他的口气听不出一丝的讽刺。
+0x0100004C00019669	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Kortenaer	"Nah... I just have the biggest gun." He raps on his armoured barrel-like chest.	“不……只不过是我的枪最大而已。”他敲打着穿着盔甲、宛如枪管的胸膛。
+0x0100004C0001967D	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Kortenaer	"You're right. But you see..." he pauses and smiles. "I *want* it to end in bloodshed."	“你说的没错。但是你也看见了……”他停了一会儿，笑了笑。“我*想*以流血冲突结束。”
+0x0100007800012474	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	C'mon head, give me an argument!	快点，给我想个说法！
+0x0100007800012474	tooltip1	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	Know about Downwell.	了解深井。
+0x0100007800012474	tooltip2	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	Gardener is dying.	园丁快死了。
+0x0100007800012474	tooltip3	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	Got them arguing.	让他们自己吵。
+0x010000780001249D	Alternate1	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Rhetoric	All right, here we go -- this is an *illegal tribunal*. Krenel would never *sanction* this. Who's the *commanding officer*? Take your pick!	好吧，这么说——这是一场*非法审判*。科奈尔永远不会*认可*这种事的。谁是*指挥官*？你挑一个！
+0x010000780001249D	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Rhetoric	All right, here we go -- this is an *illegal tribunal*. Their employer would never *sanction* this. Who's the *commanding officer*? Take your pick!	好吧，这么说——这是一场*非法审判*。他们的雇主永远不会*认可*这种事的。谁是*指挥官*？你挑一个！
+0x01000078000124A3	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Rhetoric	International-something?! International law!	国际-什么的？！国际法！
+0x01000078000124A9	Alternate1	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Kortenaer	"Pops..." he says. "You have no idea about the rights Krenel extends to us."	“放屁……”他说。“你根本不知道科奈尔赋予我们的权利。”
+0x01000078000124A9	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Kortenaer	"Pops..." he says looking at your saggy sideburns -- they seem to calm him down for a second. "You have no idea about the rights Krenel extends to us."	“放屁……”他一边说，一边看着你下垂的鬓角——它们似乎让他冷静了一小会。“你根本不知道科奈尔赋予我们的权利。”
+0x01000078000124B2	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Suggestion	Really? None of this looks like it's going to do anything but piss him off.	真的吗？不管做什么好像都只会激怒他而已。
+0x01000078000124D8	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Encyclopedia	I have some *trivia* too! Get him *interested* in facts!	我也知道一些*琐事*！引起他对现实的*兴趣*！
+0x01000078000124FC	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	The Gardener	The woman has grown silent. She draws shallow breaths.	女人变得更加安静，呼吸也变浅了。
+0x0100007800012516	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Rhetoric	Okay -- it's not much. But he's thinking about something *else*. And his hand is off the gun. This did *something*...	好吧——不怎么样。但是他开始想*别的事*了。而且他的手没放在枪上。这样还是有点*效果*的……
+0x0100007800012520	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	"Okay. What rights are those then?"	“好吧。那都是什么权利？”
+0x0100007800012528	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	Gulp and say nothing.	哽住了，什么也不说。
+0x010000780001253C	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Rhetoric	So you just *stand* there!? This is bad, very bad, DO OR SAY SOMETHING NOW!	所以你就这么*干站*在这里！？这样不好，很不好，马上说，要不就做点什么啊！
+0x010000780001254F	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Kim Kitsuragi	"There will be ramifications -- but there don't need to be. Let's go inside and discuss what our investigation has uncovered. We have important..."	“这样会产生分歧的——但是并不需要这样。我们进去，讨论一下我们的调查结果。我们有重要的……”
+0x010000780001255A	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	De Paule	"We're not fucking coming anywhere, seolite!"	“我们他妈的哪儿也不去，西奥人！”
+0x0100007800012562	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Suggestion	Say something. Get off this trail. Thank god it's only *ineffectual* thus far.	说点什么。别再无所事事了。谢天谢地，目前为止还只是*徒劳无功*。
+0x010000780001256A	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Physical Instrument	Now fire! Fuck them up! DO IT! The muscles on your back tense up...	现在开火！干掉他们！动手！你背后的肌肉紧绷起来……
+0x0100007800012585	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Suggestion	It's a *miracle* no one got shot this time. Stop attempting to use your *head*. It won't work!	这次没人中枪简直就是*奇迹*。别再想用你的*脑子*了。没用的！
+0x01000078000139EA	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	You	Don't say it.	别说出来。
+0x01000078000139F1	Dialogue Text	TRIBUNAL / LEGITIMACY OF THIS TRIBUNAL	Rhetoric	DON'T SAY IT? But now you've stood there scratching your ass for 1.5 seconds, you think this *helps* things?	别说出来？但现在你只是站在那里，花了1.5秒时间挠屁股，你觉得这样能有什么*帮助*吗？
+0x0100000400014F43	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"I did it in a last ditch effort to ward of the End of Times. And it didn't even work."	“我拼尽全力最后一搏，就是为了避免末日到来。但是根本没用。”
+0x0100000400014F48	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"I did it because I'm a delusional washout cop who thinks he's a superstar. I just *do* shit."	“我这么做是因为我是个妄想狂警察——觉得自己是个超级明星。但我只会*干蠢事*。”
+0x0100000400014F4D	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"I did and I'm *so* sorry."	“是我做的，我真的*很*抱歉。”
+0x0100000400014F52	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"I did it... I can't believe I did. I'm so fucking boring, but..."	“我做的……我也不敢相信自己居然这么做了。我他妈实在太无聊了，不过……”
+0x010000060001E92C	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Logic	Bad argument -- he doesn't know local mobsters...	这个论据很糟糕——他不认识本地的暴徒……
+0x0100000800000BED	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Perception (Hearing)	There's a coarse shuffle against something -- is it a gun?	是某种东西摩擦的粗糙沙沙声——是一把枪吗？
+0x0100004500018B0D	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	(Point to Titus) "I think it was Titus."	（指着提图斯）“我觉得是提图斯。”
+0x0100004500018B13	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	(Point to the roof) "It was Klaasje."	（指着屋顶）“我觉得是卡拉洁。”
+0x0100004500018B19	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"It was someone *else* -- someone who's not here now."	“是*其他人*——现在不在这里的某个人。”
+0x0100004C000173D7	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	(Point to yourself) "It was me."	（指着自己）“是我。”
+0x0100004C00018A49	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"Wait, I just need a little time to figure this out."	“等等，再给我一点时间弄清楚。”
+0x0100004C00018A6E	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"Time is up, loincloth," he says to you. "Give me a name. NOW!"	“时间到，野人。”他对你说。“给我一个名字。现在！”
+0x0100004C00018A80	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kim Kitsuragi	"No, wait!" The lieutenant winces and quickly turns to the mercenary leader. "He didn't."	“不，等等！”警督退了一步，快速转向科顿艾尔。“不是他。”
+0x0100004C00018A87	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Composure	He is tense, like a steel spring under full load.	他很紧张，就像完全拉满的钢簧。
+0x0100004C00018BB1	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Titus Hardie	"What?!" The man looks around --  confused and betrayed. "You scum... I didn't..."	“什么？！”男人看了看周围——感觉到了困惑和背叛。“你这个混蛋……我没有……”
+0x0100004C00018CA3	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"How fucking *convenient*..." He gives you a drunken stare -- then puts his hand on the gun.	“真他妈*方便*啊……”他醉醺醺的瞪了你一眼——然后把手放在了枪上。
+0x0100004C00018CB9	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"The bird?" He puts his hand on the gun. "You fucking telling me a bird killed our colonel?"	“鸟？”他把手放在枪上。“你他妈告诉我是一只鸟杀了我们的上校？”
+0x0100007800011C3F	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	De Paule	"Time? You *had* time -- to fuck around in that church!" She points over the water. "Chase some dumb drug trader. I saw you..."	“时间？你*有过*时间——在那个教堂里鬼混。”她指向对岸。“追踪什么哑巴毒贩。我看见你了……”
+0x0100007800011C52	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	De Paule	"Time? You *had* time -- to fuck around in that church." She points over the water. "To run errands for your Union chief. I saw you..."	“时间？你*有过*时间——在那个教堂里鬼混。”她指向对岸。“帮你那位工会老大跑腿。我看见你了……”
+0x0100007800011C69	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	De Paule	"Time? You *had* time. To fuck around on the coast." She points over the water. "Chasing some dumb drug trader. I saw you..."	“时间？你*有过*时间。在海岸上鬼混。”她指向对岸。“追踪什么哑巴毒贩。我看见你了……”
+0x0100007800011C8F	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	(Point to the coast) "It was Ruby."	（指着海岸）“是露比。”
+0x0100007800011C96	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"Yeah? Who the FUCK is Ruby?!" He puts his hand on the gun.	“是吗？露比他妈的又是谁？”他把手放在枪上。
+0x0100007800011C9D	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kim Kitsuragi	"A suspect! Ruby is a suspect we chased down on the coast. She was hiding..."	“一个嫌疑人啊！露比是我们在海岸追捕的嫌疑人呢。她藏起来了……”
+0x0100007800011CCF	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"He gave up Ruby *and* Klaasje -- to save his own ass."	“他出卖了露比*还有*卡拉洁——就他妈的为了救自己。”
+0x0100007800011CD5	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"It was just him. He was jealous. Your colonel and Klaasje were lovers."	“只有他。他很妒忌。你的上校和卡拉洁是情人。”
+0x0100007800011CDD	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"I've changed my mind. I can still change my mind, right?"	“我改变主意了。我还能改变主意的，对吧？”
+0x0100007800011CED	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"She was the only person in the room when he died. Upstairs."	“他死的时候，她是唯一在房间里的人。就在楼上。”
+0x0100007800011CF3	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"Inadvertently -- the shot was meant for her. She had a past and it caught up with her."	“其实是无意地——那一枪是冲着她去的。她有一段过去，而且找上了她。”
+0x0100007800011CF9	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"Where is she now? She fled -- because she *did* it."	“她现在在哪？她逃跑了啊——因为就是她*做的*。”
+0x0100007800011D0A	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kim Kitsuragi	"She used to work in industrial espionage and..."	“她之前是个工业间谍，还有……”
+0x0100007800011D13	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"How about the kipt?" He points his gun at Elizabeth. "Go ahead, tell me we fucking killed our own colonel one more time..."	他用手枪指着伊丽莎白。“不如就这个吉皮特怎么样？来啊，告诉我，再说一次是我们他妈的杀了上校……”
+0x0100007800011D2B	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"She fled. Trapped us and fled -- like *killers* do."	“她跑了。让我们陷入困境，然后自己逃跑了——就像*杀手*的做法一样。”
+0x0100007800011D31	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"She killed herself. But I know she did it."	“她自杀了。不过我知道是她做的。”
+0x0100007800011D37	Alternate1	TRIBUNAL / THEY DID NOT DO THIS!	You	"She was wrapped up in some really dangerous La Puta Madre stuff."	“她卷进了很危险的事情，跟马德雷教父有关。”
+0x0100007800011D37	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"She's wrapped up in some really dangerous La Puta Madre stuff."	“她被卷进了很危险的事情，跟马德雷教父有关。”
+0x0100007800011D41	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"She was jealous of Lely. She wanted Klaasje for herself. This is some sordid stuff."	“她很妒忌莱利。她自己想要得到卡拉洁。这是一些卑鄙的勾当。”
+0x0100007800011D4D	Alternate1	TRIBUNAL / THEY DID NOT DO THIS!	You	"My partner doesn't believe me, but I probably did it and I can't even *remember* I did."	“我的搭档不信我，但可能是我干的，而且我甚至都*不记得*了。”
+0x0100007800011D4D	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"I'm an amnesiac cop. I probably did it and I can't even *remember* I did."	“我是个失忆的警察。也许是我做的，而且我甚至都*不记得*自己做过。”
+0x0100007800011D53	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"This is an insane plan I've hatched. To get the *ex-something* back."	“这是我策划的一个疯狂计划。为了找回*旧日之物*。”
+0x0100007800011D59	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"I don't know *why* I did it. I just *do* shit. I'm an accident waiting to happen."	“我不知道自己*为什么*这么做。我就是*做了*。我就是个等待发生的意外。”
+0x0100007800011D63	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Inland Empire	You should implicate *yourself*. Throw yourself onto the embrasure, chest first!	你应该把*自己*卷进去。把自己堵到枪口上，胸部先来！
+0x0100007800011D73	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Reaction Speed	His fingers are twitching. That's a draw reflex. He's about to draw.	他的手指在抽搐。那是开枪的反射动作。他要扣动扳机了。
+0x0100007800011D7B	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"He was shot from a great distance. A *sniper* did it."	“射中他的子弹是从很远的地方来的。是*狙击手*做的。”
+0x0100007800011D81	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"A lot of people could have gotten to that roof. Like Garte, the cafeteria manager."	“很多人都能去那个屋顶。比如餐厅老板，加尔特。”
+0x0100007800011D87	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"Actually, they *are* here." (Point to the enemy) "It was one of you."	“事实上，他们*就在*这里。”（指向敌人）“就是你。”
+0x0100007800011D93	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Garte, the Cafeteria Manager	"What the *FUCK*?" The man yells from the balcony. "What are you DOING?!"	“你他妈*搞什么鬼*？”男人站在阳台上大喊。“你在做什么？！”
+0x0100007800011DB1	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"One of *us*? You saying we..." There's a dangerous gleam in his eye. "What if I just shot one of your pals here right now, huh?"	“*我们*中的一个？你是说我们……”他的眼睛里闪过一丝危险的光芒。“如果我现在就在这里开枪干掉你的一个伙伴怎么样，哈？”
+0x0100007800011DEC	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You think I'm fucking *stupid*, cop?" There's a dangerous gleam in his eye. "What if I just shot one of your pals here right now, huh?"	“你以为我他妈是*傻子*吗，警察？”他的眼睛里闪过一丝危险的光芒。“如果我现在就在这里开枪干掉你的一个伙伴怎么样，哈？”
+0x0100007800011DFE	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"These men, they didn't do it!"	“这些人，不是他们做的！”
+0x0100007800011E16	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"Yeah? Who did then?"	“是吗，那是谁？”
+0x0100007800011E4C	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"How about the kipt?" He points his gun at Elizabeth. "Tell me it was a magic fucking sniper one more time..."	他用手枪指着伊丽莎白。“不如就这个吉皮特怎么样？你他妈再说一次是什么神奇的狙击手……”
+0x0100007800011E88	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You think I'm fucking *stupid*, cop?" There's a dangerous gleam in his eye. "What if I just shot one of your pals here right now, huh?"	“你以为我他妈是*傻子*吗，警察？”他的眼睛里闪过一丝危险的光芒。“如果我现在就在这里开枪干掉你的一个伙伴怎么样，哈？”
+0x0100007800011EA4	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"How about the kipt?" He points his gun at Elizabeth. "Go ahead, tell me again how some cunt did it..."	他用手枪指着伊丽莎白。“不如就这个吉皮特怎么样？来啊，你他妈再说一次是个哪个婊子做的……”
+0x0100007800011EAA	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Half Light	He's gonna do it, he's gonna shoot her!	他要动手了，他要向她开枪了！
+0x0100007800011ECF	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Reaction Speed	His fingers are twitching. That's a draw reflex. He's about to draw.	他的手指在抽搐。那是开枪的反射动作。他要扣动扳机了。
+0x0100007800011EDD	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	Think! THINK! Why doesn't he believe me?	快想！快想想！为什么他不相信我？
+0x0100007800011EDD	tooltip1	TRIBUNAL / THEY DID NOT DO THIS!	You	They ALL did it.	他们全都有份。
+0x0100007800011EEB	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Logic	The Hardie boys *confessed* to hanging him. All. Together. Titus said: we took him out back and hanged him. He said it loud. In a *public place*.	哈迪兄弟*坦白*说把他吊起来了。所有人一起。提图斯说：我们把他弄出去，然后吊了起来。他说的很大声，而且还是在*公众场合*里。
+0x0100007800011EF1	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Logic	Your mind grinds to a halt. All you can see is the revolver in the man's armoured hand -- swaying, pointed at her. You move your mouth like a fish gasping for air...	你的思考慢慢停止了。你唯一能看见的，只有穿盔甲男人手中的那只大左轮手枪——指着她，摇晃着。你蠕动着嘴唇，像一只渴求空气的鱼……
+0x0100007800011EFC	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You think I'm fucking *stupid*..." There's a dangerous gleam in his eye. "What if I just shot one of your pals here right now, huh?"	“你以为我他妈是*傻子*吗，警察？”他的眼睛里闪过一丝危险的光芒。“如果我现在就在这里开枪干掉你的一个伙伴怎么样，哈？”
+0x0100007800011F03	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"How about the kipt?" He points his gun at Elizabeth. "Go ahead. Tell me about some fucking *room* again..."	他用手枪指着伊丽莎白。“不如就这个吉皮特怎么样？来啊，你他妈再跟我说一次那个*房间*……”
+0x0100007800011F11	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"How about the kipt?" He points his gun at Elizabeth. "Go ahead. Say *inadvertently* one more time..."	他用手枪指着伊丽莎白。“不如就这个吉皮特怎么样？来啊，再说一次*不是故意的*试试看……”
+0x0100007800011F17	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You think I'm fucking *stupid*?" There's a dangerous gleam in his eye. "What if I just shot one of your pals here right now, huh?"	“你以为我他妈是*傻子*吗，警察？”他的眼睛里闪过一丝危险的光芒。“如果我现在就在这里开枪干掉你的一个伙伴怎么样，哈？”
+0x0100007800011F1F	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Elizabeth	"Listen, please!" She raises both hands. "This cop and this drumhead court martial won't decide who..."	“请听我说！”她高举双手。“这个警察，还有这次战地军事宣判不会决定是谁……”
+0x0100007800011F29	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Reaction Speed	His fingers are twitching. That's a draw reflex. He's about to draw.	他的手指在抽搐。那是开枪的反射动作。他要扣动扳机了。
+0x0100007800011F2F	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	*"All* of them did it." He puts his hand on the gun. "All of them need to die."	“他们*全都*有份。”他把手放在枪上。“他们都得死。”
+0x0100007800011F38	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You think I'm fucking *stupid*, cop?" There's a dangerous gleam in his eye. "What if I just shoot one of your pals here -- right now, huh?"	“你以为我他妈是*傻子*吗，警察？”他的眼睛里闪过一丝危险的光芒。“如果我现在就在这里开枪干掉你的一个伙伴怎么样，哈？”
+0x0100007800011F46	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"How about the kipt?" He points his gun at Elizabeth. A sudden, jerking motion. "They fucking all did it together..."	他用手枪指着伊丽莎白。动作迅速又冲动。“不如就这个吉皮特怎么样？他妈的，他们所有人一起做的……”
+0x0100007800011F55	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"How about the kipt?" He points his gun at Elizabeth. "They fucking all did it together..."	他用手枪指着伊丽莎白。“不如就这个吉皮特怎么样？他妈的，他们所有人一起做的……”
+0x0100007800011F5B	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You think I'm fucking *stupid*, cop?" There's a dangerous gleam in his eye. "What if I just shot one of your pals here right now, huh?"	“你以为我他妈是*傻子*吗，警察？”他的眼睛里闪过一丝危险的光芒。“如果我现在就在这里开枪干掉你的一个伙伴怎么样，哈？”
+0x0100007800011F66	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Reaction Speed	His fingers are twitching. That's a draw reflex. He's about to draw.	他的手指在抽搐。那是开枪的反射动作。他要扣动扳机了。
+0x0100007800011F6F	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You think I'm fucking *stupid*..." There's a dangerous gleam in his eye. "What if I just shot one of your pals here right now, huh?"	“你以为我他妈是*傻子*吗，警察？”他的眼睛里闪过一丝危险的光芒。“如果我现在就在这里开枪干掉你的一个伙伴怎么样，哈？”
+0x0100007800011F76	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"Go ahead." He points his gun at Elizabeth. "Tell me about some other cunt on the coast one more time..."	他用手枪指着伊丽莎白。“来啊——再他妈说一遍是海岸边的其他婊子……”
+0x0100007800011F8D	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You think I'm fucking *stupid*, cop?" There's a dangerous gleam in his eye. "What if I just shot one of your pals here right now, huh?"	“你以为我他妈是*傻子*吗，警察？”他的眼睛里闪过一丝危险的光芒。“如果我现在就在这里开枪干掉你的一个伙伴怎么样，哈？”
+0x0100007800011F93	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"How about the kipt?" He points his gun at Elizabeth. "Go ahead -- tell me about some *puta* one more time..."	他用手枪指着伊丽莎白。“不如就这个吉皮特怎么样？来啊——再他妈跟我说一次*婊子*……”
+0x0100007800011F9A	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You think I'm fucking *stupid*, cop?" There's a dangerous gleam in his eye. "What if I just shot one of your pals here right now, huh?"	“你以为我他妈是*傻子*吗，警察？”他的眼睛里闪过一丝危险的光芒。“如果我现在就在这里开枪干掉你的一个伙伴怎么样，哈？”
+0x0100007800011FA0	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You think this is *funny*?" There's a dangerous gleam in his eye. "What if I just shot one of your pals here for fun, huh?"	“你觉得这样很*有意思*吗？”他的眼睛里闪过一丝危险的光芒。“如果我现在就在这里开枪干掉你的一个伙伴怎么样，哈？”
+0x0100007800011FA6	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"How about the kipt?" He points his gun at Elizabeth. "That'd be fucking *funny*..."	他用手枪指着伊丽莎白。“不如就这个吉皮特怎么样？那他妈的就*有意思*了……”
+0x0100007800011FB9	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You think I'm fucking *stupid*, cop?" There's a dangerous gleam in his eye. "What if I just shot one of your pals here right now, huh?"	“你以为我他妈是*傻子*吗，警察？”他的眼睛里闪过一丝危险的光芒。“如果我现在就在这里开枪干掉你的一个伙伴怎么样，哈？”
+0x0100007800011FC0	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"Go ahead." He points his gun at Elizabeth. "Tell me it was the fucking cafeteria manager one more time!"	他用手枪指着伊丽莎白。“来啊——再他妈的跟我说一次是餐厅经理干的！”
+0x0100007800011FCB	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"How about the kipt?" He points his gun at Elizabeth. "Go ahead -- tell me that confusing shit one more time..."	他用手枪指着伊丽莎白。“不如就这个吉皮特怎么样？来啊——再他妈跟我说一遍那些乱七八糟的废话……”
+0x0100007800011FD7	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You think you're funny?" There's a dangerous gleam in his eye. "What if I just shot one of your pals here right now, huh?"	“你觉得自己很有意思是吗？”他的眼睛里闪过一丝危险的光芒。“如果我现在就在这里开枪干掉你的一个伙伴怎么样，哈？”
+0x0100007800011FDE	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"How about the kipt?" He points his gun at Elizabeth. "That'd be fucking *funny*..."	他用手枪指着伊丽莎白。“不如就这个吉皮特怎么样？那他妈的就*有意思*了……”
+0x0100007800011FE8	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	Say nothing. Just stand there.	什么也不说，就干站着。
+0x0100007800011FF0	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"Listen! He was shot! He wasn't *hanged*! Listen to me!"	“听着！他中枪了！他不是*被吊死*的！听我的！”
+0x0100007800011FF6	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"Wait! They didn't confess!"	“等等！他们不是真的有罪！”
+0x010000780001200C	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kim Kitsuragi	"You heard wrong!" The lieutenant shouts. "Your friend wasn't hanged. He was shot. We found a bullet in his head."	“你听错了！”警督大吼起来。“你朋友不是被吊死的。他中枪了。我们在他的脑袋里找到一颗子弹。”
+0x0100007800012013	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You're *lying*. De Paule heard it." He doesn't move the weapon.	“你*撒谎*。波勒听见了。”他没有移开武器。
+0x010000780001201A	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Hand/Eye Coordination	A Kiejl Model 40 revolver. Eight rounds in the barrel. The gun slowly sways in his hand -- from the inebriation.	一款基耶尔40型左轮手枪。一管8发子弹。枪在他的手里微微晃动着——因为醉酒。
+0x010000780001202B	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"The hanging was only a cover up! Listen..."	“上吊只是掩饰！听我说……”
+0x0100007800012032	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"When they confessed they were *lying*."	“他们认罪的时候，其实是在*撒谎*。”
+0x0100007800012040	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kim Kitsuragi	"He wasn't hanged!" The lieutenant shouts. "He was shot! By someone in Martinaise. They're *helping* us find the shooter."	“他不是吊死的！”警督大吼起来。“他中枪了！马丁内斯的某个人杀了他。他们是在*帮*我们找枪手。”
+0x010000780001204F	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"Fucking liars..." He pulls the trigger. A plume of smoke erupts from the muzzle of his gun.	“你们都他妈的是骗子……”他扣动扳机。一团烟从他的枪口喷了出来。
+0x0100007800012055	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	The Gardener	The young woman stands and looks behind her. The shot has flown over her head -- crashing a small pane of the glass window behind her.	年轻女人站立着，朝身后看了看。子弹飞过她的头顶——击碎了她身后的玻璃窗格。
+0x010000780001205B	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"I missed." The man looks at his revolver and smiles.	男人看着自己的手枪，笑了笑：“我打偏了。”
+0x0100007800012062	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	De Paule	"I know what I heard, Korty!" The radio operator points at Titus. "They said they hanged him. All of them together. They made it *real* clear."	“我听到的绝对没错，科迪！”电报员指着提图斯。“他们说吊死了他。所有人一起做的。他们自己说的*清清楚楚*。”
+0x0100007800012075	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	De Paule	"I know what I heard, Korty!" The radio operator looks at him. "They said they killed him. They said it was a good way to end a Sunday night."	“我听到的绝对没错，科迪！”电报员看着他。“他们说杀了他。他们说这才是结束周日夜晚的好方式。”
+0x0100007800012080	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Rhetoric	That doesn't sound good. You need to change the topic *now*. Or there will be another shot.	这听起来可不太妙。你需要*马上*换个话题。不然又会开枪了。
+0x0100007800012087	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Hand/Eye Coordination	Not true. He purposefully over-aimed and shot the window -- you had him second guessing himself. Only for a second. Do not assume he will miss the next time.	不对。他故意朝上面瞄准，打中了窗户——你让他动摇了。虽然只有一秒。不要假设下一次他还会这样。
+0x0100007800012097	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Perception (Hearing)	The shot rings in your ears -- a low tinny ring. Then the Hardie boys yell something...	枪声在你的耳边回响——低沉而又尖锐。紧接着，哈迪兄弟开始大叫起来……
+0x010000780001209F	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Physical Instrument	What TOPIC? Shots have been fired -- act before it's too late. This was a close call!	什么话题？枪都开了——乘着一切还来得及，赶紧行动起来。刚才真是千钧一发！
+0x01000078000120AE	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Suggestion	That's bad. You need to stop arguing, now. This won't be won by talking about the *case* -- they don't care.	不太妙啊。现在你不能再争辩下去了。继续讨论*案子*不能解决问题——他们根本不在乎。
+0x01000078000120C3	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Hand/Eye Coordination	A Kiejl Model 40 revolver. Eight rounds in the barrel. The gun slowly sways in his hand -- from the inebriation.	一款基耶尔40型左轮手枪。一管8发子弹。枪在他的手里微微晃动着——因为醉酒。
+0x01000078000120C9	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You're *lying*. De Paule heard it." He doesn't move the weapon.	“你*撒谎*。波勒听见了。”他没有移开武器。
+0x01000078000120D7	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kim Kitsuragi	"You heard wrong!" The lieutenant shouts. "She -- and these men -- have been *helping* us find the shooter."	“你听错了！”警督大吼起来。“她——还有这些人——一直在*帮*我们寻找枪手。”
+0x01000078000120F4	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"I'll kill you!"	“我要杀了你！”
+0x01000078000120FA	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"She's a woman -- don't..."	“她是个女人——不要……”
+0x0100007800012100	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"No, she wasn't even there!"	“不，她根本就不在那里！”
+0x0100007800012162	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	The Gardener	"I'm okay... I'm okay..." The woman grabs her left side. She's down. Her white shirt soaks a blood red around her abdomen. She gasps for air.	女人抓住身体左侧。她中枪了。腹部周围的白衬衫被鲜血染红。她大口喘着气，重复着：“我还好……我没事……”
+0x0100007800012168	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"Is she?" He pulls the trigger. A plume of smoke erupts from the muzzle.	“是吗？”他扣动扳机。一团烟从他的枪口喷了出来。
+0x0100007800012171	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"I can never tell with these Aboriginals..."	“这些土著可说不准……”
+0x0100007800012178	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"Go ahead." He pulls the trigger. A plume of smoke erupts from the muzzle.	“来吧。”他扣动扳机。一团烟从他的枪口喷了出来。
+0x010000780001217F	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	He pulls the trigger. A plume of smoke erupts from the muzzle.	他扣动扳机。一团烟从他的枪口喷了出来。
+0x0100007800012188	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	The Gardener	"I'm okay... I'm okay..." The woman grabs her left side. She's down. Her white shirt soaks a blood red around her abdomen. She gasps for air.	女人抓住身体左侧。她中枪了。腹部周围的白衬衫被鲜血染红。她大口喘着气，重复着：“我还好……我没事……”
+0x0100007800012190	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Eugene	"Fuck this..." The man starts pulling something out from his pocket.	“你他妈的……”男人的手想从口袋里掏点什么。
+0x0100007800012198	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Titus Hardie	"Gene!" The big man raises his hand. "Tend to Lizzie -- NOW!"	“尤金！”大个子抬起手。“快去看看莉齐——现在就去！”
+0x010000780001219F	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Reaction Speed	He'll be ripped apart. They all will, the moment the third man opens fire. And he *knows* it.	他会被撕成碎片的。他们都会的——就在第三个人开枪的瞬间。而且他也*知道*这一点。
+0x01000078000121A7	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	He pulls the trigger. A plume of smoke erupts from the muzzle.	他扣动扳机。一团烟从他的枪口喷了出来。
+0x01000078000121AF	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You got any more *theories* cop?" He turns to you. "We fucking *heard* them -- confess to it. TO YOU!"	他转向你：“你还有什么*理论*吗，警察？我们都他妈的*听见*了——他们亲口承认的！向你承认的！”
+0x01000078000121B5	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	The Gardener	"I'm okay... I'm okay..." The woman staggers backward, crouches, then grabs her left side. Her white shirt soaks a blood red around her abdomen and she gasps for air.	女人蹒跚着向后退，接着蹲伏下来，抓住身体左侧。她腹部的白衬衫被鲜血染红了。她大口喘着气，重复着：“我还好……我没事……”
+0x01000078000121BE	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Visual Calculus	He wants you to open fire on the mercenaries before he does. He's waiting for you and your partner to be the shield.	他想让你先朝雇佣兵开枪。他在等着你和你的搭档做肉盾。
+0x01000078000121C6	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	The Gardener	"I'm okay... I'm okay..." The woman staggers backward, crouches, then grabs her left side. Her white shirt soaks a blood red around her abdomen and she gasps for air.	女人蹒跚着向后退，接着蹲伏下来，抓住身体左侧。她腹部的白衬衫被鲜血染红了。她大口喘着气，重复着：“我还好……我没事……”
+0x01000078000121D2	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	He pulls the trigger. A plume of smoke erupts from the muzzle.	他扣动扳机。一团烟从他的枪口喷了出来。
+0x01000078000121DC	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"Look, loincloth." He turns to you. "I'm a funny clown."	他转身看着你，说到：“看吧，野人，我是个可笑的小丑。”
+0x01000078000121F1	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Endurance	She's not. She's bleeding out. If she doesn't get help in 10 minutes, she'll die.	她没有。她在流血。如果10分钟内得不到救助，她就会死。
+0x01000078000121FA	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Endurance	She's not. She's bleeding out. If she doesn't get help in 10 minutes, she'll die.	她没有。她在流血。如果10分钟内得不到救助，她就会死。
+0x0100007800012204	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Endurance	She's not. She's bleeding out. In 20 minutes she'll be dead. Maybe 15.	她没有。她在流血。20分钟内她就会死。也许只有15分钟。
+0x0100007800012210	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Endurance	She's not. She's bleeding out. In 20 minutes she'll be dead. Maybe 15.	她没有。她在流血。20分钟内她就会死。也许只有15分钟。
+0x010000780001399D	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	You	"The gardener isn't even one of them!"	“园丁根本都不是他们一伙的！”
+0x01000078000139A5	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Perception (Hearing)	The shot rings in your ears -- a low tinny ring. Then the Hardie boys yell something...	枪声在你的耳边回响——低沉而又尖锐。紧接着，哈迪兄弟开始大叫起来……
+0x01000078000139AE	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Perception (Hearing)	The shot rings in your ears -- a low tinny ring. Then the Hardie boys yell something...	枪声在你的耳边回响——低沉而又尖锐。紧接着，哈迪兄弟开始大叫起来……
+0x01000078000139B7	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Perception (Hearing)	The shot rings in your ears -- a low tinny ring. Then the Hardie boys yell something...	枪声在你的耳边回响——低沉而又尖锐。紧接着，哈迪兄弟开始大叫起来……
+0x01000078000139BF	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Logic	Oh god... in the cafeteria. Before. Titus confessed to it.	天啦……就在餐厅里。之前提图斯刚刚承认。
+0x01000078000139CC	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"Go ahead." He points his gun at Elizabeth. "Tell me about some cunt who killed herself one more time..."	他用手枪指着伊丽莎白。“来啊——再他妈的跟我说一次哪个婊子自杀了……”
+0x01000078000139D2	Dialogue Text	TRIBUNAL / THEY DID NOT DO THIS!	Kortenaer	"You think I'm fucking *stupid*..." There's a dangerous gleam in his eye. "What if I just shot one of your pals here right now, huh?"	“你以为我他妈是*傻子*吗，警察？”他的眼睛里闪过一丝危险的光芒。“如果我现在就在这里开枪干掉你的一个伙伴怎么样，哈？”
+0x010000060001E8A1	Dialogue Text	TRIBUNAL / THIRD GUY?	Volition	Easy. Easy now.	放松，放松一点。
+0x010000060001E8A7	Dialogue Text	TRIBUNAL / THIRD GUY?	Half Light	Now! Now is the time! Stop waiting.	现在！就是现在！别等了！
+0x0100007800011A4E	Dialogue Text	TRIBUNAL / THIRD GUY?	De Paule	"Ruud? Ruud is the killer --" The armoured woman smiles a vicious smile. "Ruud 'The Killer' Hoenkloewen -- he doesn't talk much."	“鲁德？鲁德是杀手——”穿铠甲的女人露出恶毒的笑容。“*杀手*鲁德·霍恩克洛温——他的话可不多。”
+0x0100007800011A55	Dialogue Text	TRIBUNAL / THIRD GUY?	Ruud Hoenkloewen	"... all of you fucking cunts inside out..."	“……干翻你们这群狗娘养的杂种……”
+0x0100007800011A5E	Dialogue Text	TRIBUNAL / THIRD GUY?	Kortenaer	"The gunner." He gestures toward himself. "The radist." He nods towards the woman. "The killer." He points to the figure clad entirely in ceramic plate.	“炮手。”他对着自己比了个手势。“种族歧视者。”他朝那个女人点点头。“杀手。”他指着一个全身上下被陶瓷板包裹的严严实实的人。
+0x0100007800011A64	Dialogue Text	TRIBUNAL / THIRD GUY?	You	"The *Killer*?"	“*杀手*？”
+0x0100007800011A6A	Dialogue Text	TRIBUNAL / THIRD GUY?	You	"He kills?"	“他杀人吗？”
+0x0100007800011A70	Dialogue Text	TRIBUNAL / THIRD GUY?	Kortenaer	"Smart loincloth." He stares at you with his watery eyes. "He fucks natives up. Soldier of the Apocalypse-style."	“聪明的野人。”他用水汪汪的眼睛盯着你。“他把当地人搞得一团糟。末日战士的风格。”
+0x0100007800011A76	Dialogue Text	TRIBUNAL / THIRD GUY?	You	"You think you're real tough, huh? This killing is meaningless."	“你觉得自己很强是吧，哈？这种杀戮毫无意义。”
+0x0100007800011A80	Dialogue Text	TRIBUNAL / THIRD GUY?	De Paule	"What are we waiting for?! Let's blow that pig-fucking mouth off his face!"	“我们还在等什么？！现在就把他那张贱嘴给撕了！”
+0x0100007800011A86	Dialogue Text	TRIBUNAL / THIRD GUY?	You	"Uh... tends to the stables?"	“呃……照料马厩的？”
+0x0100007800011A8C	Dialogue Text	TRIBUNAL / THIRD GUY?	Kortenaer	"Hold your fire!" He licks his lips. "Wait for my command."	“先别开火！”他舔了舔嘴唇。“等我的命令。”
+0x0100007800011A92	Dialogue Text	TRIBUNAL / THIRD GUY?	Perception (Sight)	He has chewed his lips bloody.	他把嘴唇咬出了血。
+0x0100007800011A9A	Dialogue Text	TRIBUNAL / THIRD GUY?	Kortenaer	"Lance-corporal..." He turns to the woman. "Just fucking shut up and wait for your order."	“一等兵……”他转向那个女人。“你他妈的给我闭嘴，等我的命令。”
+0x0100007800011AA0	Dialogue Text	TRIBUNAL / THIRD GUY?	You	"Good -- I *kill* killers." (Point to your chest.)	“很好——我专门*杀*杀手。”（指着自己的胸膛。)
+0x0100007800011AAB	Dialogue Text	TRIBUNAL / THIRD GUY?	Authority	He is not used to commanding, or leading. He feels uncomfortable. He'd rather shoot to kill...	他不习惯下命令，或者是做领导。他感觉不太舒服。他宁愿开枪杀人……
+0x0100007800011AB5	Dialogue Text	TRIBUNAL / THIRD GUY?	Composure	This man has been under severe emotional pressure recently.	这个男人最近一直承受着严重的情绪压力。
+0x0100007800011AC9	Dialogue Text	TRIBUNAL / THIRD GUY?	Kortenaer	"This... talking-shit won't help you." The man shakes his head and staggers forward.	“这种……狗屁谈话帮不到你的。”男人摇了摇头，向前晃了一步。
+0x0100007800011ACF	Alternate1	TRIBUNAL / THIRD GUY?	You	"Okay. Let's just keep talking -- no one needs to die today." (Back off.)	“好吧。那咱们就接着说——今天谁都不用死。”（返回。）
+0x0100007800011ACF	Alternate2	TRIBUNAL / THIRD GUY?	You	"Okay. Let's just keep talking -- no one needs to die tonight." (Back off.)	“好吧。那咱们就接着说——今晚谁都不用死。”（返回。）
+0x0100007800011ACF	Alternate3	TRIBUNAL / THIRD GUY?	You	"Okay. Let's just keep talking -- no one needs to die this night." (Back off.)	“好吧。那咱们就接着说——今晚谁都不用死。”（返回。）
+0x0100007800011ACF	Dialogue Text	TRIBUNAL / THIRD GUY?	You	"Okay. Let's just keep talking -- no one needs to die today." (Back off.)	“好吧。那咱们就接着说——今天谁都不用死。”（退后。）
+0x0100007800011ADD	Dialogue Text	TRIBUNAL / THIRD GUY?	Half Light	Now! Now is the time! Stop waiting.	现在！就是现在！别等了！
+0x0100007800011AEE	Dialogue Text	TRIBUNAL / THIRD GUY?	Kortenaer	"What do you think he *does?*"	“你觉得他是*做什么*的？”
+0x0100007800011B00	Dialogue Text	TRIBUNAL / THIRD GUY?	You	"I'm a killer too."	“我也是个杀手。”
+0x0100007800011B07	Dialogue Text	TRIBUNAL / THIRD GUY?	Kortenaer	"You're a tit-sucking pig..." He staggers forward: "I'm gonna show you killer."	“你是他妈的一头猪……”他向前晃了一步：“我他妈让你看看什么叫杀手。”
+0x0100007800011B0E	Dialogue Text	TRIBUNAL / THIRD GUY?	You	"What was that, Ruud?"	“这是做什么，鲁德？”
+0x0100007800011B15	Dialogue Text	TRIBUNAL / THIRD GUY?	Ruud Hoenkloewen	"... rip you open..."	“……把你撕开……”
+0x0100007800011B1C	Dialogue Text	TRIBUNAL / THIRD GUY?	Conceptualization	Perhaps it's for the best. Him not talking *too* much.	也许这样最好。他的话不会*太多*。
+0x0100007800011B25	Dialogue Text	TRIBUNAL / THIRD GUY?	Kortenaer	"Huh?" He just stares at you with his watery eyes.	“哈？”他用水汪汪的眼睛死盯着你。
+0x0100007800011B2C	Dialogue Text	TRIBUNAL / THIRD GUY?	Empathy	That struck some chord -- a dark chord.	这引起了某种共鸣——阴暗的共鸣。
+0x0100007800011B49	Dialogue Text	TRIBUNAL / THIRD GUY?	Perception (Sight)	There -- on the rim of Hoenkloewen's helmet -- you count little stick figures: 19, 20, 21...	在那里——霍恩克洛温头盔的边缘——你数着上面画的小人：19,20,21……
+0x0100007800011B5C	Dialogue Text	TRIBUNAL / THIRD GUY?	You	Count the figures.	数一下小人。
+0x0100007800011B65	Dialogue Text	TRIBUNAL / THIRD GUY?	Perception (Sight)	About *fifty* little stick figures -- all of them black. Plus two little white ones in the end.	大概有*50*个小人——全都是黑色的。加上最后有两个白色的。
+0x0100007800011B74	Dialogue Text	TRIBUNAL / THIRD GUY?	Encyclopedia	These men served in Semenine... the native islanders...	这些人在塞美尼服役过……岛上的居民……
+0x0100007800011B7D	Alternate1	TRIBUNAL / THIRD GUY?	You	"Kills black people -- almost exclusively?"	“基本上——只杀黑人吗？”
+0x0100007800011B7D	Dialogue Text	TRIBUNAL / THIRD GUY?	You	"Kills black people?"	“杀黑人？”
+0x0100007800011B84	Dialogue Text	TRIBUNAL / THIRD GUY?	Kortenaer	"That's right." He stares at you with watery eyes. "Plenty of kipts here in Revachol too."	“没错。”他用水汪汪的眼睛盯着你。“还有不少瑞瓦肖的吉皮特。”
+0x0100007800011B96	Dialogue Text	TRIBUNAL / THIRD GUY?	Logic	The two little *white* figures in the end are from when they moved to Revachol. They're recent.	最后那两个*白色*小人是他们搬到瑞瓦肖的时候做的，应该就是最近。
+0x0100007800011BC3	Dialogue Text	TRIBUNAL / THIRD GUY?	Kortenaer	"Not today, Ruud. That'll be *me* today..." He looks at the woman on the plaza floor.	“今天不行，鲁德。今天轮到*我*了……”他看着站在广场上的女人。
+0x0100007800011BCA	Dialogue Text	TRIBUNAL / THIRD GUY?	The Gardener	She has fallen silent.	她陷入沉默。
+0x0100007800011BD1	Dialogue Text	TRIBUNAL / THIRD GUY?	Eugene	"T, let's fucking *do* it," the man presses through his teeth -- his hand is on his belt.	“T，赶紧他妈的*动手*吧，”男人咬紧牙关——手还放在腰带上。
+0x0100007800011BE4	Dialogue Text	TRIBUNAL / THIRD GUY?	Titus Hardie	"Gene..."	“尤金……”
+0x0100007800011BF4	Dialogue Text	TRIBUNAL / THIRD GUY?	De Paule	"What are we waiting for?" She turns to the leader. "Let's blow that big fucking mouth off his face!"	“我们还在等什么？”她转向头目。“赶紧把他那张臭嘴给撕烂！”
+0x0100007800011C23	Dialogue Text	TRIBUNAL / THIRD GUY?	De Paule	"Oh yeah, that's Ruud." The armoured woman smiles a vicious smile. "Ruud 'The Killer' Hoenkloewen -- he doesn't talk much."	“哦，没错，那个是鲁德。”穿着盔甲的女人露出恶毒的笑容。“*杀手*鲁德·霍恩克洛温——他的话可不多。”
+0x0100007800013983	Dialogue Text	TRIBUNAL / THIRD GUY?	Volition	Easy. Easy now.	放松，放松一点。
+0x010000780001398B	Dialogue Text	TRIBUNAL / THIRD GUY?	Volition	Easy. Easy now.	放松，放松一点。
+0x0100007800013991	Dialogue Text	TRIBUNAL / THIRD GUY?	Half Light	Now! Now is the time! Stop waiting.	现在！就是现在！别等了！
+0x010000060001E90F	Dialogue Text	TRIBUNAL / WHERE IS KLAASJE?	Rhetoric	For god's sake, tell 'em the Hardies didn't *do* it, present a case!	老天爷啊，告诉他们不是哈迪兄弟*做的*，拿出证据来！
+0x01000078000123C6	Dialogue Text	TRIBUNAL / WHERE IS KLAASJE?	Kim Kitsuragi	"Klaasje -- the woman upstairs? Where is she?"	“卡拉洁——楼上那个女人？她在哪？”
+0x01000078000123DA	Dialogue Text	TRIBUNAL / WHERE IS KLAASJE?	Garte, the Cafeteria Manager	"She left!" The manager calls down from the balcony.	“她走了！”经理站在阳台上朝下喊。
+0x01000078000123E1	Dialogue Text	TRIBUNAL / WHERE IS KLAASJE?	Composure	Unarmed, hunched, but keeping it together.	赤手空拳，弯腰驼背，但是十分镇静。
+0x01000078000123EE	Dialogue Text	TRIBUNAL / WHERE IS KLAASJE?	You	"What do you mean she *left*?"	“你说*她走了*是什么意思？”
+0x01000078000123F4	Dialogue Text	TRIBUNAL / WHERE IS KLAASJE?	You	"Garte, what the hell are you *doing* here?"	“加尔特，你他妈在这里*搞什么鬼*？”
+0x0100007800012401	Dialogue Text	TRIBUNAL / WHERE IS KLAASJE?	Garte, the Cafeteria Manager	"She LEFT! Her room's cleaned out -- right before these assholes showed up!"	“她走了！她的房间都清理干净了——就在这些混账出现之前！”
+0x0100007800012409	Dialogue Text	TRIBUNAL / WHERE IS KLAASJE?	Garte, the Cafeteria Manager	"What am I doing?! My fucking establishment is UNDER FIRE!" He points to the armoured figures. "You know how much windows *cost?*"	“我在做什么？我的地方他妈的被袭击了！”他指向那群穿盔甲的人。“你知道这些窗户*值多少钱*吗？”
+0x010000780001241F	Dialogue Text	TRIBUNAL / WHERE IS KLAASJE?	Kortenaer	"HEY, BUSHMEN!!!" The veins on the man's neck expand as he yells. "Your little CUNT isn't gonna help you out of this one!"	“喂，布希曼人！！！”男人大声喊叫，脖子上的青筋也随之爆出。“那个小婊子是不会帮你摆脱困境的！”
+0x0100007800012432	Dialogue Text	TRIBUNAL / WHERE IS KLAASJE?	Kim Kitsuragi	"We should have arrested her..." The lieutenant whispers, his eyes still on the armed mercenaries.	“我们应该逮捕她的……”警督低语到，他的双眼没有离开那些武装雇佣兵。
+0x0100007800012438	Dialogue Text	TRIBUNAL / WHERE IS KLAASJE?	Empathy	You can *feel* how upset he is with himself. Just for a second. Then the fear takes over and he's back in the moment.	你能*感觉*到他到底有多不安。只持续了一会儿。接着，恐惧占据了上风，他又回到了这一刻。
+0x0100007800012464	Dialogue Text	TRIBUNAL / WHERE IS KLAASJE?	Volition	She's gone. Forget about it now. Concentrate on this.	她走了。现在忘了它吧。集中对付眼下的情况。
+0x0100007800012491	Dialogue Text	TRIBUNAL / WHERE IS KLAASJE?	Kortenaer	"Who the fuck is that?"	“那他妈的又是谁？”
+0x0100004500018AF8	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	Kortenaer	"Yes... So what?"	“是的……所以呢？”
+0x010000780001223D	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	You	"Nothing. It's okay."	“没什么。挺好的。”
+0x0100007800012243	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	You	"I'm drunk too. Let's dance, baby."	“我也喝多了。来跳舞吧，宝贝。”
+0x0100007800012249	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	You	"Your judgement is impaired. You'll regret this."	“你的判断是错误的。你会后悔的。”
+0x010000780001224F	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	You	"Al Gul is a trick the desert pygmees played on us. Do not *succumb* to it!"	“酒精是沙漠侏儒欺骗我们的诡计。千万不要向它*屈服*。”
+0x0100007800012264	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	You	I don't need a drink right now for god's sake. Look at this! I'm in a fight!	老天啊，我现在不想喝酒。看看这个！我正在战斗中呢！
+0x010000780001226A	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	Electrochemistry	Exactly. This is *so* horrible! People are gonna die whatever you do -- it will be all your fault. Only a drink will soothe this. Keep thinking about the drink!	没错。这真是*太可怕*了！不论你做什么，人们都会死——这全都是你的错。只有酒精能带来一些安慰。接着想喝酒的事吧！
+0x0100007800012270	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	Electrochemistry	Yeah. So what. You should be drunk too. Or, like, *drunker*. You don't want to die sober do you?	是的。所以呢？你也应该喝醉。或者，比如说，应该喝的*更醉*。你应该不想清醒的死去吧？
+0x0100007800012276	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	You	I don't need a drink right now, for god's sake, the gardener just got shot!	老天啊，我现在不需要喝酒，园丁刚中枪了！
+0x0100007800012282	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	Electrochemistry	Fucking horrible... A girl got shot?! Because of you?! Only warm alcohol will help soothe the guilt!	卧槽，好可怕……一个姑娘中枪了？！因为你吗？！只有温热的美酒能帮你抚平这种罪恶感了！
+0x0100007800012288	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	Volition	Shut up! Let him think, too much is on the line, he's *not* gonna fuck it up because of you. I won't let you.	闭嘴！让他想想，现在情况太危险，他是*不会*因为你搞砸的。我不会让你这么做。
+0x010000780001229F	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	Electrochemistry	Yeah. So what? You should be drunk too. It's insane how long it's been since your last drink. Get one in you RIGHT NOW.	是的。所以呢？你也应该喝醉。想想你上次喝酒已经过去多久了，真是太疯狂了吧。赶紧给自己来上一杯。
+0x01000078000122BA	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	Kortenaer	"Nah..." He wipes the sweat from his brow. "I'm clear as day. Fucking government ordained super-soldier..."	“不……”他擦掉眉头上的汗水。“我清楚的不得了。混账政府任命的超级士兵……”
+0x01000078000122C5	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	Kortenaer	"Interrupt me again and I will execute you on the spot, lance-corporal." The outburst is accompanied by yellowish saliva around his mouth.	“再打断我一次，我就当场处决你，一等兵。”他的情绪随着嘴唇周围的淡黄色唾液一起迸发了。
+0x01000078000122CB	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	De Paule	"Enough already! What is this?!" The woman's voice is furious. "We didn't come here to fucking chat!"	“够了！这是干什么？！”女人的声音十分恼怒。“我们来这儿可不是他妈的为了闲聊的！”
+0x01000078000122D3	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	Kortenaer	"Stupid shit..." He wipes the sweat from his brow. "I know what you're doing, you *fuck*. It's not gonna work. I'm clear as day."	“脑子进屎的蠢货……”他擦掉眉头上的汗水。“我知道你在做什么，你这个*杂种*。没用的，我很清楚。”
+0x01000078000122DA	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	Composure	He must be tweaked off too. With something other than alcohol. They always are...	他肯定是嗑嗨了，酒之外的其它东西。他们总是这样……
+0x01000078000122E6	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	Suggestion	Now! You got them both off-piste! He's foaming mad at her...	就是现在！你让他们都分心了！他快被她气炸了……
+0x01000078000122EF	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	Kortenaer	"All right." He wipes the sweat from his brow. "Let's do this. Smear your shit all over this fucking dung field..."	“好吧。”他擦掉眉头上的汗水。“就这么做吧。把你的屎涂遍整个该死的粪坑……”
+0x01000078000122F6	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	Authority	That didn't work at all, he's *more* focused now.	这样没用，他*更*专注了。
+0x01000078000122FE	Dialogue Text	TRIBUNAL / YOU ARE DRUNK!	Kortenaer	"Didn't sound like nothing." He wipes the sweat from his brow. "Sounded like you were about to break into a sermon. Was that it?"	“听起来什么也不是。”他擦掉眉头上的汗水。“更像是你要开始布道了。是这样吗？”
