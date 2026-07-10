@@ -1,0 +1,56 @@
+﻿ArticyId	TermType	ConvTitle	Actor	En	Zh
+0x01000021000009E1	Dialogue Text	WALKWAY ORB / equipping carabineer jacket	You	Mixing? Does my blood *need* mixing? Or is it good as it is?	混合？我的血液需要*混合*吗？或者本来的不好吗？
+0x01000021000009E8	Dialogue Text	WALKWAY ORB / equipping carabineer jacket	You	Oops, I didn't mean to wear a nationalist jacket. [Discard the thought -- and the jacket.]	哎呀，我不是故意穿上这件民族主义夹克的。[抛弃这个想法——还有这件夹克。]
+0x0100002100000A03	Dialogue Text	WALKWAY ORB / equipping carabineer jacket	Half Light	Yes. Let's hope no one saw you wearing that outrageously fascist jacket.	是的。希望没人看见你穿着这件凶残的法西斯主义夹克。
+0x0100006B000025AF	Dialogue Text	WALKWAY ORB / equipping carabineer jacket	Half Light	Wow... this jacket makes you feel *strong*. As if your blood is mixing with that of the venerable Filippian loyalists of old.	哇哦……这件夹克让你感觉变得*强壮无比*。就好像你的血液跟古老的菲利普保皇派混合在了一起。
+0x0100006B000025BB	Dialogue Text	WALKWAY ORB / equipping carabineer jacket	Half Light	It's time to clean up the streets and restore the city to its former glory! Whether you like it or not, this jacket gives you serious nationalist cred.	是时候清理这些街区，让这座城市回复昔日的荣光！不论你喜不喜欢，穿着这件夹克给你带来了相当的民族主义信誉。
+0x010000820001F588	Dialogue Text	WALKWAY ORB / equipping carabineer jacket	Half Light	Apologies, you're right! The need for a strong central government has always been clear to you. You're a true patriot of Revachol -- born to do it.	很抱歉，你是对的！一直以来你都很清楚，这里需要一个强有力的中央政府。你是个真正的瑞瓦肖爱国者——为此而生。
+0x010000060001863E	Dialogue Text	WALKWAY ORB / logic belt afterthought	Kim Kitsuragi	"More ammo on our belt for the remainder of the investigation. Good find, detective."	“看来在接下来的调查中，我们需要准备更多弹药了。很不错的发现，警探。”
+0x010000820001F935	Dialogue Text	WALKWAY ORB / logic belt afterthought	Logic	These are the same belts as the one the victim was hanged with.	这些皮带跟之前吊着被害人的一样。
+0x010000820001F953	Dialogue Text	WALKWAY ORB / logic belt afterthought	You	"Look, lieutenant. The same belts as the one the victim was hanged with. Says *Vermillion* on the side..."	“看，警督。这些皮带跟之前吊着被害人的一样。边上好像写着*弗米利恩*……”
+0x010000820001F959	Dialogue Text	WALKWAY ORB / logic belt afterthought	You	The same exact belts. Even the same writing...	一模一样的皮带。连上面的字迹都一样……
+0x010000820001F95F	Dialogue Text	WALKWAY ORB / logic belt afterthought	You	[Finish thought.]	[完成思维。]
+0x010000820001F967	Dialogue Text	WALKWAY ORB / logic belt afterthought	Kim Kitsuragi	"You're right." The lieutenant looks at the pile. "This certainly confirms the theory that the belt must've come from inside the harbour."	“你说的没错。”警督看着那堆东西。“这样就坐实了之前的推论：皮带肯定是从港口里面来的。”
+0x010000820001F976	Dialogue Text	WALKWAY ORB / logic belt afterthought	Kim Kitsuragi	"You're right. This is probably where Titus and his men got the belt." The lieutenant looks at the pile.	“你说的没错。这里可能就是提图斯和他的人弄到皮带的地方。”警督看着眼前堆起的东西。
+0x010000820001F986	Dialogue Text	WALKWAY ORB / logic belt afterthought	Logic	Yes, this confirms Titus's story.	是啊，这样就证实了提图斯的故事。
+0x010000820001F98C	Dialogue Text	WALKWAY ORB / logic belt afterthought	Encyclopedia	I knew it was a cargo lashing belt!	我就知道是货物的捆扎带！
+0x010000820001F994	Dialogue Text	WALKWAY ORB / logic belt afterthought	Logic	Indeed, it appears so. This is where the belt came from.	的确，看起来确实如此。皮带就是从这里来的。
+0x0100006B000066C4	Dialogue Text	WALKWAY ORB / party scene afterthought	Inland Empire	All those empty wine bottles and cigarette butts on the ground... Someone *partied* really, really hard here.	地上堆满了空酒瓶和烟头……看来有人在这里疯狂*狂欢*了一场。
+0x0100006B0000673D	Dialogue Text	WALKWAY ORB / party scene afterthought	You	Let's just move on. [Finish thought.]	我们走吧。[完成思维。]
+0x0100006B000069C1	Dialogue Text	WALKWAY ORB / party scene afterthought	Inland Empire	Snow is quietly covering the numerous wine bottles and cigarette butts on the ground. Someone *partied* really, really hard here.	雪花静静飘落，掩埋了一地的空酒瓶和烟头。看来有人在这里疯狂*狂欢*了一场。
+0x0100006B000069D6	Dialogue Text	WALKWAY ORB / party scene afterthought	You	It's probably nothing. [Discard thought.]	也许没什么事。[放弃思维。]
+0x0100006B000069DD	Dialogue Text	WALKWAY ORB / party scene afterthought	Inland Empire	Numerous empty wine bottles glisten in the rain. Someone *partied* really, really hard here.	一大堆空酒瓶在雨中闪闪发亮。看来有人在这里疯狂*狂欢*了一场。
+0x010000820001F5C4	Alternate1	WALKWAY ORB / party scene afterthought	You	Did I do this?\n	是我做的吗？
+0x010000820001F5C4	Dialogue Text	WALKWAY ORB / party scene afterthought	You	"Did I do this?"	“是我做的吗？”
+0x010000820001F5CC	Dialogue Text	WALKWAY ORB / party scene afterthought	You	Wait, how hard?	等等，有多疯狂？
+0x010000820001F5D3	Dialogue Text	WALKWAY ORB / party scene afterthought	Inland Empire	Well, they went through six bottles of *Potent Pilsner*, three bottles of *Commodore Red*, and almost four packs of cigarettes -- it must have been pretty hard.	这个嘛，他们喝空了6瓶*高度比尔森啤酒*，3瓶*海军准将红朗姆*，还有差不多四包烟——肯定是有够疯狂的。
+0x010000820001F5E2	Dialogue Text	WALKWAY ORB / party scene afterthought	Kim Kitsuragi	"Well..." The lieutenant looks at you, then the bottles. "Yes. I think we can say with relative confidence that it was you."	“呃……”警督看着你，然后看了看瓶子。“是的。我想可以相对有把握的说，是你做的。”
+0x010000820001F5E8	Dialogue Text	WALKWAY ORB / party scene afterthought	Inland Empire	Look at it. Of course it was you. You *partied* here.	你看看这里。当然是你啊。在这里*狂欢*的就是你。
+0x010000820001F5F7	Dialogue Text	WALKWAY ORB / party scene afterthought	Horrific Necktie	Yeah we did, *bratan*! And from the looks of it we had hell of a time. Hell of a time, *bratan*.	是啊，就是我们，*兄弟*！这么看起来，我们一定玩得很开心。非常开心，*兄弟*。
+0x010000820001F606	Alternate1	WALKWAY ORB / party scene afterthought	You	This is really sad. I must have been miserable.	这也太悲伤了吧。我肯定很痛苦。
+0x010000820001F606	Dialogue Text	WALKWAY ORB / party scene afterthought	You	"This is really sad. I must have been miserable."	“真是太悲哀了。我一定很痛苦。”
+0x010000820001F60C	Alternate1	WALKWAY ORB / party scene afterthought	You	Looks like I had a lot of fun.	看起来我玩得很开心。
+0x010000820001F60C	Dialogue Text	WALKWAY ORB / party scene afterthought	You	"Looks like I had a lot of fun."	“看来我玩的很开心。”
+0x010000820001F612	Alternate1	WALKWAY ORB / party scene afterthought	You	I'm still not completely convinced it was me.\n	我还没有完全确信是我干的。
+0x010000820001F612	Dialogue Text	WALKWAY ORB / party scene afterthought	You	"I'm still not completely convinced it was me."	“我还没有完全相信是我做的。”
+0x010000820001F639	Dialogue Text	WALKWAY ORB / party scene afterthought	Kim Kitsuragi	"Yes," the lieutenant agrees. "This scene isn't exactly ripping with joy. Let's just move on." He turns to leave.	“是啊，”警督表示同意。“这个场面确实算不上开心。我们还是走吧。”他转身离开。
+0x010000820001F64C	Dialogue Text	WALKWAY ORB / party scene afterthought	Kim Kitsuragi	"It really *really* doesn't." The lieutenant turns to go. "Let's turn our attention elsewhere and move on."	“*真没有*什么开心的。”警督转身要走。“我们还是把精力放到别的地方吧。”
+0x010000820001F659	Dialogue Text	WALKWAY ORB / party scene afterthought	Inland Empire	Move away from this scene and you don't have to think about it anymore. Just walk away and it's *gone*!	离开这里之后，你就不用再想起它了。只要走开，一切都会*过去*！
+0x010000820001F65F	Dialogue Text	WALKWAY ORB / party scene afterthought	Kim Kitsuragi	"I am. But it doesn't matter right now. Let's just move on."	“我相信。但是现在不重要。我们还是走吧。”
+0x010000820001F66B	Dialogue Text	WALKWAY ORB / party scene afterthought	Horrific Necktie	Well, I am. Who else could crush such quantities, *bratan*? This is wild. You are wild. We should do this again. But right now you should keep moving.	“是我。这种量还有谁可以做到，*兄弟*。这真是太疯狂了。你也很疯狂。我们什么时候应该再来一次。不过现在，你该走了。”
+0x010000820001F679	Dialogue Text	WALKWAY ORB / party scene afterthought	Inland Empire	Yeah... a *lot* of fun. Better not think about it and just move on.	是啊……真的*很*开心。最好还是别想了，赶紧走吧。
+0x010000820001F67F	Dialogue Text	WALKWAY ORB / party scene afterthought	Horrific Necktie	You said it, *bratan*! And this can happen again if we want to. And we want to. Only in a different place. Right now you gotta keep moving.	这可是你说的，*兄弟*！如果我们想的话，可以随时再来一次。而且我们也确实想这么做。只是下次要换个别的地方。现在你该走了。
+0x010000820001F68D	Dialogue Text	WALKWAY ORB / party scene afterthought	Inland Empire	Yeah, it doesn't exactly look like someone really enjoyed themselves here. No point in dwelling on it now, better keep moving.	是啊，看起来确实不像很开心的样子。没必要老惦记这个，最好还是走吧。
+0x010000820001F693	Dialogue Text	WALKWAY ORB / party scene afterthought	Horrific Necktie	No, no, *bratan*, I'm sure it was a blast. When do you and I *not* have fun together? Don't answer that, just take that positive feeling and run along!	不不，*兄弟*，肯定很开心的。每次你和我在一起的时候，还有*不开心*过？别理它，只要带着这种积极的感觉，继续前进吧！
+0x010000820001FA33	Alternate1	WALKWAY ORB / party scene afterthought	You	I must have been on an advanced scouting mission in the harbour.	我肯定是在港口执行一项高级侦察任务。
+0x010000820001FA33	Dialogue Text	WALKWAY ORB / party scene afterthought	You	"I must have been on an advanced scouting mission in the harbour."	“我肯定是在港口执行一项高级侦察任务。”
+0x010000820001FACD	Dialogue Text	WALKWAY ORB / party scene afterthought	Inland Empire	Yes. That's what this was. A reconnaissance mission. Wish you'd only remember the good intel you brought back...	是的，就是这样。一项侦察任务。希望你还记得自己带回来的有用情报……
+0x010000820001FAD8	Dialogue Text	WALKWAY ORB / party scene afterthought	Horrific Necktie	"Oh *SO* advanced. Deep in the enemy territory -- getting fucked up right under everyone's nose -- high on life and adrenaline... and alcohol apparently." The tie tightens around your neck. "I'm very proud of you."	“哦，真的*特别*高级。深入敌人的领地——就在所有人的眼皮子下面搞得乱七八糟——情绪高昂，肾上腺素飙升……显然，还有不少酒精。”领带渐渐勒紧了你的脖子。“我为你感到非常骄傲。”
+0x010000820001FADE	Dialogue Text	WALKWAY ORB / party scene afterthought	Kim Kitsuragi	"Yes," the lieutenant marks dryly. "This looks pretty advanced alright. For now, let's just move on."	“没错，”警督冷淡地标记着。“看起来确实很高级。不过现在，我们还是先走吧。”
+0x0100008F000028DB	Dialogue Text	WALKWAY ORB / walkwaycoat	Shivers	It is harder and harder to reach you... I am not sure how well you'll hear me...	要想接触到你，真是越来越困难了……不知道你还能不能听到我的声音……
+0x0100008F000028E1	Dialogue Text	WALKWAY ORB / walkwaycoat	You	Please, I want to help you! Where must I go next?	拜托了，我想帮你！接下来我该去哪里？
+0x0100008F000028E7	Dialogue Text	WALKWAY ORB / walkwaycoat	You	Can't you just tell me where you are? Or what you are?	就不能直接告诉我你在哪吗？或者你是谁？
+0x0100008F000028ED	Dialogue Text	WALKWAY ORB / walkwaycoat	You	GET OUT OF MY HEAD!	从我的脑子里滚出去！
+0x0100008F000028F3	Dialogue Text	WALKWAY ORB / walkwaycoat	Shivers	Listen within the flower of home… I am lost... Please....	在鲜花的家园中聆听……我迷路了……请求你……
+0x0100008F000028F9	Dialogue Text	WALKWAY ORB / walkwaycoat	Shivers	I am lost and unfound... Listen within the flower of home…	我迷失了，失去了方向……在鲜花的家园中聆听……
+0x0100008F000028FF	Dialogue Text	WALKWAY ORB / walkwaycoat	Shivers	Forgive me... I only want reunion... I am struggling to know where... Listen within the flower of home… Please...	原谅我……我只是想与你重聚……我不知道这是哪里……在鲜花的家园中聆听……请求你……
