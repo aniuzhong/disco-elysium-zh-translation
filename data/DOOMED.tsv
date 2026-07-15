@@ -277,7 +277,7 @@
 0x0100001F000005E5	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"In any case, I don't think it's your job to worry about what happens on milieus. I probably shouldn't have even mentioned it -- things like that are better forgotten."	“不管怎么说，我觉得担心电台里的东西不是你的工作。我可能根本就不应该提它——这种事还是忘掉的好。”
 0x0100001F000005FA	Dialogue Text	DOOMED / DICEMAKER	Kim Kitsuragi	"Men like that are a curse." The lieutenant is stern.	“那种人本身就是个诅咒。”警督很坚定。
 0x0100001F00000601	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"Sure. But Slipstream is history now. All their remaining assets got seized by the bailiffs in '47."	“当然。不过现在气流已经成为历史。所有剩下来的资产都在47年被法警查封了。”
-0x0100001F00000608	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"I have no idea why those skis and blades are still lying around in the house... Not much use now, I guess."	“我不知道为什么房间里还留着那些滑雪板和动叶片……我猜现在应该没多大用了吧。”
+0x0100001F00000608	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"I have no idea why those skis and blades are still lying around in the house... Not much use now, I guess."	“我不知道为什么房间里还留着那些滑雪板和冰刀鞋……我猜现在应该没多大用了吧。”
 0x0100001F0000060F	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"The usual, I imagine -- that he's been thinking up all kinds of new business plans and can't *wait* to get *started* on them just as soon as he returns..." She laughs and turns around in her chair.	“我想又是老一套吧——他一直在构思各种各样的新商业计划，一回来就*等不及*要马上*开始*……”她笑着，在椅子上转过身来。
 0x0100001F0000061A	Dialogue Text	DOOMED / DICEMAKER	You	(Look at your feet.) "Unhonourable..."	（看着你的脚。）“不光荣……”
 0x0100001F00000621	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"Maybe." She doesn't really seem to care that much about honour. "But Slipsteam's history now. All their remaining assets got seized by the bailiffs in '47."	“也许吧。”她好像真的不太在乎荣誉。“不过现在气流已经成为历史。所有剩下来的资产都在47年被法警查封了。”
@@ -325,7 +325,7 @@
 0x0100005700003ED1	Dialogue Text	DOOMED / DICEMAKER	You	"What's up with the broken windows?"	“破窗户是怎么回事？”
 0x0100005700003ED7	Dialogue Text	DOOMED / DICEMAKER	You	"Did someone here make stuffed animals? I saw mounts lying around."	“有人在这里做毛绒玩具吗？我在周围看到了很多。”
 0x0100005700003EDD	Dialogue Text	DOOMED / DICEMAKER	You	"I found creepy mannequins..."	“我发现一些很诡异的人体模特……”
-0x0100005700003EE3	Dialogue Text	DOOMED / DICEMAKER	You	"What's with the rotor blades and skis?"	“动叶片和滑雪板是怎么回事？”
+0x0100005700003EE3	Dialogue Text	DOOMED / DICEMAKER	You	"What's with the rotor blades and skis?"	“冰刀鞋和滑雪板是怎么回事？”
 0x0100005700005856	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"Hello, I'm Neha." A bird-like woman sits on a throne of tools, with emerald light shining through her hair.	“你好，我是妮亚。”一个像鸟儿一样的女人坐在一个工具王座上，发丝间透射出翠绿色的光线。
 0x0100005700005864	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"Did you try knocking on my window? I must have missed you, I've been listening to my *milieus*." She taps on her headphones.	“你是不是敲过我的窗户？我正在听*电台*，肯定是错过了。”她轻轻敲了敲自己的耳机。
 0x0100005700007259	Dialogue Text	DOOMED / DICEMAKER	You	"Why are you asking me about *dice*?" (Move on.)	“你为什么要问我*骰子*的事？”（继续。）
@@ -485,7 +485,7 @@
 0x010000570000BC42	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"Oh boy, the fabled Revachol Ice City -- you're in for a treat here!" She smiles and leans closer, hands on her knees, like a stand-up comedian ready to tell a story.	“天啦，传说中的瑞瓦肖冰城——你一定会喜欢的！”她笑了笑，靠近了一些，双手放在膝盖上，像是一个准备讲故事的单口相声演员。
 0x010000570000BC65	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"You mean Mr. Fabron, the taxidermist? No, he mostly just did drugs."	“你是说法布龙先生，那个动物标本剥制师吗？不，他主要是吸毒。”
 0x010000570000BC6F	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"There used to be a fashion atelier here, but I have forgotten the head designer's name... They were doing well for a couple of years, until the insect rights activists came."	“这里以前有家时装工作室，但是我忘记那个首席设计师的名字了……有几年他们的生意很不错，直到昆虫权益活动家的到来。”
-0x010000570000BC79	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"They were made by a company called Slipstream. After they 'pivoted' from making rotor blades to skis, their chief executive took off on a 'vacation'... with all their money." She rests her chin on her hand with an impish smile.	“那是一家名叫气流的公司生产的。就在他们从生产动叶片‘转到’生产滑雪板之后，他们的董事长就‘度假’去了……还带走了所有的钱。”她用一只手托着下巴，脸上露出顽皮的笑容。
+0x010000570000BC79	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"They were made by a company called Slipstream. After they 'pivoted' from making rotor blades to skis, their chief executive took off on a 'vacation'... with all their money." She rests her chin on her hand with an impish smile.	“那是一家名叫气流的公司生产的。就在他们从生产冰刀鞋‘转到’生产滑雪板之后，他们的董事长就‘度假’去了……还带走了所有的钱。”她用一只手托着下巴，脸上露出顽皮的笑容。
 0x010000570000BE33	Dialogue Text	DOOMED / DICEMAKER	You	"I was wondering about the Whirling-in-Rags. Is it part of the same building complex?"	“我在想褴褛飞旋。它也是这栋综合建筑的一部分吗？”
 0x010000570000BE39	Dialogue Text	DOOMED / DICEMAKER	You	"I saw a name 'East Delta Pinball' on the doorbell."	“我在门铃上看到一个名字叫‘东德尔塔弹球’。”
 0x010000570000BE3F	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"Right, it used to be a gaming arcade. This is an *ancient* failure -- before my time. I'm not surprised, however."	“没错，它曾经是一家游戏机室。那是一次*古老*的失败——早在我的时代之前。不过，我也不觉得惊讶。”
@@ -519,7 +519,7 @@
 0x010000570000BF73	Dialogue Text	DOOMED / DICEMAKER	You	"I murdered it. With my own bare hands I laid it to rest. It's my trophy now."	“我杀了它。赤手空拳把它埋葬了。现在它是我的战利品了。”
 0x010000570000BF7A	Dialogue Text	DOOMED / DICEMAKER	You	"I unplugged the fridge to help Revachol Ice City cut their losses."	“我拔掉了冰箱插头，帮瑞瓦肖冰城减少一点损失。”
 0x010000570000BF81	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"Really? You broke it? What a shame. It was a *terrifying* beast, but I was fond of it."	“真的吗？你弄坏它了？真可惜。它确实是一只*吓人*的野兽，不过我还挺喜欢的。”
-0x010000570000BF94	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"But Slipstream is history now. All their remaining assets got seized by the bailiffs in '47. I have no idea why those skis and blades are still lying around in the house..."	“不过现在气流已经成为历史。所有剩下来的资产都在47年被法警查封了。我不知道为什么房间里还留着那些滑雪板和动叶片……”
+0x010000570000BF94	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"But Slipstream is history now. All their remaining assets got seized by the bailiffs in '47. I have no idea why those skis and blades are still lying around in the house..."	“不过现在气流已经成为历史。所有剩下来的资产都在47年被法警查封了。我不知道为什么房间里还留着那些滑雪板和冰刀鞋……”
 0x010000570000BF9E	Dialogue Text	DOOMED / DICEMAKER	You	"Interesting. What do these transmissions say?"	“有意思。这些传输信号说的是什么？”
 0x010000570000BFC5	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"Megatherion," nods the dicemaker, "a mega wild beast."	“超圣兽，”骰子匠人点点头。“一种巨大的野兽。”
 0x010000570000BFCA	Dialogue Text	DOOMED / DICEMAKER	You	"Megatherion?"	“超圣兽？”
@@ -581,7 +581,7 @@
 0x010000570000C291	Dialogue Text	DOOMED / DICEMAKER	Encyclopedia	It's the copopedia reporting in: ICP stands for International Collaboration Police.	小百科为您报道：ICP代表国际联合刑警。
 0x010000570000C299	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"Honestly, I think it's quite funny. I think he's still sending out holiday transmissions from Touloula or Tioumoutiri or Khasht-Kor, or wherever he is."	“老实说，我觉得还挺有意思的。我觉得他还在发送节日讯号，从陶尔洛拉，提欧穆特里，卡希科尔，或者随便什么地方。”
 0x010000570000C2A1	Dialogue Text	DOOMED / DICEMAKER	You	"That's illegal -- running off with company's money like that. Why hasn't he been arrested?"	“这是违法的——像这样卷走公司的钱逃跑。为什么他没有被逮捕呢？”
-0x010000570000C2B3	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"Sure, it's illegal, but it's not exactly anything *extraordinary* in business. Besides, Slipstream is history now. All their remaining assets got seized by the bailiffs in '47. I have no idea why those skis and blades are still lying around."	“当然，这是违法的，但在商界，这算不上是很*离奇*的事情。再说，现在气流已经成为历史。所有剩下来的资产都在47年被法警查封了。我不知道为什么房间里还留着那些滑雪板和动叶片。”
+0x010000570000C2B3	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"Sure, it's illegal, but it's not exactly anything *extraordinary* in business. Besides, Slipstream is history now. All their remaining assets got seized by the bailiffs in '47. I have no idea why those skis and blades are still lying around."	“当然，这是违法的，但在商界，这算不上是很*离奇*的事情。再说，现在气流已经成为历史。所有剩下来的资产都在47年被法警查封了。我不知道为什么房间里还留着那些滑雪板和冰刀鞋。”
 0x010000570000C317	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"And you know how all kinds of political movements are *big* in the Occident. The activists shut down the biggest chitin suppliers, which of course caused the price to skyrocket."	“你也知道，奥西登国家的各种政治运动都会搞得很*大*。活动家们关闭了最大的甲壳素供应商，自然就导致价格一路猛涨。”
 0x010000570000C441	Dialogue Text	DOOMED / DICEMAKER	You	"They had some kind of an accident with the backup copy, right?"	“他们的备份拷贝好像出事故了，对吗？”
 0x010000570000C448	Dialogue Text	DOOMED / DICEMAKER	Novelty Dicemaker	"An accident? I wouldn't know anything about that. I just heard they ran out of money and couldn't get the project done on time."	“事故？这我就不知道了。我只听说他们没钱了，没办法按时完成项目。”
